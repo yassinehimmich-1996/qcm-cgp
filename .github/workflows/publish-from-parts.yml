@@ -1,0 +1,56 @@
+name: Publier le projet QCM
+
+on:
+  push:
+    paths:
+      - ".publish/archive.part.*"
+      - ".github/workflows/publish-from-parts.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: qcm-publication
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reconstituer le projet
+        shell: bash
+        run: |
+          cat .publish/archive.part.* | base64 --decode > /tmp/qcm-cgp.tar.gz
+          tar -xzf /tmp/qcm-cgp.tar.gz
+
+      - name: Generer la banque complete
+        shell: bash
+        run: |
+          node scripts/generate_training_bank.mjs
+          mkdir -p app/data
+          node --input-type=module <<'NODE'
+          import fs from "node:fs";
+          const files = fs.readdirSync("questions").filter((name) => /^lot-\d{3}\.json$/.test(name)).sort();
+          const questions = files.flatMap((name) => JSON.parse(fs.readFileSync(`questions/${name}`, "utf8")));
+          fs.writeFileSync("app/data/questions.json", `${JSON.stringify(questions, null, 2)}\n`);
+          console.log(`Application assemblee : ${questions.length} questions.`);
+          NODE
+
+      - name: Valider la publication
+        run: npm run check
+
+      - name: Finaliser le depot
+        shell: bash
+        run: |
+          rm -rf .publish
+          rm -f .github/workflows/publish-qcm.yml
+          rm -f .github/workflows/publish-from-parts.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Publier l'application et les 1 000 QCM" || exit 0
+          git push
