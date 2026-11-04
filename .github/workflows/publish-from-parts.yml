@@ -47,8 +47,6 @@ jobs:
         shell: bash
         run: |
           rm -rf .publish
-          rm -f .github/workflows/publish-qcm.yml
-          rm -f .github/workflows/publish-from-parts.yml
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
