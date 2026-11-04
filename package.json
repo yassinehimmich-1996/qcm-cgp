@@ -1,0 +1,9 @@
+{
+  "name": "qcm-cgp-france",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "check": "node --check assets/app.js && python3 scripts/validate_questions.py"
+  }
+}

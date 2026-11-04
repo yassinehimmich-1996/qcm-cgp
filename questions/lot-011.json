@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "CGP-2026-0501",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "Livret A",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son plafond de versements pour un particulier de le Livret A ?",
+    "choix": {
+      "A": "Aucun plafond n'existe.",
+      "B": "Le plafond réglementaire des versements est de 22 950 euros, hors capitalisation des intérêts.",
+      "C": "Le plafond est de 12 000 euros.",
+      "D": "Le plafond est de 150 000 euros."
+    },
+    "bonne_reponse": "B",
+    "explication": "Le plafond réglementaire des versements est de 22 950 euros, hors capitalisation des intérêts. Cette règle constitue le repère théorique à retenir concernant le Livret A et son plafond de versements pour un particulier.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le Livret A pour son plafond de versements pour un particulier.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le Livret A pour son plafond de versements pour un particulier.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le Livret A pour son plafond de versements pour un particulier."
+    },
+    "sources": [
+      "S037"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0502",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "Livret A",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur leur fiscalité de les intérêts du Livret A ?",
+    "choix": {
+      "A": "Ils sont exonérés d'impôt sur le revenu et de prélèvements sociaux.",
+      "B": "Ils sont toujours soumis au PFU.",
+      "C": "Ils sont taxés comme des salaires.",
+      "D": "Ils sont imposés uniquement au-delà de huit ans."
+    },
+    "bonne_reponse": "A",
+    "explication": "Ils sont exonérés d'impôt sur le revenu et de prélèvements sociaux. Cette règle constitue le repère théorique à retenir concernant les intérêts du Livret A et leur fiscalité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les intérêts du Livret A pour leur fiscalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les intérêts du Livret A pour leur fiscalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les intérêts du Livret A pour leur fiscalité."
+    },
+    "sources": [
+      "S037"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0503",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "LDDS",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son plafond de versements de le LDDS ?",
+    "choix": {
+      "A": "Le plafond est de 22 950 euros.",
+      "B": "Le plafond est de 1 600 euros.",
+      "C": "Le plafond dépend du cours des actions.",
+      "D": "Le plafond réglementaire des versements est de 12 000 euros, hors intérêts capitalisés."
+    },
+    "bonne_reponse": "D",
+    "explication": "Le plafond réglementaire des versements est de 12 000 euros, hors intérêts capitalisés. Cette règle constitue le repère théorique à retenir concernant le LDDS et son plafond de versements.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le LDDS pour son plafond de versements.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le LDDS pour son plafond de versements.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le LDDS pour son plafond de versements."
+    },
+    "sources": [
+      "S040"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0504",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "LEP",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur ses conditions de détention de le LEP ?",
+    "choix": {
+      "A": "Il est réservé aux sociétés cotées.",
+      "B": "Il impose l'achat d'actions.",
+      "C": "Il est réservé aux personnes fiscalement domiciliées en France respectant des conditions de revenus.",
+      "D": "Il est ouvert sans condition dans le monde entier."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il est réservé aux personnes fiscalement domiciliées en France respectant des conditions de revenus. Cette règle constitue le repère théorique à retenir concernant le LEP et ses conditions de détention.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le LEP pour ses conditions de détention.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le LEP pour ses conditions de détention.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le LEP pour ses conditions de détention."
+    },
+    "sources": [
+      "S041"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0505",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "Livret jeune",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur l'âge du titulaire de le Livret jeune ?",
+    "choix": {
+      "A": "Il est sans condition d'âge.",
+      "B": "Il est destiné aux personnes âgées de douze à vingt-cinq ans sous les conditions prévues.",
+      "C": "Il est réservé aux plus de soixante-dix ans.",
+      "D": "Il n'est accessible qu'aux entreprises."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il est destiné aux personnes âgées de douze à vingt-cinq ans sous les conditions prévues. Cette règle constitue le repère théorique à retenir concernant le Livret jeune et l'âge du titulaire.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le Livret jeune pour l'âge du titulaire.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le Livret jeune pour l'âge du titulaire.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le Livret jeune pour l'âge du titulaire."
+    },
+    "sources": [
+      "S050"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0506",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "PEL",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur l'unicité de le PEL ?",
+    "choix": {
+      "A": "Une personne ne peut détenir qu'un seul PEL à la fois.",
+      "B": "Une personne peut en ouvrir un nombre illimité.",
+      "C": "Il faut détenir deux PEL.",
+      "D": "Le PEL est nécessairement joint."
+    },
+    "bonne_reponse": "A",
+    "explication": "Une personne ne peut détenir qu'un seul PEL à la fois. Cette règle constitue le repère théorique à retenir concernant le PEL et l'unicité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le PEL pour l'unicité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le PEL pour l'unicité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le PEL pour l'unicité."
+    },
+    "sources": [
+      "S051"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0507",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "PEL",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur la durée minimale d'épargne ouvrant normalement les droits complets de le PEL ?",
+    "choix": {
+      "A": "Il doit être clôturé après un mois.",
+      "B": "Il ne peut jamais durer plus d'un an.",
+      "C": "Il est dépourvu de toute durée.",
+      "D": "Le PEL est conçu autour d'une phase d'épargne d'au moins quatre ans pour bénéficier pleinement de sa logique de prêt."
+    },
+    "bonne_reponse": "D",
+    "explication": "Le PEL est conçu autour d'une phase d'épargne d'au moins quatre ans pour bénéficier pleinement de sa logique de prêt. Cette règle constitue le repère théorique à retenir concernant le PEL et la durée minimale d'épargne ouvrant normalement les droits complets.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le PEL pour la durée minimale d'épargne ouvrant normalement les droits complets.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le PEL pour la durée minimale d'épargne ouvrant normalement les droits complets.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le PEL pour la durée minimale d'épargne ouvrant normalement les droits complets."
+    },
+    "sources": [
+      "S051"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0508",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "Compte à terme",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur la disponibilité de un compte à terme ?",
+    "choix": {
+      "A": "Il s'agit d'un compte de paiement quotidien.",
+      "B": "Il ne peut produire aucun intérêt.",
+      "C": "Les fonds sont placés pour une durée convenue et un retrait anticipé peut entraîner des pénalités ou une rémunération réduite.",
+      "D": "Les fonds sont toujours disponibles sans conséquence."
+    },
+    "bonne_reponse": "C",
+    "explication": "Les fonds sont placés pour une durée convenue et un retrait anticipé peut entraîner des pénalités ou une rémunération réduite. Cette règle constitue le repère théorique à retenir concernant un compte à terme et la disponibilité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un compte à terme pour la disponibilité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un compte à terme pour la disponibilité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un compte à terme pour la disponibilité."
+    },
+    "sources": [
+      "S052"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0509",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "Garantie des dépôts",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son plafond général de la garantie des dépôts ?",
+    "choix": {
+      "A": "Elle est fixée à 1 000 euros.",
+      "B": "Elle couvre en principe jusqu'à 100 000 euros par déposant et par établissement, sous les conditions du dispositif.",
+      "C": "Elle est illimitée pour tout actif financier.",
+      "D": "Elle couvre toutes les pertes boursières."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle couvre en principe jusqu'à 100 000 euros par déposant et par établissement, sous les conditions du dispositif. Cette règle constitue le repère théorique à retenir concernant la garantie des dépôts et son plafond général.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la garantie des dépôts pour son plafond général.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la garantie des dépôts pour son plafond général.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la garantie des dépôts pour son plafond général."
+    },
+    "sources": [
+      "S053"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0510",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "Intérêts",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur son application de la règle des quinzaines ?",
+    "choix": {
+      "A": "Certains livrets réglementés calculent les intérêts par quinzaine selon les dates de versement et de retrait.",
+      "B": "Tous les placements financiers sont valorisés uniquement une fois par an.",
+      "C": "Elle s'applique au cours des actions.",
+      "D": "Elle interdit les retraits."
+    },
+    "bonne_reponse": "A",
+    "explication": "Certains livrets réglementés calculent les intérêts par quinzaine selon les dates de versement et de retrait. Cette règle constitue le repère théorique à retenir concernant la règle des quinzaines et son application.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la règle des quinzaines pour son application.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la règle des quinzaines pour son application.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la règle des quinzaines pour son application."
+    },
+    "sources": [
+      "S037"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0511",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Actions",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur le droit représenté de une action ?",
+    "choix": {
+      "A": "Elle constitue toujours une créance remboursable à date fixe.",
+      "B": "Elle est un dépôt garanti par l'État.",
+      "C": "Elle verse obligatoirement un intérêt fixe.",
+      "D": "Elle représente une fraction du capital d'une société et expose notamment au risque de perte en capital."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle représente une fraction du capital d'une société et expose notamment au risque de perte en capital. Cette règle constitue le repère théorique à retenir concernant une action et le droit représenté.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une action pour le droit représenté.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une action pour le droit représenté.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une action pour le droit représenté."
+    },
+    "sources": [
+      "S054"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0512",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Actions",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa nature de un dividende ?",
+    "choix": {
+      "A": "Il est fixé par la Banque centrale européenne.",
+      "B": "Il est identique au coupon d'une obligation d'État dans tous les cas.",
+      "C": "Il correspond à une distribution décidée par la société et n'est pas garanti.",
+      "D": "Il est un remboursement obligatoire du prix d'achat."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il correspond à une distribution décidée par la société et n'est pas garanti. Cette règle constitue le repère théorique à retenir concernant un dividende et sa nature.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un dividende pour sa nature.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un dividende pour sa nature.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un dividende pour sa nature."
+    },
+    "sources": [
+      "S054"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0513",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Obligations",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur sa nature de une obligation ?",
+    "choix": {
+      "A": "Elle ne comporte aucun risque de crédit.",
+      "B": "Elle représente une créance sur un émetteur, assortie de conditions de rémunération et de remboursement.",
+      "C": "Elle donne toujours un droit de vote d'actionnaire.",
+      "D": "Elle est un livret réglementé."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle représente une créance sur un émetteur, assortie de conditions de rémunération et de remboursement. Cette règle constitue le repère théorique à retenir concernant une obligation et sa nature.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une obligation pour sa nature.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une obligation pour sa nature.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une obligation pour sa nature."
+    },
+    "sources": [
+      "S032"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0514",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Obligations",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur son effet général sur une obligation à taux fixe existante de la hausse des taux de marché ?",
+    "choix": {
+      "A": "Elle tend à faire baisser le cours de l'obligation à taux fixe, toutes choses égales par ailleurs.",
+      "B": "Elle fait toujours monter son cours.",
+      "C": "Elle supprime le risque émetteur.",
+      "D": "Elle transforme l'obligation en action."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle tend à faire baisser le cours de l'obligation à taux fixe, toutes choses égales par ailleurs. Cette règle constitue le repère théorique à retenir concernant la hausse des taux de marché et son effet général sur une obligation à taux fixe existante.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la hausse des taux de marché pour son effet général sur une obligation à taux fixe existante.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la hausse des taux de marché pour son effet général sur une obligation à taux fixe existante.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la hausse des taux de marché pour son effet général sur une obligation à taux fixe existante."
+    },
+    "sources": [
+      "S032"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0515",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Obligations",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa définition de le risque de crédit ?",
+    "choix": {
+      "A": "Il mesure uniquement la volatilité d'une devise.",
+      "B": "Il est inexistant pour toute obligation.",
+      "C": "Il correspond aux frais d'entrée.",
+      "D": "Il correspond au risque que l'émetteur ne respecte pas tout ou partie de ses engagements."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il correspond au risque que l'émetteur ne respecte pas tout ou partie de ses engagements. Cette règle constitue le repère théorique à retenir concernant le risque de crédit et sa définition.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le risque de crédit pour sa définition.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le risque de crédit pour sa définition.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le risque de crédit pour sa définition."
+    },
+    "sources": [
+      "S032"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0516",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Rendement",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur sa portée de le rendement passé ?",
+    "choix": {
+      "A": "Il rend inutile toute diversification.",
+      "B": "Il supprime la possibilité de perte.",
+      "C": "Il ne préjuge pas des performances futures et doit être replacé dans le niveau de risque pris.",
+      "D": "Il garantit le rendement futur."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il ne préjuge pas des performances futures et doit être replacé dans le niveau de risque pris. Cette règle constitue le repère théorique à retenir concernant le rendement passé et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le rendement passé pour sa portée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le rendement passé pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le rendement passé pour sa portée."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0517",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Volatilité",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa signification de la volatilité ?",
+    "choix": {
+      "A": "Elle mesure uniquement les frais de tenue de compte.",
+      "B": "Elle mesure l'amplitude des variations d'un actif autour de son évolution moyenne sur une période.",
+      "C": "Elle garantit le capital.",
+      "D": "Elle correspond au coupon certain."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle mesure l'amplitude des variations d'un actif autour de son évolution moyenne sur une période. Cette règle constitue le repère théorique à retenir concernant la volatilité et sa signification.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la volatilité pour sa signification.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la volatilité pour sa signification.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la volatilité pour sa signification."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0518",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Liquidité",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa signification de la liquidité d'un placement ?",
+    "choix": {
+      "A": "Elle traduit la possibilité de vendre ou récupérer les fonds rapidement sans forte décote.",
+      "B": "Elle désigne toujours une garantie en capital.",
+      "C": "Elle mesure la fiscalité.",
+      "D": "Elle est identique à la rentabilité."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle traduit la possibilité de vendre ou récupérer les fonds rapidement sans forte décote. Cette règle constitue le repère théorique à retenir concernant la liquidité d'un placement et sa signification.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la liquidité d'un placement pour sa signification.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la liquidité d'un placement pour sa signification.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la liquidité d'un placement pour sa signification."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0519",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Diversification",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son effet de la diversification ?",
+    "choix": {
+      "A": "Elle garantit un gain.",
+      "B": "Elle impose un actif unique.",
+      "C": "Elle augmente nécessairement chaque risque individuel.",
+      "D": "Elle réduit la concentration des risques mais n'élimine pas tous les risques de marché."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle réduit la concentration des risques mais n'élimine pas tous les risques de marché. Cette règle constitue le repère théorique à retenir concernant la diversification et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet."
+    },
+    "sources": [
+      "S056"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0520",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Horizon",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son rôle de l'horizon de placement ?",
+    "choix": {
+      "A": "Il dépend seulement de l'âge du conseiller.",
+      "B": "Il garantit la performance.",
+      "C": "Il doit être cohérent avec la durée recommandée et la capacité à supporter les fluctuations.",
+      "D": "Il n'a aucun lien avec le choix du produit."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il doit être cohérent avec la durée recommandée et la capacité à supporter les fluctuations. Cette règle constitue le repère théorique à retenir concernant l'horizon de placement et son rôle.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'horizon de placement pour son rôle.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'horizon de placement pour son rôle.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'horizon de placement pour son rôle."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0521",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur son principe de un organisme de placement collectif ?",
+    "choix": {
+      "A": "Il ne peut détenir aucun titre financier.",
+      "B": "Il regroupe l'épargne de plusieurs investisseurs dans un portefeuille géré selon une stratégie définie.",
+      "C": "Il est toujours un compte bancaire individuel.",
+      "D": "Il garantit nécessairement le capital."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il regroupe l'épargne de plusieurs investisseurs dans un portefeuille géré selon une stratégie définie. Cette règle constitue le repère théorique à retenir concernant un organisme de placement collectif et son principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0522",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa forme de une SICAV ?",
+    "choix": {
+      "A": "Une SICAV est une société d'investissement à capital variable émettant des actions.",
+      "B": "Une SICAV est toujours un prêt immobilier.",
+      "C": "Une SICAV est un livret défiscalisé.",
+      "D": "Une SICAV ne peut avoir aucune personnalité morale."
+    },
+    "bonne_reponse": "A",
+    "explication": "Une SICAV est une société d'investissement à capital variable émettant des actions. Cette règle constitue le repère théorique à retenir concernant une SICAV et sa forme.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à une SICAV pour sa forme.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une SICAV pour sa forme.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une SICAV pour sa forme."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0523",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa forme de un FCP ?",
+    "choix": {
+      "A": "Il s'agit d'une société cotée obligatoire.",
+      "B": "Il est un compte de dépôt.",
+      "C": "Il garantit un taux réglementé.",
+      "D": "Un fonds commun de placement est une copropriété de valeurs mobilières sans personnalité morale."
+    },
+    "bonne_reponse": "D",
+    "explication": "Un fonds commun de placement est une copropriété de valeurs mobilières sans personnalité morale. Cette règle constitue le repère théorique à retenir concernant un FCP et sa forme.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un FCP pour sa forme.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un FCP pour sa forme.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un FCP pour sa forme."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0524",
+    "domaine": "Placements financiers",
+    "sous_domaine": "ETF",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son objectif habituel de un ETF ?",
+    "choix": {
+      "A": "Il est sans risque de marché.",
+      "B": "Il ne peut être coté.",
+      "C": "Il cherche généralement à répliquer l'évolution d'un indice, à la hausse comme à la baisse selon sa stratégie.",
+      "D": "Il garantit toujours de battre l'indice."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il cherche généralement à répliquer l'évolution d'un indice, à la hausse comme à la baisse selon sa stratégie. Cette règle constitue le repère théorique à retenir concernant un ETF et son objectif habituel.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un ETF pour son objectif habituel.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un ETF pour son objectif habituel.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un ETF pour son objectif habituel."
+    },
+    "sources": [
+      "S033"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0525",
+    "domaine": "Placements financiers",
+    "sous_domaine": "ETF",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur le risque de change de un ETF exposé en devise étrangère ?",
+    "choix": {
+      "A": "Le risque de change remplace tous les autres risques.",
+      "B": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert.",
+      "C": "Le change n'a jamais aucun effet.",
+      "D": "La devise garantit le capital."
+    },
+    "bonne_reponse": "B",
+    "explication": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert. Cette règle constitue le repère théorique à retenir concernant un ETF exposé en devise étrangère et le risque de change.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change."
+    },
+    "sources": [
+      "S033"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0526",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Produits structurés",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur la formule de remboursement de un produit structuré ?",
+    "choix": {
+      "A": "Elle dépend de conditions définies à l'avance et liées à un ou plusieurs sous-jacents.",
+      "B": "Elle est toujours égale au Livret A.",
+      "C": "Elle est fixée après l'échéance sans règle préalable.",
+      "D": "Elle garantit nécessairement un gain illimité."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle dépend de conditions définies à l'avance et liées à un ou plusieurs sous-jacents. Cette règle constitue le repère théorique à retenir concernant un produit structuré et la formule de remboursement.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un produit structuré pour la formule de remboursement.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un produit structuré pour la formule de remboursement.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un produit structuré pour la formule de remboursement."
+    },
+    "sources": [
+      "S035"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0527",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Produits structurés",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur sa portée de la protection du capital à l'échéance ?",
+    "choix": {
+      "A": "Elle protège contre tout risque avant l'échéance.",
+      "B": "Elle rend l'émetteur sans importance.",
+      "C": "Elle s'applique à tout produit structuré sans exception.",
+      "D": "Elle ne vaut que dans les conditions prévues et reste exposée notamment au risque de défaut de l'émetteur."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle ne vaut que dans les conditions prévues et reste exposée notamment au risque de défaut de l'émetteur. Cette règle constitue le repère théorique à retenir concernant la protection du capital à l'échéance et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée."
+    },
+    "sources": [
+      "S035"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0528",
+    "domaine": "Placements immobiliers",
+    "sous_domaine": "SCPI",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur le capital de une SCPI ?",
+    "choix": {
+      "A": "Le rendement est fixé par la BCE.",
+      "B": "La valeur ne peut jamais baisser.",
+      "C": "Le capital investi et le rendement ne sont pas garantis.",
+      "D": "Le capital est garanti par l'État."
+    },
+    "bonne_reponse": "C",
+    "explication": "Le capital investi et le rendement ne sont pas garantis. Cette règle constitue le repère théorique à retenir concernant une SCPI et le capital.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une SCPI pour le capital.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une SCPI pour le capital.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une SCPI pour le capital."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0529",
+    "domaine": "Placements immobiliers",
+    "sous_domaine": "SCPI",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur la liquidité de les parts de SCPI ?",
+    "choix": {
+      "A": "Elles ne peuvent jamais être cédées.",
+      "B": "La revente peut prendre du temps et dépend de l'existence d'une contrepartie ou des modalités du fonds.",
+      "C": "La liquidité est instantanée et garantie.",
+      "D": "Elles sont remboursées à vue par la Banque de France."
+    },
+    "bonne_reponse": "B",
+    "explication": "La revente peut prendre du temps et dépend de l'existence d'une contrepartie ou des modalités du fonds. Cette règle constitue le repère théorique à retenir concernant les parts de SCPI et la liquidité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les parts de SCPI pour la liquidité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les parts de SCPI pour la liquidité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les parts de SCPI pour la liquidité."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0530",
+    "domaine": "Placements immobiliers",
+    "sous_domaine": "SCPI",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur leur variabilité de les revenus d'une SCPI ?",
+    "choix": {
+      "A": "Les distributions dépendent notamment des loyers encaissés, des charges et de la gestion du patrimoine.",
+      "B": "Elles sont fixes par la loi.",
+      "C": "Elles ne dépendent jamais de l'occupation des immeubles.",
+      "D": "Elles constituent un intérêt réglementé."
+    },
+    "bonne_reponse": "A",
+    "explication": "Les distributions dépendent notamment des loyers encaissés, des charges et de la gestion du patrimoine. Cette règle constitue le repère théorique à retenir concernant les revenus d'une SCPI et leur variabilité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les revenus d'une SCPI pour leur variabilité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les revenus d'une SCPI pour leur variabilité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les revenus d'une SCPI pour leur variabilité."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0531",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur le plafond de versements de le PEA bancaire classique ?",
+    "choix": {
+      "A": "Le plafond est de 22 950 euros.",
+      "B": "Le plafond est de 12 000 euros.",
+      "C": "Les versements sont sans plafond.",
+      "D": "Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan."
+    },
+    "bonne_reponse": "D",
+    "explication": "Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan. Cette règle constitue le repère théorique à retenir concernant le PEA bancaire classique et le plafond de versements.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0532",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur le domicile fiscal de l'ouverture d'un PEA ?",
+    "choix": {
+      "A": "Elle exige un domicile fiscal hors de France.",
+      "B": "Elle ne comporte aucune condition de résidence fiscale.",
+      "C": "L'ouverture est réservée aux personnes fiscalement domiciliées en France, sous les règles applicables.",
+      "D": "Elle est réservée aux sociétés."
+    },
+    "bonne_reponse": "C",
+    "explication": "L'ouverture est réservée aux personnes fiscalement domiciliées en France, sous les règles applicables. Cette règle constitue le repère théorique à retenir concernant l'ouverture d'un PEA et le domicile fiscal.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'ouverture d'un PEA pour le domicile fiscal.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'ouverture d'un PEA pour le domicile fiscal.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'ouverture d'un PEA pour le domicile fiscal."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0533",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur l'effet sur le plan de un retrait après cinq ans ?",
+    "choix": {
+      "A": "Il transforme le plan en Livret A.",
+      "B": "Il n'entraîne en principe plus la clôture et de nouveaux versements peuvent rester possibles.",
+      "C": "Il clôture toujours le plan immédiatement.",
+      "D": "Il rend tous les gains imposables comme des salaires."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il n'entraîne en principe plus la clôture et de nouveaux versements peuvent rester possibles. Cette règle constitue le repère théorique à retenir concernant un retrait après cinq ans et l'effet sur le plan.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0534",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur l'impôt sur le revenu de les gains d'un PEA après cinq ans ?",
+    "choix": {
+      "A": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables.",
+      "B": "Ils sont toujours exonérés de tous prélèvements.",
+      "C": "Ils sont toujours soumis au barème sans exonération.",
+      "D": "Ils deviennent des revenus fonciers."
+    },
+    "bonne_reponse": "A",
+    "explication": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables. Cette règle constitue le repère théorique à retenir concernant les gains d'un PEA après cinq ans et l'impôt sur le revenu.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les gains d'un PEA après cinq ans pour l'impôt sur le revenu.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les gains d'un PEA après cinq ans pour l'impôt sur le revenu.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les gains d'un PEA après cinq ans pour l'impôt sur le revenu."
+    },
+    "sources": [
+      "S030"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0535",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur leur périmètre de les titres éligibles au PEA ?",
+    "choix": {
+      "A": "Tous les actifs mondiaux y sont éligibles sans condition.",
+      "B": "Seuls les livrets bancaires y sont admis.",
+      "C": "Aucune action ne peut être détenue.",
+      "D": "L'enveloppe vise principalement les actions européennes et certains fonds respectant les critères d'éligibilité."
+    },
+    "bonne_reponse": "D",
+    "explication": "L'enveloppe vise principalement les actions européennes et certains fonds respectant les critères d'éligibilité. Cette règle constitue le repère théorique à retenir concernant les titres éligibles au PEA et leur périmètre.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les titres éligibles au PEA pour leur périmètre.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les titres éligibles au PEA pour leur périmètre.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les titres éligibles au PEA pour leur périmètre."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0536",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur son univers d'investissement de le compte-titres ordinaire ?",
+    "choix": {
+      "A": "Il garantit le capital.",
+      "B": "Il est réservé aux mineurs émancipés.",
+      "C": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables.",
+      "D": "Il est limité aux seuls titres éligibles au PEA."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables. Cette règle constitue le repère théorique à retenir concernant le compte-titres ordinaire et son univers d'investissement.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement."
+    },
+    "sources": [
+      "S057"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0537",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son plafond de versements de le compte-titres ordinaire ?",
+    "choix": {
+      "A": "Son plafond est toujours égal au revenu annuel.",
+      "B": "Il ne comporte pas de plafond réglementaire général de versements comparable à celui du PEA.",
+      "C": "Son plafond est de 150 000 euros.",
+      "D": "Son plafond est de 22 950 euros."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il ne comporte pas de plafond réglementaire général de versements comparable à celui du PEA. Cette règle constitue le repère théorique à retenir concernant le compte-titres ordinaire et son plafond de versements.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son plafond de versements.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son plafond de versements.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son plafond de versements."
+    },
+    "sources": [
+      "S057"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0538",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur leur fiscalité de les revenus et plus-values du compte-titres ?",
+    "choix": {
+      "A": "Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe.",
+      "B": "Ils sont toujours exonérés après cinq ans.",
+      "C": "Ils sont traités comme des intérêts de Livret A.",
+      "D": "Ils ne sont jamais déclarables."
+    },
+    "bonne_reponse": "A",
+    "explication": "Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe. Cette règle constitue le repère théorique à retenir concernant les revenus et plus-values du compte-titres et leur fiscalité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0539",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Contrat de capitalisation",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur la personne assurée de le contrat de capitalisation ?",
+    "choix": {
+      "A": "Il impose toujours un bénéficiaire décès.",
+      "B": "Il est un compte de dépôt à vue.",
+      "C": "Il ne peut être transmis.",
+      "D": "Il repose sur une logique de capitalisation et ne se dénoue pas par le décès d'un assuré comme l'assurance-vie."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il repose sur une logique de capitalisation et ne se dénoue pas par le décès d'un assuré comme l'assurance-vie. Cette règle constitue le repère théorique à retenir concernant le contrat de capitalisation et la personne assurée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le contrat de capitalisation pour la personne assurée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le contrat de capitalisation pour la personne assurée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le contrat de capitalisation pour la personne assurée."
+    },
+    "sources": [
+      "S058"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0540",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Contrat de capitalisation",
+    "difficulte": "expert",
+    "enonce": "Quelle affirmation théorique est exacte sur son principe de la transmission d'un contrat de capitalisation ?",
+    "choix": {
+      "A": "Il est automatiquement versé hors succession à un bénéficiaire.",
+      "B": "Il est incessible dans toutes les situations.",
+      "C": "Le contrat peut faire partie du patrimoine transmis et conserver son enveloppe selon les règles applicables.",
+      "D": "Il disparaît toujours au décès."
+    },
+    "bonne_reponse": "C",
+    "explication": "Le contrat peut faire partie du patrimoine transmis et conserver son enveloppe selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant la transmission d'un contrat de capitalisation et son principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe."
+    },
+    "sources": [
+      "S058"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0541",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur son objectif de le PER individuel ?",
+    "choix": {
+      "A": "Il garantit un rendement réglementé.",
+      "B": "Il vise la constitution d'une épargne de long terme principalement destinée à la retraite.",
+      "C": "Il sert uniquement aux paiements quotidiens.",
+      "D": "Il remplace le compte courant."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il vise la constitution d'une épargne de long terme principalement destinée à la retraite. Cette règle constitue le repère théorique à retenir concernant le PER individuel et son objectif.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le PER individuel pour son objectif.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le PER individuel pour son objectif.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le PER individuel pour son objectif."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0542",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur leur effet fiscal à l'entrée de les versements volontaires déductibles ?",
+    "choix": {
+      "A": "Ils peuvent réduire le revenu imposable dans la limite du plafond de déduction disponible.",
+      "B": "Ils sont toujours sans effet fiscal.",
+      "C": "Ils ouvrent un crédit d'impôt illimité.",
+      "D": "Ils suppriment les prélèvements sociaux futurs."
+    },
+    "bonne_reponse": "A",
+    "explication": "Ils peuvent réduire le revenu imposable dans la limite du plafond de déduction disponible. Cette règle constitue le repère théorique à retenir concernant les versements volontaires déductibles et leur effet fiscal à l'entrée.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les versements volontaires déductibles pour leur effet fiscal à l'entrée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les versements volontaires déductibles pour leur effet fiscal à l'entrée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les versements volontaires déductibles pour leur effet fiscal à l'entrée."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0543",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur son caractère de la déduction des versements volontaires ?",
+    "choix": {
+      "A": "Elle est toujours obligatoire.",
+      "B": "Elle rend toute sortie exonérée.",
+      "C": "Elle dépend du cours du CAC 40.",
+      "D": "Elle constitue une option fiscale et doit être appréciée au regard de la fiscalité à l'entrée et à la sortie."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle constitue une option fiscale et doit être appréciée au regard de la fiscalité à l'entrée et à la sortie. Cette règle constitue le repère théorique à retenir concernant la déduction des versements volontaires et son caractère.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la déduction des versements volontaires pour son caractère.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la déduction des versements volontaires pour son caractère.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la déduction des versements volontaires pour son caractère."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0544",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur le déblocage anticipé de l'acquisition de la résidence principale ?",
+    "choix": {
+      "A": "Elle permet uniquement une sortie en rente.",
+      "B": "Elle transforme le PER en PEA.",
+      "C": "Elle constitue un cas de déblocage anticipé de l'épargne, sous les règles applicables.",
+      "D": "Elle n'est jamais admise."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle constitue un cas de déblocage anticipé de l'épargne, sous les règles applicables. Cette règle constitue le repère théorique à retenir concernant l'acquisition de la résidence principale et le déblocage anticipé.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'acquisition de la résidence principale pour le déblocage anticipé.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'acquisition de la résidence principale pour le déblocage anticipé.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'acquisition de la résidence principale pour le déblocage anticipé."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0545",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur le déblocage anticipé de les accidents de la vie prévus par la loi ?",
+    "choix": {
+      "A": "Ils concernent uniquement le Livret A.",
+      "B": "Ils peuvent permettre une sortie anticipée avant la retraite dans les cas limitativement prévus.",
+      "C": "Ils n'ont jamais d'effet.",
+      "D": "Ils autorisent un retrait mensuel libre sans condition."
+    },
+    "bonne_reponse": "B",
+    "explication": "Ils peuvent permettre une sortie anticipée avant la retraite dans les cas limitativement prévus. Cette règle constitue le repère théorique à retenir concernant les accidents de la vie prévus par la loi et le déblocage anticipé.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les accidents de la vie prévus par la loi pour le déblocage anticipé.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les accidents de la vie prévus par la loi pour le déblocage anticipé.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les accidents de la vie prévus par la loi pour le déblocage anticipé."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0546",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur la sortie à la retraite de l'épargne issue de versements volontaires ?",
+    "choix": {
+      "A": "Elle peut en principe être liquidée en capital, en rente ou en combinant les deux, selon les règles du compartiment.",
+      "B": "Elle ne peut sortir qu'en actions.",
+      "C": "Elle est toujours versée uniquement en rente.",
+      "D": "Elle doit être donnée à l'assureur."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle peut en principe être liquidée en capital, en rente ou en combinant les deux, selon les règles du compartiment. Cette règle constitue le repère théorique à retenir concernant l'épargne issue de versements volontaires et la sortie à la retraite.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de versements volontaires pour la sortie à la retraite.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de versements volontaires pour la sortie à la retraite.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de versements volontaires pour la sortie à la retraite."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0547",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur la sortie de l'épargne issue de cotisations obligatoires ?",
+    "choix": {
+      "A": "Elle sort toujours librement en capital.",
+      "B": "Elle devient un dépôt à vue.",
+      "C": "Elle est exonérée de toute règle de blocage.",
+      "D": "Elle est en principe orientée vers une sortie en rente, hors exceptions légales."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle est en principe orientée vers une sortie en rente, hors exceptions légales. Cette règle constitue le repère théorique à retenir concernant l'épargne issue de cotisations obligatoires et la sortie.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de cotisations obligatoires pour la sortie.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de cotisations obligatoires pour la sortie.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de cotisations obligatoires pour la sortie."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0548",
+    "domaine": "Retraite",
+    "sous_domaine": "Gestion pilotée",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son principe de la gestion pilotée à horizon du PER ?",
+    "choix": {
+      "A": "Elle garantit la performance.",
+      "B": "Elle interdit tout support prudent.",
+      "C": "Elle réduit généralement progressivement l'exposition aux actifs risqués à l'approche de l'échéance.",
+      "D": "Elle augmente toujours le risque à l'approche de la retraite."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle réduit généralement progressivement l'exposition aux actifs risqués à l'approche de l'échéance. Cette règle constitue le repère théorique à retenir concernant la gestion pilotée à horizon du PER et son principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la gestion pilotée à horizon du PER pour son principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la gestion pilotée à horizon du PER pour son principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la gestion pilotée à horizon du PER pour son principe."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0549",
+    "domaine": "Épargne salariale",
+    "sous_domaine": "PEE",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur la durée d'indisponibilité de principe de le plan d'épargne entreprise ?",
+    "choix": {
+      "A": "Elles ne peuvent recevoir aucun abondement.",
+      "B": "Les sommes sont en principe indisponibles pendant cinq ans, sauf cas de déblocage anticipé.",
+      "C": "Elles sont bloquées toute la vie.",
+      "D": "Elles sont toujours disponibles le lendemain."
+    },
+    "bonne_reponse": "B",
+    "explication": "Les sommes sont en principe indisponibles pendant cinq ans, sauf cas de déblocage anticipé. Cette règle constitue le repère théorique à retenir concernant le plan d'épargne entreprise et la durée d'indisponibilité de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le plan d'épargne entreprise pour la durée d'indisponibilité de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le plan d'épargne entreprise pour la durée d'indisponibilité de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le plan d'épargne entreprise pour la durée d'indisponibilité de principe."
+    },
+    "sources": [
+      "S059"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0550",
+    "domaine": "Épargne salariale",
+    "sous_domaine": "Abondement",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur sa nature de l'abondement de l'employeur ?",
+    "choix": {
+      "A": "Il complète l'épargne du salarié dans les limites et conditions du dispositif.",
+      "B": "Il constitue un crédit remboursable à la banque.",
+      "C": "Il remplace le salaire obligatoire.",
+      "D": "Il est versé uniquement à l'État."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il complète l'épargne du salarié dans les limites et conditions du dispositif. Cette règle constitue le repère théorique à retenir concernant l'abondement de l'employeur et sa nature.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à l'abondement de l'employeur pour sa nature.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'abondement de l'employeur pour sa nature.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'abondement de l'employeur pour sa nature."
+    },
+    "sources": [
+      "S059"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  }
+]

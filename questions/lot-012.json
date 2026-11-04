@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "CGP-2026-0551",
+    "domaine": "Fiscalité",
+    "sous_domaine": "PFU",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa composition de principe de le prélèvement forfaitaire unique ?",
+    "choix": {
+      "A": "Il est composé uniquement de TVA.",
+      "B": "Il ne concerne jamais les revenus mobiliers.",
+      "C": "Il correspond à un abattement successoral.",
+      "D": "Il associe une composante d'impôt sur le revenu et des prélèvements sociaux au taux applicable."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il associe une composante d'impôt sur le revenu et des prélèvements sociaux au taux applicable. Cette règle constitue le repère théorique à retenir concernant le prélèvement forfaitaire unique et sa composition de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le prélèvement forfaitaire unique pour sa composition de principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le prélèvement forfaitaire unique pour sa composition de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le prélèvement forfaitaire unique pour sa composition de principe."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0552",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Option au barème",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur sa portée de l'option pour le barème progressif sur les revenus mobiliers ?",
+    "choix": {
+      "A": "Elle est réservée aux non-résidents.",
+      "B": "Elle supprime toute déclaration.",
+      "C": "Elle est globale pour les revenus et gains entrant dans son champ au titre de l'année concernée.",
+      "D": "Elle peut être choisie ligne par ligne pour chaque dividende."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle est globale pour les revenus et gains entrant dans son champ au titre de l'année concernée. Cette règle constitue le repère théorique à retenir concernant l'option pour le barème progressif sur les revenus mobiliers et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'option pour le barème progressif sur les revenus mobiliers pour sa portée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'option pour le barème progressif sur les revenus mobiliers pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'option pour le barème progressif sur les revenus mobiliers pour sa portée."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0553",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Dividendes",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur leur catégorie fiscale de les dividendes d'actions détenues en compte-titres ?",
+    "choix": {
+      "A": "Ils constituent un remboursement de prêt.",
+      "B": "Ils relèvent en principe des revenus de capitaux mobiliers.",
+      "C": "Ils sont des revenus fonciers.",
+      "D": "Ils sont toujours exonérés."
+    },
+    "bonne_reponse": "B",
+    "explication": "Ils relèvent en principe des revenus de capitaux mobiliers. Cette règle constitue le repère théorique à retenir concernant les dividendes d'actions détenues en compte-titres et leur catégorie fiscale.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les dividendes d'actions détenues en compte-titres pour leur catégorie fiscale.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les dividendes d'actions détenues en compte-titres pour leur catégorie fiscale.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les dividendes d'actions détenues en compte-titres pour leur catégorie fiscale."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0554",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Plus-values mobilières",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son assiette de une plus-value de cession de valeurs mobilières ?",
+    "choix": {
+      "A": "Elle correspond en principe à la différence positive entre prix de cession et prix ou valeur d'acquisition, ajustée selon les règles fiscales.",
+      "B": "Elle est égale au montant total vendu.",
+      "C": "Elle correspond uniquement aux dividendes.",
+      "D": "Elle est toujours nulle."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle correspond en principe à la différence positive entre prix de cession et prix ou valeur d'acquisition, ajustée selon les règles fiscales. Cette règle constitue le repère théorique à retenir concernant une plus-value de cession de valeurs mobilières et son assiette.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à une plus-value de cession de valeurs mobilières pour son assiette.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une plus-value de cession de valeurs mobilières pour son assiette.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une plus-value de cession de valeurs mobilières pour son assiette."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0555",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Moins-values mobilières",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur leur imputation de les moins-values de cession de valeurs mobilières ?",
+    "choix": {
+      "A": "Elles s'imputent toujours sur les salaires.",
+      "B": "Elles sont remboursées intégralement par la banque.",
+      "C": "Elles n'ont jamais aucun effet fiscal.",
+      "D": "Elles peuvent s'imputer sur les plus-values de même nature selon les règles et délais fiscaux applicables."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elles peuvent s'imputer sur les plus-values de même nature selon les règles et délais fiscaux applicables. Cette règle constitue le repère théorique à retenir concernant les moins-values de cession de valeurs mobilières et leur imputation.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les moins-values de cession de valeurs mobilières pour leur imputation.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les moins-values de cession de valeurs mobilières pour leur imputation.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les moins-values de cession de valeurs mobilières pour leur imputation."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0556",
+    "domaine": "Fiscalité",
+    "sous_domaine": "IFI",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son assiette générale de l'impôt sur la fortune immobilière ?",
+    "choix": {
+      "A": "Il taxe uniquement les salaires.",
+      "B": "Il remplace l'impôt sur le revenu.",
+      "C": "Il vise le patrimoine immobilier net taxable des foyers dépassant le seuil légal.",
+      "D": "Il porte sur tous les livrets réglementés."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il vise le patrimoine immobilier net taxable des foyers dépassant le seuil légal. Cette règle constitue le repère théorique à retenir concernant l'impôt sur la fortune immobilière et son assiette générale.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'impôt sur la fortune immobilière pour son assiette générale.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'impôt sur la fortune immobilière pour son assiette générale.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'impôt sur la fortune immobilière pour son assiette générale."
+    },
+    "sources": [
+      "S060"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0557",
+    "domaine": "Fiscalité",
+    "sous_domaine": "IFI",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur leur principe de les dettes déductibles de l'IFI ?",
+    "choix": {
+      "A": "Les dettes sont ajoutées à l'actif taxable.",
+      "B": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles.",
+      "C": "Toutes les dettes personnelles sont automatiquement déductibles.",
+      "D": "Aucune dette ne peut jamais être déduite."
+    },
+    "bonne_reponse": "B",
+    "explication": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles. Cette règle constitue le repère théorique à retenir concernant les dettes déductibles de l'IFI et leur principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les dettes déductibles de l'IFI pour leur principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les dettes déductibles de l'IFI pour leur principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les dettes déductibles de l'IFI pour leur principe."
+    },
+    "sources": [
+      "S060"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0558",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Assurance-vie",
+    "difficulte": "expert",
+    "enonce": "Quelle affirmation théorique est exacte sur l'IFI de les unités de compte immobilières dans l'assurance-vie ?",
+    "choix": {
+      "A": "La fraction représentative d'actifs immobiliers peut entrer dans l'assiette de l'IFI selon les règles et exclusions applicables.",
+      "B": "L'assurance-vie est toujours totalement hors IFI.",
+      "C": "La totalité du contrat est toujours taxable sans distinction.",
+      "D": "Seuls les fonds en euros sont taxables comme immeubles."
+    },
+    "bonne_reponse": "A",
+    "explication": "La fraction représentative d'actifs immobiliers peut entrer dans l'assiette de l'IFI selon les règles et exclusions applicables. Cette règle constitue le repère théorique à retenir concernant les unités de compte immobilières dans l'assurance-vie et l'IFI.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les unités de compte immobilières dans l'assurance-vie pour l'IFI.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les unités de compte immobilières dans l'assurance-vie pour l'IFI.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les unités de compte immobilières dans l'assurance-vie pour l'IFI."
+    },
+    "sources": [
+      "S060"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0559",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Prélèvements sociaux",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur leur champ de les prélèvements sociaux sur les placements ?",
+    "choix": {
+      "A": "Ils ne s'appliquent jamais aux placements.",
+      "B": "Ils remplacent toute fiscalité locale.",
+      "C": "Ils ont un taux universel inchangé pour tous les produits.",
+      "D": "Ils s'appliquent à de nombreux revenus et gains selon des taux et règles pouvant différer selon le produit et la date."
+    },
+    "bonne_reponse": "D",
+    "explication": "Ils s'appliquent à de nombreux revenus et gains selon des taux et règles pouvant différer selon le produit et la date. Cette règle constitue le repère théorique à retenir concernant les prélèvements sociaux sur les placements et leur champ.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les prélèvements sociaux sur les placements pour leur champ.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les prélèvements sociaux sur les placements pour leur champ.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les prélèvements sociaux sur les placements pour leur champ."
+    },
+    "sources": [
+      "S039"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0560",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Revenus fonciers",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur leur catégorie fiscale de les loyers nus ?",
+    "choix": {
+      "A": "Ils sont des dividendes.",
+      "B": "Ils sont toujours exonérés.",
+      "C": "Ils relèvent en principe des revenus fonciers, après application du régime correspondant.",
+      "D": "Ils sont des bénéfices industriels et commerciaux dans tous les cas."
+    },
+    "bonne_reponse": "C",
+    "explication": "Ils relèvent en principe des revenus fonciers, après application du régime correspondant. Cette règle constitue le repère théorique à retenir concernant les loyers nus et leur catégorie fiscale.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les loyers nus pour leur catégorie fiscale.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les loyers nus pour leur catégorie fiscale.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les loyers nus pour leur catégorie fiscale."
+    },
+    "sources": [
+      "S061"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0561",
+    "domaine": "Immobilier",
+    "sous_domaine": "DPE",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur sa fonction de le diagnostic de performance énergétique ?",
+    "choix": {
+      "A": "Il mesure uniquement la surface habitable.",
+      "B": "Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire.",
+      "C": "Il garantit la valeur de vente.",
+      "D": "Il remplace l'acte de propriété."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire. Cette règle constitue le repère théorique à retenir concernant le diagnostic de performance énergétique et sa fonction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le diagnostic de performance énergétique pour sa fonction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le diagnostic de performance énergétique pour sa fonction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le diagnostic de performance énergétique pour sa fonction."
+    },
+    "sources": [
+      "S011"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0562",
+    "domaine": "Immobilier",
+    "sous_domaine": "DPE",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur sa valeur de le coefficient d'énergie primaire de l'électricité en 2026 ?",
+    "choix": {
+      "A": "Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9.",
+      "B": "Il est de 10.",
+      "C": "Il est supprimé.",
+      "D": "Il est de 0,1."
+    },
+    "bonne_reponse": "A",
+    "explication": "Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9. Cette règle constitue le repère théorique à retenir concernant le coefficient d'énergie primaire de l'électricité en 2026 et sa valeur.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur."
+    },
+    "sources": [
+      "S011"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0563",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Décence énergétique",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur sa mise en location depuis 2025 de un logement classé G en métropole ?",
+    "choix": {
+      "A": "Il bénéficie d'une garantie de location perpétuelle.",
+      "B": "Il devient automatiquement classé A.",
+      "C": "Il est soumis uniquement à une taxe bancaire.",
+      "D": "Il ne satisfait plus au critère de décence énergétique pour une nouvelle location ou un renouvellement selon le calendrier applicable."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il ne satisfait plus au critère de décence énergétique pour une nouvelle location ou un renouvellement selon le calendrier applicable. Cette règle constitue le repère théorique à retenir concernant un logement classé G en métropole et sa mise en location depuis 2025.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un logement classé G en métropole pour sa mise en location depuis 2025.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un logement classé G en métropole pour sa mise en location depuis 2025.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un logement classé G en métropole pour sa mise en location depuis 2025."
+    },
+    "sources": [
+      "S012"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0564",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Décence énergétique",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur les classes progressivement concernées de le calendrier métropolitain ?",
+    "choix": {
+      "A": "Seule la classe A est concernée.",
+      "B": "Aucun calendrier n'existe.",
+      "C": "Le calendrier vise les logements G depuis 2025, F à partir de 2028 et E à partir de 2034.",
+      "D": "Toutes les classes sont interdites depuis 2020."
+    },
+    "bonne_reponse": "C",
+    "explication": "Le calendrier vise les logements G depuis 2025, F à partir de 2028 et E à partir de 2034. Cette règle constitue le repère théorique à retenir concernant le calendrier métropolitain et les classes progressivement concernées.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le calendrier métropolitain pour les classes progressivement concernées.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le calendrier métropolitain pour les classes progressivement concernées.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le calendrier métropolitain pour les classes progressivement concernées."
+    },
+    "sources": [
+      "S012"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0565",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Location nue",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa durée de principe avec un bailleur personne physique de un bail d'habitation vide ?",
+    "choix": {
+      "A": "Aucune durée n'est prévue.",
+      "B": "La durée minimale de principe est de trois ans, sauf cas légaux particuliers.",
+      "C": "La durée est toujours d'un mois.",
+      "D": "La durée minimale est de vingt ans."
+    },
+    "bonne_reponse": "B",
+    "explication": "La durée minimale de principe est de trois ans, sauf cas légaux particuliers. Cette règle constitue le repère théorique à retenir concernant un bail d'habitation vide et sa durée de principe avec un bailleur personne physique.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un bail d'habitation vide pour sa durée de principe avec un bailleur personne physique.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un bail d'habitation vide pour sa durée de principe avec un bailleur personne physique.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un bail d'habitation vide pour sa durée de principe avec un bailleur personne physique."
+    },
+    "sources": [
+      "S062"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0566",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Location meublée",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa durée de principe de un bail meublé de résidence principale ?",
+    "choix": {
+      "A": "La durée de principe est d'un an, avec un régime spécifique notamment pour l'étudiant.",
+      "B": "La durée minimale est toujours de neuf ans.",
+      "C": "Il est nécessairement viager.",
+      "D": "Il ne peut jamais être renouvelé."
+    },
+    "bonne_reponse": "A",
+    "explication": "La durée de principe est d'un an, avec un régime spécifique notamment pour l'étudiant. Cette règle constitue le repère théorique à retenir concernant un bail meublé de résidence principale et sa durée de principe.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un bail meublé de résidence principale pour sa durée de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un bail meublé de résidence principale pour sa durée de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un bail meublé de résidence principale pour sa durée de principe."
+    },
+    "sources": [
+      "S063"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0567",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Rendement",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur sa portée de le rendement locatif brut ?",
+    "choix": {
+      "A": "Il mesure le revenu net après tous impôts.",
+      "B": "Il garantit la plus-value.",
+      "C": "Il correspond au taux du crédit.",
+      "D": "Il rapporte les loyers bruts au coût d'acquisition sans déduire charges, fiscalité ni vacance."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il rapporte les loyers bruts au coût d'acquisition sans déduire charges, fiscalité ni vacance. Cette règle constitue le repère théorique à retenir concernant le rendement locatif brut et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le rendement locatif brut pour sa portée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le rendement locatif brut pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le rendement locatif brut pour sa portée."
+    },
+    "sources": [
+      "S013"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0568",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Risque",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son effet de la vacance locative ?",
+    "choix": {
+      "A": "Elle garantit le remboursement du crédit.",
+      "B": "Elle n'a aucun effet économique.",
+      "C": "Elle réduit les loyers encaissés et peut dégrader le rendement effectif.",
+      "D": "Elle augmente automatiquement les loyers."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle réduit les loyers encaissés et peut dégrader le rendement effectif. Cette règle constitue le repère théorique à retenir concernant la vacance locative et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la vacance locative pour son effet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la vacance locative pour son effet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la vacance locative pour son effet."
+    },
+    "sources": [
+      "S064"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0569",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Denormandie",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur les durées d'engagement de le dispositif Denormandie ?",
+    "choix": {
+      "A": "Il prévoit toujours vingt-cinq ans.",
+      "B": "Il prévoit des engagements de location de six, neuf ou douze ans selon les conditions applicables.",
+      "C": "Il impose uniquement trois mois.",
+      "D": "Il est sans engagement de location."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il prévoit des engagements de location de six, neuf ou douze ans selon les conditions applicables. Cette règle constitue le repère théorique à retenir concernant le dispositif Denormandie et les durées d'engagement.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le dispositif Denormandie pour les durées d'engagement.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le dispositif Denormandie pour les durées d'engagement.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le dispositif Denormandie pour les durées d'engagement."
+    },
+    "sources": [
+      "S013"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0570",
+    "domaine": "Immobilier",
+    "sous_domaine": "Copropriété",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur leur objet de les charges de copropriété ?",
+    "choix": {
+      "A": "Elles financent les dépenses communes selon la répartition prévue par le règlement et les décisions de copropriété.",
+      "B": "Elles sont toujours payées par la banque.",
+      "C": "Elles remplacent les impôts sur le revenu.",
+      "D": "Elles sont identiques pour tous les lots sans règle."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elles financent les dépenses communes selon la répartition prévue par le règlement et les décisions de copropriété. Cette règle constitue le repère théorique à retenir concernant les charges de copropriété et leur objet.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les charges de copropriété pour leur objet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les charges de copropriété pour leur objet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les charges de copropriété pour leur objet."
+    },
+    "sources": [
+      "S065"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0571",
+    "domaine": "Conformité",
+    "sous_domaine": "Connaissance client",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa finalité de le recueil des connaissances et de l'expérience ?",
+    "choix": {
+      "A": "Il sert uniquement à fixer les frais bancaires.",
+      "B": "Il est inutile pour tout conseil.",
+      "C": "Il garantit une performance positive.",
+      "D": "Il contribue à déterminer si le service ou l'instrument envisagé peut être compris par le client."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il contribue à déterminer si le service ou l'instrument envisagé peut être compris par le client. Cette règle constitue le repère théorique à retenir concernant le recueil des connaissances et de l'expérience et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le recueil des connaissances et de l'expérience pour sa finalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le recueil des connaissances et de l'expérience pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le recueil des connaissances et de l'expérience pour sa finalité."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0572",
+    "domaine": "Conformité",
+    "sous_domaine": "Adéquation",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur les informations patrimoniales de l'évaluation d'adéquation ?",
+    "choix": {
+      "A": "Elle ignore la capacité à subir des pertes.",
+      "B": "Elle est fondée uniquement sur le produit le plus rentable.",
+      "C": "Elle prend notamment en compte la situation financière, les objectifs, l'horizon, les connaissances et la tolérance au risque.",
+      "D": "Elle dépend seulement de l'âge."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle prend notamment en compte la situation financière, les objectifs, l'horizon, les connaissances et la tolérance au risque. Cette règle constitue le repère théorique à retenir concernant l'évaluation d'adéquation et les informations patrimoniales.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'évaluation d'adéquation pour les informations patrimoniales.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'évaluation d'adéquation pour les informations patrimoniales.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'évaluation d'adéquation pour les informations patrimoniales."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0573",
+    "domaine": "Conformité",
+    "sous_domaine": "Appropriation",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur son objet de le test d'appropriation ?",
+    "choix": {
+      "A": "Il remplace le KYC LCB-FT.",
+      "B": "Il vise à apprécier si le client possède les connaissances et l'expérience nécessaires pour comprendre les risques d'un produit ou service.",
+      "C": "Il garantit l'adéquation globale du conseil.",
+      "D": "Il mesure uniquement le revenu fiscal."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il vise à apprécier si le client possède les connaissances et l'expérience nécessaires pour comprendre les risques d'un produit ou service. Cette règle constitue le repère théorique à retenir concernant le test d'appropriation et son objet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le test d'appropriation pour son objet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le test d'appropriation pour son objet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le test d'appropriation pour son objet."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0574",
+    "domaine": "Conformité",
+    "sous_domaine": "Information",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa qualité de une information commerciale sur un instrument financier ?",
+    "choix": {
+      "A": "Elle doit être claire, exacte et non trompeuse.",
+      "B": "Elle peut dissimuler les risques.",
+      "C": "Elle doit promettre un rendement.",
+      "D": "Elle est dispensée de toute cohérence avec les documents réglementaires."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle doit être claire, exacte et non trompeuse. Cette règle constitue le repère théorique à retenir concernant une information commerciale sur un instrument financier et sa qualité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à une information commerciale sur un instrument financier pour sa qualité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une information commerciale sur un instrument financier pour sa qualité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une information commerciale sur un instrument financier pour sa qualité."
+    },
+    "sources": [
+      "S066"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0575",
+    "domaine": "Conformité",
+    "sous_domaine": "Coûts et frais",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur sa finalité de l'information sur les coûts et frais ?",
+    "choix": {
+      "A": "Elle n'est communiquée qu'en cas de perte.",
+      "B": "Elle exclut les coûts du produit.",
+      "C": "Elle remplace la documentation contractuelle.",
+      "D": "Elle permet au client de comprendre l'incidence globale des coûts sur son investissement."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle permet au client de comprendre l'incidence globale des coûts sur son investissement. Cette règle constitue le repère théorique à retenir concernant l'information sur les coûts et frais et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'information sur les coûts et frais pour sa finalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'information sur les coûts et frais pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'information sur les coûts et frais pour sa finalité."
+    },
+    "sources": [
+      "S066"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0576",
+    "domaine": "Conformité",
+    "sous_domaine": "Gouvernance produit",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur sa fonction de le marché cible ?",
+    "choix": {
+      "A": "Il correspond uniquement au pays de l'émetteur.",
+      "B": "Il remplace l'analyse individuelle d'adéquation.",
+      "C": "Il identifie les catégories de clients auxquelles le produit est compatible et celles pour lesquelles il ne l'est pas.",
+      "D": "Il garantit la vente à tout client."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il identifie les catégories de clients auxquelles le produit est compatible et celles pour lesquelles il ne l'est pas. Cette règle constitue le repère théorique à retenir concernant le marché cible et sa fonction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le marché cible pour sa fonction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le marché cible pour sa fonction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le marché cible pour sa fonction."
+    },
+    "sources": [
+      "S067"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0577",
+    "domaine": "Conformité",
+    "sous_domaine": "Arbitrage",
+    "difficulte": "expert",
+    "enonce": "Quelle affirmation théorique est exacte sur l'analyse coûts-avantages de un arbitrage conseillé sous MIF 2 ?",
+    "choix": {
+      "A": "Il est automatiquement adéquat.",
+      "B": "Il doit notamment faire l'objet d'une appréciation du rapport coûts-avantages pour le client selon les exigences applicables.",
+      "C": "Il est recommandé dès qu'il génère des frais.",
+      "D": "Il peut ignorer les alternatives équivalentes."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il doit notamment faire l'objet d'une appréciation du rapport coûts-avantages pour le client selon les exigences applicables. Cette règle constitue le repère théorique à retenir concernant un arbitrage conseillé sous MIF 2 et l'analyse coûts-avantages.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un arbitrage conseillé sous MIF 2 pour l'analyse coûts-avantages.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un arbitrage conseillé sous MIF 2 pour l'analyse coûts-avantages.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un arbitrage conseillé sous MIF 2 pour l'analyse coûts-avantages."
+    },
+    "sources": [
+      "S068"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0578",
+    "domaine": "Conformité",
+    "sous_domaine": "Durabilité",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur leur recueil de les préférences de durabilité ?",
+    "choix": {
+      "A": "Elles font partie des informations à prendre en compte dans le conseil en investissement lorsque les règles l'exigent.",
+      "B": "Elles remplacent la tolérance au risque.",
+      "C": "Elles sont fixées par le conseiller sans échange.",
+      "D": "Elles ne concernent jamais le conseil financier."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elles font partie des informations à prendre en compte dans le conseil en investissement lorsque les règles l'exigent. Cette règle constitue le repère théorique à retenir concernant les préférences de durabilité et leur recueil.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les préférences de durabilité pour leur recueil.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les préférences de durabilité pour leur recueil.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les préférences de durabilité pour leur recueil."
+    },
+    "sources": [
+      "S068"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0579",
+    "domaine": "Assurance",
+    "sous_domaine": "DDA",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur leur rôle de les exigences et besoins du client ?",
+    "choix": {
+      "A": "Ils peuvent être ignorés si le produit est rentable.",
+      "B": "Ils sont définis uniquement après le sinistre.",
+      "C": "Ils se résument au prix le plus bas.",
+      "D": "Ils doivent être recueillis afin que le contrat proposé soit cohérent avec la demande et les besoins identifiés."
+    },
+    "bonne_reponse": "D",
+    "explication": "Ils doivent être recueillis afin que le contrat proposé soit cohérent avec la demande et les besoins identifiés. Cette règle constitue le repère théorique à retenir concernant les exigences et besoins du client et leur rôle.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les exigences et besoins du client pour leur rôle.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les exigences et besoins du client pour leur rôle.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les exigences et besoins du client pour leur rôle."
+    },
+    "sources": [
+      "S004"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0580",
+    "domaine": "Conformité",
+    "sous_domaine": "Réclamations",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur les délais de traitement recommandés de une réclamation écrite ?",
+    "choix": {
+      "A": "La réponse peut être différée dix ans.",
+      "B": "Le client doit saisir directement un tribunal avant toute réponse.",
+      "C": "Le professionnel accuse réception sous dix jours ouvrables et répond en principe au plus tard sous deux mois.",
+      "D": "Aucun accusé de réception n'est attendu."
+    },
+    "bonne_reponse": "C",
+    "explication": "Le professionnel accuse réception sous dix jours ouvrables et répond en principe au plus tard sous deux mois. Cette règle constitue le repère théorique à retenir concernant une réclamation écrite et les délais de traitement recommandés.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une réclamation écrite pour les délais de traitement recommandés.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une réclamation écrite pour les délais de traitement recommandés.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une réclamation écrite pour les délais de traitement recommandés."
+    },
+    "sources": [
+      "S069"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0581",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Vigilance",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son moment de l'identification du client ?",
+    "choix": {
+      "A": "Elle se limite au nom commercial du produit.",
+      "B": "Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée.",
+      "C": "Elle n'intervient qu'après la clôture.",
+      "D": "Elle est facultative pour toute banque."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée. Cette règle constitue le repère théorique à retenir concernant l'identification du client et son moment.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment."
+    },
+    "sources": [
+      "S070"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0582",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Bénéficiaire effectif",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur sa notion de le bénéficiaire effectif ?",
+    "choix": {
+      "A": "Il s'agit de la personne physique qui contrôle en dernier ressort le client ou pour laquelle l'opération est réalisée.",
+      "B": "Il est toujours le conseiller bancaire.",
+      "C": "Il est nécessairement une personne morale.",
+      "D": "Il correspond au bénéficiaire d'une carte bancaire."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il s'agit de la personne physique qui contrôle en dernier ressort le client ou pour laquelle l'opération est réalisée. Cette règle constitue le repère théorique à retenir concernant le bénéficiaire effectif et sa notion.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le bénéficiaire effectif pour sa notion.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le bénéficiaire effectif pour sa notion.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le bénéficiaire effectif pour sa notion."
+    },
+    "sources": [
+      "S070"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0583",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Vigilance renforcée",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur la vigilance de une situation présentant un risque élevé ?",
+    "choix": {
+      "A": "Elle dispense de toute vérification.",
+      "B": "Elle impose d'accepter toutes les opérations.",
+      "C": "Elle supprime la connaissance client.",
+      "D": "Elle appelle des mesures de vigilance renforcée proportionnées au risque identifié."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle appelle des mesures de vigilance renforcée proportionnées au risque identifié. Cette règle constitue le repère théorique à retenir concernant une situation présentant un risque élevé et la vigilance.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une situation présentant un risque élevé pour la vigilance.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une situation présentant un risque élevé pour la vigilance.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une situation présentant un risque élevé pour la vigilance."
+    },
+    "sources": [
+      "S070"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0584",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Déclaration de soupçon",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur la preuve d'une infraction de une déclaration de soupçon à TRACFIN ?",
+    "choix": {
+      "A": "Elle est adressée au client.",
+      "B": "Elle ne concerne jamais les banques.",
+      "C": "Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction.",
+      "D": "Elle exige toujours une condamnation pénale préalable."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction. Cette règle constitue le repère théorique à retenir concernant une déclaration de soupçon à TRACFIN et la preuve d'une infraction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction."
+    },
+    "sources": [
+      "S038"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0585",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Confidentialité",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur l'information du client de l'existence d'une déclaration de soupçon ?",
+    "choix": {
+      "A": "Elle figure sur chaque relevé de compte.",
+      "B": "Elle est confidentielle et ne doit pas être révélée au client ni aux personnes non autorisées.",
+      "C": "Elle doit être publiée sur internet.",
+      "D": "Elle est remise au client pour signature."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle est confidentielle et ne doit pas être révélée au client ni aux personnes non autorisées. Cette règle constitue le repère théorique à retenir concernant l'existence d'une déclaration de soupçon et l'information du client.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'existence d'une déclaration de soupçon pour l'information du client.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'existence d'une déclaration de soupçon pour l'information du client.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'existence d'une déclaration de soupçon pour l'information du client."
+    },
+    "sources": [
+      "S038"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0586",
+    "domaine": "RGPD",
+    "sous_domaine": "Minimisation",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa portée de le principe de minimisation ?",
+    "choix": {
+      "A": "Les données collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire à la finalité.",
+      "B": "Toutes les données disponibles doivent être collectées.",
+      "C": "La finalité n'a pas à être définie.",
+      "D": "La conservation doit être illimitée."
+    },
+    "bonne_reponse": "A",
+    "explication": "Les données collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire à la finalité. Cette règle constitue le repère théorique à retenir concernant le principe de minimisation et sa portée.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0587",
+    "domaine": "RGPD",
+    "sous_domaine": "Droits",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son objet de le droit d'accès ?",
+    "choix": {
+      "A": "Il permet d'effacer toute dette bancaire.",
+      "B": "Il donne accès aux données de tous les clients.",
+      "C": "Il supprime automatiquement le contrat.",
+      "D": "Il permet à la personne d'obtenir des informations sur le traitement et une copie de ses données dans les conditions prévues."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il permet à la personne d'obtenir des informations sur le traitement et une copie de ses données dans les conditions prévues. Cette règle constitue le repère théorique à retenir concernant le droit d'accès et son objet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le droit d'accès pour son objet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le droit d'accès pour son objet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le droit d'accès pour son objet."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0588",
+    "domaine": "RGPD",
+    "sous_domaine": "Prospection",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son exercice de le droit d'opposition à la prospection ?",
+    "choix": {
+      "A": "Il impose un paiement au prospect.",
+      "B": "Il ne concerne jamais le profilage lié à la prospection.",
+      "C": "La personne peut s'opposer à tout moment et sans frais au traitement de ses données à des fins de prospection.",
+      "D": "Il est impossible après la collecte."
+    },
+    "bonne_reponse": "C",
+    "explication": "La personne peut s'opposer à tout moment et sans frais au traitement de ses données à des fins de prospection. Cette règle constitue le repère théorique à retenir concernant le droit d'opposition à la prospection et son exercice.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0589",
+    "domaine": "RGPD",
+    "sous_domaine": "Conservation",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur la durée de conservation de prospection de les données d'un prospect non devenu client ?",
+    "choix": {
+      "A": "Aucune durée ne doit être définie.",
+      "B": "Elles ne devraient en principe pas être conservées au-delà de trois ans après la collecte ou le dernier contact émanant du prospect.",
+      "C": "Elles doivent être conservées à vie.",
+      "D": "Elles doivent être détruites le jour même."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elles ne devraient en principe pas être conservées au-delà de trois ans après la collecte ou le dernier contact émanant du prospect. Cette règle constitue le repère théorique à retenir concernant les données d'un prospect non devenu client et la durée de conservation de prospection.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les données d'un prospect non devenu client pour la durée de conservation de prospection.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les données d'un prospect non devenu client pour la durée de conservation de prospection.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les données d'un prospect non devenu client pour la durée de conservation de prospection."
+    },
+    "sources": [
+      "S072"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0590",
+    "domaine": "RGPD",
+    "sous_domaine": "Sécurité",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur la gestion de une violation de données personnelles ?",
+    "choix": {
+      "A": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque.",
+      "B": "Elle doit toujours rester secrète pour l'autorité.",
+      "C": "Elle ne concerne que les données papier.",
+      "D": "Elle supprime l'obligation de sécurité."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque. Cette règle constitue le repère théorique à retenir concernant une violation de données personnelles et la gestion.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0591",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Compte joint",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur la solidarité active de un compte joint ?",
+    "choix": {
+      "A": "Toutes les opérations exigent toujours deux signatures.",
+      "B": "Un seul cotitulaire est propriétaire de tous les fonds.",
+      "C": "Le compte joint ne peut recevoir aucun virement.",
+      "D": "Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable."
+    },
+    "bonne_reponse": "D",
+    "explication": "Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable. Cette règle constitue le repère théorique à retenir concernant un compte joint et la solidarité active.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active."
+    },
+    "sources": [
+      "S073"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0592",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Compte joint",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur le risque d'interdiction de un incident de chèque sur compte joint ?",
+    "choix": {
+      "A": "Seul le bénéficiaire du chèque est interdit bancaire.",
+      "B": "L'incident disparaît automatiquement.",
+      "C": "Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables.",
+      "D": "Aucun cotitulaire ne peut être concerné."
+    },
+    "bonne_reponse": "C",
+    "explication": "Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant un incident de chèque sur compte joint et le risque d'interdiction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un incident de chèque sur compte joint pour le risque d'interdiction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un incident de chèque sur compte joint pour le risque d'interdiction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un incident de chèque sur compte joint pour le risque d'interdiction."
+    },
+    "sources": [
+      "S073"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0593",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Mobilité bancaire",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son coût de le service d'aide à la mobilité bancaire ?",
+    "choix": {
+      "A": "Il impose la clôture de tous les livrets.",
+      "B": "Il est gratuit pour le client particulier qui change de compte de paiement dans les conditions prévues.",
+      "C": "Il est facturé par la Banque de France.",
+      "D": "Il est réservé aux entreprises cotées."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il est gratuit pour le client particulier qui change de compte de paiement dans les conditions prévues. Cette règle constitue le repère théorique à retenir concernant le service d'aide à la mobilité bancaire et son coût.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le service d'aide à la mobilité bancaire pour son coût.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le service d'aide à la mobilité bancaire pour son coût.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le service d'aide à la mobilité bancaire pour son coût."
+    },
+    "sources": [
+      "S074"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0594",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Droit au compte",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa finalité de la procédure de droit au compte ?",
+    "choix": {
+      "A": "Elle permet à une personne dépourvue de compte et confrontée à un refus de demander la désignation d'un établissement par la Banque de France.",
+      "B": "Elle garantit un crédit immobilier.",
+      "C": "Elle supprime tout contrôle d'identité.",
+      "D": "Elle est réservée aux banques."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle permet à une personne dépourvue de compte et confrontée à un refus de demander la désignation d'un établissement par la Banque de France. Cette règle constitue le repère théorique à retenir concernant la procédure de droit au compte et sa finalité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la procédure de droit au compte pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la procédure de droit au compte pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la procédure de droit au compte pour sa finalité."
+    },
+    "sources": [
+      "S075"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0595",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Garantie des dépôts",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur leur propriété de les titres financiers conservés en compte-titres ?",
+    "choix": {
+      "A": "Ils deviennent la propriété de la banque.",
+      "B": "Ils sont garantis comme un Livret A contre toute baisse.",
+      "C": "Ils disparaissent automatiquement en cas de faillite.",
+      "D": "Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées."
+    },
+    "bonne_reponse": "D",
+    "explication": "Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées. Cette règle constitue le repère théorique à retenir concernant les titres financiers conservés en compte-titres et leur propriété.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les titres financiers conservés en compte-titres pour leur propriété.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les titres financiers conservés en compte-titres pour leur propriété.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les titres financiers conservés en compte-titres pour leur propriété."
+    },
+    "sources": [
+      "S053"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0596",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Fraude",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur leur confidentialité de les codes d'authentification bancaire ?",
+    "choix": {
+      "A": "La banque les demande toujours par téléphone.",
+      "B": "Ils peuvent être partagés librement avec tout tiers.",
+      "C": "Ils ne doivent pas être communiqués à un prétendu conseiller sollicitant leur transmission.",
+      "D": "Ils doivent être publiés pour sécuriser le compte."
+    },
+    "bonne_reponse": "C",
+    "explication": "Ils ne doivent pas être communiqués à un prétendu conseiller sollicitant leur transmission. Cette règle constitue le repère théorique à retenir concernant les codes d'authentification bancaire et leur confidentialité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les codes d'authentification bancaire pour leur confidentialité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les codes d'authentification bancaire pour leur confidentialité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les codes d'authentification bancaire pour leur confidentialité."
+    },
+    "sources": [
+      "S076"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0597",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Fraude",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur la réaction de une opération par carte non autorisée ?",
+    "choix": {
+      "A": "Aucune contestation n'est possible.",
+      "B": "Le titulaire doit faire opposition et signaler rapidement l'opération à sa banque selon la procédure applicable.",
+      "C": "Il doit attendre la clôture annuelle.",
+      "D": "Il doit communiquer son code secret au fraudeur."
+    },
+    "bonne_reponse": "B",
+    "explication": "Le titulaire doit faire opposition et signaler rapidement l'opération à sa banque selon la procédure applicable. Cette règle constitue le repère théorique à retenir concernant une opération par carte non autorisée et la réaction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une opération par carte non autorisée pour la réaction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une opération par carte non autorisée pour la réaction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une opération par carte non autorisée pour la réaction."
+    },
+    "sources": [
+      "S076"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0598",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Clôture",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur le préavis de la clôture d'un compte par la banque ?",
+    "choix": {
+      "A": "Elle doit en principe respecter le préavis contractuel ou légal, sauf situations permettant une clôture sans préavis.",
+      "B": "Elle est toujours impossible.",
+      "C": "Elle exige l'accord de tous les créanciers.",
+      "D": "Elle transforme le compte en PEA."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle doit en principe respecter le préavis contractuel ou légal, sauf situations permettant une clôture sans préavis. Cette règle constitue le repère théorique à retenir concernant la clôture d'un compte par la banque et le préavis.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la clôture d'un compte par la banque pour le préavis.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la clôture d'un compte par la banque pour le préavis.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la clôture d'un compte par la banque pour le préavis."
+    },
+    "sources": [
+      "S077"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0599",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Surendettement",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur l'inscription au FICP de le dépôt d'un dossier de surendettement ?",
+    "choix": {
+      "A": "Il entraîne automatiquement l'inscription de tout le voisinage.",
+      "B": "Il garantit l'effacement immédiat de toutes les dettes.",
+      "C": "Il interdit le maintien d'un compte bancaire.",
+      "D": "Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant le dépôt d'un dossier de surendettement et l'inscription au FICP.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP."
+    },
+    "sources": [
+      "S078"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0600",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Fragilité financière",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa finalité de l'offre spécifique clientèle fragile ?",
+    "choix": {
+      "A": "Elle supprime toute tarification bancaire.",
+      "B": "Elle est réservée aux sociétés de gestion.",
+      "C": "Elle vise à fournir des services bancaires adaptés et à limiter certains frais pour les clients éligibles.",
+      "D": "Elle garantit un découvert illimité."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle vise à fournir des services bancaires adaptés et à limiter certains frais pour les clients éligibles. Cette règle constitue le repère théorique à retenir concernant l'offre spécifique clientèle fragile et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'offre spécifique clientèle fragile pour sa finalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'offre spécifique clientèle fragile pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'offre spécifique clientèle fragile pour sa finalité."
+    },
+    "sources": [
+      "S079"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "CGP-2026-0901",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "debutant",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un organisme de placement collectif — son principe ?",
+    "choix": {
+      "A": "Il est toujours un compte bancaire individuel.",
+      "B": "Il garantit nécessairement le capital.",
+      "C": "Il ne peut détenir aucun titre financier.",
+      "D": "Il regroupe l'épargne de plusieurs investisseurs dans un portefeuille géré selon une stratégie définie."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il regroupe l'épargne de plusieurs investisseurs dans un portefeuille géré selon une stratégie définie. Cette règle constitue le repère théorique à retenir concernant un organisme de placement collectif et son principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0902",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une SICAV — sa forme ?",
+    "choix": {
+      "A": "Une SICAV est un livret défiscalisé.",
+      "B": "Une SICAV ne peut avoir aucune personnalité morale.",
+      "C": "Une SICAV est une société d'investissement à capital variable émettant des actions.",
+      "D": "Une SICAV est toujours un prêt immobilier."
+    },
+    "bonne_reponse": "C",
+    "explication": "Une SICAV est une société d'investissement à capital variable émettant des actions. Cette règle constitue le repère théorique à retenir concernant une SICAV et sa forme.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une SICAV pour sa forme.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une SICAV pour sa forme.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une SICAV pour sa forme."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0903",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un FCP — sa forme ?",
+    "choix": {
+      "A": "Il garantit un taux réglementé.",
+      "B": "Un fonds commun de placement est une copropriété de valeurs mobilières sans personnalité morale.",
+      "C": "Il s'agit d'une société cotée obligatoire.",
+      "D": "Il est un compte de dépôt."
+    },
+    "bonne_reponse": "B",
+    "explication": "Un fonds commun de placement est une copropriété de valeurs mobilières sans personnalité morale. Cette règle constitue le repère théorique à retenir concernant un FCP et sa forme.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un FCP pour sa forme.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un FCP pour sa forme.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un FCP pour sa forme."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0904",
+    "domaine": "Placements financiers",
+    "sous_domaine": "ETF",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un ETF — son objectif habituel ?",
+    "choix": {
+      "A": "Il cherche généralement à répliquer l'évolution d'un indice, à la hausse comme à la baisse selon sa stratégie.",
+      "B": "Il garantit toujours de battre l'indice.",
+      "C": "Il est sans risque de marché.",
+      "D": "Il ne peut être coté."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il cherche généralement à répliquer l'évolution d'un indice, à la hausse comme à la baisse selon sa stratégie. Cette règle constitue le repère théorique à retenir concernant un ETF et son objectif habituel.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un ETF pour son objectif habituel.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un ETF pour son objectif habituel.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un ETF pour son objectif habituel."
+    },
+    "sources": [
+      "S033"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0905",
+    "domaine": "Placements financiers",
+    "sous_domaine": "ETF",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un ETF exposé en devise étrangère — le risque de change ?",
+    "choix": {
+      "A": "Le change n'a jamais aucun effet.",
+      "B": "La devise garantit le capital.",
+      "C": "Le risque de change remplace tous les autres risques.",
+      "D": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert."
+    },
+    "bonne_reponse": "D",
+    "explication": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert. Cette règle constitue le repère théorique à retenir concernant un ETF exposé en devise étrangère et le risque de change.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change."
+    },
+    "sources": [
+      "S033"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0906",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Produits structurés",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un produit structuré — la formule de remboursement ?",
+    "choix": {
+      "A": "Elle est fixée après l'échéance sans règle préalable.",
+      "B": "Elle garantit nécessairement un gain illimité.",
+      "C": "Elle dépend de conditions définies à l'avance et liées à un ou plusieurs sous-jacents.",
+      "D": "Elle est toujours égale au Livret A."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle dépend de conditions définies à l'avance et liées à un ou plusieurs sous-jacents. Cette règle constitue le repère théorique à retenir concernant un produit structuré et la formule de remboursement.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un produit structuré pour la formule de remboursement.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un produit structuré pour la formule de remboursement.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un produit structuré pour la formule de remboursement."
+    },
+    "sources": [
+      "S035"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0907",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Produits structurés",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la protection du capital à l'échéance — sa portée ?",
+    "choix": {
+      "A": "Elle s'applique à tout produit structuré sans exception.",
+      "B": "Elle ne vaut que dans les conditions prévues et reste exposée notamment au risque de défaut de l'émetteur.",
+      "C": "Elle protège contre tout risque avant l'échéance.",
+      "D": "Elle rend l'émetteur sans importance."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle ne vaut que dans les conditions prévues et reste exposée notamment au risque de défaut de l'émetteur. Cette règle constitue le repère théorique à retenir concernant la protection du capital à l'échéance et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée."
+    },
+    "sources": [
+      "S035"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0908",
+    "domaine": "Placements immobiliers",
+    "sous_domaine": "SCPI",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une SCPI — le capital ?",
+    "choix": {
+      "A": "Le capital investi et le rendement ne sont pas garantis.",
+      "B": "Le capital est garanti par l'État.",
+      "C": "Le rendement est fixé par la BCE.",
+      "D": "La valeur ne peut jamais baisser."
+    },
+    "bonne_reponse": "A",
+    "explication": "Le capital investi et le rendement ne sont pas garantis. Cette règle constitue le repère théorique à retenir concernant une SCPI et le capital.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à une SCPI pour le capital.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une SCPI pour le capital.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une SCPI pour le capital."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0909",
+    "domaine": "Placements immobiliers",
+    "sous_domaine": "SCPI",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les parts de SCPI — la liquidité ?",
+    "choix": {
+      "A": "La liquidité est instantanée et garantie.",
+      "B": "Elles sont remboursées à vue par la Banque de France.",
+      "C": "Elles ne peuvent jamais être cédées.",
+      "D": "La revente peut prendre du temps et dépend de l'existence d'une contrepartie ou des modalités du fonds."
+    },
+    "bonne_reponse": "D",
+    "explication": "La revente peut prendre du temps et dépend de l'existence d'une contrepartie ou des modalités du fonds. Cette règle constitue le repère théorique à retenir concernant les parts de SCPI et la liquidité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les parts de SCPI pour la liquidité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les parts de SCPI pour la liquidité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les parts de SCPI pour la liquidité."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0910",
+    "domaine": "Placements immobiliers",
+    "sous_domaine": "SCPI",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les revenus d'une SCPI — leur variabilité ?",
+    "choix": {
+      "A": "Elles ne dépendent jamais de l'occupation des immeubles.",
+      "B": "Elles constituent un intérêt réglementé.",
+      "C": "Les distributions dépendent notamment des loyers encaissés, des charges et de la gestion du patrimoine.",
+      "D": "Elles sont fixes par la loi."
+    },
+    "bonne_reponse": "C",
+    "explication": "Les distributions dépendent notamment des loyers encaissés, des charges et de la gestion du patrimoine. Cette règle constitue le repère théorique à retenir concernant les revenus d'une SCPI et leur variabilité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les revenus d'une SCPI pour leur variabilité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les revenus d'une SCPI pour leur variabilité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les revenus d'une SCPI pour leur variabilité."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0911",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le PEA bancaire classique — le plafond de versements ?",
+    "choix": {
+      "A": "Les versements sont sans plafond.",
+      "B": "Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan.",
+      "C": "Le plafond est de 22 950 euros.",
+      "D": "Le plafond est de 12 000 euros."
+    },
+    "bonne_reponse": "B",
+    "explication": "Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan. Cette règle constitue le repère théorique à retenir concernant le PEA bancaire classique et le plafond de versements.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0912",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'ouverture d'un PEA — le domicile fiscal ?",
+    "choix": {
+      "A": "L'ouverture est réservée aux personnes fiscalement domiciliées en France, sous les règles applicables.",
+      "B": "Elle est réservée aux sociétés.",
+      "C": "Elle exige un domicile fiscal hors de France.",
+      "D": "Elle ne comporte aucune condition de résidence fiscale."
+    },
+    "bonne_reponse": "A",
+    "explication": "L'ouverture est réservée aux personnes fiscalement domiciliées en France, sous les règles applicables. Cette règle constitue le repère théorique à retenir concernant l'ouverture d'un PEA et le domicile fiscal.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à l'ouverture d'un PEA pour le domicile fiscal.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'ouverture d'un PEA pour le domicile fiscal.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'ouverture d'un PEA pour le domicile fiscal."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0913",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un retrait après cinq ans — l'effet sur le plan ?",
+    "choix": {
+      "A": "Il clôture toujours le plan immédiatement.",
+      "B": "Il rend tous les gains imposables comme des salaires.",
+      "C": "Il transforme le plan en Livret A.",
+      "D": "Il n'entraîne en principe plus la clôture et de nouveaux versements peuvent rester possibles."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il n'entraîne en principe plus la clôture et de nouveaux versements peuvent rester possibles. Cette règle constitue le repère théorique à retenir concernant un retrait après cinq ans et l'effet sur le plan.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0914",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les gains d'un PEA après cinq ans — l'impôt sur le revenu ?",
+    "choix": {
+      "A": "Ils sont toujours soumis au barème sans exonération.",
+      "B": "Ils deviennent des revenus fonciers.",
+      "C": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables.",
+      "D": "Ils sont toujours exonérés de tous prélèvements."
+    },
+    "bonne_reponse": "C",
+    "explication": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables. Cette règle constitue le repère théorique à retenir concernant les gains d'un PEA après cinq ans et l'impôt sur le revenu.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les gains d'un PEA après cinq ans pour l'impôt sur le revenu.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les gains d'un PEA après cinq ans pour l'impôt sur le revenu.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les gains d'un PEA après cinq ans pour l'impôt sur le revenu."
+    },
+    "sources": [
+      "S030"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0915",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les titres éligibles au PEA — leur périmètre ?",
+    "choix": {
+      "A": "Aucune action ne peut être détenue.",
+      "B": "L'enveloppe vise principalement les actions européennes et certains fonds respectant les critères d'éligibilité.",
+      "C": "Tous les actifs mondiaux y sont éligibles sans condition.",
+      "D": "Seuls les livrets bancaires y sont admis."
+    },
+    "bonne_reponse": "B",
+    "explication": "L'enveloppe vise principalement les actions européennes et certains fonds respectant les critères d'éligibilité. Cette règle constitue le repère théorique à retenir concernant les titres éligibles au PEA et leur périmètre.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les titres éligibles au PEA pour leur périmètre.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les titres éligibles au PEA pour leur périmètre.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les titres éligibles au PEA pour leur périmètre."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0916",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "debutant",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le compte-titres ordinaire — son univers d'investissement ?",
+    "choix": {
+      "A": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables.",
+      "B": "Il est limité aux seuls titres éligibles au PEA.",
+      "C": "Il garantit le capital.",
+      "D": "Il est réservé aux mineurs émancipés."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables. Cette règle constitue le repère théorique à retenir concernant le compte-titres ordinaire et son univers d'investissement.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement."
+    },
+    "sources": [
+      "S057"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0917",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le compte-titres ordinaire — son plafond de versements ?",
+    "choix": {
+      "A": "Son plafond est de 150 000 euros.",
+      "B": "Son plafond est de 22 950 euros.",
+      "C": "Son plafond est toujours égal au revenu annuel.",
+      "D": "Il ne comporte pas de plafond réglementaire général de versements comparable à celui du PEA."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il ne comporte pas de plafond réglementaire général de versements comparable à celui du PEA. Cette règle constitue le repère théorique à retenir concernant le compte-titres ordinaire et son plafond de versements.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son plafond de versements.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son plafond de versements.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son plafond de versements."
+    },
+    "sources": [
+      "S057"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0918",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les revenus et plus-values du compte-titres — leur fiscalité ?",
+    "choix": {
+      "A": "Ils sont traités comme des intérêts de Livret A.",
+      "B": "Ils ne sont jamais déclarables.",
+      "C": "Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe.",
+      "D": "Ils sont toujours exonérés après cinq ans."
+    },
+    "bonne_reponse": "C",
+    "explication": "Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe. Cette règle constitue le repère théorique à retenir concernant les revenus et plus-values du compte-titres et leur fiscalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0919",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Contrat de capitalisation",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le contrat de capitalisation — la personne assurée ?",
+    "choix": {
+      "A": "Il ne peut être transmis.",
+      "B": "Il repose sur une logique de capitalisation et ne se dénoue pas par le décès d'un assuré comme l'assurance-vie.",
+      "C": "Il impose toujours un bénéficiaire décès.",
+      "D": "Il est un compte de dépôt à vue."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il repose sur une logique de capitalisation et ne se dénoue pas par le décès d'un assuré comme l'assurance-vie. Cette règle constitue le repère théorique à retenir concernant le contrat de capitalisation et la personne assurée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le contrat de capitalisation pour la personne assurée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le contrat de capitalisation pour la personne assurée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le contrat de capitalisation pour la personne assurée."
+    },
+    "sources": [
+      "S058"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0920",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Contrat de capitalisation",
+    "difficulte": "expert",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la transmission d'un contrat de capitalisation — son principe ?",
+    "choix": {
+      "A": "Le contrat peut faire partie du patrimoine transmis et conserver son enveloppe selon les règles applicables.",
+      "B": "Il disparaît toujours au décès.",
+      "C": "Il est automatiquement versé hors succession à un bénéficiaire.",
+      "D": "Il est incessible dans toutes les situations."
+    },
+    "bonne_reponse": "A",
+    "explication": "Le contrat peut faire partie du patrimoine transmis et conserver son enveloppe selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant la transmission d'un contrat de capitalisation et son principe.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe."
+    },
+    "sources": [
+      "S058"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0921",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "debutant",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le PER individuel — son objectif ?",
+    "choix": {
+      "A": "Il sert uniquement aux paiements quotidiens.",
+      "B": "Il remplace le compte courant.",
+      "C": "Il garantit un rendement réglementé.",
+      "D": "Il vise la constitution d'une épargne de long terme principalement destinée à la retraite."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il vise la constitution d'une épargne de long terme principalement destinée à la retraite. Cette règle constitue le repère théorique à retenir concernant le PER individuel et son objectif.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le PER individuel pour son objectif.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le PER individuel pour son objectif.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le PER individuel pour son objectif."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0922",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les versements volontaires déductibles — leur effet fiscal à l'entrée ?",
+    "choix": {
+      "A": "Ils ouvrent un crédit d'impôt illimité.",
+      "B": "Ils suppriment les prélèvements sociaux futurs.",
+      "C": "Ils peuvent réduire le revenu imposable dans la limite du plafond de déduction disponible.",
+      "D": "Ils sont toujours sans effet fiscal."
+    },
+    "bonne_reponse": "C",
+    "explication": "Ils peuvent réduire le revenu imposable dans la limite du plafond de déduction disponible. Cette règle constitue le repère théorique à retenir concernant les versements volontaires déductibles et leur effet fiscal à l'entrée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les versements volontaires déductibles pour leur effet fiscal à l'entrée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les versements volontaires déductibles pour leur effet fiscal à l'entrée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les versements volontaires déductibles pour leur effet fiscal à l'entrée."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0923",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la déduction des versements volontaires — son caractère ?",
+    "choix": {
+      "A": "Elle dépend du cours du CAC 40.",
+      "B": "Elle constitue une option fiscale et doit être appréciée au regard de la fiscalité à l'entrée et à la sortie.",
+      "C": "Elle est toujours obligatoire.",
+      "D": "Elle rend toute sortie exonérée."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle constitue une option fiscale et doit être appréciée au regard de la fiscalité à l'entrée et à la sortie. Cette règle constitue le repère théorique à retenir concernant la déduction des versements volontaires et son caractère.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la déduction des versements volontaires pour son caractère.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la déduction des versements volontaires pour son caractère.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la déduction des versements volontaires pour son caractère."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0924",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'acquisition de la résidence principale — le déblocage anticipé ?",
+    "choix": {
+      "A": "Elle constitue un cas de déblocage anticipé de l'épargne, sous les règles applicables.",
+      "B": "Elle n'est jamais admise.",
+      "C": "Elle permet uniquement une sortie en rente.",
+      "D": "Elle transforme le PER en PEA."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle constitue un cas de déblocage anticipé de l'épargne, sous les règles applicables. Cette règle constitue le repère théorique à retenir concernant l'acquisition de la résidence principale et le déblocage anticipé.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à l'acquisition de la résidence principale pour le déblocage anticipé.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'acquisition de la résidence principale pour le déblocage anticipé.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'acquisition de la résidence principale pour le déblocage anticipé."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0925",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les accidents de la vie prévus par la loi — le déblocage anticipé ?",
+    "choix": {
+      "A": "Ils n'ont jamais d'effet.",
+      "B": "Ils autorisent un retrait mensuel libre sans condition.",
+      "C": "Ils concernent uniquement le Livret A.",
+      "D": "Ils peuvent permettre une sortie anticipée avant la retraite dans les cas limitativement prévus."
+    },
+    "bonne_reponse": "D",
+    "explication": "Ils peuvent permettre une sortie anticipée avant la retraite dans les cas limitativement prévus. Cette règle constitue le repère théorique à retenir concernant les accidents de la vie prévus par la loi et le déblocage anticipé.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les accidents de la vie prévus par la loi pour le déblocage anticipé.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les accidents de la vie prévus par la loi pour le déblocage anticipé.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les accidents de la vie prévus par la loi pour le déblocage anticipé."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0926",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'épargne issue de versements volontaires — la sortie à la retraite ?",
+    "choix": {
+      "A": "Elle est toujours versée uniquement en rente.",
+      "B": "Elle doit être donnée à l'assureur.",
+      "C": "Elle peut en principe être liquidée en capital, en rente ou en combinant les deux, selon les règles du compartiment.",
+      "D": "Elle ne peut sortir qu'en actions."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle peut en principe être liquidée en capital, en rente ou en combinant les deux, selon les règles du compartiment. Cette règle constitue le repère théorique à retenir concernant l'épargne issue de versements volontaires et la sortie à la retraite.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de versements volontaires pour la sortie à la retraite.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de versements volontaires pour la sortie à la retraite.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de versements volontaires pour la sortie à la retraite."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0927",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'épargne issue de cotisations obligatoires — la sortie ?",
+    "choix": {
+      "A": "Elle est exonérée de toute règle de blocage.",
+      "B": "Elle est en principe orientée vers une sortie en rente, hors exceptions légales.",
+      "C": "Elle sort toujours librement en capital.",
+      "D": "Elle devient un dépôt à vue."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle est en principe orientée vers une sortie en rente, hors exceptions légales. Cette règle constitue le repère théorique à retenir concernant l'épargne issue de cotisations obligatoires et la sortie.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de cotisations obligatoires pour la sortie.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de cotisations obligatoires pour la sortie.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de cotisations obligatoires pour la sortie."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0928",
+    "domaine": "Retraite",
+    "sous_domaine": "Gestion pilotée",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la gestion pilotée à horizon du PER — son principe ?",
+    "choix": {
+      "A": "Elle réduit généralement progressivement l'exposition aux actifs risqués à l'approche de l'échéance.",
+      "B": "Elle augmente toujours le risque à l'approche de la retraite.",
+      "C": "Elle garantit la performance.",
+      "D": "Elle interdit tout support prudent."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle réduit généralement progressivement l'exposition aux actifs risqués à l'approche de l'échéance. Cette règle constitue le repère théorique à retenir concernant la gestion pilotée à horizon du PER et son principe.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la gestion pilotée à horizon du PER pour son principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la gestion pilotée à horizon du PER pour son principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la gestion pilotée à horizon du PER pour son principe."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0929",
+    "domaine": "Épargne salariale",
+    "sous_domaine": "PEE",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le plan d'épargne entreprise — la durée d'indisponibilité de principe ?",
+    "choix": {
+      "A": "Elles sont bloquées toute la vie.",
+      "B": "Elles sont toujours disponibles le lendemain.",
+      "C": "Elles ne peuvent recevoir aucun abondement.",
+      "D": "Les sommes sont en principe indisponibles pendant cinq ans, sauf cas de déblocage anticipé."
+    },
+    "bonne_reponse": "D",
+    "explication": "Les sommes sont en principe indisponibles pendant cinq ans, sauf cas de déblocage anticipé. Cette règle constitue le repère théorique à retenir concernant le plan d'épargne entreprise et la durée d'indisponibilité de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le plan d'épargne entreprise pour la durée d'indisponibilité de principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le plan d'épargne entreprise pour la durée d'indisponibilité de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le plan d'épargne entreprise pour la durée d'indisponibilité de principe."
+    },
+    "sources": [
+      "S059"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0930",
+    "domaine": "Épargne salariale",
+    "sous_domaine": "Abondement",
+    "difficulte": "debutant",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'abondement de l'employeur — sa nature ?",
+    "choix": {
+      "A": "Il remplace le salaire obligatoire.",
+      "B": "Il est versé uniquement à l'État.",
+      "C": "Il complète l'épargne du salarié dans les limites et conditions du dispositif.",
+      "D": "Il constitue un crédit remboursable à la banque."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il complète l'épargne du salarié dans les limites et conditions du dispositif. Cette règle constitue le repère théorique à retenir concernant l'abondement de l'employeur et sa nature.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'abondement de l'employeur pour sa nature.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'abondement de l'employeur pour sa nature.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'abondement de l'employeur pour sa nature."
+    },
+    "sources": [
+      "S059"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0931",
+    "domaine": "Fiscalité",
+    "sous_domaine": "PFU",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le prélèvement forfaitaire unique — sa composition de principe ?",
+    "choix": {
+      "A": "Il correspond à un abattement successoral.",
+      "B": "Il associe une composante d'impôt sur le revenu et des prélèvements sociaux au taux applicable.",
+      "C": "Il est composé uniquement de TVA.",
+      "D": "Il ne concerne jamais les revenus mobiliers."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il associe une composante d'impôt sur le revenu et des prélèvements sociaux au taux applicable. Cette règle constitue le repère théorique à retenir concernant le prélèvement forfaitaire unique et sa composition de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le prélèvement forfaitaire unique pour sa composition de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le prélèvement forfaitaire unique pour sa composition de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le prélèvement forfaitaire unique pour sa composition de principe."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0932",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Option au barème",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'option pour le barème progressif sur les revenus mobiliers — sa portée ?",
+    "choix": {
+      "A": "Elle est globale pour les revenus et gains entrant dans son champ au titre de l'année concernée.",
+      "B": "Elle peut être choisie ligne par ligne pour chaque dividende.",
+      "C": "Elle est réservée aux non-résidents.",
+      "D": "Elle supprime toute déclaration."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle est globale pour les revenus et gains entrant dans son champ au titre de l'année concernée. Cette règle constitue le repère théorique à retenir concernant l'option pour le barème progressif sur les revenus mobiliers et sa portée.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à l'option pour le barème progressif sur les revenus mobiliers pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'option pour le barème progressif sur les revenus mobiliers pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'option pour le barème progressif sur les revenus mobiliers pour sa portée."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0933",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Dividendes",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les dividendes d'actions détenues en compte-titres — leur catégorie fiscale ?",
+    "choix": {
+      "A": "Ils sont des revenus fonciers.",
+      "B": "Ils sont toujours exonérés.",
+      "C": "Ils constituent un remboursement de prêt.",
+      "D": "Ils relèvent en principe des revenus de capitaux mobiliers."
+    },
+    "bonne_reponse": "D",
+    "explication": "Ils relèvent en principe des revenus de capitaux mobiliers. Cette règle constitue le repère théorique à retenir concernant les dividendes d'actions détenues en compte-titres et leur catégorie fiscale.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les dividendes d'actions détenues en compte-titres pour leur catégorie fiscale.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les dividendes d'actions détenues en compte-titres pour leur catégorie fiscale.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les dividendes d'actions détenues en compte-titres pour leur catégorie fiscale."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0934",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Plus-values mobilières",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une plus-value de cession de valeurs mobilières — son assiette ?",
+    "choix": {
+      "A": "Elle correspond uniquement aux dividendes.",
+      "B": "Elle est toujours nulle.",
+      "C": "Elle correspond en principe à la différence positive entre prix de cession et prix ou valeur d'acquisition, ajustée selon les règles fiscales.",
+      "D": "Elle est égale au montant total vendu."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle correspond en principe à la différence positive entre prix de cession et prix ou valeur d'acquisition, ajustée selon les règles fiscales. Cette règle constitue le repère théorique à retenir concernant une plus-value de cession de valeurs mobilières et son assiette.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une plus-value de cession de valeurs mobilières pour son assiette.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une plus-value de cession de valeurs mobilières pour son assiette.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une plus-value de cession de valeurs mobilières pour son assiette."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0935",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Moins-values mobilières",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les moins-values de cession de valeurs mobilières — leur imputation ?",
+    "choix": {
+      "A": "Elles n'ont jamais aucun effet fiscal.",
+      "B": "Elles peuvent s'imputer sur les plus-values de même nature selon les règles et délais fiscaux applicables.",
+      "C": "Elles s'imputent toujours sur les salaires.",
+      "D": "Elles sont remboursées intégralement par la banque."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elles peuvent s'imputer sur les plus-values de même nature selon les règles et délais fiscaux applicables. Cette règle constitue le repère théorique à retenir concernant les moins-values de cession de valeurs mobilières et leur imputation.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les moins-values de cession de valeurs mobilières pour leur imputation.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les moins-values de cession de valeurs mobilières pour leur imputation.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les moins-values de cession de valeurs mobilières pour leur imputation."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0936",
+    "domaine": "Fiscalité",
+    "sous_domaine": "IFI",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'impôt sur la fortune immobilière — son assiette générale ?",
+    "choix": {
+      "A": "Il vise le patrimoine immobilier net taxable des foyers dépassant le seuil légal.",
+      "B": "Il porte sur tous les livrets réglementés.",
+      "C": "Il taxe uniquement les salaires.",
+      "D": "Il remplace l'impôt sur le revenu."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il vise le patrimoine immobilier net taxable des foyers dépassant le seuil légal. Cette règle constitue le repère théorique à retenir concernant l'impôt sur la fortune immobilière et son assiette générale.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à l'impôt sur la fortune immobilière pour son assiette générale.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'impôt sur la fortune immobilière pour son assiette générale.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'impôt sur la fortune immobilière pour son assiette générale."
+    },
+    "sources": [
+      "S060"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0937",
+    "domaine": "Fiscalité",
+    "sous_domaine": "IFI",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les dettes déductibles de l'IFI — leur principe ?",
+    "choix": {
+      "A": "Toutes les dettes personnelles sont automatiquement déductibles.",
+      "B": "Aucune dette ne peut jamais être déduite.",
+      "C": "Les dettes sont ajoutées à l'actif taxable.",
+      "D": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles."
+    },
+    "bonne_reponse": "D",
+    "explication": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles. Cette règle constitue le repère théorique à retenir concernant les dettes déductibles de l'IFI et leur principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les dettes déductibles de l'IFI pour leur principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les dettes déductibles de l'IFI pour leur principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les dettes déductibles de l'IFI pour leur principe."
+    },
+    "sources": [
+      "S060"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0938",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Assurance-vie",
+    "difficulte": "expert",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les unités de compte immobilières dans l'assurance-vie — l'IFI ?",
+    "choix": {
+      "A": "La totalité du contrat est toujours taxable sans distinction.",
+      "B": "Seuls les fonds en euros sont taxables comme immeubles.",
+      "C": "La fraction représentative d'actifs immobiliers peut entrer dans l'assiette de l'IFI selon les règles et exclusions applicables.",
+      "D": "L'assurance-vie est toujours totalement hors IFI."
+    },
+    "bonne_reponse": "C",
+    "explication": "La fraction représentative d'actifs immobiliers peut entrer dans l'assiette de l'IFI selon les règles et exclusions applicables. Cette règle constitue le repère théorique à retenir concernant les unités de compte immobilières dans l'assurance-vie et l'IFI.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les unités de compte immobilières dans l'assurance-vie pour l'IFI.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les unités de compte immobilières dans l'assurance-vie pour l'IFI.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les unités de compte immobilières dans l'assurance-vie pour l'IFI."
+    },
+    "sources": [
+      "S060"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0939",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Prélèvements sociaux",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les prélèvements sociaux sur les placements — leur champ ?",
+    "choix": {
+      "A": "Ils ont un taux universel inchangé pour tous les produits.",
+      "B": "Ils s'appliquent à de nombreux revenus et gains selon des taux et règles pouvant différer selon le produit et la date.",
+      "C": "Ils ne s'appliquent jamais aux placements.",
+      "D": "Ils remplacent toute fiscalité locale."
+    },
+    "bonne_reponse": "B",
+    "explication": "Ils s'appliquent à de nombreux revenus et gains selon des taux et règles pouvant différer selon le produit et la date. Cette règle constitue le repère théorique à retenir concernant les prélèvements sociaux sur les placements et leur champ.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les prélèvements sociaux sur les placements pour leur champ.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les prélèvements sociaux sur les placements pour leur champ.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les prélèvements sociaux sur les placements pour leur champ."
+    },
+    "sources": [
+      "S039"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0940",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Revenus fonciers",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les loyers nus — leur catégorie fiscale ?",
+    "choix": {
+      "A": "Ils relèvent en principe des revenus fonciers, après application du régime correspondant.",
+      "B": "Ils sont des bénéfices industriels et commerciaux dans tous les cas.",
+      "C": "Ils sont des dividendes.",
+      "D": "Ils sont toujours exonérés."
+    },
+    "bonne_reponse": "A",
+    "explication": "Ils relèvent en principe des revenus fonciers, après application du régime correspondant. Cette règle constitue le repère théorique à retenir concernant les loyers nus et leur catégorie fiscale.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les loyers nus pour leur catégorie fiscale.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les loyers nus pour leur catégorie fiscale.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les loyers nus pour leur catégorie fiscale."
+    },
+    "sources": [
+      "S061"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0941",
+    "domaine": "Immobilier",
+    "sous_domaine": "DPE",
+    "difficulte": "debutant",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le diagnostic de performance énergétique — sa fonction ?",
+    "choix": {
+      "A": "Il garantit la valeur de vente.",
+      "B": "Il remplace l'acte de propriété.",
+      "C": "Il mesure uniquement la surface habitable.",
+      "D": "Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire. Cette règle constitue le repère théorique à retenir concernant le diagnostic de performance énergétique et sa fonction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le diagnostic de performance énergétique pour sa fonction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le diagnostic de performance énergétique pour sa fonction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le diagnostic de performance énergétique pour sa fonction."
+    },
+    "sources": [
+      "S011"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0942",
+    "domaine": "Immobilier",
+    "sous_domaine": "DPE",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le coefficient d'énergie primaire de l'électricité en 2026 — sa valeur ?",
+    "choix": {
+      "A": "Il est supprimé.",
+      "B": "Il est de 0,1.",
+      "C": "Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9.",
+      "D": "Il est de 10."
+    },
+    "bonne_reponse": "C",
+    "explication": "Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9. Cette règle constitue le repère théorique à retenir concernant le coefficient d'énergie primaire de l'électricité en 2026 et sa valeur.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur."
+    },
+    "sources": [
+      "S011"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0943",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Décence énergétique",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un logement classé G en métropole — sa mise en location depuis 2025 ?",
+    "choix": {
+      "A": "Il est soumis uniquement à une taxe bancaire.",
+      "B": "Il ne satisfait plus au critère de décence énergétique pour une nouvelle location ou un renouvellement selon le calendrier applicable.",
+      "C": "Il bénéficie d'une garantie de location perpétuelle.",
+      "D": "Il devient automatiquement classé A."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il ne satisfait plus au critère de décence énergétique pour une nouvelle location ou un renouvellement selon le calendrier applicable. Cette règle constitue le repère théorique à retenir concernant un logement classé G en métropole et sa mise en location depuis 2025.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un logement classé G en métropole pour sa mise en location depuis 2025.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un logement classé G en métropole pour sa mise en location depuis 2025.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un logement classé G en métropole pour sa mise en location depuis 2025."
+    },
+    "sources": [
+      "S012"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0944",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Décence énergétique",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le calendrier métropolitain — les classes progressivement concernées ?",
+    "choix": {
+      "A": "Le calendrier vise les logements G depuis 2025, F à partir de 2028 et E à partir de 2034.",
+      "B": "Toutes les classes sont interdites depuis 2020.",
+      "C": "Seule la classe A est concernée.",
+      "D": "Aucun calendrier n'existe."
+    },
+    "bonne_reponse": "A",
+    "explication": "Le calendrier vise les logements G depuis 2025, F à partir de 2028 et E à partir de 2034. Cette règle constitue le repère théorique à retenir concernant le calendrier métropolitain et les classes progressivement concernées.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le calendrier métropolitain pour les classes progressivement concernées.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le calendrier métropolitain pour les classes progressivement concernées.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le calendrier métropolitain pour les classes progressivement concernées."
+    },
+    "sources": [
+      "S012"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0945",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Location nue",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un bail d'habitation vide — sa durée de principe avec un bailleur personne physique ?",
+    "choix": {
+      "A": "La durée est toujours d'un mois.",
+      "B": "La durée minimale est de vingt ans.",
+      "C": "Aucune durée n'est prévue.",
+      "D": "La durée minimale de principe est de trois ans, sauf cas légaux particuliers."
+    },
+    "bonne_reponse": "D",
+    "explication": "La durée minimale de principe est de trois ans, sauf cas légaux particuliers. Cette règle constitue le repère théorique à retenir concernant un bail d'habitation vide et sa durée de principe avec un bailleur personne physique.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un bail d'habitation vide pour sa durée de principe avec un bailleur personne physique.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un bail d'habitation vide pour sa durée de principe avec un bailleur personne physique.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un bail d'habitation vide pour sa durée de principe avec un bailleur personne physique."
+    },
+    "sources": [
+      "S062"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0946",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Location meublée",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un bail meublé de résidence principale — sa durée de principe ?",
+    "choix": {
+      "A": "Il est nécessairement viager.",
+      "B": "Il ne peut jamais être renouvelé.",
+      "C": "La durée de principe est d'un an, avec un régime spécifique notamment pour l'étudiant.",
+      "D": "La durée minimale est toujours de neuf ans."
+    },
+    "bonne_reponse": "C",
+    "explication": "La durée de principe est d'un an, avec un régime spécifique notamment pour l'étudiant. Cette règle constitue le repère théorique à retenir concernant un bail meublé de résidence principale et sa durée de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un bail meublé de résidence principale pour sa durée de principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un bail meublé de résidence principale pour sa durée de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un bail meublé de résidence principale pour sa durée de principe."
+    },
+    "sources": [
+      "S063"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0947",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Rendement",
+    "difficulte": "debutant",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le rendement locatif brut — sa portée ?",
+    "choix": {
+      "A": "Il correspond au taux du crédit.",
+      "B": "Il rapporte les loyers bruts au coût d'acquisition sans déduire charges, fiscalité ni vacance.",
+      "C": "Il mesure le revenu net après tous impôts.",
+      "D": "Il garantit la plus-value."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il rapporte les loyers bruts au coût d'acquisition sans déduire charges, fiscalité ni vacance. Cette règle constitue le repère théorique à retenir concernant le rendement locatif brut et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le rendement locatif brut pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le rendement locatif brut pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le rendement locatif brut pour sa portée."
+    },
+    "sources": [
+      "S013"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0948",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Risque",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la vacance locative — son effet ?",
+    "choix": {
+      "A": "Elle réduit les loyers encaissés et peut dégrader le rendement effectif.",
+      "B": "Elle augmente automatiquement les loyers.",
+      "C": "Elle garantit le remboursement du crédit.",
+      "D": "Elle n'a aucun effet économique."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle réduit les loyers encaissés et peut dégrader le rendement effectif. Cette règle constitue le repère théorique à retenir concernant la vacance locative et son effet.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la vacance locative pour son effet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la vacance locative pour son effet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la vacance locative pour son effet."
+    },
+    "sources": [
+      "S064"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0949",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Denormandie",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le dispositif Denormandie — les durées d'engagement ?",
+    "choix": {
+      "A": "Il impose uniquement trois mois.",
+      "B": "Il est sans engagement de location.",
+      "C": "Il prévoit toujours vingt-cinq ans.",
+      "D": "Il prévoit des engagements de location de six, neuf ou douze ans selon les conditions applicables."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il prévoit des engagements de location de six, neuf ou douze ans selon les conditions applicables. Cette règle constitue le repère théorique à retenir concernant le dispositif Denormandie et les durées d'engagement.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le dispositif Denormandie pour les durées d'engagement.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le dispositif Denormandie pour les durées d'engagement.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le dispositif Denormandie pour les durées d'engagement."
+    },
+    "sources": [
+      "S013"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0950",
+    "domaine": "Immobilier",
+    "sous_domaine": "Copropriété",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les charges de copropriété — leur objet ?",
+    "choix": {
+      "A": "Elles remplacent les impôts sur le revenu.",
+      "B": "Elles sont identiques pour tous les lots sans règle.",
+      "C": "Elles financent les dépenses communes selon la répartition prévue par le règlement et les décisions de copropriété.",
+      "D": "Elles sont toujours payées par la banque."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elles financent les dépenses communes selon la répartition prévue par le règlement et les décisions de copropriété. Cette règle constitue le repère théorique à retenir concernant les charges de copropriété et leur objet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les charges de copropriété pour leur objet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les charges de copropriété pour leur objet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les charges de copropriété pour leur objet."
+    },
+    "sources": [
+      "S065"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  }
+]

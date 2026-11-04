@@ -2,6 +2,12 @@
 
 Banque collaborative de questions théoriques destinée à la préparation aux connaissances générales attendues d'un conseiller en gestion de patrimoine exerçant en France.
 
+## Accès direct au QCM
+
+**[Ouvrir le QCM CGP](https://yassinehimmich-1996.github.io/qcm-cgp/)**
+
+L'application est conçue en priorité pour iPhone. Elle peut être ajoutée à l'écran d'accueil depuis le menu **Partager**, puis **Sur l'écran d'accueil**. La progression, les erreurs et les favoris restent enregistrés localement sur l'appareil.
+
 ## Périmètre
 
 - questions exclusivement théoriques ;
@@ -15,29 +21,54 @@ Ce projet est indépendant. Il ne constitue ni un examen officiel, ni une banque
 
 ## État du projet
 
-- objectif : 1 000 questions originales ;
-- lot initial : 50 questions théoriques ;
-- statut initial des questions : `a_valider` ;
-- date de vérification du lot 1 : 3 novembre 2026.
+- 1 000 questions théoriques réparties en 20 lots de 50 ;
+- 190 notions-mères déclinées en cinq formulations d'entraînement, complétées par 50 questions initiales ;
+- 27 domaines présents dans la banque ;
+- 86 références publiques cataloguées ;
+- quatre réponses et une seule bonne réponse par question ;
+- aucun cas client ni calcul ;
+- statut éditorial des questions : `a_valider` ;
+- dernière génération et validation technique : 4 novembre 2026.
+
+Le statut `a_valider` est volontaire : le validateur garantit la structure et la cohérence technique, mais ne remplace pas une double revue humaine des règles fiscales, juridiques et réglementaires.
+
+## Modes d'entraînement
+
+- session rapide de 20 questions avec correction immédiate ;
+- série complète de 50 questions ;
+- examen blanc de 100 questions en 60 minutes, sans correction avant la fin ;
+- révision par domaine, par erreurs ou par favoris ;
+- suivi local du taux de réussite, des questions vues et de la meilleure série ;
+- fonctionnement installable et hors connexion après le premier chargement.
 
 ## Structure
 
 ```text
-questions/lot-001.json       Questions et corrigés structurés
-sources/sources.json         Catalogue des références publiques
-schema/question.schema.json  Contrat de données
-scripts/validate_questions.py Contrôles automatiques
-docs/referentiel.md          Répartition cible des 1 000 questions
-CONTRIBUTING.md              Processus de contribution et de revue
+index.html                         Application QCM mobile
+assets/                            Interface, logique et icônes PWA
+questions/lot-001..020.json        Questions et corrigés structurés
+data/knowledge-seeds.mjs           Notions théoriques servant à la génération
+sources/sources.json               Catalogue des références publiques
+schema/question.schema.json        Contrat de données
+scripts/validate_questions.py      Contrôles automatiques
+scripts/generate_training_bank.mjs Génération reproductible des lots
+docs/referentiel.md                Répartition pédagogique
+CONTRIBUTING.md                    Processus de contribution et de revue
 ```
 
-## Vérifier la banque
+## Vérifier la banque et l'application
 
 ```bash
-python3 scripts/validate_questions.py
+npm run check
 ```
 
-Le validateur contrôle notamment les identifiants, les quatre choix, la réponse unique, les sources, les dates et l'absence de scénarios ou de calculs manifestes.
+Le validateur contrôle notamment le total de 1 000 questions, les lots de 50, les identifiants, les doublons d'énoncé, les quatre choix, la réponse unique, les sources, les dates et l'absence de scénarios ou de calculs manifestes.
+
+Pour prévisualiser l'application en local :
+
+```bash
+npm run dev
+```
 
 ## Contribuer
 

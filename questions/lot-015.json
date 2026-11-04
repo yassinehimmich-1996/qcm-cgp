@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "CGP-2026-0701",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Actions",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur une action, quelle réponse est juste au sujet de le droit représenté ?",
+    "choix": {
+      "A": "Elle représente une fraction du capital d'une société et expose notamment au risque de perte en capital.",
+      "B": "Elle constitue toujours une créance remboursable à date fixe.",
+      "C": "Elle est un dépôt garanti par l'État.",
+      "D": "Elle verse obligatoirement un intérêt fixe."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle représente une fraction du capital d'une société et expose notamment au risque de perte en capital. Cette règle constitue le repère théorique à retenir concernant une action et le droit représenté.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à une action pour le droit représenté.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une action pour le droit représenté.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une action pour le droit représenté."
+    },
+    "sources": [
+      "S054"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0702",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Actions",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur un dividende, quelle réponse est juste au sujet de sa nature ?",
+    "choix": {
+      "A": "Il est un remboursement obligatoire du prix d'achat.",
+      "B": "Il est fixé par la Banque centrale européenne.",
+      "C": "Il est identique au coupon d'une obligation d'État dans tous les cas.",
+      "D": "Il correspond à une distribution décidée par la société et n'est pas garanti."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il correspond à une distribution décidée par la société et n'est pas garanti. Cette règle constitue le repère théorique à retenir concernant un dividende et sa nature.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un dividende pour sa nature.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un dividende pour sa nature.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un dividende pour sa nature."
+    },
+    "sources": [
+      "S054"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0703",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Obligations",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur une obligation, quelle réponse est juste au sujet de sa nature ?",
+    "choix": {
+      "A": "Elle est un livret réglementé.",
+      "B": "Elle ne comporte aucun risque de crédit.",
+      "C": "Elle représente une créance sur un émetteur, assortie de conditions de rémunération et de remboursement.",
+      "D": "Elle donne toujours un droit de vote d'actionnaire."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle représente une créance sur un émetteur, assortie de conditions de rémunération et de remboursement. Cette règle constitue le repère théorique à retenir concernant une obligation et sa nature.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une obligation pour sa nature.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une obligation pour sa nature.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une obligation pour sa nature."
+    },
+    "sources": [
+      "S032"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0704",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Obligations",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur la hausse des taux de marché, quelle réponse est juste au sujet de son effet général sur une obligation à taux fixe existante ?",
+    "choix": {
+      "A": "Elle transforme l'obligation en action.",
+      "B": "Elle tend à faire baisser le cours de l'obligation à taux fixe, toutes choses égales par ailleurs.",
+      "C": "Elle fait toujours monter son cours.",
+      "D": "Elle supprime le risque émetteur."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle tend à faire baisser le cours de l'obligation à taux fixe, toutes choses égales par ailleurs. Cette règle constitue le repère théorique à retenir concernant la hausse des taux de marché et son effet général sur une obligation à taux fixe existante.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la hausse des taux de marché pour son effet général sur une obligation à taux fixe existante.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la hausse des taux de marché pour son effet général sur une obligation à taux fixe existante.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la hausse des taux de marché pour son effet général sur une obligation à taux fixe existante."
+    },
+    "sources": [
+      "S032"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0705",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Obligations",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le risque de crédit, quelle réponse est juste au sujet de sa définition ?",
+    "choix": {
+      "A": "Il correspond au risque que l'émetteur ne respecte pas tout ou partie de ses engagements.",
+      "B": "Il mesure uniquement la volatilité d'une devise.",
+      "C": "Il est inexistant pour toute obligation.",
+      "D": "Il correspond aux frais d'entrée."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il correspond au risque que l'émetteur ne respecte pas tout ou partie de ses engagements. Cette règle constitue le repère théorique à retenir concernant le risque de crédit et sa définition.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le risque de crédit pour sa définition.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le risque de crédit pour sa définition.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le risque de crédit pour sa définition."
+    },
+    "sources": [
+      "S032"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0706",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Rendement",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur le rendement passé, quelle réponse est juste au sujet de sa portée ?",
+    "choix": {
+      "A": "Il garantit le rendement futur.",
+      "B": "Il rend inutile toute diversification.",
+      "C": "Il supprime la possibilité de perte.",
+      "D": "Il ne préjuge pas des performances futures et doit être replacé dans le niveau de risque pris."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il ne préjuge pas des performances futures et doit être replacé dans le niveau de risque pris. Cette règle constitue le repère théorique à retenir concernant le rendement passé et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le rendement passé pour sa portée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le rendement passé pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le rendement passé pour sa portée."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0707",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Volatilité",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur la volatilité, quelle réponse est juste au sujet de sa signification ?",
+    "choix": {
+      "A": "Elle correspond au coupon certain.",
+      "B": "Elle mesure uniquement les frais de tenue de compte.",
+      "C": "Elle mesure l'amplitude des variations d'un actif autour de son évolution moyenne sur une période.",
+      "D": "Elle garantit le capital."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle mesure l'amplitude des variations d'un actif autour de son évolution moyenne sur une période. Cette règle constitue le repère théorique à retenir concernant la volatilité et sa signification.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la volatilité pour sa signification.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la volatilité pour sa signification.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la volatilité pour sa signification."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0708",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Liquidité",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur la liquidité d'un placement, quelle réponse est juste au sujet de sa signification ?",
+    "choix": {
+      "A": "Elle est identique à la rentabilité.",
+      "B": "Elle traduit la possibilité de vendre ou récupérer les fonds rapidement sans forte décote.",
+      "C": "Elle désigne toujours une garantie en capital.",
+      "D": "Elle mesure la fiscalité."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle traduit la possibilité de vendre ou récupérer les fonds rapidement sans forte décote. Cette règle constitue le repère théorique à retenir concernant la liquidité d'un placement et sa signification.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la liquidité d'un placement pour sa signification.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la liquidité d'un placement pour sa signification.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la liquidité d'un placement pour sa signification."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0709",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Diversification",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur la diversification, quelle réponse est juste au sujet de son effet ?",
+    "choix": {
+      "A": "Elle réduit la concentration des risques mais n'élimine pas tous les risques de marché.",
+      "B": "Elle garantit un gain.",
+      "C": "Elle impose un actif unique.",
+      "D": "Elle augmente nécessairement chaque risque individuel."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle réduit la concentration des risques mais n'élimine pas tous les risques de marché. Cette règle constitue le repère théorique à retenir concernant la diversification et son effet.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet."
+    },
+    "sources": [
+      "S056"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0710",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Horizon",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur l'horizon de placement, quelle réponse est juste au sujet de son rôle ?",
+    "choix": {
+      "A": "Il n'a aucun lien avec le choix du produit.",
+      "B": "Il dépend seulement de l'âge du conseiller.",
+      "C": "Il garantit la performance.",
+      "D": "Il doit être cohérent avec la durée recommandée et la capacité à supporter les fluctuations."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il doit être cohérent avec la durée recommandée et la capacité à supporter les fluctuations. Cette règle constitue le repère théorique à retenir concernant l'horizon de placement et son rôle.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'horizon de placement pour son rôle.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'horizon de placement pour son rôle.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'horizon de placement pour son rôle."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0711",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur un organisme de placement collectif, quelle réponse est juste au sujet de son principe ?",
+    "choix": {
+      "A": "Il garantit nécessairement le capital.",
+      "B": "Il ne peut détenir aucun titre financier.",
+      "C": "Il regroupe l'épargne de plusieurs investisseurs dans un portefeuille géré selon une stratégie définie.",
+      "D": "Il est toujours un compte bancaire individuel."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il regroupe l'épargne de plusieurs investisseurs dans un portefeuille géré selon une stratégie définie. Cette règle constitue le repère théorique à retenir concernant un organisme de placement collectif et son principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0712",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur une SICAV, quelle réponse est juste au sujet de sa forme ?",
+    "choix": {
+      "A": "Une SICAV ne peut avoir aucune personnalité morale.",
+      "B": "Une SICAV est une société d'investissement à capital variable émettant des actions.",
+      "C": "Une SICAV est toujours un prêt immobilier.",
+      "D": "Une SICAV est un livret défiscalisé."
+    },
+    "bonne_reponse": "B",
+    "explication": "Une SICAV est une société d'investissement à capital variable émettant des actions. Cette règle constitue le repère théorique à retenir concernant une SICAV et sa forme.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une SICAV pour sa forme.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une SICAV pour sa forme.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une SICAV pour sa forme."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0713",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur un FCP, quelle réponse est juste au sujet de sa forme ?",
+    "choix": {
+      "A": "Un fonds commun de placement est une copropriété de valeurs mobilières sans personnalité morale.",
+      "B": "Il s'agit d'une société cotée obligatoire.",
+      "C": "Il est un compte de dépôt.",
+      "D": "Il garantit un taux réglementé."
+    },
+    "bonne_reponse": "A",
+    "explication": "Un fonds commun de placement est une copropriété de valeurs mobilières sans personnalité morale. Cette règle constitue le repère théorique à retenir concernant un FCP et sa forme.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un FCP pour sa forme.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un FCP pour sa forme.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un FCP pour sa forme."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0714",
+    "domaine": "Placements financiers",
+    "sous_domaine": "ETF",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur un ETF, quelle réponse est juste au sujet de son objectif habituel ?",
+    "choix": {
+      "A": "Il garantit toujours de battre l'indice.",
+      "B": "Il est sans risque de marché.",
+      "C": "Il ne peut être coté.",
+      "D": "Il cherche généralement à répliquer l'évolution d'un indice, à la hausse comme à la baisse selon sa stratégie."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il cherche généralement à répliquer l'évolution d'un indice, à la hausse comme à la baisse selon sa stratégie. Cette règle constitue le repère théorique à retenir concernant un ETF et son objectif habituel.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un ETF pour son objectif habituel.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un ETF pour son objectif habituel.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un ETF pour son objectif habituel."
+    },
+    "sources": [
+      "S033"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0715",
+    "domaine": "Placements financiers",
+    "sous_domaine": "ETF",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur un ETF exposé en devise étrangère, quelle réponse est juste au sujet de le risque de change ?",
+    "choix": {
+      "A": "La devise garantit le capital.",
+      "B": "Le risque de change remplace tous les autres risques.",
+      "C": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert.",
+      "D": "Le change n'a jamais aucun effet."
+    },
+    "bonne_reponse": "C",
+    "explication": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert. Cette règle constitue le repère théorique à retenir concernant un ETF exposé en devise étrangère et le risque de change.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change."
+    },
+    "sources": [
+      "S033"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0716",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Produits structurés",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur un produit structuré, quelle réponse est juste au sujet de la formule de remboursement ?",
+    "choix": {
+      "A": "Elle garantit nécessairement un gain illimité.",
+      "B": "Elle dépend de conditions définies à l'avance et liées à un ou plusieurs sous-jacents.",
+      "C": "Elle est toujours égale au Livret A.",
+      "D": "Elle est fixée après l'échéance sans règle préalable."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle dépend de conditions définies à l'avance et liées à un ou plusieurs sous-jacents. Cette règle constitue le repère théorique à retenir concernant un produit structuré et la formule de remboursement.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un produit structuré pour la formule de remboursement.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un produit structuré pour la formule de remboursement.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un produit structuré pour la formule de remboursement."
+    },
+    "sources": [
+      "S035"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0717",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Produits structurés",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur la protection du capital à l'échéance, quelle réponse est juste au sujet de sa portée ?",
+    "choix": {
+      "A": "Elle ne vaut que dans les conditions prévues et reste exposée notamment au risque de défaut de l'émetteur.",
+      "B": "Elle protège contre tout risque avant l'échéance.",
+      "C": "Elle rend l'émetteur sans importance.",
+      "D": "Elle s'applique à tout produit structuré sans exception."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle ne vaut que dans les conditions prévues et reste exposée notamment au risque de défaut de l'émetteur. Cette règle constitue le repère théorique à retenir concernant la protection du capital à l'échéance et sa portée.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée."
+    },
+    "sources": [
+      "S035"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0718",
+    "domaine": "Placements immobiliers",
+    "sous_domaine": "SCPI",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur une SCPI, quelle réponse est juste au sujet de le capital ?",
+    "choix": {
+      "A": "Le capital est garanti par l'État.",
+      "B": "Le rendement est fixé par la BCE.",
+      "C": "La valeur ne peut jamais baisser.",
+      "D": "Le capital investi et le rendement ne sont pas garantis."
+    },
+    "bonne_reponse": "D",
+    "explication": "Le capital investi et le rendement ne sont pas garantis. Cette règle constitue le repère théorique à retenir concernant une SCPI et le capital.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une SCPI pour le capital.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une SCPI pour le capital.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une SCPI pour le capital."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0719",
+    "domaine": "Placements immobiliers",
+    "sous_domaine": "SCPI",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur les parts de SCPI, quelle réponse est juste au sujet de la liquidité ?",
+    "choix": {
+      "A": "Elles sont remboursées à vue par la Banque de France.",
+      "B": "Elles ne peuvent jamais être cédées.",
+      "C": "La revente peut prendre du temps et dépend de l'existence d'une contrepartie ou des modalités du fonds.",
+      "D": "La liquidité est instantanée et garantie."
+    },
+    "bonne_reponse": "C",
+    "explication": "La revente peut prendre du temps et dépend de l'existence d'une contrepartie ou des modalités du fonds. Cette règle constitue le repère théorique à retenir concernant les parts de SCPI et la liquidité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les parts de SCPI pour la liquidité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les parts de SCPI pour la liquidité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les parts de SCPI pour la liquidité."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0720",
+    "domaine": "Placements immobiliers",
+    "sous_domaine": "SCPI",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur les revenus d'une SCPI, quelle réponse est juste au sujet de leur variabilité ?",
+    "choix": {
+      "A": "Elles constituent un intérêt réglementé.",
+      "B": "Les distributions dépendent notamment des loyers encaissés, des charges et de la gestion du patrimoine.",
+      "C": "Elles sont fixes par la loi.",
+      "D": "Elles ne dépendent jamais de l'occupation des immeubles."
+    },
+    "bonne_reponse": "B",
+    "explication": "Les distributions dépendent notamment des loyers encaissés, des charges et de la gestion du patrimoine. Cette règle constitue le repère théorique à retenir concernant les revenus d'une SCPI et leur variabilité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les revenus d'une SCPI pour leur variabilité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les revenus d'une SCPI pour leur variabilité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les revenus d'une SCPI pour leur variabilité."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0721",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le PEA bancaire classique, quelle réponse est juste au sujet de le plafond de versements ?",
+    "choix": {
+      "A": "Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan.",
+      "B": "Le plafond est de 22 950 euros.",
+      "C": "Le plafond est de 12 000 euros.",
+      "D": "Les versements sont sans plafond."
+    },
+    "bonne_reponse": "A",
+    "explication": "Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan. Cette règle constitue le repère théorique à retenir concernant le PEA bancaire classique et le plafond de versements.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0722",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur l'ouverture d'un PEA, quelle réponse est juste au sujet de le domicile fiscal ?",
+    "choix": {
+      "A": "Elle est réservée aux sociétés.",
+      "B": "Elle exige un domicile fiscal hors de France.",
+      "C": "Elle ne comporte aucune condition de résidence fiscale.",
+      "D": "L'ouverture est réservée aux personnes fiscalement domiciliées en France, sous les règles applicables."
+    },
+    "bonne_reponse": "D",
+    "explication": "L'ouverture est réservée aux personnes fiscalement domiciliées en France, sous les règles applicables. Cette règle constitue le repère théorique à retenir concernant l'ouverture d'un PEA et le domicile fiscal.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'ouverture d'un PEA pour le domicile fiscal.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'ouverture d'un PEA pour le domicile fiscal.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'ouverture d'un PEA pour le domicile fiscal."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0723",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur un retrait après cinq ans, quelle réponse est juste au sujet de l'effet sur le plan ?",
+    "choix": {
+      "A": "Il rend tous les gains imposables comme des salaires.",
+      "B": "Il transforme le plan en Livret A.",
+      "C": "Il n'entraîne en principe plus la clôture et de nouveaux versements peuvent rester possibles.",
+      "D": "Il clôture toujours le plan immédiatement."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il n'entraîne en principe plus la clôture et de nouveaux versements peuvent rester possibles. Cette règle constitue le repère théorique à retenir concernant un retrait après cinq ans et l'effet sur le plan.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0724",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur les gains d'un PEA après cinq ans, quelle réponse est juste au sujet de l'impôt sur le revenu ?",
+    "choix": {
+      "A": "Ils deviennent des revenus fonciers.",
+      "B": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables.",
+      "C": "Ils sont toujours exonérés de tous prélèvements.",
+      "D": "Ils sont toujours soumis au barème sans exonération."
+    },
+    "bonne_reponse": "B",
+    "explication": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables. Cette règle constitue le repère théorique à retenir concernant les gains d'un PEA après cinq ans et l'impôt sur le revenu.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les gains d'un PEA après cinq ans pour l'impôt sur le revenu.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les gains d'un PEA après cinq ans pour l'impôt sur le revenu.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les gains d'un PEA après cinq ans pour l'impôt sur le revenu."
+    },
+    "sources": [
+      "S030"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0725",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur les titres éligibles au PEA, quelle réponse est juste au sujet de leur périmètre ?",
+    "choix": {
+      "A": "L'enveloppe vise principalement les actions européennes et certains fonds respectant les critères d'éligibilité.",
+      "B": "Tous les actifs mondiaux y sont éligibles sans condition.",
+      "C": "Seuls les livrets bancaires y sont admis.",
+      "D": "Aucune action ne peut être détenue."
+    },
+    "bonne_reponse": "A",
+    "explication": "L'enveloppe vise principalement les actions européennes et certains fonds respectant les critères d'éligibilité. Cette règle constitue le repère théorique à retenir concernant les titres éligibles au PEA et leur périmètre.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les titres éligibles au PEA pour leur périmètre.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les titres éligibles au PEA pour leur périmètre.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les titres éligibles au PEA pour leur périmètre."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0726",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur le compte-titres ordinaire, quelle réponse est juste au sujet de son univers d'investissement ?",
+    "choix": {
+      "A": "Il est limité aux seuls titres éligibles au PEA.",
+      "B": "Il garantit le capital.",
+      "C": "Il est réservé aux mineurs émancipés.",
+      "D": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables. Cette règle constitue le repère théorique à retenir concernant le compte-titres ordinaire et son univers d'investissement.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement."
+    },
+    "sources": [
+      "S057"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0727",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le compte-titres ordinaire, quelle réponse est juste au sujet de son plafond de versements ?",
+    "choix": {
+      "A": "Son plafond est de 22 950 euros.",
+      "B": "Son plafond est toujours égal au revenu annuel.",
+      "C": "Il ne comporte pas de plafond réglementaire général de versements comparable à celui du PEA.",
+      "D": "Son plafond est de 150 000 euros."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il ne comporte pas de plafond réglementaire général de versements comparable à celui du PEA. Cette règle constitue le repère théorique à retenir concernant le compte-titres ordinaire et son plafond de versements.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son plafond de versements.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son plafond de versements.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son plafond de versements."
+    },
+    "sources": [
+      "S057"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0728",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur les revenus et plus-values du compte-titres, quelle réponse est juste au sujet de leur fiscalité ?",
+    "choix": {
+      "A": "Ils ne sont jamais déclarables.",
+      "B": "Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe.",
+      "C": "Ils sont toujours exonérés après cinq ans.",
+      "D": "Ils sont traités comme des intérêts de Livret A."
+    },
+    "bonne_reponse": "B",
+    "explication": "Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe. Cette règle constitue le repère théorique à retenir concernant les revenus et plus-values du compte-titres et leur fiscalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0729",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Contrat de capitalisation",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur le contrat de capitalisation, quelle réponse est juste au sujet de la personne assurée ?",
+    "choix": {
+      "A": "Il repose sur une logique de capitalisation et ne se dénoue pas par le décès d'un assuré comme l'assurance-vie.",
+      "B": "Il impose toujours un bénéficiaire décès.",
+      "C": "Il est un compte de dépôt à vue.",
+      "D": "Il ne peut être transmis."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il repose sur une logique de capitalisation et ne se dénoue pas par le décès d'un assuré comme l'assurance-vie. Cette règle constitue le repère théorique à retenir concernant le contrat de capitalisation et la personne assurée.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le contrat de capitalisation pour la personne assurée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le contrat de capitalisation pour la personne assurée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le contrat de capitalisation pour la personne assurée."
+    },
+    "sources": [
+      "S058"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0730",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Contrat de capitalisation",
+    "difficulte": "expert",
+    "enonce": "Dans un QCM portant sur la transmission d'un contrat de capitalisation, quelle réponse est juste au sujet de son principe ?",
+    "choix": {
+      "A": "Il disparaît toujours au décès.",
+      "B": "Il est automatiquement versé hors succession à un bénéficiaire.",
+      "C": "Il est incessible dans toutes les situations.",
+      "D": "Le contrat peut faire partie du patrimoine transmis et conserver son enveloppe selon les règles applicables."
+    },
+    "bonne_reponse": "D",
+    "explication": "Le contrat peut faire partie du patrimoine transmis et conserver son enveloppe selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant la transmission d'un contrat de capitalisation et son principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe."
+    },
+    "sources": [
+      "S058"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0731",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur le PER individuel, quelle réponse est juste au sujet de son objectif ?",
+    "choix": {
+      "A": "Il remplace le compte courant.",
+      "B": "Il garantit un rendement réglementé.",
+      "C": "Il vise la constitution d'une épargne de long terme principalement destinée à la retraite.",
+      "D": "Il sert uniquement aux paiements quotidiens."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il vise la constitution d'une épargne de long terme principalement destinée à la retraite. Cette règle constitue le repère théorique à retenir concernant le PER individuel et son objectif.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le PER individuel pour son objectif.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le PER individuel pour son objectif.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le PER individuel pour son objectif."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0732",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur les versements volontaires déductibles, quelle réponse est juste au sujet de leur effet fiscal à l'entrée ?",
+    "choix": {
+      "A": "Ils suppriment les prélèvements sociaux futurs.",
+      "B": "Ils peuvent réduire le revenu imposable dans la limite du plafond de déduction disponible.",
+      "C": "Ils sont toujours sans effet fiscal.",
+      "D": "Ils ouvrent un crédit d'impôt illimité."
+    },
+    "bonne_reponse": "B",
+    "explication": "Ils peuvent réduire le revenu imposable dans la limite du plafond de déduction disponible. Cette règle constitue le repère théorique à retenir concernant les versements volontaires déductibles et leur effet fiscal à l'entrée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les versements volontaires déductibles pour leur effet fiscal à l'entrée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les versements volontaires déductibles pour leur effet fiscal à l'entrée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les versements volontaires déductibles pour leur effet fiscal à l'entrée."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0733",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur la déduction des versements volontaires, quelle réponse est juste au sujet de son caractère ?",
+    "choix": {
+      "A": "Elle constitue une option fiscale et doit être appréciée au regard de la fiscalité à l'entrée et à la sortie.",
+      "B": "Elle est toujours obligatoire.",
+      "C": "Elle rend toute sortie exonérée.",
+      "D": "Elle dépend du cours du CAC 40."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle constitue une option fiscale et doit être appréciée au regard de la fiscalité à l'entrée et à la sortie. Cette règle constitue le repère théorique à retenir concernant la déduction des versements volontaires et son caractère.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la déduction des versements volontaires pour son caractère.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la déduction des versements volontaires pour son caractère.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la déduction des versements volontaires pour son caractère."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0734",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur l'acquisition de la résidence principale, quelle réponse est juste au sujet de le déblocage anticipé ?",
+    "choix": {
+      "A": "Elle n'est jamais admise.",
+      "B": "Elle permet uniquement une sortie en rente.",
+      "C": "Elle transforme le PER en PEA.",
+      "D": "Elle constitue un cas de déblocage anticipé de l'épargne, sous les règles applicables."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle constitue un cas de déblocage anticipé de l'épargne, sous les règles applicables. Cette règle constitue le repère théorique à retenir concernant l'acquisition de la résidence principale et le déblocage anticipé.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'acquisition de la résidence principale pour le déblocage anticipé.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'acquisition de la résidence principale pour le déblocage anticipé.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'acquisition de la résidence principale pour le déblocage anticipé."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0735",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur les accidents de la vie prévus par la loi, quelle réponse est juste au sujet de le déblocage anticipé ?",
+    "choix": {
+      "A": "Ils autorisent un retrait mensuel libre sans condition.",
+      "B": "Ils concernent uniquement le Livret A.",
+      "C": "Ils peuvent permettre une sortie anticipée avant la retraite dans les cas limitativement prévus.",
+      "D": "Ils n'ont jamais d'effet."
+    },
+    "bonne_reponse": "C",
+    "explication": "Ils peuvent permettre une sortie anticipée avant la retraite dans les cas limitativement prévus. Cette règle constitue le repère théorique à retenir concernant les accidents de la vie prévus par la loi et le déblocage anticipé.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les accidents de la vie prévus par la loi pour le déblocage anticipé.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les accidents de la vie prévus par la loi pour le déblocage anticipé.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les accidents de la vie prévus par la loi pour le déblocage anticipé."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0736",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur l'épargne issue de versements volontaires, quelle réponse est juste au sujet de la sortie à la retraite ?",
+    "choix": {
+      "A": "Elle doit être donnée à l'assureur.",
+      "B": "Elle peut en principe être liquidée en capital, en rente ou en combinant les deux, selon les règles du compartiment.",
+      "C": "Elle ne peut sortir qu'en actions.",
+      "D": "Elle est toujours versée uniquement en rente."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle peut en principe être liquidée en capital, en rente ou en combinant les deux, selon les règles du compartiment. Cette règle constitue le repère théorique à retenir concernant l'épargne issue de versements volontaires et la sortie à la retraite.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de versements volontaires pour la sortie à la retraite.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de versements volontaires pour la sortie à la retraite.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de versements volontaires pour la sortie à la retraite."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0737",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur l'épargne issue de cotisations obligatoires, quelle réponse est juste au sujet de la sortie ?",
+    "choix": {
+      "A": "Elle est en principe orientée vers une sortie en rente, hors exceptions légales.",
+      "B": "Elle sort toujours librement en capital.",
+      "C": "Elle devient un dépôt à vue.",
+      "D": "Elle est exonérée de toute règle de blocage."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle est en principe orientée vers une sortie en rente, hors exceptions légales. Cette règle constitue le repère théorique à retenir concernant l'épargne issue de cotisations obligatoires et la sortie.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de cotisations obligatoires pour la sortie.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de cotisations obligatoires pour la sortie.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'épargne issue de cotisations obligatoires pour la sortie."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0738",
+    "domaine": "Retraite",
+    "sous_domaine": "Gestion pilotée",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur la gestion pilotée à horizon du PER, quelle réponse est juste au sujet de son principe ?",
+    "choix": {
+      "A": "Elle augmente toujours le risque à l'approche de la retraite.",
+      "B": "Elle garantit la performance.",
+      "C": "Elle interdit tout support prudent.",
+      "D": "Elle réduit généralement progressivement l'exposition aux actifs risqués à l'approche de l'échéance."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle réduit généralement progressivement l'exposition aux actifs risqués à l'approche de l'échéance. Cette règle constitue le repère théorique à retenir concernant la gestion pilotée à horizon du PER et son principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la gestion pilotée à horizon du PER pour son principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la gestion pilotée à horizon du PER pour son principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la gestion pilotée à horizon du PER pour son principe."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0739",
+    "domaine": "Épargne salariale",
+    "sous_domaine": "PEE",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le plan d'épargne entreprise, quelle réponse est juste au sujet de la durée d'indisponibilité de principe ?",
+    "choix": {
+      "A": "Elles sont toujours disponibles le lendemain.",
+      "B": "Elles ne peuvent recevoir aucun abondement.",
+      "C": "Les sommes sont en principe indisponibles pendant cinq ans, sauf cas de déblocage anticipé.",
+      "D": "Elles sont bloquées toute la vie."
+    },
+    "bonne_reponse": "C",
+    "explication": "Les sommes sont en principe indisponibles pendant cinq ans, sauf cas de déblocage anticipé. Cette règle constitue le repère théorique à retenir concernant le plan d'épargne entreprise et la durée d'indisponibilité de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le plan d'épargne entreprise pour la durée d'indisponibilité de principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le plan d'épargne entreprise pour la durée d'indisponibilité de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le plan d'épargne entreprise pour la durée d'indisponibilité de principe."
+    },
+    "sources": [
+      "S059"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0740",
+    "domaine": "Épargne salariale",
+    "sous_domaine": "Abondement",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur l'abondement de l'employeur, quelle réponse est juste au sujet de sa nature ?",
+    "choix": {
+      "A": "Il est versé uniquement à l'État.",
+      "B": "Il complète l'épargne du salarié dans les limites et conditions du dispositif.",
+      "C": "Il constitue un crédit remboursable à la banque.",
+      "D": "Il remplace le salaire obligatoire."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il complète l'épargne du salarié dans les limites et conditions du dispositif. Cette règle constitue le repère théorique à retenir concernant l'abondement de l'employeur et sa nature.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'abondement de l'employeur pour sa nature.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'abondement de l'employeur pour sa nature.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'abondement de l'employeur pour sa nature."
+    },
+    "sources": [
+      "S059"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0741",
+    "domaine": "Fiscalité",
+    "sous_domaine": "PFU",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le prélèvement forfaitaire unique, quelle réponse est juste au sujet de sa composition de principe ?",
+    "choix": {
+      "A": "Il associe une composante d'impôt sur le revenu et des prélèvements sociaux au taux applicable.",
+      "B": "Il est composé uniquement de TVA.",
+      "C": "Il ne concerne jamais les revenus mobiliers.",
+      "D": "Il correspond à un abattement successoral."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il associe une composante d'impôt sur le revenu et des prélèvements sociaux au taux applicable. Cette règle constitue le repère théorique à retenir concernant le prélèvement forfaitaire unique et sa composition de principe.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le prélèvement forfaitaire unique pour sa composition de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le prélèvement forfaitaire unique pour sa composition de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le prélèvement forfaitaire unique pour sa composition de principe."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0742",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Option au barème",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur l'option pour le barème progressif sur les revenus mobiliers, quelle réponse est juste au sujet de sa portée ?",
+    "choix": {
+      "A": "Elle peut être choisie ligne par ligne pour chaque dividende.",
+      "B": "Elle est réservée aux non-résidents.",
+      "C": "Elle supprime toute déclaration.",
+      "D": "Elle est globale pour les revenus et gains entrant dans son champ au titre de l'année concernée."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle est globale pour les revenus et gains entrant dans son champ au titre de l'année concernée. Cette règle constitue le repère théorique à retenir concernant l'option pour le barème progressif sur les revenus mobiliers et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'option pour le barème progressif sur les revenus mobiliers pour sa portée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'option pour le barème progressif sur les revenus mobiliers pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'option pour le barème progressif sur les revenus mobiliers pour sa portée."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0743",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Dividendes",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur les dividendes d'actions détenues en compte-titres, quelle réponse est juste au sujet de leur catégorie fiscale ?",
+    "choix": {
+      "A": "Ils sont toujours exonérés.",
+      "B": "Ils constituent un remboursement de prêt.",
+      "C": "Ils relèvent en principe des revenus de capitaux mobiliers.",
+      "D": "Ils sont des revenus fonciers."
+    },
+    "bonne_reponse": "C",
+    "explication": "Ils relèvent en principe des revenus de capitaux mobiliers. Cette règle constitue le repère théorique à retenir concernant les dividendes d'actions détenues en compte-titres et leur catégorie fiscale.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les dividendes d'actions détenues en compte-titres pour leur catégorie fiscale.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les dividendes d'actions détenues en compte-titres pour leur catégorie fiscale.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les dividendes d'actions détenues en compte-titres pour leur catégorie fiscale."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0744",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Plus-values mobilières",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur une plus-value de cession de valeurs mobilières, quelle réponse est juste au sujet de son assiette ?",
+    "choix": {
+      "A": "Elle est toujours nulle.",
+      "B": "Elle correspond en principe à la différence positive entre prix de cession et prix ou valeur d'acquisition, ajustée selon les règles fiscales.",
+      "C": "Elle est égale au montant total vendu.",
+      "D": "Elle correspond uniquement aux dividendes."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle correspond en principe à la différence positive entre prix de cession et prix ou valeur d'acquisition, ajustée selon les règles fiscales. Cette règle constitue le repère théorique à retenir concernant une plus-value de cession de valeurs mobilières et son assiette.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une plus-value de cession de valeurs mobilières pour son assiette.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une plus-value de cession de valeurs mobilières pour son assiette.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une plus-value de cession de valeurs mobilières pour son assiette."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0745",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Moins-values mobilières",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur les moins-values de cession de valeurs mobilières, quelle réponse est juste au sujet de leur imputation ?",
+    "choix": {
+      "A": "Elles peuvent s'imputer sur les plus-values de même nature selon les règles et délais fiscaux applicables.",
+      "B": "Elles s'imputent toujours sur les salaires.",
+      "C": "Elles sont remboursées intégralement par la banque.",
+      "D": "Elles n'ont jamais aucun effet fiscal."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elles peuvent s'imputer sur les plus-values de même nature selon les règles et délais fiscaux applicables. Cette règle constitue le repère théorique à retenir concernant les moins-values de cession de valeurs mobilières et leur imputation.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les moins-values de cession de valeurs mobilières pour leur imputation.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les moins-values de cession de valeurs mobilières pour leur imputation.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les moins-values de cession de valeurs mobilières pour leur imputation."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0746",
+    "domaine": "Fiscalité",
+    "sous_domaine": "IFI",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur l'impôt sur la fortune immobilière, quelle réponse est juste au sujet de son assiette générale ?",
+    "choix": {
+      "A": "Il porte sur tous les livrets réglementés.",
+      "B": "Il taxe uniquement les salaires.",
+      "C": "Il remplace l'impôt sur le revenu.",
+      "D": "Il vise le patrimoine immobilier net taxable des foyers dépassant le seuil légal."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il vise le patrimoine immobilier net taxable des foyers dépassant le seuil légal. Cette règle constitue le repère théorique à retenir concernant l'impôt sur la fortune immobilière et son assiette générale.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'impôt sur la fortune immobilière pour son assiette générale.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'impôt sur la fortune immobilière pour son assiette générale.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'impôt sur la fortune immobilière pour son assiette générale."
+    },
+    "sources": [
+      "S060"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0747",
+    "domaine": "Fiscalité",
+    "sous_domaine": "IFI",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur les dettes déductibles de l'IFI, quelle réponse est juste au sujet de leur principe ?",
+    "choix": {
+      "A": "Aucune dette ne peut jamais être déduite.",
+      "B": "Les dettes sont ajoutées à l'actif taxable.",
+      "C": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles.",
+      "D": "Toutes les dettes personnelles sont automatiquement déductibles."
+    },
+    "bonne_reponse": "C",
+    "explication": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles. Cette règle constitue le repère théorique à retenir concernant les dettes déductibles de l'IFI et leur principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les dettes déductibles de l'IFI pour leur principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les dettes déductibles de l'IFI pour leur principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les dettes déductibles de l'IFI pour leur principe."
+    },
+    "sources": [
+      "S060"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0748",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Assurance-vie",
+    "difficulte": "expert",
+    "enonce": "Dans un QCM portant sur les unités de compte immobilières dans l'assurance-vie, quelle réponse est juste au sujet de l'IFI ?",
+    "choix": {
+      "A": "Seuls les fonds en euros sont taxables comme immeubles.",
+      "B": "La fraction représentative d'actifs immobiliers peut entrer dans l'assiette de l'IFI selon les règles et exclusions applicables.",
+      "C": "L'assurance-vie est toujours totalement hors IFI.",
+      "D": "La totalité du contrat est toujours taxable sans distinction."
+    },
+    "bonne_reponse": "B",
+    "explication": "La fraction représentative d'actifs immobiliers peut entrer dans l'assiette de l'IFI selon les règles et exclusions applicables. Cette règle constitue le repère théorique à retenir concernant les unités de compte immobilières dans l'assurance-vie et l'IFI.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les unités de compte immobilières dans l'assurance-vie pour l'IFI.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les unités de compte immobilières dans l'assurance-vie pour l'IFI.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les unités de compte immobilières dans l'assurance-vie pour l'IFI."
+    },
+    "sources": [
+      "S060"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0749",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Prélèvements sociaux",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur les prélèvements sociaux sur les placements, quelle réponse est juste au sujet de leur champ ?",
+    "choix": {
+      "A": "Ils s'appliquent à de nombreux revenus et gains selon des taux et règles pouvant différer selon le produit et la date.",
+      "B": "Ils ne s'appliquent jamais aux placements.",
+      "C": "Ils remplacent toute fiscalité locale.",
+      "D": "Ils ont un taux universel inchangé pour tous les produits."
+    },
+    "bonne_reponse": "A",
+    "explication": "Ils s'appliquent à de nombreux revenus et gains selon des taux et règles pouvant différer selon le produit et la date. Cette règle constitue le repère théorique à retenir concernant les prélèvements sociaux sur les placements et leur champ.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les prélèvements sociaux sur les placements pour leur champ.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les prélèvements sociaux sur les placements pour leur champ.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les prélèvements sociaux sur les placements pour leur champ."
+    },
+    "sources": [
+      "S039"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0750",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Revenus fonciers",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur les loyers nus, quelle réponse est juste au sujet de leur catégorie fiscale ?",
+    "choix": {
+      "A": "Ils sont des bénéfices industriels et commerciaux dans tous les cas.",
+      "B": "Ils sont des dividendes.",
+      "C": "Ils sont toujours exonérés.",
+      "D": "Ils relèvent en principe des revenus fonciers, après application du régime correspondant."
+    },
+    "bonne_reponse": "D",
+    "explication": "Ils relèvent en principe des revenus fonciers, après application du régime correspondant. Cette règle constitue le repère théorique à retenir concernant les loyers nus et leur catégorie fiscale.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les loyers nus pour leur catégorie fiscale.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les loyers nus pour leur catégorie fiscale.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les loyers nus pour leur catégorie fiscale."
+    },
+    "sources": [
+      "S061"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  }
+]

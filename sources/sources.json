@@ -7,7 +7,11 @@
       "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/certification-professionnelle",
       "date_document": "2026-05-06",
       "date_consultation": "2026-11-03",
-      "sujets": ["certification AMF", "format de l'examen", "seuils de réussite"]
+      "sujets": [
+        "certification AMF",
+        "format de l'examen",
+        "seuils de réussite"
+      ]
     },
     {
       "id": "S002",
@@ -16,7 +20,12 @@
       "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-bien-conseille/les-obligations-de-votre-intermediaire-financier",
       "date_document": "date de mise à jour non indiquée",
       "date_consultation": "2026-11-03",
-      "sujets": ["MIF 2", "connaissance client", "adéquation", "conseil"]
+      "sujets": [
+        "MIF 2",
+        "connaissance client",
+        "adéquation",
+        "conseil"
+      ]
     },
     {
       "id": "S003",
@@ -25,7 +34,11 @@
       "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036979532/",
       "date_document": "2018-06-01",
       "date_consultation": "2026-11-03",
-      "sujets": ["DDA", "formation continue assurance", "quinze heures"]
+      "sujets": [
+        "DDA",
+        "formation continue assurance",
+        "quinze heures"
+      ]
     },
     {
       "id": "S004",
@@ -34,7 +47,11 @@
       "url": "https://acpr.banque-france.fr/system/files/2024-12/20241022_recommandation_2024-R-03_0.pdf",
       "date_document": "2024-11-21",
       "date_consultation": "2026-11-03",
-      "sujets": ["devoir de conseil", "assurance", "suivi dans la durée"]
+      "sujets": [
+        "devoir de conseil",
+        "assurance",
+        "suivi dans la durée"
+      ]
     },
     {
       "id": "S005",
@@ -43,7 +60,11 @@
       "url": "https://www.economie.gouv.fr/hcsf/mesures/mesure-relative-loctroi-de-credits-immobiliers",
       "date_document": "2023-12-18",
       "date_consultation": "2026-11-03",
-      "sujets": ["taux d'effort", "durée", "marge de flexibilité"]
+      "sujets": [
+        "taux d'effort",
+        "durée",
+        "marge de flexibilité"
+      ]
     },
     {
       "id": "S006",
@@ -52,7 +73,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F16123",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["crédit immobilier", "délai de réflexion", "offre de prêt"]
+      "sujets": [
+        "crédit immobilier",
+        "délai de réflexion",
+        "offre de prêt"
+      ]
     },
     {
       "id": "S007",
@@ -61,7 +86,10 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F2440",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["crédit à la consommation", "rétractation"]
+      "sujets": [
+        "crédit à la consommation",
+        "rétractation"
+      ]
     },
     {
       "id": "S008",
@@ -70,7 +98,11 @@
       "url": "https://www.abe-infoservice.fr/fr/banque/credit/que-faut-il-savoir-sur-le-taux-annuel-effectif-global-taeg",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["TAEG", "coût du crédit", "frais obligatoires"]
+      "sujets": [
+        "TAEG",
+        "coût du crédit",
+        "frais obligatoires"
+      ]
     },
     {
       "id": "S009",
@@ -79,7 +111,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F10871",
       "date_document": "2026-03-06",
       "date_consultation": "2026-11-03",
-      "sujets": ["PTZ", "primo-accession", "résidence principale"]
+      "sujets": [
+        "PTZ",
+        "primo-accession",
+        "résidence principale"
+      ]
     },
     {
       "id": "S010",
@@ -88,7 +124,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F1671",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["assurance emprunteur", "questionnaire de santé", "substitution"]
+      "sujets": [
+        "assurance emprunteur",
+        "questionnaire de santé",
+        "substitution"
+      ]
     },
     {
       "id": "S011",
@@ -97,7 +137,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F16096",
       "date_document": "2026-01-01",
       "date_consultation": "2026-11-03",
-      "sujets": ["DPE", "électricité", "facteur de conversion"]
+      "sujets": [
+        "DPE",
+        "électricité",
+        "facteur de conversion"
+      ]
     },
     {
       "id": "S012",
@@ -106,7 +150,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F2042",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["décence énergétique", "location", "calendrier DPE"]
+      "sujets": [
+        "décence énergétique",
+        "location",
+        "calendrier DPE"
+      ]
     },
     {
       "id": "S013",
@@ -115,7 +163,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F35011",
       "date_document": "2026-03-11",
       "date_consultation": "2026-11-03",
-      "sujets": ["Denormandie", "immobilier locatif", "durée d'engagement"]
+      "sujets": [
+        "Denormandie",
+        "immobilier locatif",
+        "durée d'engagement"
+      ]
     },
     {
       "id": "S014",
@@ -124,7 +176,11 @@
       "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432422/",
       "date_document": "version en vigueur",
       "date_consultation": "2026-11-03",
-      "sujets": ["indivision", "occupation privative", "indemnité"]
+      "sujets": [
+        "indivision",
+        "occupation privative",
+        "indemnité"
+      ]
     },
     {
       "id": "S015",
@@ -133,7 +189,11 @@
       "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429233/",
       "date_document": "version en vigueur",
       "date_consultation": "2026-11-03",
-      "sujets": ["usufruit", "jouissance", "fruits"]
+      "sujets": [
+        "usufruit",
+        "jouissance",
+        "fruits"
+      ]
     },
     {
       "id": "S016",
@@ -142,7 +202,12 @@
       "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310173/",
       "date_document": "version en vigueur",
       "date_consultation": "2026-11-03",
-      "sujets": ["démembrement", "usufruit", "nue-propriété", "barème fiscal"]
+      "sujets": [
+        "démembrement",
+        "usufruit",
+        "nue-propriété",
+        "barème fiscal"
+      ]
     },
     {
       "id": "S017",
@@ -151,7 +216,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F835",
       "date_document": "2026-04-27",
       "date_consultation": "2026-11-03",
-      "sujets": ["régime matrimonial", "biens propres", "biens communs"]
+      "sujets": [
+        "régime matrimonial",
+        "biens propres",
+        "biens communs"
+      ]
     },
     {
       "id": "S018",
@@ -160,7 +229,11 @@
       "url": "https://www.courdecassation.fr/en/decision/607976129ba5988459c49f22",
       "date_document": "2012-09-26",
       "date_consultation": "2026-11-03",
-      "sujets": ["accession", "terrain propre", "récompense"]
+      "sujets": [
+        "accession",
+        "terrain propre",
+        "récompense"
+      ]
     },
     {
       "id": "S019",
@@ -169,7 +242,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F1621",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["Pacs", "succession", "testament"]
+      "sujets": [
+        "Pacs",
+        "succession",
+        "testament"
+      ]
     },
     {
       "id": "S020",
@@ -178,7 +255,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F1270",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["succession", "conjoint survivant", "enfants non communs"]
+      "sujets": [
+        "succession",
+        "conjoint survivant",
+        "enfants non communs"
+      ]
     },
     {
       "id": "S021",
@@ -187,7 +268,11 @@
       "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["donation", "abattement parent-enfant", "délai de rappel"]
+      "sujets": [
+        "donation",
+        "abattement parent-enfant",
+        "délai de rappel"
+      ]
     },
     {
       "id": "S022",
@@ -196,7 +281,12 @@
       "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/supports-dinvestissement/assurance-vie",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["assurance-vie", "unités de compte", "risque", "arbitrage"]
+      "sujets": [
+        "assurance-vie",
+        "unités de compte",
+        "risque",
+        "arbitrage"
+      ]
     },
     {
       "id": "S023",
@@ -205,7 +295,11 @@
       "url": "https://bofip.impots.gouv.fr/bofip/3951-PGP.html/identifiant=BOI-RPPM-RCM-20-10-20-50-20220630",
       "date_document": "2022-06-30",
       "date_consultation": "2026-11-03",
-      "sujets": ["assurance-vie", "rachat partiel", "quote-part de produits"]
+      "sujets": [
+        "assurance-vie",
+        "rachat partiel",
+        "quote-part de produits"
+      ]
     },
     {
       "id": "S024",
@@ -214,7 +308,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F22414",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["assurance-vie", "rachat", "abattement après huit ans"]
+      "sujets": [
+        "assurance-vie",
+        "rachat",
+        "abattement après huit ans"
+      ]
     },
     {
       "id": "S025",
@@ -223,7 +321,11 @@
       "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047288653/",
       "date_document": "version en vigueur",
       "date_consultation": "2026-11-03",
-      "sujets": ["assurance-vie", "décès", "primes avant 70 ans"]
+      "sujets": [
+        "assurance-vie",
+        "décès",
+        "primes avant 70 ans"
+      ]
     },
     {
       "id": "S026",
@@ -232,7 +334,11 @@
       "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047288569/",
       "date_document": "version en vigueur",
       "date_consultation": "2026-11-03",
-      "sujets": ["assurance-vie", "décès", "primes après 70 ans"]
+      "sujets": [
+        "assurance-vie",
+        "décès",
+        "primes après 70 ans"
+      ]
     },
     {
       "id": "S027",
@@ -241,7 +347,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F2386",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["clause bénéficiaire", "acceptation", "rachat"]
+      "sujets": [
+        "clause bénéficiaire",
+        "acceptation",
+        "rachat"
+      ]
     },
     {
       "id": "S028",
@@ -250,7 +360,12 @@
       "url": "https://www.abe-infoservice.fr/fr/assurance/assurance-prevoyance",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["prévoyance", "incapacité", "invalidité", "exclusions"]
+      "sujets": [
+        "prévoyance",
+        "incapacité",
+        "invalidité",
+        "exclusions"
+      ]
     },
     {
       "id": "S029",
@@ -259,7 +374,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F2385",
       "date_document": "2026-05-22",
       "date_consultation": "2026-11-03",
-      "sujets": ["PEA", "plafond", "retrait après cinq ans"]
+      "sujets": [
+        "PEA",
+        "plafond",
+        "retrait après cinq ans"
+      ]
     },
     {
       "id": "S030",
@@ -268,7 +387,11 @@
       "url": "https://www.impots.gouv.fr/particulier/questions/jai-un-plan-depargne-en-actions-pea-les-retraits-sont-ils-imposables",
       "date_document": "2026-07-17",
       "date_consultation": "2026-11-03",
-      "sujets": ["PEA", "fiscalité", "prélèvements sociaux"]
+      "sujets": [
+        "PEA",
+        "fiscalité",
+        "prélèvements sociaux"
+      ]
     },
     {
       "id": "S031",
@@ -277,7 +400,12 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F34982",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["PER", "déblocage anticipé", "résidence principale", "versements déductibles"]
+      "sujets": [
+        "PER",
+        "déblocage anticipé",
+        "résidence principale",
+        "versements déductibles"
+      ]
     },
     {
       "id": "S032",
@@ -286,7 +414,12 @@
       "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/actions-obligations/obligations/comprendre-les-obligations",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["obligations", "taux", "cours", "risque de crédit"]
+      "sujets": [
+        "obligations",
+        "taux",
+        "cours",
+        "risque de crédit"
+      ]
     },
     {
       "id": "S033",
@@ -295,7 +428,11 @@
       "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/supports-dinvestissement/trackers-etf",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["ETF", "risque de change", "diversification"]
+      "sujets": [
+        "ETF",
+        "risque de change",
+        "diversification"
+      ]
     },
     {
       "id": "S034",
@@ -304,7 +441,11 @@
       "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/placements-immobiliers/scpi",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["SCPI", "liquidité", "capital non garanti"]
+      "sujets": [
+        "SCPI",
+        "liquidité",
+        "capital non garanti"
+      ]
     },
     {
       "id": "S035",
@@ -313,7 +454,11 @@
       "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/produits-complexes/produits-structures",
       "date_document": "date de mise à jour indiquée sur la page",
       "date_consultation": "2026-11-03",
-      "sujets": ["produits structurés", "garantie à l'échéance", "risque émetteur"]
+      "sujets": [
+        "produits structurés",
+        "garantie à l'échéance",
+        "risque émetteur"
+      ]
     },
     {
       "id": "S036",
@@ -322,7 +467,11 @@
       "url": "https://www.impots.gouv.fr/particulier/questions/jai-des-valeurs-mobilieres-comment-sont-elles-imposees",
       "date_document": "2026-03-20",
       "date_consultation": "2026-11-03",
-      "sujets": ["revenus mobiliers", "prélèvement forfaitaire unique", "prélèvements sociaux"]
+      "sujets": [
+        "revenus mobiliers",
+        "prélèvement forfaitaire unique",
+        "prélèvements sociaux"
+      ]
     },
     {
       "id": "S037",
@@ -331,7 +480,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F2365",
       "date_document": "2026-08-01",
       "date_consultation": "2026-11-03",
-      "sujets": ["Livret A", "plafond", "intérêts"]
+      "sujets": [
+        "Livret A",
+        "plafond",
+        "intérêts"
+      ]
     },
     {
       "id": "S038",
@@ -340,7 +493,11 @@
       "url": "https://www.economie.gouv.fr/tracfin",
       "date_document": "date de mise à jour indiquée sur le site",
       "date_consultation": "2026-11-03",
-      "sujets": ["LCB-FT", "déclaration de soupçon", "confidentialité"]
+      "sujets": [
+        "LCB-FT",
+        "déclaration de soupçon",
+        "confidentialité"
+      ]
     },
     {
       "id": "S039",
@@ -349,7 +506,621 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F2329",
       "date_document": "2026-06-30",
       "date_consultation": "2026-11-03",
-      "sujets": ["prélèvements sociaux", "revenus mobiliers", "taux 2026"]
+      "sujets": [
+        "prélèvements sociaux",
+        "revenus mobiliers",
+        "taux 2026"
+      ]
+    },
+    {
+      "id": "S040",
+      "nom": "Livret de développement durable et solidaire (LDDS)",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F2368",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "LDDS",
+        "plafond",
+        "fiscalité"
+      ]
+    },
+    {
+      "id": "S041",
+      "nom": "Livret d'épargne populaire (LEP)",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F2367",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "LEP",
+        "conditions de revenus",
+        "fiscalité"
+      ]
+    },
+    {
+      "id": "S042",
+      "nom": "Ce qu'il faut savoir sur les placements collectifs",
+      "organisme": "Autorité des marchés financiers",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/placements-collectifs/ce-quil-faut-savoir-sur-les-placements-collectifs-fonds-et-sicav",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "OPC",
+        "Sicav",
+        "FCP",
+        "valeur liquidative"
+      ]
+    },
+    {
+      "id": "S043",
+      "nom": "Règles en matière d'héritage : défunt ayant eu des enfants",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F2529",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "succession",
+        "réserve héréditaire",
+        "quotité disponible"
+      ]
+    },
+    {
+      "id": "S044",
+      "nom": "Indivision : gestion des biens indivis",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F1296",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "indivision",
+        "majorités",
+        "gestion"
+      ]
+    },
+    {
+      "id": "S045",
+      "nom": "Contrat de mariage : séparation de biens",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F948",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "régime matrimonial",
+        "séparation de biens"
+      ]
+    },
+    {
+      "id": "S046",
+      "nom": "Changement ou modification de régime matrimonial",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F1535",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "régime matrimonial",
+        "changement",
+        "notaire"
+      ]
+    },
+    {
+      "id": "S047",
+      "nom": "Donation-partage",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F1266",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "donation-partage",
+        "transmission"
+      ]
+    },
+    {
+      "id": "S048",
+      "nom": "Acceptation d'une succession à concurrence de l'actif net",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/R49718",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "succession",
+        "option successorale",
+        "actif net"
+      ]
+    },
+    {
+      "id": "S049",
+      "nom": "Assurance prévoyance",
+      "organisme": "ABE Infoservice",
+      "url": "https://www.abe-infoservice.fr/fr/assurance/assurance-prevoyance",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "prévoyance",
+        "incapacité",
+        "invalidité",
+        "décès"
+      ]
+    },
+    {
+      "id": "S050",
+      "nom": "Comptes et livrets d'épargne : quelles différences ?",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F34393",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "Livret jeune",
+        "livrets",
+        "plafonds"
+      ]
+    },
+    {
+      "id": "S051",
+      "nom": "Plan épargne logement (PEL)",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F16140",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "PEL",
+        "épargne logement",
+        "fiscalité"
+      ]
+    },
+    {
+      "id": "S052",
+      "nom": "Comptes et livrets d'épargne : quelles différences ?",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F34393",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "compte à terme",
+        "livrets",
+        "disponibilité"
+      ]
+    },
+    {
+      "id": "S053",
+      "nom": "Questions fréquentes sur la garantie des dépôts et des titres",
+      "organisme": "Fonds de Garantie des Dépôts et de Résolution",
+      "url": "https://www.garantiedesdepots.fr/fr/questions-frequentes",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "garantie des dépôts",
+        "garantie des titres",
+        "plafonds"
+      ]
+    },
+    {
+      "id": "S054",
+      "nom": "Investir en actions cotées en bourse",
+      "organisme": "Autorité des marchés financiers",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/actions-obligations/actions/investir-en-actions-cotees-en-bourse",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "actions",
+        "dividendes",
+        "droits de l'actionnaire"
+      ]
+    },
+    {
+      "id": "S055",
+      "nom": "Rendement et risque des placements en actions",
+      "organisme": "Autorité des marchés financiers",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/cadrer-son-projet/rendement-et-risque-des-placements-en-actions-0",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "risque",
+        "rendement",
+        "volatilité"
+      ]
+    },
+    {
+      "id": "S056",
+      "nom": "Diversifier ses placements",
+      "organisme": "Autorité des marchés financiers",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/conseils-pratiques/diversifier-ses-placements",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "diversification",
+        "corrélation",
+        "risque"
+      ]
+    },
+    {
+      "id": "S057",
+      "nom": "Compte-titres",
+      "organisme": "Autorité des marchés financiers",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/supports-dinvestissement/compte-titres",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "compte-titres",
+        "instruments financiers"
+      ]
+    },
+    {
+      "id": "S058",
+      "nom": "Produits des contrats de capitalisation et d'assurance-vie",
+      "organisme": "BOFiP-Impôts",
+      "url": "https://bofip.impots.gouv.fr/bofip/3951-PGP.html/identifiant=BOI-RPPM-RCM-20-10-20-50-20220630",
+      "date_document": "2022-06-30",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "contrat de capitalisation",
+        "fiscalité"
+      ]
+    },
+    {
+      "id": "S059",
+      "nom": "Plan d'épargne entreprise (PEE)",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F2142",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "PEE",
+        "épargne salariale",
+        "abondement"
+      ]
+    },
+    {
+      "id": "S060",
+      "nom": "Personnes imposables à l'impôt sur la fortune immobilière",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/particulier/personnes-imposables-lifi",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "IFI",
+        "patrimoine immobilier",
+        "seuil"
+      ]
+    },
+    {
+      "id": "S061",
+      "nom": "Revenus immobiliers des non-résidents",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/international-particulier/questions/je-suis-non-resident-je-percois-des-revenus-immobiliers-sagit-i",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "revenus fonciers",
+        "non-résidents",
+        "location"
+      ]
+    },
+    {
+      "id": "S062",
+      "nom": "Bail d'habitation : logement vide ou meublé",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F1165",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "location vide",
+        "bail",
+        "durée"
+      ]
+    },
+    {
+      "id": "S063",
+      "nom": "Bail d'habitation : logement vide ou meublé",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F1165",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "location meublée",
+        "bail",
+        "durée"
+      ]
+    },
+    {
+      "id": "S064",
+      "nom": "Investissement locatif : simulation et bonnes pratiques",
+      "organisme": "Agence nationale pour l'information sur le logement",
+      "url": "https://www.anil.org/outil-mise-en-location-simulation-investissement-immobilier-rendement/",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "investissement locatif",
+        "vacance",
+        "rendement"
+      ]
+    },
+    {
+      "id": "S065",
+      "nom": "Charges de copropriété",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F2590",
+      "date_document": "2026-02-18",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "copropriété",
+        "charges",
+        "répartition"
+      ]
+    },
+    {
+      "id": "S066",
+      "nom": "Placements financiers : quelle information sur les frais ?",
+      "organisme": "Autorité des marchés financiers",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/cadrer-son-projet/comparer-les-frais/placements-financiers-quelle-information-sur-les-frais",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "frais",
+        "information",
+        "MIF 2"
+      ]
+    },
+    {
+      "id": "S067",
+      "nom": "Orientations sur les exigences de gouvernance des produits au titre de MIF 2",
+      "organisme": "Autorité des marchés financiers",
+      "url": "https://www.amf-france.org/fr/reglementation/doctrine/doc-2018-04",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "MIF 2",
+        "marché cible",
+        "gouvernance produit"
+      ]
+    },
+    {
+      "id": "S068",
+      "nom": "Exigences d'adéquation issues de MIF 2",
+      "organisme": "Autorité des marchés financiers",
+      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/exigences-dadequation-issues-de-la-directive-mif-2-lamf-applique-les-orientations-de-lesma",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "MIF 2",
+        "adéquation",
+        "durabilité",
+        "arbitrage"
+      ]
+    },
+    {
+      "id": "S069",
+      "nom": "Formuler une réclamation",
+      "organisme": "Autorité de contrôle prudentiel et de résolution",
+      "url": "https://acpr.banque-france.fr/fr/particuliers/vos-moyens-daction/formuler-une-reclamation",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "réclamation",
+        "délais",
+        "médiation"
+      ]
+    },
+    {
+      "id": "S070",
+      "nom": "Lignes directrices relatives à l'identification et à la connaissance de la clientèle",
+      "organisme": "Autorité de contrôle prudentiel et de résolution",
+      "url": "https://acpr.banque-france.fr/fr/publications-et-statistiques/publications/lignes-directrices-relatives-lidentification-la-verification-de-lidentite-et-la-connaissance-de-la",
+      "date_document": "2026-09-24",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "LCB-FT",
+        "identification",
+        "bénéficiaire effectif",
+        "vigilance"
+      ]
+    },
+    {
+      "id": "S071",
+      "nom": "Règlement européen sur la protection des données",
+      "organisme": "CNIL",
+      "url": "https://www.cnil.fr/fr/reglement-europeen-protection-donnees",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "RGPD",
+        "droits",
+        "minimisation",
+        "sécurité"
+      ]
+    },
+    {
+      "id": "S072",
+      "nom": "Durées de conservation des données du secteur de l'assurance",
+      "organisme": "CNIL",
+      "url": "https://www.cnil.fr/fr/les-durees-de-conservation-des-donnees-du-secteur-de-lassurance",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "RGPD",
+        "conservation",
+        "prospects"
+      ]
+    },
+    {
+      "id": "S073",
+      "nom": "Compte bancaire joint",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F10412",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "compte joint",
+        "cotitulaires",
+        "incident de chèque"
+      ]
+    },
+    {
+      "id": "S074",
+      "nom": "Compte bancaire individuel",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F2413",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "mobilité bancaire",
+        "clôture",
+        "compte"
+      ]
+    },
+    {
+      "id": "S075",
+      "nom": "Faire valoir son droit au compte bancaire",
+      "organisme": "Banque de France",
+      "url": "https://www.banque-france.fr/fr/a-votre-service/particuliers/faire-valoir-droit-au-compte-bancaire",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "droit au compte",
+        "services bancaires de base"
+      ]
+    },
+    {
+      "id": "S076",
+      "nom": "Fraude à la carte bancaire",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F31324",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "fraude",
+        "carte bancaire",
+        "opposition"
+      ]
+    },
+    {
+      "id": "S077",
+      "nom": "Clôture d'un compte bancaire par la banque",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F31456",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "clôture de compte",
+        "préavis"
+      ]
+    },
+    {
+      "id": "S078",
+      "nom": "Déposer un dossier de surendettement",
+      "organisme": "Banque de France",
+      "url": "https://www.banque-france.fr/fr/a-votre-service/particuliers/dossier-surendettement",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "surendettement",
+        "FICP",
+        "procédure"
+      ]
+    },
+    {
+      "id": "S079",
+      "nom": "Faire face à des difficultés financières ou à des dettes",
+      "organisme": "ABE Infoservice",
+      "url": "https://www.abe-infoservice.fr/fr/a-votre-service/particuliers/faire-face-difficultes-financieres-ou-dettes",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "fragilité financière",
+        "offre spécifique",
+        "frais bancaires"
+      ]
+    },
+    {
+      "id": "S080",
+      "nom": "Inflation et déflation",
+      "organisme": "Banque de France",
+      "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/inflation-et-deflation",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "inflation",
+        "déflation",
+        "pouvoir d'achat"
+      ]
+    },
+    {
+      "id": "S081",
+      "nom": "Les taux directeurs",
+      "organisme": "Banque de France",
+      "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-taux-directeurs",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "taux directeurs",
+        "politique monétaire",
+        "crédit"
+      ]
+    },
+    {
+      "id": "S082",
+      "nom": "Comprendre nos simulateurs de frais et d'épargne",
+      "organisme": "Autorité des marchés financiers",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/lexique-simulateurs-et-outils-pratiques/nos-simulateurs",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "capitalisation",
+        "intérêts",
+        "frais"
+      ]
+    },
+    {
+      "id": "S083",
+      "nom": "Obligations de l'intermédiaire financier",
+      "organisme": "Autorité des marchés financiers",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-bien-conseille/les-obligations-de-votre-intermediaire-financier",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "conflits d'intérêts",
+        "déontologie",
+        "conseil"
+      ]
+    },
+    {
+      "id": "S084",
+      "nom": "Résident de France : domicile fiscal",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/resident-de-france",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "résidence fiscale",
+        "domicile fiscal",
+        "conventions"
+      ]
+    },
+    {
+      "id": "S085",
+      "nom": "Transferts d'informations en application de CRS/DAC2",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/transferts-dinformations-en-application-des-dispositifs-crsdac2",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "CRS",
+        "échange automatique",
+        "résidence fiscale"
+      ]
+    },
+    {
+      "id": "S086",
+      "nom": "Transferts d'informations en application de FATCA",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/transferts-dinformations-en-application-de-la-loi-fatca",
+      "date_document": "date de mise à jour indiquée sur la page",
+      "date_consultation": "2026-11-04",
+      "sujets": [
+        "FATCA",
+        "États-Unis",
+        "déclaration"
+      ]
     }
   ]
 }

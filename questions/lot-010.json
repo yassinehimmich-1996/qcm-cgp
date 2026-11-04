@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "CGP-2026-0451",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "Offre de prêt",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur le délai de réflexion de l'offre de crédit immobilier ?",
+    "choix": {
+      "A": "Elle doit être acceptée le jour de sa réception.",
+      "B": "Elle ouvre un délai de rétractation de quarante-cinq jours.",
+      "C": "Elle ne comporte aucun délai protecteur.",
+      "D": "Elle ne peut être acceptée qu'après le délai légal de réflexion de dix jours."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle ne peut être acceptée qu'après le délai légal de réflexion de dix jours. Cette règle constitue le repère théorique à retenir concernant l'offre de crédit immobilier et le délai de réflexion.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'offre de crédit immobilier pour le délai de réflexion.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'offre de crédit immobilier pour le délai de réflexion.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'offre de crédit immobilier pour le délai de réflexion."
+    },
+    "sources": [
+      "S006"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0452",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "Normes HCSF",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur le plafond de principe de le taux d'effort ?",
+    "choix": {
+      "A": "L'assurance emprunteur est exclue du calcul.",
+      "B": "Aucun plafond de principe n'existe.",
+      "C": "Le plafond de principe est de 35 %, assurance emprunteur comprise, sous réserve de la flexibilité admise.",
+      "D": "Le plafond est toujours de 50 %."
+    },
+    "bonne_reponse": "C",
+    "explication": "Le plafond de principe est de 35 %, assurance emprunteur comprise, sous réserve de la flexibilité admise. Cette règle constitue le repère théorique à retenir concernant le taux d'effort et le plafond de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le taux d'effort pour le plafond de principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le taux d'effort pour le plafond de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le taux d'effort pour le plafond de principe."
+    },
+    "sources": [
+      "S005"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0453",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "Normes HCSF",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur la maturité maximale de principe de la durée d'un crédit immobilier ?",
+    "choix": {
+      "A": "La garantie hypothécaire supprime toute limite.",
+      "B": "La maturité maximale de principe est de vingt-cinq ans, avec certains cas de différé encadré.",
+      "C": "La durée maximale est toujours de quinze ans.",
+      "D": "Tout prêt peut durer quarante ans."
+    },
+    "bonne_reponse": "B",
+    "explication": "La maturité maximale de principe est de vingt-cinq ans, avec certains cas de différé encadré. Cette règle constitue le repère théorique à retenir concernant la durée d'un crédit immobilier et la maturité maximale de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la durée d'un crédit immobilier pour la maturité maximale de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la durée d'un crédit immobilier pour la maturité maximale de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la durée d'un crédit immobilier pour la maturité maximale de principe."
+    },
+    "sources": [
+      "S005"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0454",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "Décision de crédit",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur le droit au crédit de le respect des normes HCSF ?",
+    "choix": {
+      "A": "Le respect des critères ne crée aucun droit à l'obtention du financement.",
+      "B": "Il oblige la banque à prêter.",
+      "C": "Il interdit toute analyse de solvabilité.",
+      "D": "Il vaut acceptation définitive de l'offre."
+    },
+    "bonne_reponse": "A",
+    "explication": "Le respect des critères ne crée aucun droit à l'obtention du financement. Cette règle constitue le repère théorique à retenir concernant le respect des normes HCSF et le droit au crédit.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le respect des normes HCSF pour le droit au crédit.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le respect des normes HCSF pour le droit au crédit.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le respect des normes HCSF pour le droit au crédit."
+    },
+    "sources": [
+      "S005"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0455",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "TAEG",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa finalité de le TAEG ?",
+    "choix": {
+      "A": "Il mesure uniquement l'inflation.",
+      "B": "Il correspond toujours au taux nominal.",
+      "C": "Il exclut tous les frais nécessaires à l'obtention du prêt.",
+      "D": "Il permet d'apprécier et de comparer le coût global obligatoire du crédit sur une base annuelle."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il permet d'apprécier et de comparer le coût global obligatoire du crédit sur une base annuelle. Cette règle constitue le repère théorique à retenir concernant le TAEG et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le TAEG pour sa finalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le TAEG pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le TAEG pour sa finalité."
+    },
+    "sources": [
+      "S008"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0456",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "TAEG",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur leur inclusion dans le TAEG de les droits de mutation ?",
+    "choix": {
+      "A": "Ils remplacent le taux nominal.",
+      "B": "Ils sont des frais d'assurance emprunteur.",
+      "C": "Ils ne constituent pas, par nature, un coût nécessaire à l'obtention du crédit et n'entrent pas comme tels dans le TAEG.",
+      "D": "Ils sont toujours assimilés aux intérêts."
+    },
+    "bonne_reponse": "C",
+    "explication": "Ils ne constituent pas, par nature, un coût nécessaire à l'obtention du crédit et n'entrent pas comme tels dans le TAEG. Cette règle constitue le repère théorique à retenir concernant les droits de mutation et leur inclusion dans le TAEG.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les droits de mutation pour leur inclusion dans le TAEG.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les droits de mutation pour leur inclusion dans le TAEG.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les droits de mutation pour leur inclusion dans le TAEG."
+    },
+    "sources": [
+      "S008"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0457",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "Amortissement",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur son fonctionnement de un prêt amortissable ?",
+    "choix": {
+      "A": "La mensualité ne peut jamais varier contractuellement.",
+      "B": "Chaque échéance comprend en principe une part d'intérêts et une part de remboursement du capital.",
+      "C": "Le capital est toujours remboursé uniquement au terme.",
+      "D": "Aucun intérêt n'est dû."
+    },
+    "bonne_reponse": "B",
+    "explication": "Chaque échéance comprend en principe une part d'intérêts et une part de remboursement du capital. Cette règle constitue le repère théorique à retenir concernant un prêt amortissable et son fonctionnement.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un prêt amortissable pour son fonctionnement.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un prêt amortissable pour son fonctionnement.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un prêt amortissable pour son fonctionnement."
+    },
+    "sources": [
+      "S008"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0458",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "Prêt in fine",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur le remboursement du capital de un prêt in fine ?",
+    "choix": {
+      "A": "Le capital est remboursé en une fois à l'échéance, selon le contrat.",
+      "B": "Le capital est amorti intégralement dès la première mensualité.",
+      "C": "Les intérêts sont interdits.",
+      "D": "Aucune garantie ne peut être demandée."
+    },
+    "bonne_reponse": "A",
+    "explication": "Le capital est remboursé en une fois à l'échéance, selon le contrat. Cette règle constitue le repère théorique à retenir concernant un prêt in fine et le remboursement du capital.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un prêt in fine pour le remboursement du capital.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un prêt in fine pour le remboursement du capital.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un prêt in fine pour le remboursement du capital."
+    },
+    "sources": [
+      "S008"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0459",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "Prêt relais",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa finalité de un prêt relais ?",
+    "choix": {
+      "A": "Il remplace définitivement tout apport.",
+      "B": "Il sert uniquement à payer des impôts.",
+      "C": "Il est une assurance contre la baisse des prix.",
+      "D": "Il finance temporairement le décalage entre une acquisition et la vente d'un bien existant."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il finance temporairement le décalage entre une acquisition et la vente d'un bien existant. Cette règle constitue le repère théorique à retenir concernant un prêt relais et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un prêt relais pour sa finalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un prêt relais pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un prêt relais pour sa finalité."
+    },
+    "sources": [
+      "S008"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0460",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "PTZ",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son caractère de le prêt à taux zéro ?",
+    "choix": {
+      "A": "Il est accordé sans aucune condition.",
+      "B": "Il porte un taux librement fixé par la banque.",
+      "C": "Il s'agit d'un prêt complémentaire réglementé soumis notamment à des conditions de ressources et d'opération.",
+      "D": "Il finance toujours 100 % de toute acquisition."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il s'agit d'un prêt complémentaire réglementé soumis notamment à des conditions de ressources et d'opération. Cette règle constitue le repère théorique à retenir concernant le prêt à taux zéro et son caractère.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le prêt à taux zéro pour son caractère.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le prêt à taux zéro pour son caractère.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le prêt à taux zéro pour son caractère."
+    },
+    "sources": [
+      "S009"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0461",
+    "domaine": "Crédit à la consommation",
+    "sous_domaine": "Rétractation",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur le délai de rétractation de principe de le crédit à la consommation ?",
+    "choix": {
+      "A": "Le délai est de trois mois ouvrés.",
+      "B": "Le délai de rétractation est de quatorze jours calendaires à compter de l'acceptation.",
+      "C": "Le délai est toujours de deux jours.",
+      "D": "Aucun délai n'existe."
+    },
+    "bonne_reponse": "B",
+    "explication": "Le délai de rétractation est de quatorze jours calendaires à compter de l'acceptation. Cette règle constitue le repère théorique à retenir concernant le crédit à la consommation et le délai de rétractation de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le crédit à la consommation pour le délai de rétractation de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le crédit à la consommation pour le délai de rétractation de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le crédit à la consommation pour le délai de rétractation de principe."
+    },
+    "sources": [
+      "S007"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0462",
+    "domaine": "Crédit à la consommation",
+    "sous_domaine": "Information",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa fonction de la fiche précontractuelle ?",
+    "choix": {
+      "A": "Elle présente les caractéristiques essentielles du crédit avant l'engagement.",
+      "B": "Elle remplace toute analyse de solvabilité.",
+      "C": "Elle vaut ordre de virement irrévocable.",
+      "D": "Elle n'est remise qu'après le remboursement."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle présente les caractéristiques essentielles du crédit avant l'engagement. Cette règle constitue le repère théorique à retenir concernant la fiche précontractuelle et sa fonction.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la fiche précontractuelle pour sa fonction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la fiche précontractuelle pour sa fonction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la fiche précontractuelle pour sa fonction."
+    },
+    "sources": [
+      "S007"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0463",
+    "domaine": "Crédit à la consommation",
+    "sous_domaine": "Solvabilité",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son objet de l'évaluation de solvabilité ?",
+    "choix": {
+      "A": "Elle garantit l'acceptation du dossier.",
+      "B": "Elle porte uniquement sur la valeur d'un bien immobilier.",
+      "C": "Elle est facultative pour tout crédit renouvelable.",
+      "D": "Elle vise à apprécier la capacité de l'emprunteur à respecter ses obligations de remboursement."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle vise à apprécier la capacité de l'emprunteur à respecter ses obligations de remboursement. Cette règle constitue le repère théorique à retenir concernant l'évaluation de solvabilité et son objet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'évaluation de solvabilité pour son objet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'évaluation de solvabilité pour son objet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'évaluation de solvabilité pour son objet."
+    },
+    "sources": [
+      "S007"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0464",
+    "domaine": "Crédit à la consommation",
+    "sous_domaine": "Crédit renouvelable",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa réserve de le crédit renouvelable ?",
+    "choix": {
+      "A": "Il s'agit toujours d'un prêt immobilier.",
+      "B": "Le taux est nécessairement nul.",
+      "C": "La réserve disponible se reconstitue au fur et à mesure des remboursements, dans les limites contractuelles.",
+      "D": "Le capital ne peut jamais être réutilisé."
+    },
+    "bonne_reponse": "C",
+    "explication": "La réserve disponible se reconstitue au fur et à mesure des remboursements, dans les limites contractuelles. Cette règle constitue le repère théorique à retenir concernant le crédit renouvelable et sa réserve.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le crédit renouvelable pour sa réserve.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le crédit renouvelable pour sa réserve.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le crédit renouvelable pour sa réserve."
+    },
+    "sources": [
+      "S007"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0465",
+    "domaine": "Assurance emprunteur",
+    "sous_domaine": "Substitution",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur le changement de contrat de l'assurance emprunteur immobilière ?",
+    "choix": {
+      "A": "La banque doit accepter un niveau de garantie inférieur.",
+      "B": "Elle peut être substituée à tout moment, sous réserve notamment de l'équivalence des garanties exigées.",
+      "C": "Elle ne peut jamais être changée.",
+      "D": "Elle ne peut changer que tous les dix ans."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle peut être substituée à tout moment, sous réserve notamment de l'équivalence des garanties exigées. Cette règle constitue le repère théorique à retenir concernant l'assurance emprunteur immobilière et le changement de contrat.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'assurance emprunteur immobilière pour le changement de contrat.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'assurance emprunteur immobilière pour le changement de contrat.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'assurance emprunteur immobilière pour le changement de contrat."
+    },
+    "sources": [
+      "S010"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0466",
+    "domaine": "Assurance emprunteur",
+    "sous_domaine": "Questionnaire de santé",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur ses conditions cumulatives de la dispense de questionnaire médical ?",
+    "choix": {
+      "A": "Elle peut s'appliquer si la part assurée n'excède pas le seuil légal et si le prêt est remboursé avant le soixantième anniversaire.",
+      "B": "Elle s'applique à tout crédit sans condition.",
+      "C": "Elle dépend uniquement de la nationalité.",
+      "D": "Elle est réservée aux crédits à la consommation."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle peut s'appliquer si la part assurée n'excède pas le seuil légal et si le prêt est remboursé avant le soixantième anniversaire. Cette règle constitue le repère théorique à retenir concernant la dispense de questionnaire médical et ses conditions cumulatives.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la dispense de questionnaire médical pour ses conditions cumulatives.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la dispense de questionnaire médical pour ses conditions cumulatives.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la dispense de questionnaire médical pour ses conditions cumulatives."
+    },
+    "sources": [
+      "S010"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0467",
+    "domaine": "Assurance emprunteur",
+    "sous_domaine": "Garanties",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur son objet de la garantie décès ?",
+    "choix": {
+      "A": "Elle rembourse les loyers impayés.",
+      "B": "Elle garantit la valeur de revente du bien.",
+      "C": "Elle couvre automatiquement toute perte d'emploi.",
+      "D": "Elle prévoit, dans les limites du contrat, la prise en charge du capital assuré en cas de décès."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle prévoit, dans les limites du contrat, la prise en charge du capital assuré en cas de décès. Cette règle constitue le repère théorique à retenir concernant la garantie décès et son objet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la garantie décès pour son objet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la garantie décès pour son objet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la garantie décès pour son objet."
+    },
+    "sources": [
+      "S010"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0468",
+    "domaine": "Assurance emprunteur",
+    "sous_domaine": "Quotité",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa signification de la quotité assurée ?",
+    "choix": {
+      "A": "Elle fixe le prix de vente du logement.",
+      "B": "Elle remplace la durée du crédit.",
+      "C": "Elle représente la part du capital couverte sur la tête de chaque assuré.",
+      "D": "Elle désigne le taux nominal du prêt."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle représente la part du capital couverte sur la tête de chaque assuré. Cette règle constitue le repère théorique à retenir concernant la quotité assurée et sa signification.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la quotité assurée pour sa signification.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la quotité assurée pour sa signification.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la quotité assurée pour sa signification."
+    },
+    "sources": [
+      "S010"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0469",
+    "domaine": "Assurance emprunteur",
+    "sous_domaine": "Équivalence",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur son appréciation de l'équivalence des garanties ?",
+    "choix": {
+      "A": "Elle interdit toute délégation d'assurance.",
+      "B": "Elle se vérifie au regard des critères exigés par le prêteur pour le financement concerné.",
+      "C": "Elle dépend seulement du prix de la prime.",
+      "D": "Elle exige la même compagnie d'assurance."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle se vérifie au regard des critères exigés par le prêteur pour le financement concerné. Cette règle constitue le repère théorique à retenir concernant l'équivalence des garanties et son appréciation.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'équivalence des garanties pour son appréciation.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'équivalence des garanties pour son appréciation.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'équivalence des garanties pour son appréciation."
+    },
+    "sources": [
+      "S010"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0470",
+    "domaine": "Crédit",
+    "sous_domaine": "Taux",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa portée de le taux nominal ?",
+    "choix": {
+      "A": "Il sert principalement au calcul des intérêts et ne résume pas à lui seul le coût total du crédit.",
+      "B": "Il inclut nécessairement tous les frais et assurances.",
+      "C": "Il est toujours supérieur au TAEG.",
+      "D": "Il mesure la valeur du bien financé."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il sert principalement au calcul des intérêts et ne résume pas à lui seul le coût total du crédit. Cette règle constitue le repère théorique à retenir concernant le taux nominal et sa portée.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le taux nominal pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le taux nominal pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le taux nominal pour sa portée."
+    },
+    "sources": [
+      "S008"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0471",
+    "domaine": "Droit civil",
+    "sous_domaine": "Usufruit",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur son contenu de l'usufruit ?",
+    "choix": {
+      "A": "Il confère toujours la pleine propriété.",
+      "B": "Il interdit toute perception de loyers.",
+      "C": "Il n'existe que pour les comptes bancaires.",
+      "D": "Il confère l'usage du bien et le droit d'en percevoir les fruits, à charge d'en conserver la substance."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il confère l'usage du bien et le droit d'en percevoir les fruits, à charge d'en conserver la substance. Cette règle constitue le repère théorique à retenir concernant l'usufruit et son contenu.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'usufruit pour son contenu.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'usufruit pour son contenu.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'usufruit pour son contenu."
+    },
+    "sources": [
+      "S015"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0472",
+    "domaine": "Droit civil",
+    "sous_domaine": "Nue-propriété",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son contenu de la nue-propriété ?",
+    "choix": {
+      "A": "Elle donne automatiquement tous les revenus.",
+      "B": "Elle est identique à une location.",
+      "C": "Elle conserve le droit de disposer de la substance du bien, sous réserve des droits de l'usufruitier.",
+      "D": "Elle permet toujours d'occuper seul le bien."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle conserve le droit de disposer de la substance du bien, sous réserve des droits de l'usufruitier. Cette règle constitue le repère théorique à retenir concernant la nue-propriété et son contenu.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la nue-propriété pour son contenu.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la nue-propriété pour son contenu.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la nue-propriété pour son contenu."
+    },
+    "sources": [
+      "S015"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0473",
+    "domaine": "Droit civil",
+    "sous_domaine": "Démembrement",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur la réunion des droits de l'extinction de l'usufruit viager ?",
+    "choix": {
+      "A": "Le bien doit toujours être vendu.",
+      "B": "Au décès de l'usufruitier, l'usufruit s'éteint et la pleine propriété se reconstitue en principe chez le nu-propriétaire.",
+      "C": "Le bien devient automatiquement propriété de l'État.",
+      "D": "Le nu-propriétaire perd tous ses droits."
+    },
+    "bonne_reponse": "B",
+    "explication": "Au décès de l'usufruitier, l'usufruit s'éteint et la pleine propriété se reconstitue en principe chez le nu-propriétaire. Cette règle constitue le repère théorique à retenir concernant l'extinction de l'usufruit viager et la réunion des droits.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'extinction de l'usufruit viager pour la réunion des droits.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'extinction de l'usufruit viager pour la réunion des droits.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'extinction de l'usufruit viager pour la réunion des droits."
+    },
+    "sources": [
+      "S015"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0474",
+    "domaine": "Droit civil",
+    "sous_domaine": "Indivision",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur l'indemnité de l'occupation privative d'un bien indivis ?",
+    "choix": {
+      "A": "Elle peut donner lieu à une indemnité envers l'indivision, sauf convention contraire.",
+      "B": "Elle est nécessairement gratuite.",
+      "C": "Elle transfère la pleine propriété après un an.",
+      "D": "Elle entraîne automatiquement le partage."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle peut donner lieu à une indemnité envers l'indivision, sauf convention contraire. Cette règle constitue le repère théorique à retenir concernant l'occupation privative d'un bien indivis et l'indemnité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à l'occupation privative d'un bien indivis pour l'indemnité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'occupation privative d'un bien indivis pour l'indemnité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'occupation privative d'un bien indivis pour l'indemnité."
+    },
+    "sources": [
+      "S014"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0475",
+    "domaine": "Droit civil",
+    "sous_domaine": "Indivision",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur la règle de décision de la vente d'un bien indivis ?",
+    "choix": {
+      "A": "Un indivisaire peut toujours vendre seul le bien entier.",
+      "B": "La majorité simple suffit toujours.",
+      "C": "Aucune décision collective n'est nécessaire.",
+      "D": "Les actes de disposition les plus importants requièrent en principe l'unanimité, sous réserve des dérogations légales."
+    },
+    "bonne_reponse": "D",
+    "explication": "Les actes de disposition les plus importants requièrent en principe l'unanimité, sous réserve des dérogations légales. Cette règle constitue le repère théorique à retenir concernant la vente d'un bien indivis et la règle de décision.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la vente d'un bien indivis pour la règle de décision.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la vente d'un bien indivis pour la règle de décision.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la vente d'un bien indivis pour la règle de décision."
+    },
+    "sources": [
+      "S044"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0476",
+    "domaine": "Régimes matrimoniaux",
+    "sous_domaine": "Communauté légale",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa qualification de un bien reçu par succession pendant le mariage ?",
+    "choix": {
+      "A": "Il appartient automatiquement pour moitié au conjoint.",
+      "B": "Il est sans propriétaire jusqu'au divorce.",
+      "C": "Il demeure en principe un bien propre de l'époux héritier.",
+      "D": "Il devient toujours commun."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il demeure en principe un bien propre de l'époux héritier. Cette règle constitue le repère théorique à retenir concernant un bien reçu par succession pendant le mariage et sa qualification.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un bien reçu par succession pendant le mariage pour sa qualification.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un bien reçu par succession pendant le mariage pour sa qualification.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un bien reçu par succession pendant le mariage pour sa qualification."
+    },
+    "sources": [
+      "S017"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0477",
+    "domaine": "Régimes matrimoniaux",
+    "sous_domaine": "Communauté légale",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur leur qualification de principe de les revenus professionnels des époux ?",
+    "choix": {
+      "A": "Ils sont placés automatiquement en indivision successorale.",
+      "B": "Ils alimentent en principe la communauté pendant le mariage.",
+      "C": "Ils restent toujours des biens propres insaisissables.",
+      "D": "Ils appartiennent aux parents des époux."
+    },
+    "bonne_reponse": "B",
+    "explication": "Ils alimentent en principe la communauté pendant le mariage. Cette règle constitue le repère théorique à retenir concernant les revenus professionnels des époux et leur qualification de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les revenus professionnels des époux pour leur qualification de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les revenus professionnels des époux pour leur qualification de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les revenus professionnels des époux pour leur qualification de principe."
+    },
+    "sources": [
+      "S017"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0478",
+    "domaine": "Régimes matrimoniaux",
+    "sous_domaine": "Séparation de biens",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur la propriété de le régime de séparation de biens ?",
+    "choix": {
+      "A": "Chaque époux reste en principe propriétaire de ses biens personnels, sous réserve des acquisitions indivises et des règles de preuve.",
+      "B": "Tous les biens deviennent communs.",
+      "C": "Aucun achat à deux n'est possible.",
+      "D": "Le mariage est dépourvu de tout effet patrimonial."
+    },
+    "bonne_reponse": "A",
+    "explication": "Chaque époux reste en principe propriétaire de ses biens personnels, sous réserve des acquisitions indivises et des règles de preuve. Cette règle constitue le repère théorique à retenir concernant le régime de séparation de biens et la propriété.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le régime de séparation de biens pour la propriété.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le régime de séparation de biens pour la propriété.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le régime de séparation de biens pour la propriété."
+    },
+    "sources": [
+      "S045"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0479",
+    "domaine": "Régimes matrimoniaux",
+    "sous_domaine": "Changement de régime",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur l'intervention du notaire de le changement de régime matrimonial ?",
+    "choix": {
+      "A": "Il se réalise par simple accord oral.",
+      "B": "Il est toujours interdit après le mariage.",
+      "C": "Il relève uniquement de la banque.",
+      "D": "Il nécessite une convention établie par un notaire et l'information des personnes prévues par la loi."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il nécessite une convention établie par un notaire et l'information des personnes prévues par la loi. Cette règle constitue le repère théorique à retenir concernant le changement de régime matrimonial et l'intervention du notaire.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le changement de régime matrimonial pour l'intervention du notaire.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le changement de régime matrimonial pour l'intervention du notaire.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le changement de régime matrimonial pour l'intervention du notaire."
+    },
+    "sources": [
+      "S046"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0480",
+    "domaine": "Régimes matrimoniaux",
+    "sous_domaine": "Accessions",
+    "difficulte": "expert",
+    "enonce": "Quelle affirmation théorique est exacte sur la propriété du bien de une construction financée par la communauté sur le terrain propre d'un époux ?",
+    "choix": {
+      "A": "Le terrain devient automatiquement commun.",
+      "B": "Aucune créance entre masses ne peut exister.",
+      "C": "Par accession, la construction appartient en principe au propriétaire du terrain, avec une éventuelle récompense à la communauté.",
+      "D": "La construction est toujours commune par moitié."
+    },
+    "bonne_reponse": "C",
+    "explication": "Par accession, la construction appartient en principe au propriétaire du terrain, avec une éventuelle récompense à la communauté. Cette règle constitue le repère théorique à retenir concernant une construction financée par la communauté sur le terrain propre d'un époux et la propriété du bien.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une construction financée par la communauté sur le terrain propre d'un époux pour la propriété du bien.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une construction financée par la communauté sur le terrain propre d'un époux pour la propriété du bien.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une construction financée par la communauté sur le terrain propre d'un époux pour la propriété du bien."
+    },
+    "sources": [
+      "S018"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0481",
+    "domaine": "Transmission",
+    "sous_domaine": "Réserve héréditaire",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur leur protection de les descendants ?",
+    "choix": {
+      "A": "Leur réserve est toujours nulle.",
+      "B": "Les enfants sont héritiers réservataires et ne peuvent être privés de la réserve prévue par la loi.",
+      "C": "Ils peuvent toujours être totalement déshérités.",
+      "D": "Ils ne sont héritiers qu'avec un testament."
+    },
+    "bonne_reponse": "B",
+    "explication": "Les enfants sont héritiers réservataires et ne peuvent être privés de la réserve prévue par la loi. Cette règle constitue le repère théorique à retenir concernant les descendants et leur protection.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les descendants pour leur protection.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les descendants pour leur protection.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les descendants pour leur protection."
+    },
+    "sources": [
+      "S043"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0482",
+    "domaine": "Transmission",
+    "sous_domaine": "Quotité disponible",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa définition de la quotité disponible ?",
+    "choix": {
+      "A": "Elle correspond à la fraction du patrimoine pouvant être transmise librement sans porter atteinte à la réserve.",
+      "B": "Elle désigne la totalité des dettes.",
+      "C": "Elle est toujours égale à zéro.",
+      "D": "Elle ne peut bénéficier qu'à l'État."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle correspond à la fraction du patrimoine pouvant être transmise librement sans porter atteinte à la réserve. Cette règle constitue le repère théorique à retenir concernant la quotité disponible et sa définition.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la quotité disponible pour sa définition.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la quotité disponible pour sa définition.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la quotité disponible pour sa définition."
+    },
+    "sources": [
+      "S043"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0483",
+    "domaine": "Transmission",
+    "sous_domaine": "Conjoint survivant",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur ses droits légaux de principe de le conjoint en présence d'enfants non communs ?",
+    "choix": {
+      "A": "Il recueille toujours la totalité en usufruit.",
+      "B": "Il n'a jamais aucun droit.",
+      "C": "Il reçoit automatiquement les trois quarts en pleine propriété.",
+      "D": "Il recueille en principe un quart de la succession en pleine propriété, hors aménagements particuliers."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il recueille en principe un quart de la succession en pleine propriété, hors aménagements particuliers. Cette règle constitue le repère théorique à retenir concernant le conjoint en présence d'enfants non communs et ses droits légaux de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le conjoint en présence d'enfants non communs pour ses droits légaux de principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le conjoint en présence d'enfants non communs pour ses droits légaux de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le conjoint en présence d'enfants non communs pour ses droits légaux de principe."
+    },
+    "sources": [
+      "S020"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0484",
+    "domaine": "Transmission",
+    "sous_domaine": "PACS",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa qualité d'héritier légal de le partenaire pacsé ?",
+    "choix": {
+      "A": "Il est assimilé en tous points au conjoint marié.",
+      "B": "Il devient héritier après un an de PACS.",
+      "C": "Il n'est pas héritier légal en l'absence de testament.",
+      "D": "Il hérite toujours de la moitié."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il n'est pas héritier légal en l'absence de testament. Cette règle constitue le repère théorique à retenir concernant le partenaire pacsé et sa qualité d'héritier légal.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le partenaire pacsé pour sa qualité d'héritier légal.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le partenaire pacsé pour sa qualité d'héritier légal.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le partenaire pacsé pour sa qualité d'héritier légal."
+    },
+    "sources": [
+      "S019"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0485",
+    "domaine": "Transmission",
+    "sous_domaine": "Concubinage",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa qualité d'héritier légal de le concubin survivant ?",
+    "choix": {
+      "A": "Il hérite comme un époux marié.",
+      "B": "Il n'est pas héritier légal en l'absence de disposition en sa faveur.",
+      "C": "Il reçoit automatiquement l'usufruit universel.",
+      "D": "Il est héritier réservataire."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il n'est pas héritier légal en l'absence de disposition en sa faveur. Cette règle constitue le repère théorique à retenir concernant le concubin survivant et sa qualité d'héritier légal.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le concubin survivant pour sa qualité d'héritier légal.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le concubin survivant pour sa qualité d'héritier légal.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le concubin survivant pour sa qualité d'héritier légal."
+    },
+    "sources": [
+      "S043"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0486",
+    "domaine": "Transmission",
+    "sous_domaine": "Donation",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son caractère de une donation ?",
+    "choix": {
+      "A": "Il s'agit d'une transmission entre vifs qui dessaisit le donateur dans les conditions de l'acte.",
+      "B": "Elle ne produit effet qu'au décès.",
+      "C": "Elle est toujours révocable librement.",
+      "D": "Elle ne peut porter sur aucun bien immobilier."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il s'agit d'une transmission entre vifs qui dessaisit le donateur dans les conditions de l'acte. Cette règle constitue le repère théorique à retenir concernant une donation et son caractère.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à une donation pour son caractère.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une donation pour son caractère.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une donation pour son caractère."
+    },
+    "sources": [
+      "S021"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0487",
+    "domaine": "Transmission",
+    "sous_domaine": "Donation",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur son renouvellement de l'abattement parent-enfant ?",
+    "choix": {
+      "A": "Il ne s'applique qu'une fois dans la vie.",
+      "B": "Il est mensuel.",
+      "C": "Il dépend du taux du Livret A.",
+      "D": "Il se renouvelle en principe après le délai fiscal de rappel applicable."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il se renouvelle en principe après le délai fiscal de rappel applicable. Cette règle constitue le repère théorique à retenir concernant l'abattement parent-enfant et son renouvellement.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'abattement parent-enfant pour son renouvellement.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'abattement parent-enfant pour son renouvellement.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'abattement parent-enfant pour son renouvellement."
+    },
+    "sources": [
+      "S021"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0488",
+    "domaine": "Transmission",
+    "sous_domaine": "Donation-partage",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur sa finalité de la donation-partage ?",
+    "choix": {
+      "A": "Elle interdit toute transmission aux enfants.",
+      "B": "Elle ne peut jamais porter sur une entreprise.",
+      "C": "Elle permet d'anticiper et d'organiser la répartition de biens entre bénéficiaires dans un acte de donation et de partage.",
+      "D": "Elle constitue un crédit bancaire."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle permet d'anticiper et d'organiser la répartition de biens entre bénéficiaires dans un acte de donation et de partage. Cette règle constitue le repère théorique à retenir concernant la donation-partage et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la donation-partage pour sa finalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la donation-partage pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la donation-partage pour sa finalité."
+    },
+    "sources": [
+      "S047"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0489",
+    "domaine": "Transmission",
+    "sous_domaine": "Option successorale",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur son effet de l'acceptation à concurrence de l'actif net ?",
+    "choix": {
+      "A": "Elle supprime tous les créanciers.",
+      "B": "Elle limite en principe le paiement des dettes successorales à la valeur des biens recueillis.",
+      "C": "Elle oblige à payer toutes les dettes sur son patrimoine personnel.",
+      "D": "Elle équivaut à une renonciation pure."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle limite en principe le paiement des dettes successorales à la valeur des biens recueillis. Cette règle constitue le repère théorique à retenir concernant l'acceptation à concurrence de l'actif net et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'acceptation à concurrence de l'actif net pour son effet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'acceptation à concurrence de l'actif net pour son effet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'acceptation à concurrence de l'actif net pour son effet."
+    },
+    "sources": [
+      "S048"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0490",
+    "domaine": "Transmission",
+    "sous_domaine": "Indivision successorale",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur leur situation de les biens successoraux avant partage ?",
+    "choix": {
+      "A": "Ils appartiennent collectivement aux héritiers en indivision jusqu'au partage.",
+      "B": "Ils appartiennent automatiquement au notaire.",
+      "C": "Ils sont sans propriétaire.",
+      "D": "Ils reviennent toujours au conjoint seul."
+    },
+    "bonne_reponse": "A",
+    "explication": "Ils appartiennent collectivement aux héritiers en indivision jusqu'au partage. Cette règle constitue le repère théorique à retenir concernant les biens successoraux avant partage et leur situation.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les biens successoraux avant partage pour leur situation.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les biens successoraux avant partage pour leur situation.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les biens successoraux avant partage pour leur situation."
+    },
+    "sources": [
+      "S044"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0491",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Incapacité",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa logique de l'incapacité temporaire de travail ?",
+    "choix": {
+      "A": "Elle est nécessairement définitive.",
+      "B": "Elle équivaut toujours au décès.",
+      "C": "Elle ne peut jamais donner lieu à indemnisation.",
+      "D": "Elle correspond à une impossibilité temporaire d'exercer l'activité, selon la définition contractuelle."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle correspond à une impossibilité temporaire d'exercer l'activité, selon la définition contractuelle. Cette règle constitue le repère théorique à retenir concernant l'incapacité temporaire de travail et sa logique.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'incapacité temporaire de travail pour sa logique.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'incapacité temporaire de travail pour sa logique.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'incapacité temporaire de travail pour sa logique."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0492",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Invalidité",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa logique de l'invalidité ?",
+    "choix": {
+      "A": "Elle est identique à une franchise.",
+      "B": "Elle exclut toute prestation.",
+      "C": "Elle traduit une réduction durable de la capacité de travail ou de gain, appréciée selon le contrat et les règles applicables.",
+      "D": "Elle désigne une interruption de quelques heures."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle traduit une réduction durable de la capacité de travail ou de gain, appréciée selon le contrat et les règles applicables. Cette règle constitue le repère théorique à retenir concernant l'invalidité et sa logique.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'invalidité pour sa logique.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'invalidité pour sa logique.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'invalidité pour sa logique."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0493",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Décès",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur sa finalité de un capital décès ?",
+    "choix": {
+      "A": "Il garantit un rendement boursier.",
+      "B": "Il vise à fournir aux bénéficiaires un capital prévu au contrat lors du décès couvert.",
+      "C": "Il rembourse uniquement les frais bancaires.",
+      "D": "Il est versé à l'assureur."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il vise à fournir aux bénéficiaires un capital prévu au contrat lors du décès couvert. Cette règle constitue le repère théorique à retenir concernant un capital décès et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un capital décès pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un capital décès pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un capital décès pour sa finalité."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0494",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Exclusions",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa portée de une exclusion de garantie ?",
+    "choix": {
+      "A": "Elle délimite un risque non couvert et doit être examinée avec les conditions du contrat.",
+      "B": "Elle augmente automatiquement toutes les prestations.",
+      "C": "Elle est sans effet juridique.",
+      "D": "Elle remplace la clause bénéficiaire."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle délimite un risque non couvert et doit être examinée avec les conditions du contrat. Cette règle constitue le repère théorique à retenir concernant une exclusion de garantie et sa portée.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à une exclusion de garantie pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une exclusion de garantie pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une exclusion de garantie pour sa portée."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0495",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Franchise",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son effet de une franchise en prévoyance ?",
+    "choix": {
+      "A": "Elle supprime définitivement le contrat.",
+      "B": "Elle représente le capital garanti.",
+      "C": "Elle est un taux directeur.",
+      "D": "Elle correspond à une période ou un montant restant sans prise en charge avant le déclenchement prévu de la garantie."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle correspond à une période ou un montant restant sans prise en charge avant le déclenchement prévu de la garantie. Cette règle constitue le repère théorique à retenir concernant une franchise en prévoyance et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une franchise en prévoyance pour son effet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une franchise en prévoyance pour son effet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une franchise en prévoyance pour son effet."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0496",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Carence",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa fonction de un délai de carence ?",
+    "choix": {
+      "A": "Il est toujours interdit.",
+      "B": "Il transforme le contrat en assurance-vie.",
+      "C": "Il retarde la prise d'effet de certaines garanties après la souscription, selon le contrat.",
+      "D": "Il intervient uniquement après chaque sinistre."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il retarde la prise d'effet de certaines garanties après la souscription, selon le contrat. Cette règle constitue le repère théorique à retenir concernant un délai de carence et sa fonction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un délai de carence pour sa fonction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un délai de carence pour sa fonction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un délai de carence pour sa fonction."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0497",
+    "domaine": "Assurance",
+    "sous_domaine": "Devoir de conseil",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur sa traçabilité de le devoir de conseil en assurance ?",
+    "choix": {
+      "A": "Il prend fin avant la souscription.",
+      "B": "La recommandation et ses motifs doivent être cohérents avec les exigences et besoins recueillis et correctement documentés.",
+      "C": "Il suffit de remettre une publicité.",
+      "D": "La situation du client peut être ignorée."
+    },
+    "bonne_reponse": "B",
+    "explication": "La recommandation et ses motifs doivent être cohérents avec les exigences et besoins recueillis et correctement documentés. Cette règle constitue le repère théorique à retenir concernant le devoir de conseil en assurance et sa traçabilité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le devoir de conseil en assurance pour sa traçabilité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le devoir de conseil en assurance pour sa traçabilité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le devoir de conseil en assurance pour sa traçabilité."
+    },
+    "sources": [
+      "S004"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0498",
+    "domaine": "Assurance",
+    "sous_domaine": "Formation",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa durée annuelle minimale de la formation continue DDA ?",
+    "choix": {
+      "A": "La durée minimale est de quinze heures par an pour les personnes concernées par la distribution d'assurances.",
+      "B": "Elle est d'une heure tous les dix ans.",
+      "C": "Elle n'existe que pour les actuaires.",
+      "D": "Elle est facultative pour tous les distributeurs."
+    },
+    "bonne_reponse": "A",
+    "explication": "La durée minimale est de quinze heures par an pour les personnes concernées par la distribution d'assurances. Cette règle constitue le repère théorique à retenir concernant la formation continue DDA et sa durée annuelle minimale.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la formation continue DDA pour sa durée annuelle minimale.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la formation continue DDA pour sa durée annuelle minimale.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la formation continue DDA pour sa durée annuelle minimale."
+    },
+    "sources": [
+      "S003"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0499",
+    "domaine": "Assurance",
+    "sous_domaine": "Sinistre",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son contenu de une déclaration de sinistre ?",
+    "choix": {
+      "A": "Elle est toujours verbale et sans délai.",
+      "B": "Elle vaut reconnaissance automatique de garantie.",
+      "C": "Elle interdit toute demande de justificatif.",
+      "D": "Elle doit être faite selon les délais et modalités prévus par le contrat, avec les informations utiles."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle doit être faite selon les délais et modalités prévus par le contrat, avec les informations utiles. Cette règle constitue le repère théorique à retenir concernant une déclaration de sinistre et son contenu.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une déclaration de sinistre pour son contenu.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une déclaration de sinistre pour son contenu.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une déclaration de sinistre pour son contenu."
+    },
+    "sources": [
+      "S049"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0500",
+    "domaine": "Assurance",
+    "sous_domaine": "Prime",
+    "difficulte": "debutant",
+    "enonce": "Quelle affirmation théorique est exacte sur sa fonction de la prime d'assurance ?",
+    "choix": {
+      "A": "Elle désigne la franchise.",
+      "B": "Elle correspond au taux d'un crédit immobilier.",
+      "C": "Elle constitue le prix payé pour la couverture prévue au contrat.",
+      "D": "Elle est le montant toujours versé après sinistre."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle constitue le prix payé pour la couverture prévue au contrat. Cette règle constitue le repère théorique à retenir concernant la prime d'assurance et sa fonction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la prime d'assurance pour sa fonction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la prime d'assurance pour sa fonction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la prime d'assurance pour sa fonction."
+    },
+    "sources": [
+      "S049"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  }
+]

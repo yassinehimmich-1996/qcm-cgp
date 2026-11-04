@@ -1,6 +1,6 @@
-# Référentiel éditorial et répartition cible
+# Référentiel éditorial et répartition pédagogique
 
-La pondération ci-dessous est une hypothèse pédagogique. Elle ne constitue pas une pondération officielle d'un examen ou d'un employeur.
+La pondération ci-dessous est une hypothèse pédagogique de travail. Elle ne constitue pas une pondération officielle d'un examen ou d'un employeur. La banque publiée couvre 1 000 questions, mais sa répartition exacte suit les notions théoriques disponibles et évoluera avec la revue éditoriale.
 
 | Domaine | Questions cibles | Priorité |
 |---|---:|---|
@@ -25,11 +25,18 @@ La pondération ci-dessous est une hypothèse pédagogique. Elle ne constitue pa
 
 ## Répartition des difficultés
 
-- débutant : 10 % ;
-- intermédiaire : 45 % ;
-- avancé : 35 % ;
-- expert : 10 %.
+- débutant : 136 questions ;
+- intermédiaire : 525 questions ;
+- avancé : 306 questions ;
+- expert : 33 questions.
+
+## Équilibre des réponses
+
+- A : 250 bonnes réponses ;
+- B : 251 bonnes réponses ;
+- C : 250 bonnes réponses ;
+- D : 249 bonnes réponses.
 
 ## Réserve d'examen
 
-Les 300 dernières questions sont destinées à trois examens blancs inédits de 100 questions. Elles ne doivent pas apparaître dans les séries d'apprentissage ordinaires.
+L'application compose les examens blancs de manière aléatoire parmi les questions disponibles. Une future phase éditoriale pourra constituer une réserve dédiée après validation humaine complète de la banque.

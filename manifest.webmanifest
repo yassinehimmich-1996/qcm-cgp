@@ -1,0 +1,16 @@
+{
+  "name": "QCM CGP France",
+  "short_name": "QCM CGP",
+  "description": "1 000 questions théoriques pour préparer les connaissances du conseiller en gestion de patrimoine.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f0e8",
+  "theme_color": "#092f2a",
+  "lang": "fr-FR",
+  "icons": [
+    {"src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"},
+    {"src": "assets/icon-180.png", "sizes": "180x180", "type": "image/png"},
+    {"src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}

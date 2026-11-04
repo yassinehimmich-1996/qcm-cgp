@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#092f2a">
+    <meta name="color-scheme" content="light">
+    <meta name="description" content="1 000 QCM théoriques pour réviser les connaissances du conseiller en gestion de patrimoine en France.">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="QCM CGP">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="assets/icon-180.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,600;6..72,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/styles.css">
+    <title>QCM CGP France</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Aller au contenu</a>
+    <div class="app-shell">
+      <header class="topbar" id="topbar">
+        <button class="icon-button back-button hidden" id="backButton" type="button" aria-label="Quitter la série">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></svg>
+        </button>
+        <a class="brand" href="#home" aria-label="QCM CGP, accueil">
+          <span class="brand-mark">C</span>
+          <span><strong>QCM CGP</strong><small>France</small></span>
+        </a>
+        <button class="icon-button" id="installButton" type="button" aria-label="Installer l'application" hidden>
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v12m0 0 4-4m-4 4-4-4M5 21h14"/></svg>
+        </button>
+        <button class="icon-button" id="bookmarkButton" type="button" aria-label="Ajouter aux favoris" hidden>
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M6 4.8A1.8 1.8 0 0 1 7.8 3h8.4A1.8 1.8 0 0 1 18 4.8V21l-6-3.8L6 21Z"/></svg>
+        </button>
+      </header>
+
+      <main id="main" tabindex="-1">
+        <section class="screen home-screen" id="homeScreen" aria-labelledby="heroTitle">
+          <div class="hero-card">
+            <div class="hero-copy">
+              <span class="eyebrow"><span class="pulse-dot"></span> Banque collaborative 2026</span>
+              <h1 id="heroTitle">Maîtriser la théorie.<br><em>Répondre sans hésiter.</em></h1>
+              <p>Un entraînement intensif pour les connaissances attendues d’un conseiller en gestion de patrimoine.</p>
+            </div>
+            <div class="hero-stat" aria-label="1 000 questions théoriques">
+              <strong>1 000</strong>
+              <span>questions<br>théoriques</span>
+            </div>
+          </div>
+
+          <section class="progress-overview" aria-labelledby="progressTitle">
+            <div class="section-heading compact">
+              <div>
+                <span class="eyebrow muted">Ta progression</span>
+                <h2 id="progressTitle">Objectif maîtrise</h2>
+              </div>
+              <strong class="progress-percent" id="masteryPercent">0 %</strong>
+            </div>
+            <div class="progress-track large" aria-hidden="true"><span id="masteryBar"></span></div>
+            <div class="progress-metrics">
+              <div><strong id="seenCount">0</strong><span>vues</span></div>
+              <div><strong id="correctRate">—</strong><span>réussite</span></div>
+              <div><strong id="streakCount">0</strong><span>série</span></div>
+            </div>
+          </section>
+
+          <section aria-labelledby="modesTitle">
+            <div class="section-heading">
+              <div><span class="eyebrow muted">Choisir un rythme</span><h2 id="modesTitle">S’entraîner maintenant</h2></div>
+            </div>
+            <div class="mode-grid">
+              <button class="mode-card primary" type="button" data-mode="quick">
+                <span class="mode-icon"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m13 2-8 12h7l-1 8 8-12h-7Z"/></svg></span>
+                <span class="mode-copy"><strong>Session rapide</strong><small>20 questions · correction immédiate</small></span>
+                <span class="arrow">→</span>
+              </button>
+              <button class="mode-card" type="button" data-mode="series">
+                <span class="mode-icon"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 5h14v14H5zM9 9h6M9 13h6"/></svg></span>
+                <span class="mode-copy"><strong>Série complète</strong><small>50 questions · niveau progressif</small></span>
+                <span class="arrow">→</span>
+              </button>
+              <button class="mode-card exam" type="button" data-mode="exam">
+                <span class="mode-icon"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="12" cy="13" r="8"/><path d="M12 9v5l3 2M9 2h6"/></svg></span>
+                <span class="mode-copy"><strong>Examen blanc</strong><small>100 questions · 60 minutes</small></span>
+                <span class="pill">MODE RÉEL</span>
+                <span class="arrow">→</span>
+              </button>
+            </div>
+          </section>
+
+          <section aria-labelledby="targetTitle">
+            <div class="section-heading">
+              <div><span class="eyebrow muted">Révisions ciblées</span><h2 id="targetTitle">Travailler intelligemment</h2></div>
+            </div>
+            <div class="target-grid">
+              <button class="target-card" type="button" data-mode="theme"><span class="target-emoji">◎</span><strong>Par thème</strong><small id="domainCount">27 domaines</small></button>
+              <button class="target-card" type="button" data-mode="errors"><span class="target-emoji">↺</span><strong>Mes erreurs</strong><small id="errorCount">0 à revoir</small></button>
+              <button class="target-card" type="button" data-mode="bookmarks"><span class="target-emoji">◇</span><strong>Favoris</strong><small id="bookmarkCount">0 enregistrée</small></button>
+            </div>
+          </section>
+
+          <aside class="quality-note">
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m12 3 7 3v5c0 4.8-2.9 8-7 10-4.1-2-7-5.2-7-10V6Z"/><path d="m9 12 2 2 4-4"/></svg>
+            <div><strong>Sources publiques et datées</strong><p>Questions d’entraînement originales. Aucune question interne ou officielle n’est reproduite.</p></div>
+          </aside>
+        </section>
+
+        <section class="screen quiz-screen hidden" id="quizScreen" aria-live="polite">
+          <div class="quiz-status">
+            <div class="status-row">
+              <span id="quizModeLabel">Entraînement</span>
+              <span class="timer" id="timer"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l3 2M9 2h6"/></svg><b>00:00</b></span>
+            </div>
+            <div class="progress-track"><span id="quizProgress"></span></div>
+            <div class="question-counter"><strong id="questionIndex">Question 1</strong><span id="questionTotal">sur 20</span><small>Objectif : 36 s/question</small></div>
+          </div>
+
+          <article class="question-card" id="questionCard">
+            <div class="question-meta"><span id="questionDomain">Domaine</span><span id="questionDifficulty">Intermédiaire</span></div>
+            <h2 id="questionText">Chargement de la question…</h2>
+            <div class="answers" id="answers" role="group" aria-label="Propositions de réponse"></div>
+            <div class="feedback hidden" id="feedback" tabindex="-1">
+              <div class="feedback-title"><span id="feedbackIcon">✓</span><strong id="feedbackHeading">Bonne réponse</strong></div>
+              <p id="feedbackText"></p>
+              <details id="trapDetails"><summary>Comprendre les pièges</summary><div id="trapText"></div></details>
+              <a id="sourceLink" href="#" target="_blank" rel="noopener">Consulter la source officielle <span>↗</span></a>
+            </div>
+          </article>
+
+          <div class="quiz-actions">
+            <button class="secondary-button" id="skipButton" type="button">Passer</button>
+            <button class="primary-button" id="validateButton" type="button" disabled>Valider <span>→</span></button>
+            <button class="primary-button hidden" id="nextButton" type="button">Question suivante <span>→</span></button>
+          </div>
+        </section>
+
+        <section class="screen results-screen hidden" id="resultsScreen" aria-labelledby="resultsTitle">
+          <div class="result-hero">
+            <span class="eyebrow">Session terminée</span>
+            <div class="score-ring" id="scoreRing"><div><strong id="scorePercent">0%</strong><span>de réussite</span></div></div>
+            <h1 id="resultsTitle">Ton bilan</h1>
+            <p id="resultMessage">Continue comme ça.</p>
+          </div>
+          <div class="result-grid">
+            <div><strong id="resultCorrect">0</strong><span>bonnes réponses</span></div>
+            <div><strong id="resultWrong">0</strong><span>à revoir</span></div>
+            <div><strong id="resultTime">00:00</strong><span>temps total</span></div>
+          </div>
+          <div class="result-actions">
+            <button class="primary-button" id="retryErrorsButton" type="button">Revoir mes erreurs</button>
+            <button class="secondary-button" id="homeButton" type="button">Retour à l’accueil</button>
+          </div>
+          <div class="review-list" id="reviewList"></div>
+        </section>
+
+        <section class="screen stats-screen hidden" id="statsScreen" aria-labelledby="statsTitle">
+          <span class="eyebrow muted">Progression locale</span>
+          <h1 id="statsTitle">Mes statistiques</h1>
+          <div class="stats-hero-card"><strong id="statsRate">—</strong><span>de réussite cumulée</span></div>
+          <div class="stats-list" id="statsList"></div>
+          <button class="danger-link" id="resetProgressButton" type="button">Réinitialiser ma progression</button>
+        </section>
+      </main>
+
+      <nav class="bottom-nav" id="bottomNav" aria-label="Navigation principale">
+        <a href="#home" class="active" data-screen="home"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m3 11 9-8 9 8v9H7v-6h10v6"/></svg><span>Accueil</span></a>
+        <button type="button" data-open-theme><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 6h16M4 12h10M4 18h13"/></svg><span>Thèmes</span></button>
+        <a href="#stats" data-screen="stats"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 20V10m7 10V4m7 16v-7"/></svg><span>Progrès</span></a>
+      </nav>
+    </div>
+
+    <dialog class="sheet" id="themeDialog">
+      <form method="dialog">
+        <div class="sheet-handle"></div>
+        <div class="sheet-heading"><div><span class="eyebrow muted">Révision ciblée</span><h2>Choisir un thème</h2></div><button class="icon-button" value="cancel" aria-label="Fermer" type="submit">×</button></div>
+        <label class="search-box"><span aria-hidden="true">⌕</span><input id="themeSearch" type="search" placeholder="Rechercher un domaine…" autocomplete="off"></label>
+        <div class="theme-list" id="themeList"></div>
+      </form>
+    </dialog>
+
+    <dialog class="confirm-dialog" id="confirmDialog">
+      <form method="dialog">
+        <h2 id="confirmTitle">Quitter cette série ?</h2>
+        <p id="confirmText">Ta progression dans cette série ne sera pas enregistrée.</p>
+        <div><button class="secondary-button" value="cancel">Continuer</button><button class="primary-button" id="confirmAction" value="confirm">Quitter</button></div>
+      </form>
+    </dialog>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <noscript>Cette application nécessite JavaScript pour fonctionner.</noscript>
+    <script type="module" src="assets/app.js"></script>
+  </body>
+</html>

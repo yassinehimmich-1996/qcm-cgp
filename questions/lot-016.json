@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "CGP-2026-0751",
+    "domaine": "Immobilier",
+    "sous_domaine": "DPE",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur le diagnostic de performance énergétique, quelle réponse est juste au sujet de sa fonction ?",
+    "choix": {
+      "A": "Il remplace l'acte de propriété.",
+      "B": "Il mesure uniquement la surface habitable.",
+      "C": "Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire.",
+      "D": "Il garantit la valeur de vente."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire. Cette règle constitue le repère théorique à retenir concernant le diagnostic de performance énergétique et sa fonction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le diagnostic de performance énergétique pour sa fonction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le diagnostic de performance énergétique pour sa fonction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le diagnostic de performance énergétique pour sa fonction."
+    },
+    "sources": [
+      "S011"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0752",
+    "domaine": "Immobilier",
+    "sous_domaine": "DPE",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur le coefficient d'énergie primaire de l'électricité en 2026, quelle réponse est juste au sujet de sa valeur ?",
+    "choix": {
+      "A": "Il est de 0,1.",
+      "B": "Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9.",
+      "C": "Il est de 10.",
+      "D": "Il est supprimé."
+    },
+    "bonne_reponse": "B",
+    "explication": "Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9. Cette règle constitue le repère théorique à retenir concernant le coefficient d'énergie primaire de l'électricité en 2026 et sa valeur.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur."
+    },
+    "sources": [
+      "S011"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0753",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Décence énergétique",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur un logement classé G en métropole, quelle réponse est juste au sujet de sa mise en location depuis 2025 ?",
+    "choix": {
+      "A": "Il ne satisfait plus au critère de décence énergétique pour une nouvelle location ou un renouvellement selon le calendrier applicable.",
+      "B": "Il bénéficie d'une garantie de location perpétuelle.",
+      "C": "Il devient automatiquement classé A.",
+      "D": "Il est soumis uniquement à une taxe bancaire."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il ne satisfait plus au critère de décence énergétique pour une nouvelle location ou un renouvellement selon le calendrier applicable. Cette règle constitue le repère théorique à retenir concernant un logement classé G en métropole et sa mise en location depuis 2025.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un logement classé G en métropole pour sa mise en location depuis 2025.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un logement classé G en métropole pour sa mise en location depuis 2025.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un logement classé G en métropole pour sa mise en location depuis 2025."
+    },
+    "sources": [
+      "S012"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0754",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Décence énergétique",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur le calendrier métropolitain, quelle réponse est juste au sujet de les classes progressivement concernées ?",
+    "choix": {
+      "A": "Toutes les classes sont interdites depuis 2020.",
+      "B": "Seule la classe A est concernée.",
+      "C": "Aucun calendrier n'existe.",
+      "D": "Le calendrier vise les logements G depuis 2025, F à partir de 2028 et E à partir de 2034."
+    },
+    "bonne_reponse": "D",
+    "explication": "Le calendrier vise les logements G depuis 2025, F à partir de 2028 et E à partir de 2034. Cette règle constitue le repère théorique à retenir concernant le calendrier métropolitain et les classes progressivement concernées.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le calendrier métropolitain pour les classes progressivement concernées.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le calendrier métropolitain pour les classes progressivement concernées.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le calendrier métropolitain pour les classes progressivement concernées."
+    },
+    "sources": [
+      "S012"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0755",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Location nue",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur un bail d'habitation vide, quelle réponse est juste au sujet de sa durée de principe avec un bailleur personne physique ?",
+    "choix": {
+      "A": "La durée minimale est de vingt ans.",
+      "B": "Aucune durée n'est prévue.",
+      "C": "La durée minimale de principe est de trois ans, sauf cas légaux particuliers.",
+      "D": "La durée est toujours d'un mois."
+    },
+    "bonne_reponse": "C",
+    "explication": "La durée minimale de principe est de trois ans, sauf cas légaux particuliers. Cette règle constitue le repère théorique à retenir concernant un bail d'habitation vide et sa durée de principe avec un bailleur personne physique.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un bail d'habitation vide pour sa durée de principe avec un bailleur personne physique.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un bail d'habitation vide pour sa durée de principe avec un bailleur personne physique.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un bail d'habitation vide pour sa durée de principe avec un bailleur personne physique."
+    },
+    "sources": [
+      "S062"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0756",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Location meublée",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur un bail meublé de résidence principale, quelle réponse est juste au sujet de sa durée de principe ?",
+    "choix": {
+      "A": "Il ne peut jamais être renouvelé.",
+      "B": "La durée de principe est d'un an, avec un régime spécifique notamment pour l'étudiant.",
+      "C": "La durée minimale est toujours de neuf ans.",
+      "D": "Il est nécessairement viager."
+    },
+    "bonne_reponse": "B",
+    "explication": "La durée de principe est d'un an, avec un régime spécifique notamment pour l'étudiant. Cette règle constitue le repère théorique à retenir concernant un bail meublé de résidence principale et sa durée de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un bail meublé de résidence principale pour sa durée de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un bail meublé de résidence principale pour sa durée de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un bail meublé de résidence principale pour sa durée de principe."
+    },
+    "sources": [
+      "S063"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0757",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Rendement",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur le rendement locatif brut, quelle réponse est juste au sujet de sa portée ?",
+    "choix": {
+      "A": "Il rapporte les loyers bruts au coût d'acquisition sans déduire charges, fiscalité ni vacance.",
+      "B": "Il mesure le revenu net après tous impôts.",
+      "C": "Il garantit la plus-value.",
+      "D": "Il correspond au taux du crédit."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il rapporte les loyers bruts au coût d'acquisition sans déduire charges, fiscalité ni vacance. Cette règle constitue le repère théorique à retenir concernant le rendement locatif brut et sa portée.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le rendement locatif brut pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le rendement locatif brut pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le rendement locatif brut pour sa portée."
+    },
+    "sources": [
+      "S013"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0758",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Risque",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur la vacance locative, quelle réponse est juste au sujet de son effet ?",
+    "choix": {
+      "A": "Elle augmente automatiquement les loyers.",
+      "B": "Elle garantit le remboursement du crédit.",
+      "C": "Elle n'a aucun effet économique.",
+      "D": "Elle réduit les loyers encaissés et peut dégrader le rendement effectif."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle réduit les loyers encaissés et peut dégrader le rendement effectif. Cette règle constitue le repère théorique à retenir concernant la vacance locative et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la vacance locative pour son effet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la vacance locative pour son effet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la vacance locative pour son effet."
+    },
+    "sources": [
+      "S064"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0759",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Denormandie",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le dispositif Denormandie, quelle réponse est juste au sujet de les durées d'engagement ?",
+    "choix": {
+      "A": "Il est sans engagement de location.",
+      "B": "Il prévoit toujours vingt-cinq ans.",
+      "C": "Il prévoit des engagements de location de six, neuf ou douze ans selon les conditions applicables.",
+      "D": "Il impose uniquement trois mois."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il prévoit des engagements de location de six, neuf ou douze ans selon les conditions applicables. Cette règle constitue le repère théorique à retenir concernant le dispositif Denormandie et les durées d'engagement.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le dispositif Denormandie pour les durées d'engagement.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le dispositif Denormandie pour les durées d'engagement.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le dispositif Denormandie pour les durées d'engagement."
+    },
+    "sources": [
+      "S013"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0760",
+    "domaine": "Immobilier",
+    "sous_domaine": "Copropriété",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur les charges de copropriété, quelle réponse est juste au sujet de leur objet ?",
+    "choix": {
+      "A": "Elles sont identiques pour tous les lots sans règle.",
+      "B": "Elles financent les dépenses communes selon la répartition prévue par le règlement et les décisions de copropriété.",
+      "C": "Elles sont toujours payées par la banque.",
+      "D": "Elles remplacent les impôts sur le revenu."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elles financent les dépenses communes selon la répartition prévue par le règlement et les décisions de copropriété. Cette règle constitue le repère théorique à retenir concernant les charges de copropriété et leur objet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les charges de copropriété pour leur objet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les charges de copropriété pour leur objet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les charges de copropriété pour leur objet."
+    },
+    "sources": [
+      "S065"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0761",
+    "domaine": "Conformité",
+    "sous_domaine": "Connaissance client",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le recueil des connaissances et de l'expérience, quelle réponse est juste au sujet de sa finalité ?",
+    "choix": {
+      "A": "Il contribue à déterminer si le service ou l'instrument envisagé peut être compris par le client.",
+      "B": "Il sert uniquement à fixer les frais bancaires.",
+      "C": "Il est inutile pour tout conseil.",
+      "D": "Il garantit une performance positive."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il contribue à déterminer si le service ou l'instrument envisagé peut être compris par le client. Cette règle constitue le repère théorique à retenir concernant le recueil des connaissances et de l'expérience et sa finalité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le recueil des connaissances et de l'expérience pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le recueil des connaissances et de l'expérience pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le recueil des connaissances et de l'expérience pour sa finalité."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0762",
+    "domaine": "Conformité",
+    "sous_domaine": "Adéquation",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur l'évaluation d'adéquation, quelle réponse est juste au sujet de les informations patrimoniales ?",
+    "choix": {
+      "A": "Elle dépend seulement de l'âge.",
+      "B": "Elle ignore la capacité à subir des pertes.",
+      "C": "Elle est fondée uniquement sur le produit le plus rentable.",
+      "D": "Elle prend notamment en compte la situation financière, les objectifs, l'horizon, les connaissances et la tolérance au risque."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle prend notamment en compte la situation financière, les objectifs, l'horizon, les connaissances et la tolérance au risque. Cette règle constitue le repère théorique à retenir concernant l'évaluation d'adéquation et les informations patrimoniales.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'évaluation d'adéquation pour les informations patrimoniales.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'évaluation d'adéquation pour les informations patrimoniales.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'évaluation d'adéquation pour les informations patrimoniales."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0763",
+    "domaine": "Conformité",
+    "sous_domaine": "Appropriation",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur le test d'appropriation, quelle réponse est juste au sujet de son objet ?",
+    "choix": {
+      "A": "Il mesure uniquement le revenu fiscal.",
+      "B": "Il remplace le KYC LCB-FT.",
+      "C": "Il vise à apprécier si le client possède les connaissances et l'expérience nécessaires pour comprendre les risques d'un produit ou service.",
+      "D": "Il garantit l'adéquation globale du conseil."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il vise à apprécier si le client possède les connaissances et l'expérience nécessaires pour comprendre les risques d'un produit ou service. Cette règle constitue le repère théorique à retenir concernant le test d'appropriation et son objet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le test d'appropriation pour son objet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le test d'appropriation pour son objet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le test d'appropriation pour son objet."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0764",
+    "domaine": "Conformité",
+    "sous_domaine": "Information",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur une information commerciale sur un instrument financier, quelle réponse est juste au sujet de sa qualité ?",
+    "choix": {
+      "A": "Elle est dispensée de toute cohérence avec les documents réglementaires.",
+      "B": "Elle doit être claire, exacte et non trompeuse.",
+      "C": "Elle peut dissimuler les risques.",
+      "D": "Elle doit promettre un rendement."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle doit être claire, exacte et non trompeuse. Cette règle constitue le repère théorique à retenir concernant une information commerciale sur un instrument financier et sa qualité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une information commerciale sur un instrument financier pour sa qualité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une information commerciale sur un instrument financier pour sa qualité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une information commerciale sur un instrument financier pour sa qualité."
+    },
+    "sources": [
+      "S066"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0765",
+    "domaine": "Conformité",
+    "sous_domaine": "Coûts et frais",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur l'information sur les coûts et frais, quelle réponse est juste au sujet de sa finalité ?",
+    "choix": {
+      "A": "Elle permet au client de comprendre l'incidence globale des coûts sur son investissement.",
+      "B": "Elle n'est communiquée qu'en cas de perte.",
+      "C": "Elle exclut les coûts du produit.",
+      "D": "Elle remplace la documentation contractuelle."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle permet au client de comprendre l'incidence globale des coûts sur son investissement. Cette règle constitue le repère théorique à retenir concernant l'information sur les coûts et frais et sa finalité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à l'information sur les coûts et frais pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'information sur les coûts et frais pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'information sur les coûts et frais pour sa finalité."
+    },
+    "sources": [
+      "S066"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0766",
+    "domaine": "Conformité",
+    "sous_domaine": "Gouvernance produit",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur le marché cible, quelle réponse est juste au sujet de sa fonction ?",
+    "choix": {
+      "A": "Il garantit la vente à tout client.",
+      "B": "Il correspond uniquement au pays de l'émetteur.",
+      "C": "Il remplace l'analyse individuelle d'adéquation.",
+      "D": "Il identifie les catégories de clients auxquelles le produit est compatible et celles pour lesquelles il ne l'est pas."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il identifie les catégories de clients auxquelles le produit est compatible et celles pour lesquelles il ne l'est pas. Cette règle constitue le repère théorique à retenir concernant le marché cible et sa fonction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le marché cible pour sa fonction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le marché cible pour sa fonction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le marché cible pour sa fonction."
+    },
+    "sources": [
+      "S067"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0767",
+    "domaine": "Conformité",
+    "sous_domaine": "Arbitrage",
+    "difficulte": "expert",
+    "enonce": "Dans un QCM portant sur un arbitrage conseillé sous MIF 2, quelle réponse est juste au sujet de l'analyse coûts-avantages ?",
+    "choix": {
+      "A": "Il peut ignorer les alternatives équivalentes.",
+      "B": "Il est automatiquement adéquat.",
+      "C": "Il doit notamment faire l'objet d'une appréciation du rapport coûts-avantages pour le client selon les exigences applicables.",
+      "D": "Il est recommandé dès qu'il génère des frais."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il doit notamment faire l'objet d'une appréciation du rapport coûts-avantages pour le client selon les exigences applicables. Cette règle constitue le repère théorique à retenir concernant un arbitrage conseillé sous MIF 2 et l'analyse coûts-avantages.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un arbitrage conseillé sous MIF 2 pour l'analyse coûts-avantages.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un arbitrage conseillé sous MIF 2 pour l'analyse coûts-avantages.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un arbitrage conseillé sous MIF 2 pour l'analyse coûts-avantages."
+    },
+    "sources": [
+      "S068"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0768",
+    "domaine": "Conformité",
+    "sous_domaine": "Durabilité",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur les préférences de durabilité, quelle réponse est juste au sujet de leur recueil ?",
+    "choix": {
+      "A": "Elles ne concernent jamais le conseil financier.",
+      "B": "Elles font partie des informations à prendre en compte dans le conseil en investissement lorsque les règles l'exigent.",
+      "C": "Elles remplacent la tolérance au risque.",
+      "D": "Elles sont fixées par le conseiller sans échange."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elles font partie des informations à prendre en compte dans le conseil en investissement lorsque les règles l'exigent. Cette règle constitue le repère théorique à retenir concernant les préférences de durabilité et leur recueil.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les préférences de durabilité pour leur recueil.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les préférences de durabilité pour leur recueil.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les préférences de durabilité pour leur recueil."
+    },
+    "sources": [
+      "S068"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0769",
+    "domaine": "Assurance",
+    "sous_domaine": "DDA",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur les exigences et besoins du client, quelle réponse est juste au sujet de leur rôle ?",
+    "choix": {
+      "A": "Ils doivent être recueillis afin que le contrat proposé soit cohérent avec la demande et les besoins identifiés.",
+      "B": "Ils peuvent être ignorés si le produit est rentable.",
+      "C": "Ils sont définis uniquement après le sinistre.",
+      "D": "Ils se résument au prix le plus bas."
+    },
+    "bonne_reponse": "A",
+    "explication": "Ils doivent être recueillis afin que le contrat proposé soit cohérent avec la demande et les besoins identifiés. Cette règle constitue le repère théorique à retenir concernant les exigences et besoins du client et leur rôle.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les exigences et besoins du client pour leur rôle.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les exigences et besoins du client pour leur rôle.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les exigences et besoins du client pour leur rôle."
+    },
+    "sources": [
+      "S004"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0770",
+    "domaine": "Conformité",
+    "sous_domaine": "Réclamations",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur une réclamation écrite, quelle réponse est juste au sujet de les délais de traitement recommandés ?",
+    "choix": {
+      "A": "Aucun accusé de réception n'est attendu.",
+      "B": "La réponse peut être différée dix ans.",
+      "C": "Le client doit saisir directement un tribunal avant toute réponse.",
+      "D": "Le professionnel accuse réception sous dix jours ouvrables et répond en principe au plus tard sous deux mois."
+    },
+    "bonne_reponse": "D",
+    "explication": "Le professionnel accuse réception sous dix jours ouvrables et répond en principe au plus tard sous deux mois. Cette règle constitue le repère théorique à retenir concernant une réclamation écrite et les délais de traitement recommandés.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une réclamation écrite pour les délais de traitement recommandés.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une réclamation écrite pour les délais de traitement recommandés.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une réclamation écrite pour les délais de traitement recommandés."
+    },
+    "sources": [
+      "S069"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0771",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Vigilance",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur l'identification du client, quelle réponse est juste au sujet de son moment ?",
+    "choix": {
+      "A": "Elle est facultative pour toute banque.",
+      "B": "Elle se limite au nom commercial du produit.",
+      "C": "Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée.",
+      "D": "Elle n'intervient qu'après la clôture."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée. Cette règle constitue le repère théorique à retenir concernant l'identification du client et son moment.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment."
+    },
+    "sources": [
+      "S070"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0772",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Bénéficiaire effectif",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur le bénéficiaire effectif, quelle réponse est juste au sujet de sa notion ?",
+    "choix": {
+      "A": "Il correspond au bénéficiaire d'une carte bancaire.",
+      "B": "Il s'agit de la personne physique qui contrôle en dernier ressort le client ou pour laquelle l'opération est réalisée.",
+      "C": "Il est toujours le conseiller bancaire.",
+      "D": "Il est nécessairement une personne morale."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il s'agit de la personne physique qui contrôle en dernier ressort le client ou pour laquelle l'opération est réalisée. Cette règle constitue le repère théorique à retenir concernant le bénéficiaire effectif et sa notion.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le bénéficiaire effectif pour sa notion.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le bénéficiaire effectif pour sa notion.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le bénéficiaire effectif pour sa notion."
+    },
+    "sources": [
+      "S070"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0773",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Vigilance renforcée",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur une situation présentant un risque élevé, quelle réponse est juste au sujet de la vigilance ?",
+    "choix": {
+      "A": "Elle appelle des mesures de vigilance renforcée proportionnées au risque identifié.",
+      "B": "Elle dispense de toute vérification.",
+      "C": "Elle impose d'accepter toutes les opérations.",
+      "D": "Elle supprime la connaissance client."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle appelle des mesures de vigilance renforcée proportionnées au risque identifié. Cette règle constitue le repère théorique à retenir concernant une situation présentant un risque élevé et la vigilance.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à une situation présentant un risque élevé pour la vigilance.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une situation présentant un risque élevé pour la vigilance.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une situation présentant un risque élevé pour la vigilance."
+    },
+    "sources": [
+      "S070"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0774",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Déclaration de soupçon",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur une déclaration de soupçon à TRACFIN, quelle réponse est juste au sujet de la preuve d'une infraction ?",
+    "choix": {
+      "A": "Elle exige toujours une condamnation pénale préalable.",
+      "B": "Elle est adressée au client.",
+      "C": "Elle ne concerne jamais les banques.",
+      "D": "Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction. Cette règle constitue le repère théorique à retenir concernant une déclaration de soupçon à TRACFIN et la preuve d'une infraction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction."
+    },
+    "sources": [
+      "S038"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0775",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Confidentialité",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur l'existence d'une déclaration de soupçon, quelle réponse est juste au sujet de l'information du client ?",
+    "choix": {
+      "A": "Elle est remise au client pour signature.",
+      "B": "Elle figure sur chaque relevé de compte.",
+      "C": "Elle est confidentielle et ne doit pas être révélée au client ni aux personnes non autorisées.",
+      "D": "Elle doit être publiée sur internet."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle est confidentielle et ne doit pas être révélée au client ni aux personnes non autorisées. Cette règle constitue le repère théorique à retenir concernant l'existence d'une déclaration de soupçon et l'information du client.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'existence d'une déclaration de soupçon pour l'information du client.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'existence d'une déclaration de soupçon pour l'information du client.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'existence d'une déclaration de soupçon pour l'information du client."
+    },
+    "sources": [
+      "S038"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0776",
+    "domaine": "RGPD",
+    "sous_domaine": "Minimisation",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le principe de minimisation, quelle réponse est juste au sujet de sa portée ?",
+    "choix": {
+      "A": "La conservation doit être illimitée.",
+      "B": "Les données collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire à la finalité.",
+      "C": "Toutes les données disponibles doivent être collectées.",
+      "D": "La finalité n'a pas à être définie."
+    },
+    "bonne_reponse": "B",
+    "explication": "Les données collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire à la finalité. Cette règle constitue le repère théorique à retenir concernant le principe de minimisation et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0777",
+    "domaine": "RGPD",
+    "sous_domaine": "Droits",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le droit d'accès, quelle réponse est juste au sujet de son objet ?",
+    "choix": {
+      "A": "Il permet à la personne d'obtenir des informations sur le traitement et une copie de ses données dans les conditions prévues.",
+      "B": "Il permet d'effacer toute dette bancaire.",
+      "C": "Il donne accès aux données de tous les clients.",
+      "D": "Il supprime automatiquement le contrat."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il permet à la personne d'obtenir des informations sur le traitement et une copie de ses données dans les conditions prévues. Cette règle constitue le repère théorique à retenir concernant le droit d'accès et son objet.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le droit d'accès pour son objet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le droit d'accès pour son objet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le droit d'accès pour son objet."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0778",
+    "domaine": "RGPD",
+    "sous_domaine": "Prospection",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le droit d'opposition à la prospection, quelle réponse est juste au sujet de son exercice ?",
+    "choix": {
+      "A": "Il est impossible après la collecte.",
+      "B": "Il impose un paiement au prospect.",
+      "C": "Il ne concerne jamais le profilage lié à la prospection.",
+      "D": "La personne peut s'opposer à tout moment et sans frais au traitement de ses données à des fins de prospection."
+    },
+    "bonne_reponse": "D",
+    "explication": "La personne peut s'opposer à tout moment et sans frais au traitement de ses données à des fins de prospection. Cette règle constitue le repère théorique à retenir concernant le droit d'opposition à la prospection et son exercice.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0779",
+    "domaine": "RGPD",
+    "sous_domaine": "Conservation",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur les données d'un prospect non devenu client, quelle réponse est juste au sujet de la durée de conservation de prospection ?",
+    "choix": {
+      "A": "Elles doivent être détruites le jour même.",
+      "B": "Aucune durée ne doit être définie.",
+      "C": "Elles ne devraient en principe pas être conservées au-delà de trois ans après la collecte ou le dernier contact émanant du prospect.",
+      "D": "Elles doivent être conservées à vie."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elles ne devraient en principe pas être conservées au-delà de trois ans après la collecte ou le dernier contact émanant du prospect. Cette règle constitue le repère théorique à retenir concernant les données d'un prospect non devenu client et la durée de conservation de prospection.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les données d'un prospect non devenu client pour la durée de conservation de prospection.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les données d'un prospect non devenu client pour la durée de conservation de prospection.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les données d'un prospect non devenu client pour la durée de conservation de prospection."
+    },
+    "sources": [
+      "S072"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0780",
+    "domaine": "RGPD",
+    "sous_domaine": "Sécurité",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur une violation de données personnelles, quelle réponse est juste au sujet de la gestion ?",
+    "choix": {
+      "A": "Elle supprime l'obligation de sécurité.",
+      "B": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque.",
+      "C": "Elle doit toujours rester secrète pour l'autorité.",
+      "D": "Elle ne concerne que les données papier."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque. Cette règle constitue le repère théorique à retenir concernant une violation de données personnelles et la gestion.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0781",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Compte joint",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur un compte joint, quelle réponse est juste au sujet de la solidarité active ?",
+    "choix": {
+      "A": "Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable.",
+      "B": "Toutes les opérations exigent toujours deux signatures.",
+      "C": "Un seul cotitulaire est propriétaire de tous les fonds.",
+      "D": "Le compte joint ne peut recevoir aucun virement."
+    },
+    "bonne_reponse": "A",
+    "explication": "Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable. Cette règle constitue le repère théorique à retenir concernant un compte joint et la solidarité active.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active."
+    },
+    "sources": [
+      "S073"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0782",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Compte joint",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur un incident de chèque sur compte joint, quelle réponse est juste au sujet de le risque d'interdiction ?",
+    "choix": {
+      "A": "Aucun cotitulaire ne peut être concerné.",
+      "B": "Seul le bénéficiaire du chèque est interdit bancaire.",
+      "C": "L'incident disparaît automatiquement.",
+      "D": "Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables."
+    },
+    "bonne_reponse": "D",
+    "explication": "Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant un incident de chèque sur compte joint et le risque d'interdiction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un incident de chèque sur compte joint pour le risque d'interdiction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un incident de chèque sur compte joint pour le risque d'interdiction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un incident de chèque sur compte joint pour le risque d'interdiction."
+    },
+    "sources": [
+      "S073"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0783",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Mobilité bancaire",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le service d'aide à la mobilité bancaire, quelle réponse est juste au sujet de son coût ?",
+    "choix": {
+      "A": "Il est réservé aux entreprises cotées.",
+      "B": "Il impose la clôture de tous les livrets.",
+      "C": "Il est gratuit pour le client particulier qui change de compte de paiement dans les conditions prévues.",
+      "D": "Il est facturé par la Banque de France."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il est gratuit pour le client particulier qui change de compte de paiement dans les conditions prévues. Cette règle constitue le repère théorique à retenir concernant le service d'aide à la mobilité bancaire et son coût.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le service d'aide à la mobilité bancaire pour son coût.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le service d'aide à la mobilité bancaire pour son coût.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le service d'aide à la mobilité bancaire pour son coût."
+    },
+    "sources": [
+      "S074"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0784",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Droit au compte",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur la procédure de droit au compte, quelle réponse est juste au sujet de sa finalité ?",
+    "choix": {
+      "A": "Elle est réservée aux banques.",
+      "B": "Elle permet à une personne dépourvue de compte et confrontée à un refus de demander la désignation d'un établissement par la Banque de France.",
+      "C": "Elle garantit un crédit immobilier.",
+      "D": "Elle supprime tout contrôle d'identité."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle permet à une personne dépourvue de compte et confrontée à un refus de demander la désignation d'un établissement par la Banque de France. Cette règle constitue le repère théorique à retenir concernant la procédure de droit au compte et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la procédure de droit au compte pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la procédure de droit au compte pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la procédure de droit au compte pour sa finalité."
+    },
+    "sources": [
+      "S075"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0785",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Garantie des dépôts",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur les titres financiers conservés en compte-titres, quelle réponse est juste au sujet de leur propriété ?",
+    "choix": {
+      "A": "Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées.",
+      "B": "Ils deviennent la propriété de la banque.",
+      "C": "Ils sont garantis comme un Livret A contre toute baisse.",
+      "D": "Ils disparaissent automatiquement en cas de faillite."
+    },
+    "bonne_reponse": "A",
+    "explication": "Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées. Cette règle constitue le repère théorique à retenir concernant les titres financiers conservés en compte-titres et leur propriété.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les titres financiers conservés en compte-titres pour leur propriété.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les titres financiers conservés en compte-titres pour leur propriété.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les titres financiers conservés en compte-titres pour leur propriété."
+    },
+    "sources": [
+      "S053"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0786",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Fraude",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur les codes d'authentification bancaire, quelle réponse est juste au sujet de leur confidentialité ?",
+    "choix": {
+      "A": "Ils doivent être publiés pour sécuriser le compte.",
+      "B": "La banque les demande toujours par téléphone.",
+      "C": "Ils peuvent être partagés librement avec tout tiers.",
+      "D": "Ils ne doivent pas être communiqués à un prétendu conseiller sollicitant leur transmission."
+    },
+    "bonne_reponse": "D",
+    "explication": "Ils ne doivent pas être communiqués à un prétendu conseiller sollicitant leur transmission. Cette règle constitue le repère théorique à retenir concernant les codes d'authentification bancaire et leur confidentialité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les codes d'authentification bancaire pour leur confidentialité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les codes d'authentification bancaire pour leur confidentialité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les codes d'authentification bancaire pour leur confidentialité."
+    },
+    "sources": [
+      "S076"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0787",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Fraude",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur une opération par carte non autorisée, quelle réponse est juste au sujet de la réaction ?",
+    "choix": {
+      "A": "Il doit communiquer son code secret au fraudeur.",
+      "B": "Aucune contestation n'est possible.",
+      "C": "Le titulaire doit faire opposition et signaler rapidement l'opération à sa banque selon la procédure applicable.",
+      "D": "Il doit attendre la clôture annuelle."
+    },
+    "bonne_reponse": "C",
+    "explication": "Le titulaire doit faire opposition et signaler rapidement l'opération à sa banque selon la procédure applicable. Cette règle constitue le repère théorique à retenir concernant une opération par carte non autorisée et la réaction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une opération par carte non autorisée pour la réaction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une opération par carte non autorisée pour la réaction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une opération par carte non autorisée pour la réaction."
+    },
+    "sources": [
+      "S076"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0788",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Clôture",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur la clôture d'un compte par la banque, quelle réponse est juste au sujet de le préavis ?",
+    "choix": {
+      "A": "Elle transforme le compte en PEA.",
+      "B": "Elle doit en principe respecter le préavis contractuel ou légal, sauf situations permettant une clôture sans préavis.",
+      "C": "Elle est toujours impossible.",
+      "D": "Elle exige l'accord de tous les créanciers."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle doit en principe respecter le préavis contractuel ou légal, sauf situations permettant une clôture sans préavis. Cette règle constitue le repère théorique à retenir concernant la clôture d'un compte par la banque et le préavis.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la clôture d'un compte par la banque pour le préavis.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la clôture d'un compte par la banque pour le préavis.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la clôture d'un compte par la banque pour le préavis."
+    },
+    "sources": [
+      "S077"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0789",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Surendettement",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le dépôt d'un dossier de surendettement, quelle réponse est juste au sujet de l'inscription au FICP ?",
+    "choix": {
+      "A": "Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables.",
+      "B": "Il entraîne automatiquement l'inscription de tout le voisinage.",
+      "C": "Il garantit l'effacement immédiat de toutes les dettes.",
+      "D": "Il interdit le maintien d'un compte bancaire."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant le dépôt d'un dossier de surendettement et l'inscription au FICP.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP."
+    },
+    "sources": [
+      "S078"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0790",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Fragilité financière",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur l'offre spécifique clientèle fragile, quelle réponse est juste au sujet de sa finalité ?",
+    "choix": {
+      "A": "Elle garantit un découvert illimité.",
+      "B": "Elle supprime toute tarification bancaire.",
+      "C": "Elle est réservée aux sociétés de gestion.",
+      "D": "Elle vise à fournir des services bancaires adaptés et à limiter certains frais pour les clients éligibles."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle vise à fournir des services bancaires adaptés et à limiter certains frais pour les clients éligibles. Cette règle constitue le repère théorique à retenir concernant l'offre spécifique clientèle fragile et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'offre spécifique clientèle fragile pour sa finalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'offre spécifique clientèle fragile pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'offre spécifique clientèle fragile pour sa finalité."
+    },
+    "sources": [
+      "S079"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0791",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Inflation",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur l'inflation, quelle réponse est juste au sujet de sa définition ?",
+    "choix": {
+      "A": "Elle correspond uniquement à la hausse d'une action.",
+      "B": "Elle garantit un rendement réel positif.",
+      "C": "Elle correspond à une hausse générale et durable du niveau des prix, réduisant le pouvoir d'achat de la monnaie.",
+      "D": "Elle désigne une baisse générale des prix."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle correspond à une hausse générale et durable du niveau des prix, réduisant le pouvoir d'achat de la monnaie. Cette règle constitue le repère théorique à retenir concernant l'inflation et sa définition.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'inflation pour sa définition.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'inflation pour sa définition.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'inflation pour sa définition."
+    },
+    "sources": [
+      "S080"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0792",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Taux directeurs",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur une hausse des taux directeurs, quelle réponse est juste au sujet de son effet général ?",
+    "choix": {
+      "A": "Elle supprime l'inflation instantanément.",
+      "B": "Elle tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire.",
+      "C": "Elle rend tous les crédits gratuits.",
+      "D": "Elle garantit la hausse des actions."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire. Cette règle constitue le repère théorique à retenir concernant une hausse des taux directeurs et son effet général.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une hausse des taux directeurs pour son effet général.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une hausse des taux directeurs pour son effet général.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une hausse des taux directeurs pour son effet général."
+    },
+    "sources": [
+      "S081"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0793",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Obligations",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur la relation entre taux et cours obligataire, quelle réponse est juste au sujet de son sens général ?",
+    "choix": {
+      "A": "Lorsque les taux de marché montent, le prix des obligations à taux fixe existantes tend à baisser.",
+      "B": "Taux et prix montent toujours ensemble.",
+      "C": "Les taux n'ont aucun effet sur les obligations.",
+      "D": "La hausse des taux transforme les obligations en actions."
+    },
+    "bonne_reponse": "A",
+    "explication": "Lorsque les taux de marché montent, le prix des obligations à taux fixe existantes tend à baisser. Cette règle constitue le repère théorique à retenir concernant la relation entre taux et cours obligataire et son sens général.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la relation entre taux et cours obligataire pour son sens général.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la relation entre taux et cours obligataire pour son sens général.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la relation entre taux et cours obligataire pour son sens général."
+    },
+    "sources": [
+      "S032"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0794",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Rendement réel",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le rendement réel, quelle réponse est juste au sujet de sa définition ?",
+    "choix": {
+      "A": "Il est toujours égal au rendement nominal.",
+      "B": "Il mesure uniquement les frais.",
+      "C": "Il ne peut jamais être négatif.",
+      "D": "Il correspond au rendement nominal corrigé de l'effet de l'inflation."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il correspond au rendement nominal corrigé de l'effet de l'inflation. Cette règle constitue le repère théorique à retenir concernant le rendement réel et sa définition.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le rendement réel pour sa définition.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le rendement réel pour sa définition.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le rendement réel pour sa définition."
+    },
+    "sources": [
+      "S080"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0795",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Courbe des taux",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur une courbe des taux, quelle réponse est juste au sujet de sa représentation ?",
+    "choix": {
+      "A": "Elle mesure la fiscalité des livrets.",
+      "B": "Elle garantit le taux futur.",
+      "C": "Elle représente les rendements d'instruments comparables selon leurs différentes maturités.",
+      "D": "Elle représente uniquement le cours d'une action."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle représente les rendements d'instruments comparables selon leurs différentes maturités. Cette règle constitue le repère théorique à retenir concernant une courbe des taux et sa représentation.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une courbe des taux pour sa représentation.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une courbe des taux pour sa représentation.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une courbe des taux pour sa représentation."
+    },
+    "sources": [
+      "S081"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0796",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Capitalisation",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur la capitalisation des intérêts, quelle réponse est juste au sujet de son effet ?",
+    "choix": {
+      "A": "La durée n'a aucun effet.",
+      "B": "Les intérêts produits s'ajoutent au capital et peuvent eux-mêmes produire des intérêts.",
+      "C": "Les intérêts sont définitivement perdus.",
+      "D": "Le capital diminue mécaniquement."
+    },
+    "bonne_reponse": "B",
+    "explication": "Les intérêts produits s'ajoutent au capital et peuvent eux-mêmes produire des intérêts. Cette règle constitue le repère théorique à retenir concernant la capitalisation des intérêts et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la capitalisation des intérêts pour son effet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la capitalisation des intérêts pour son effet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la capitalisation des intérêts pour son effet."
+    },
+    "sources": [
+      "S082"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0797",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Risque de marché",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le risque de marché, quelle réponse est juste au sujet de sa définition ?",
+    "choix": {
+      "A": "Il correspond au risque de perte lié aux variations des prix, taux, devises ou autres facteurs de marché.",
+      "B": "Il correspond uniquement à une fraude interne.",
+      "C": "Il est inexistant pour les actifs cotés.",
+      "D": "Il garantit une liquidité parfaite."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il correspond au risque de perte lié aux variations des prix, taux, devises ou autres facteurs de marché. Cette règle constitue le repère théorique à retenir concernant le risque de marché et sa définition.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le risque de marché pour sa définition.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le risque de marché pour sa définition.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le risque de marché pour sa définition."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0798",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Risque de change",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur le risque de change, quelle réponse est juste au sujet de sa définition ?",
+    "choix": {
+      "A": "Il est identique au risque décès.",
+      "B": "Il ne concerne jamais les placements étrangers.",
+      "C": "Il garantit une plus-value.",
+      "D": "Il résulte de la variation du taux de conversion entre la devise de l'investissement et la devise de référence."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il résulte de la variation du taux de conversion entre la devise de l'investissement et la devise de référence. Cette règle constitue le repère théorique à retenir concernant le risque de change et sa définition.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le risque de change pour sa définition.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le risque de change pour sa définition.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le risque de change pour sa définition."
+    },
+    "sources": [
+      "S033"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0799",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Corrélation",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur la corrélation entre deux actifs, quelle réponse est juste au sujet de son interprétation ?",
+    "choix": {
+      "A": "Elle est toujours égale à un.",
+      "B": "Elle supprime le risque spécifique.",
+      "C": "Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité.",
+      "D": "Elle garantit des performances identiques."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité. Cette règle constitue le repère théorique à retenir concernant la corrélation entre deux actifs et son interprétation.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la corrélation entre deux actifs pour son interprétation.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la corrélation entre deux actifs pour son interprétation.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la corrélation entre deux actifs pour son interprétation."
+    },
+    "sources": [
+      "S056"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0800",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Cycle économique",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur une récession, quelle réponse est juste au sujet de sa définition usuelle ?",
+    "choix": {
+      "A": "Elle est décidée par une banque commerciale.",
+      "B": "Elle désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs.",
+      "C": "Elle correspond à une inflation nulle uniquement.",
+      "D": "Elle garantit la hausse de tous les actifs."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs. Cette règle constitue le repère théorique à retenir concernant une récession et sa définition usuelle.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une récession pour sa définition usuelle.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une récession pour sa définition usuelle.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une récession pour sa définition usuelle."
+    },
+    "sources": [
+      "S080"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  }
+]

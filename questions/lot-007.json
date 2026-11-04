@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "CGP-2026-0301",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Incapacité",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de l'incapacité temporaire de travail, quel principe faut-il retenir pour sa logique ?",
+    "choix": {
+      "A": "Elle équivaut toujours au décès.",
+      "B": "Elle ne peut jamais donner lieu à indemnisation.",
+      "C": "Elle correspond à une impossibilité temporaire d'exercer l'activité, selon la définition contractuelle.",
+      "D": "Elle est nécessairement définitive."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle correspond à une impossibilité temporaire d'exercer l'activité, selon la définition contractuelle. Cette règle constitue le repère théorique à retenir concernant l'incapacité temporaire de travail et sa logique.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'incapacité temporaire de travail pour sa logique.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'incapacité temporaire de travail pour sa logique.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'incapacité temporaire de travail pour sa logique."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0302",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Invalidité",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de l'invalidité, quel principe faut-il retenir pour sa logique ?",
+    "choix": {
+      "A": "Elle exclut toute prestation.",
+      "B": "Elle traduit une réduction durable de la capacité de travail ou de gain, appréciée selon le contrat et les règles applicables.",
+      "C": "Elle désigne une interruption de quelques heures.",
+      "D": "Elle est identique à une franchise."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle traduit une réduction durable de la capacité de travail ou de gain, appréciée selon le contrat et les règles applicables. Cette règle constitue le repère théorique à retenir concernant l'invalidité et sa logique.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'invalidité pour sa logique.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'invalidité pour sa logique.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'invalidité pour sa logique."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0303",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Décès",
+    "difficulte": "debutant",
+    "enonce": "À propos de un capital décès, quel principe faut-il retenir pour sa finalité ?",
+    "choix": {
+      "A": "Il vise à fournir aux bénéficiaires un capital prévu au contrat lors du décès couvert.",
+      "B": "Il rembourse uniquement les frais bancaires.",
+      "C": "Il est versé à l'assureur.",
+      "D": "Il garantit un rendement boursier."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il vise à fournir aux bénéficiaires un capital prévu au contrat lors du décès couvert. Cette règle constitue le repère théorique à retenir concernant un capital décès et sa finalité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un capital décès pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un capital décès pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un capital décès pour sa finalité."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0304",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Exclusions",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de une exclusion de garantie, quel principe faut-il retenir pour sa portée ?",
+    "choix": {
+      "A": "Elle augmente automatiquement toutes les prestations.",
+      "B": "Elle est sans effet juridique.",
+      "C": "Elle remplace la clause bénéficiaire.",
+      "D": "Elle délimite un risque non couvert et doit être examinée avec les conditions du contrat."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle délimite un risque non couvert et doit être examinée avec les conditions du contrat. Cette règle constitue le repère théorique à retenir concernant une exclusion de garantie et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une exclusion de garantie pour sa portée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une exclusion de garantie pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une exclusion de garantie pour sa portée."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0305",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Franchise",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de une franchise en prévoyance, quel principe faut-il retenir pour son effet ?",
+    "choix": {
+      "A": "Elle représente le capital garanti.",
+      "B": "Elle est un taux directeur.",
+      "C": "Elle correspond à une période ou un montant restant sans prise en charge avant le déclenchement prévu de la garantie.",
+      "D": "Elle supprime définitivement le contrat."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle correspond à une période ou un montant restant sans prise en charge avant le déclenchement prévu de la garantie. Cette règle constitue le repère théorique à retenir concernant une franchise en prévoyance et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une franchise en prévoyance pour son effet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une franchise en prévoyance pour son effet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une franchise en prévoyance pour son effet."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0306",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Carence",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de un délai de carence, quel principe faut-il retenir pour sa fonction ?",
+    "choix": {
+      "A": "Il transforme le contrat en assurance-vie.",
+      "B": "Il retarde la prise d'effet de certaines garanties après la souscription, selon le contrat.",
+      "C": "Il intervient uniquement après chaque sinistre.",
+      "D": "Il est toujours interdit."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il retarde la prise d'effet de certaines garanties après la souscription, selon le contrat. Cette règle constitue le repère théorique à retenir concernant un délai de carence et sa fonction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un délai de carence pour sa fonction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un délai de carence pour sa fonction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un délai de carence pour sa fonction."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0307",
+    "domaine": "Assurance",
+    "sous_domaine": "Devoir de conseil",
+    "difficulte": "avance",
+    "enonce": "À propos de le devoir de conseil en assurance, quel principe faut-il retenir pour sa traçabilité ?",
+    "choix": {
+      "A": "La recommandation et ses motifs doivent être cohérents avec les exigences et besoins recueillis et correctement documentés.",
+      "B": "Il suffit de remettre une publicité.",
+      "C": "La situation du client peut être ignorée.",
+      "D": "Il prend fin avant la souscription."
+    },
+    "bonne_reponse": "A",
+    "explication": "La recommandation et ses motifs doivent être cohérents avec les exigences et besoins recueillis et correctement documentés. Cette règle constitue le repère théorique à retenir concernant le devoir de conseil en assurance et sa traçabilité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le devoir de conseil en assurance pour sa traçabilité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le devoir de conseil en assurance pour sa traçabilité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le devoir de conseil en assurance pour sa traçabilité."
+    },
+    "sources": [
+      "S004"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0308",
+    "domaine": "Assurance",
+    "sous_domaine": "Formation",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de la formation continue DDA, quel principe faut-il retenir pour sa durée annuelle minimale ?",
+    "choix": {
+      "A": "Elle est d'une heure tous les dix ans.",
+      "B": "Elle n'existe que pour les actuaires.",
+      "C": "Elle est facultative pour tous les distributeurs.",
+      "D": "La durée minimale est de quinze heures par an pour les personnes concernées par la distribution d'assurances."
+    },
+    "bonne_reponse": "D",
+    "explication": "La durée minimale est de quinze heures par an pour les personnes concernées par la distribution d'assurances. Cette règle constitue le repère théorique à retenir concernant la formation continue DDA et sa durée annuelle minimale.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la formation continue DDA pour sa durée annuelle minimale.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la formation continue DDA pour sa durée annuelle minimale.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la formation continue DDA pour sa durée annuelle minimale."
+    },
+    "sources": [
+      "S003"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0309",
+    "domaine": "Assurance",
+    "sous_domaine": "Sinistre",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de une déclaration de sinistre, quel principe faut-il retenir pour son contenu ?",
+    "choix": {
+      "A": "Elle vaut reconnaissance automatique de garantie.",
+      "B": "Elle interdit toute demande de justificatif.",
+      "C": "Elle doit être faite selon les délais et modalités prévus par le contrat, avec les informations utiles.",
+      "D": "Elle est toujours verbale et sans délai."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle doit être faite selon les délais et modalités prévus par le contrat, avec les informations utiles. Cette règle constitue le repère théorique à retenir concernant une déclaration de sinistre et son contenu.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une déclaration de sinistre pour son contenu.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une déclaration de sinistre pour son contenu.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une déclaration de sinistre pour son contenu."
+    },
+    "sources": [
+      "S049"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0310",
+    "domaine": "Assurance",
+    "sous_domaine": "Prime",
+    "difficulte": "debutant",
+    "enonce": "À propos de la prime d'assurance, quel principe faut-il retenir pour sa fonction ?",
+    "choix": {
+      "A": "Elle correspond au taux d'un crédit immobilier.",
+      "B": "Elle constitue le prix payé pour la couverture prévue au contrat.",
+      "C": "Elle est le montant toujours versé après sinistre.",
+      "D": "Elle désigne la franchise."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle constitue le prix payé pour la couverture prévue au contrat. Cette règle constitue le repère théorique à retenir concernant la prime d'assurance et sa fonction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la prime d'assurance pour sa fonction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la prime d'assurance pour sa fonction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la prime d'assurance pour sa fonction."
+    },
+    "sources": [
+      "S049"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0311",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "Livret A",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de le Livret A, quel principe faut-il retenir pour son plafond de versements pour un particulier ?",
+    "choix": {
+      "A": "Le plafond réglementaire des versements est de 22 950 euros, hors capitalisation des intérêts.",
+      "B": "Le plafond est de 12 000 euros.",
+      "C": "Le plafond est de 150 000 euros.",
+      "D": "Aucun plafond n'existe."
+    },
+    "bonne_reponse": "A",
+    "explication": "Le plafond réglementaire des versements est de 22 950 euros, hors capitalisation des intérêts. Cette règle constitue le repère théorique à retenir concernant le Livret A et son plafond de versements pour un particulier.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le Livret A pour son plafond de versements pour un particulier.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le Livret A pour son plafond de versements pour un particulier.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le Livret A pour son plafond de versements pour un particulier."
+    },
+    "sources": [
+      "S037"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0312",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "Livret A",
+    "difficulte": "debutant",
+    "enonce": "À propos de les intérêts du Livret A, quel principe faut-il retenir pour leur fiscalité ?",
+    "choix": {
+      "A": "Ils sont toujours soumis au PFU.",
+      "B": "Ils sont taxés comme des salaires.",
+      "C": "Ils sont imposés uniquement au-delà de huit ans.",
+      "D": "Ils sont exonérés d'impôt sur le revenu et de prélèvements sociaux."
+    },
+    "bonne_reponse": "D",
+    "explication": "Ils sont exonérés d'impôt sur le revenu et de prélèvements sociaux. Cette règle constitue le repère théorique à retenir concernant les intérêts du Livret A et leur fiscalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les intérêts du Livret A pour leur fiscalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les intérêts du Livret A pour leur fiscalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les intérêts du Livret A pour leur fiscalité."
+    },
+    "sources": [
+      "S037"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0313",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "LDDS",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de le LDDS, quel principe faut-il retenir pour son plafond de versements ?",
+    "choix": {
+      "A": "Le plafond est de 1 600 euros.",
+      "B": "Le plafond dépend du cours des actions.",
+      "C": "Le plafond réglementaire des versements est de 12 000 euros, hors intérêts capitalisés.",
+      "D": "Le plafond est de 22 950 euros."
+    },
+    "bonne_reponse": "C",
+    "explication": "Le plafond réglementaire des versements est de 12 000 euros, hors intérêts capitalisés. Cette règle constitue le repère théorique à retenir concernant le LDDS et son plafond de versements.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le LDDS pour son plafond de versements.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le LDDS pour son plafond de versements.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le LDDS pour son plafond de versements."
+    },
+    "sources": [
+      "S040"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0314",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "LEP",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de le LEP, quel principe faut-il retenir pour ses conditions de détention ?",
+    "choix": {
+      "A": "Il impose l'achat d'actions.",
+      "B": "Il est réservé aux personnes fiscalement domiciliées en France respectant des conditions de revenus.",
+      "C": "Il est ouvert sans condition dans le monde entier.",
+      "D": "Il est réservé aux sociétés cotées."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il est réservé aux personnes fiscalement domiciliées en France respectant des conditions de revenus. Cette règle constitue le repère théorique à retenir concernant le LEP et ses conditions de détention.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le LEP pour ses conditions de détention.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le LEP pour ses conditions de détention.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le LEP pour ses conditions de détention."
+    },
+    "sources": [
+      "S041"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0315",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "Livret jeune",
+    "difficulte": "debutant",
+    "enonce": "À propos de le Livret jeune, quel principe faut-il retenir pour l'âge du titulaire ?",
+    "choix": {
+      "A": "Il est destiné aux personnes âgées de douze à vingt-cinq ans sous les conditions prévues.",
+      "B": "Il est réservé aux plus de soixante-dix ans.",
+      "C": "Il n'est accessible qu'aux entreprises.",
+      "D": "Il est sans condition d'âge."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il est destiné aux personnes âgées de douze à vingt-cinq ans sous les conditions prévues. Cette règle constitue le repère théorique à retenir concernant le Livret jeune et l'âge du titulaire.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le Livret jeune pour l'âge du titulaire.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le Livret jeune pour l'âge du titulaire.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le Livret jeune pour l'âge du titulaire."
+    },
+    "sources": [
+      "S050"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0316",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "PEL",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de le PEL, quel principe faut-il retenir pour l'unicité ?",
+    "choix": {
+      "A": "Une personne peut en ouvrir un nombre illimité.",
+      "B": "Il faut détenir deux PEL.",
+      "C": "Le PEL est nécessairement joint.",
+      "D": "Une personne ne peut détenir qu'un seul PEL à la fois."
+    },
+    "bonne_reponse": "D",
+    "explication": "Une personne ne peut détenir qu'un seul PEL à la fois. Cette règle constitue le repère théorique à retenir concernant le PEL et l'unicité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le PEL pour l'unicité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le PEL pour l'unicité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le PEL pour l'unicité."
+    },
+    "sources": [
+      "S051"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0317",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "PEL",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de le PEL, quel principe faut-il retenir pour la durée minimale d'épargne ouvrant normalement les droits complets ?",
+    "choix": {
+      "A": "Il ne peut jamais durer plus d'un an.",
+      "B": "Il est dépourvu de toute durée.",
+      "C": "Le PEL est conçu autour d'une phase d'épargne d'au moins quatre ans pour bénéficier pleinement de sa logique de prêt.",
+      "D": "Il doit être clôturé après un mois."
+    },
+    "bonne_reponse": "C",
+    "explication": "Le PEL est conçu autour d'une phase d'épargne d'au moins quatre ans pour bénéficier pleinement de sa logique de prêt. Cette règle constitue le repère théorique à retenir concernant le PEL et la durée minimale d'épargne ouvrant normalement les droits complets.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le PEL pour la durée minimale d'épargne ouvrant normalement les droits complets.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le PEL pour la durée minimale d'épargne ouvrant normalement les droits complets.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le PEL pour la durée minimale d'épargne ouvrant normalement les droits complets."
+    },
+    "sources": [
+      "S051"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0318",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "Compte à terme",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de un compte à terme, quel principe faut-il retenir pour la disponibilité ?",
+    "choix": {
+      "A": "Il ne peut produire aucun intérêt.",
+      "B": "Les fonds sont placés pour une durée convenue et un retrait anticipé peut entraîner des pénalités ou une rémunération réduite.",
+      "C": "Les fonds sont toujours disponibles sans conséquence.",
+      "D": "Il s'agit d'un compte de paiement quotidien."
+    },
+    "bonne_reponse": "B",
+    "explication": "Les fonds sont placés pour une durée convenue et un retrait anticipé peut entraîner des pénalités ou une rémunération réduite. Cette règle constitue le repère théorique à retenir concernant un compte à terme et la disponibilité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un compte à terme pour la disponibilité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un compte à terme pour la disponibilité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un compte à terme pour la disponibilité."
+    },
+    "sources": [
+      "S052"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0319",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "Garantie des dépôts",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de la garantie des dépôts, quel principe faut-il retenir pour son plafond général ?",
+    "choix": {
+      "A": "Elle couvre en principe jusqu'à 100 000 euros par déposant et par établissement, sous les conditions du dispositif.",
+      "B": "Elle est illimitée pour tout actif financier.",
+      "C": "Elle couvre toutes les pertes boursières.",
+      "D": "Elle est fixée à 1 000 euros."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle couvre en principe jusqu'à 100 000 euros par déposant et par établissement, sous les conditions du dispositif. Cette règle constitue le repère théorique à retenir concernant la garantie des dépôts et son plafond général.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la garantie des dépôts pour son plafond général.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la garantie des dépôts pour son plafond général.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la garantie des dépôts pour son plafond général."
+    },
+    "sources": [
+      "S053"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0320",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "Intérêts",
+    "difficulte": "avance",
+    "enonce": "À propos de la règle des quinzaines, quel principe faut-il retenir pour son application ?",
+    "choix": {
+      "A": "Tous les placements financiers sont valorisés uniquement une fois par an.",
+      "B": "Elle s'applique au cours des actions.",
+      "C": "Elle interdit les retraits.",
+      "D": "Certains livrets réglementés calculent les intérêts par quinzaine selon les dates de versement et de retrait."
+    },
+    "bonne_reponse": "D",
+    "explication": "Certains livrets réglementés calculent les intérêts par quinzaine selon les dates de versement et de retrait. Cette règle constitue le repère théorique à retenir concernant la règle des quinzaines et son application.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la règle des quinzaines pour son application.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la règle des quinzaines pour son application.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la règle des quinzaines pour son application."
+    },
+    "sources": [
+      "S037"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0321",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Actions",
+    "difficulte": "debutant",
+    "enonce": "À propos de une action, quel principe faut-il retenir pour le droit représenté ?",
+    "choix": {
+      "A": "Elle est un dépôt garanti par l'État.",
+      "B": "Elle verse obligatoirement un intérêt fixe.",
+      "C": "Elle représente une fraction du capital d'une société et expose notamment au risque de perte en capital.",
+      "D": "Elle constitue toujours une créance remboursable à date fixe."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle représente une fraction du capital d'une société et expose notamment au risque de perte en capital. Cette règle constitue le repère théorique à retenir concernant une action et le droit représenté.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une action pour le droit représenté.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une action pour le droit représenté.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une action pour le droit représenté."
+    },
+    "sources": [
+      "S054"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0322",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Actions",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de un dividende, quel principe faut-il retenir pour sa nature ?",
+    "choix": {
+      "A": "Il est identique au coupon d'une obligation d'État dans tous les cas.",
+      "B": "Il correspond à une distribution décidée par la société et n'est pas garanti.",
+      "C": "Il est un remboursement obligatoire du prix d'achat.",
+      "D": "Il est fixé par la Banque centrale européenne."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il correspond à une distribution décidée par la société et n'est pas garanti. Cette règle constitue le repère théorique à retenir concernant un dividende et sa nature.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un dividende pour sa nature.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un dividende pour sa nature.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un dividende pour sa nature."
+    },
+    "sources": [
+      "S054"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0323",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Obligations",
+    "difficulte": "debutant",
+    "enonce": "À propos de une obligation, quel principe faut-il retenir pour sa nature ?",
+    "choix": {
+      "A": "Elle représente une créance sur un émetteur, assortie de conditions de rémunération et de remboursement.",
+      "B": "Elle donne toujours un droit de vote d'actionnaire.",
+      "C": "Elle est un livret réglementé.",
+      "D": "Elle ne comporte aucun risque de crédit."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle représente une créance sur un émetteur, assortie de conditions de rémunération et de remboursement. Cette règle constitue le repère théorique à retenir concernant une obligation et sa nature.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à une obligation pour sa nature.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une obligation pour sa nature.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une obligation pour sa nature."
+    },
+    "sources": [
+      "S032"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0324",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Obligations",
+    "difficulte": "avance",
+    "enonce": "À propos de la hausse des taux de marché, quel principe faut-il retenir pour son effet général sur une obligation à taux fixe existante ?",
+    "choix": {
+      "A": "Elle fait toujours monter son cours.",
+      "B": "Elle supprime le risque émetteur.",
+      "C": "Elle transforme l'obligation en action.",
+      "D": "Elle tend à faire baisser le cours de l'obligation à taux fixe, toutes choses égales par ailleurs."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle tend à faire baisser le cours de l'obligation à taux fixe, toutes choses égales par ailleurs. Cette règle constitue le repère théorique à retenir concernant la hausse des taux de marché et son effet général sur une obligation à taux fixe existante.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la hausse des taux de marché pour son effet général sur une obligation à taux fixe existante.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la hausse des taux de marché pour son effet général sur une obligation à taux fixe existante.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la hausse des taux de marché pour son effet général sur une obligation à taux fixe existante."
+    },
+    "sources": [
+      "S032"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0325",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Obligations",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de le risque de crédit, quel principe faut-il retenir pour sa définition ?",
+    "choix": {
+      "A": "Il est inexistant pour toute obligation.",
+      "B": "Il correspond aux frais d'entrée.",
+      "C": "Il correspond au risque que l'émetteur ne respecte pas tout ou partie de ses engagements.",
+      "D": "Il mesure uniquement la volatilité d'une devise."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il correspond au risque que l'émetteur ne respecte pas tout ou partie de ses engagements. Cette règle constitue le repère théorique à retenir concernant le risque de crédit et sa définition.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le risque de crédit pour sa définition.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le risque de crédit pour sa définition.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le risque de crédit pour sa définition."
+    },
+    "sources": [
+      "S032"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0326",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Rendement",
+    "difficulte": "debutant",
+    "enonce": "À propos de le rendement passé, quel principe faut-il retenir pour sa portée ?",
+    "choix": {
+      "A": "Il supprime la possibilité de perte.",
+      "B": "Il ne préjuge pas des performances futures et doit être replacé dans le niveau de risque pris.",
+      "C": "Il garantit le rendement futur.",
+      "D": "Il rend inutile toute diversification."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il ne préjuge pas des performances futures et doit être replacé dans le niveau de risque pris. Cette règle constitue le repère théorique à retenir concernant le rendement passé et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le rendement passé pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le rendement passé pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le rendement passé pour sa portée."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0327",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Volatilité",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de la volatilité, quel principe faut-il retenir pour sa signification ?",
+    "choix": {
+      "A": "Elle mesure l'amplitude des variations d'un actif autour de son évolution moyenne sur une période.",
+      "B": "Elle garantit le capital.",
+      "C": "Elle correspond au coupon certain.",
+      "D": "Elle mesure uniquement les frais de tenue de compte."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle mesure l'amplitude des variations d'un actif autour de son évolution moyenne sur une période. Cette règle constitue le repère théorique à retenir concernant la volatilité et sa signification.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la volatilité pour sa signification.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la volatilité pour sa signification.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la volatilité pour sa signification."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0328",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Liquidité",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de la liquidité d'un placement, quel principe faut-il retenir pour sa signification ?",
+    "choix": {
+      "A": "Elle désigne toujours une garantie en capital.",
+      "B": "Elle mesure la fiscalité.",
+      "C": "Elle est identique à la rentabilité.",
+      "D": "Elle traduit la possibilité de vendre ou récupérer les fonds rapidement sans forte décote."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle traduit la possibilité de vendre ou récupérer les fonds rapidement sans forte décote. Cette règle constitue le repère théorique à retenir concernant la liquidité d'un placement et sa signification.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la liquidité d'un placement pour sa signification.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la liquidité d'un placement pour sa signification.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la liquidité d'un placement pour sa signification."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0329",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Diversification",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de la diversification, quel principe faut-il retenir pour son effet ?",
+    "choix": {
+      "A": "Elle impose un actif unique.",
+      "B": "Elle augmente nécessairement chaque risque individuel.",
+      "C": "Elle réduit la concentration des risques mais n'élimine pas tous les risques de marché.",
+      "D": "Elle garantit un gain."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle réduit la concentration des risques mais n'élimine pas tous les risques de marché. Cette règle constitue le repère théorique à retenir concernant la diversification et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet."
+    },
+    "sources": [
+      "S056"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0330",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Horizon",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de l'horizon de placement, quel principe faut-il retenir pour son rôle ?",
+    "choix": {
+      "A": "Il garantit la performance.",
+      "B": "Il doit être cohérent avec la durée recommandée et la capacité à supporter les fluctuations.",
+      "C": "Il n'a aucun lien avec le choix du produit.",
+      "D": "Il dépend seulement de l'âge du conseiller."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il doit être cohérent avec la durée recommandée et la capacité à supporter les fluctuations. Cette règle constitue le repère théorique à retenir concernant l'horizon de placement et son rôle.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'horizon de placement pour son rôle.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'horizon de placement pour son rôle.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'horizon de placement pour son rôle."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0331",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "debutant",
+    "enonce": "À propos de un organisme de placement collectif, quel principe faut-il retenir pour son principe ?",
+    "choix": {
+      "A": "Il regroupe l'épargne de plusieurs investisseurs dans un portefeuille géré selon une stratégie définie.",
+      "B": "Il est toujours un compte bancaire individuel.",
+      "C": "Il garantit nécessairement le capital.",
+      "D": "Il ne peut détenir aucun titre financier."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il regroupe l'épargne de plusieurs investisseurs dans un portefeuille géré selon une stratégie définie. Cette règle constitue le repère théorique à retenir concernant un organisme de placement collectif et son principe.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0332",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de une SICAV, quel principe faut-il retenir pour sa forme ?",
+    "choix": {
+      "A": "Une SICAV est toujours un prêt immobilier.",
+      "B": "Une SICAV est un livret défiscalisé.",
+      "C": "Une SICAV ne peut avoir aucune personnalité morale.",
+      "D": "Une SICAV est une société d'investissement à capital variable émettant des actions."
+    },
+    "bonne_reponse": "D",
+    "explication": "Une SICAV est une société d'investissement à capital variable émettant des actions. Cette règle constitue le repère théorique à retenir concernant une SICAV et sa forme.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une SICAV pour sa forme.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une SICAV pour sa forme.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une SICAV pour sa forme."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0333",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de un FCP, quel principe faut-il retenir pour sa forme ?",
+    "choix": {
+      "A": "Il est un compte de dépôt.",
+      "B": "Il garantit un taux réglementé.",
+      "C": "Un fonds commun de placement est une copropriété de valeurs mobilières sans personnalité morale.",
+      "D": "Il s'agit d'une société cotée obligatoire."
+    },
+    "bonne_reponse": "C",
+    "explication": "Un fonds commun de placement est une copropriété de valeurs mobilières sans personnalité morale. Cette règle constitue le repère théorique à retenir concernant un FCP et sa forme.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un FCP pour sa forme.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un FCP pour sa forme.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un FCP pour sa forme."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0334",
+    "domaine": "Placements financiers",
+    "sous_domaine": "ETF",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de un ETF, quel principe faut-il retenir pour son objectif habituel ?",
+    "choix": {
+      "A": "Il ne peut être coté.",
+      "B": "Il cherche généralement à répliquer l'évolution d'un indice, à la hausse comme à la baisse selon sa stratégie.",
+      "C": "Il garantit toujours de battre l'indice.",
+      "D": "Il est sans risque de marché."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il cherche généralement à répliquer l'évolution d'un indice, à la hausse comme à la baisse selon sa stratégie. Cette règle constitue le repère théorique à retenir concernant un ETF et son objectif habituel.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un ETF pour son objectif habituel.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un ETF pour son objectif habituel.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un ETF pour son objectif habituel."
+    },
+    "sources": [
+      "S033"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0335",
+    "domaine": "Placements financiers",
+    "sous_domaine": "ETF",
+    "difficulte": "avance",
+    "enonce": "À propos de un ETF exposé en devise étrangère, quel principe faut-il retenir pour le risque de change ?",
+    "choix": {
+      "A": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert.",
+      "B": "Le change n'a jamais aucun effet.",
+      "C": "La devise garantit le capital.",
+      "D": "Le risque de change remplace tous les autres risques."
+    },
+    "bonne_reponse": "A",
+    "explication": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert. Cette règle constitue le repère théorique à retenir concernant un ETF exposé en devise étrangère et le risque de change.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change."
+    },
+    "sources": [
+      "S033"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0336",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Produits structurés",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de un produit structuré, quel principe faut-il retenir pour la formule de remboursement ?",
+    "choix": {
+      "A": "Elle est toujours égale au Livret A.",
+      "B": "Elle est fixée après l'échéance sans règle préalable.",
+      "C": "Elle garantit nécessairement un gain illimité.",
+      "D": "Elle dépend de conditions définies à l'avance et liées à un ou plusieurs sous-jacents."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle dépend de conditions définies à l'avance et liées à un ou plusieurs sous-jacents. Cette règle constitue le repère théorique à retenir concernant un produit structuré et la formule de remboursement.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un produit structuré pour la formule de remboursement.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un produit structuré pour la formule de remboursement.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un produit structuré pour la formule de remboursement."
+    },
+    "sources": [
+      "S035"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0337",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Produits structurés",
+    "difficulte": "avance",
+    "enonce": "À propos de la protection du capital à l'échéance, quel principe faut-il retenir pour sa portée ?",
+    "choix": {
+      "A": "Elle rend l'émetteur sans importance.",
+      "B": "Elle s'applique à tout produit structuré sans exception.",
+      "C": "Elle ne vaut que dans les conditions prévues et reste exposée notamment au risque de défaut de l'émetteur.",
+      "D": "Elle protège contre tout risque avant l'échéance."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle ne vaut que dans les conditions prévues et reste exposée notamment au risque de défaut de l'émetteur. Cette règle constitue le repère théorique à retenir concernant la protection du capital à l'échéance et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée."
+    },
+    "sources": [
+      "S035"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0338",
+    "domaine": "Placements immobiliers",
+    "sous_domaine": "SCPI",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de une SCPI, quel principe faut-il retenir pour le capital ?",
+    "choix": {
+      "A": "La valeur ne peut jamais baisser.",
+      "B": "Le capital investi et le rendement ne sont pas garantis.",
+      "C": "Le capital est garanti par l'État.",
+      "D": "Le rendement est fixé par la BCE."
+    },
+    "bonne_reponse": "B",
+    "explication": "Le capital investi et le rendement ne sont pas garantis. Cette règle constitue le repère théorique à retenir concernant une SCPI et le capital.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une SCPI pour le capital.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une SCPI pour le capital.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une SCPI pour le capital."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0339",
+    "domaine": "Placements immobiliers",
+    "sous_domaine": "SCPI",
+    "difficulte": "avance",
+    "enonce": "À propos de les parts de SCPI, quel principe faut-il retenir pour la liquidité ?",
+    "choix": {
+      "A": "La revente peut prendre du temps et dépend de l'existence d'une contrepartie ou des modalités du fonds.",
+      "B": "La liquidité est instantanée et garantie.",
+      "C": "Elles sont remboursées à vue par la Banque de France.",
+      "D": "Elles ne peuvent jamais être cédées."
+    },
+    "bonne_reponse": "A",
+    "explication": "La revente peut prendre du temps et dépend de l'existence d'une contrepartie ou des modalités du fonds. Cette règle constitue le repère théorique à retenir concernant les parts de SCPI et la liquidité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les parts de SCPI pour la liquidité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les parts de SCPI pour la liquidité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les parts de SCPI pour la liquidité."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0340",
+    "domaine": "Placements immobiliers",
+    "sous_domaine": "SCPI",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de les revenus d'une SCPI, quel principe faut-il retenir pour leur variabilité ?",
+    "choix": {
+      "A": "Elles sont fixes par la loi.",
+      "B": "Elles ne dépendent jamais de l'occupation des immeubles.",
+      "C": "Elles constituent un intérêt réglementé.",
+      "D": "Les distributions dépendent notamment des loyers encaissés, des charges et de la gestion du patrimoine."
+    },
+    "bonne_reponse": "D",
+    "explication": "Les distributions dépendent notamment des loyers encaissés, des charges et de la gestion du patrimoine. Cette règle constitue le repère théorique à retenir concernant les revenus d'une SCPI et leur variabilité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les revenus d'une SCPI pour leur variabilité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les revenus d'une SCPI pour leur variabilité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les revenus d'une SCPI pour leur variabilité."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0341",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de le PEA bancaire classique, quel principe faut-il retenir pour le plafond de versements ?",
+    "choix": {
+      "A": "Le plafond est de 12 000 euros.",
+      "B": "Les versements sont sans plafond.",
+      "C": "Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan.",
+      "D": "Le plafond est de 22 950 euros."
+    },
+    "bonne_reponse": "C",
+    "explication": "Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan. Cette règle constitue le repère théorique à retenir concernant le PEA bancaire classique et le plafond de versements.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0342",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de l'ouverture d'un PEA, quel principe faut-il retenir pour le domicile fiscal ?",
+    "choix": {
+      "A": "Elle ne comporte aucune condition de résidence fiscale.",
+      "B": "L'ouverture est réservée aux personnes fiscalement domiciliées en France, sous les règles applicables.",
+      "C": "Elle est réservée aux sociétés.",
+      "D": "Elle exige un domicile fiscal hors de France."
+    },
+    "bonne_reponse": "B",
+    "explication": "L'ouverture est réservée aux personnes fiscalement domiciliées en France, sous les règles applicables. Cette règle constitue le repère théorique à retenir concernant l'ouverture d'un PEA et le domicile fiscal.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'ouverture d'un PEA pour le domicile fiscal.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'ouverture d'un PEA pour le domicile fiscal.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'ouverture d'un PEA pour le domicile fiscal."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0343",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "avance",
+    "enonce": "À propos de un retrait après cinq ans, quel principe faut-il retenir pour l'effet sur le plan ?",
+    "choix": {
+      "A": "Il n'entraîne en principe plus la clôture et de nouveaux versements peuvent rester possibles.",
+      "B": "Il clôture toujours le plan immédiatement.",
+      "C": "Il rend tous les gains imposables comme des salaires.",
+      "D": "Il transforme le plan en Livret A."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il n'entraîne en principe plus la clôture et de nouveaux versements peuvent rester possibles. Cette règle constitue le repère théorique à retenir concernant un retrait après cinq ans et l'effet sur le plan.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0344",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "avance",
+    "enonce": "À propos de les gains d'un PEA après cinq ans, quel principe faut-il retenir pour l'impôt sur le revenu ?",
+    "choix": {
+      "A": "Ils sont toujours exonérés de tous prélèvements.",
+      "B": "Ils sont toujours soumis au barème sans exonération.",
+      "C": "Ils deviennent des revenus fonciers.",
+      "D": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables."
+    },
+    "bonne_reponse": "D",
+    "explication": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables. Cette règle constitue le repère théorique à retenir concernant les gains d'un PEA après cinq ans et l'impôt sur le revenu.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les gains d'un PEA après cinq ans pour l'impôt sur le revenu.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les gains d'un PEA après cinq ans pour l'impôt sur le revenu.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les gains d'un PEA après cinq ans pour l'impôt sur le revenu."
+    },
+    "sources": [
+      "S030"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0345",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de les titres éligibles au PEA, quel principe faut-il retenir pour leur périmètre ?",
+    "choix": {
+      "A": "Seuls les livrets bancaires y sont admis.",
+      "B": "Aucune action ne peut être détenue.",
+      "C": "L'enveloppe vise principalement les actions européennes et certains fonds respectant les critères d'éligibilité.",
+      "D": "Tous les actifs mondiaux y sont éligibles sans condition."
+    },
+    "bonne_reponse": "C",
+    "explication": "L'enveloppe vise principalement les actions européennes et certains fonds respectant les critères d'éligibilité. Cette règle constitue le repère théorique à retenir concernant les titres éligibles au PEA et leur périmètre.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les titres éligibles au PEA pour leur périmètre.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les titres éligibles au PEA pour leur périmètre.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les titres éligibles au PEA pour leur périmètre."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0346",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "debutant",
+    "enonce": "À propos de le compte-titres ordinaire, quel principe faut-il retenir pour son univers d'investissement ?",
+    "choix": {
+      "A": "Il est réservé aux mineurs émancipés.",
+      "B": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables.",
+      "C": "Il est limité aux seuls titres éligibles au PEA.",
+      "D": "Il garantit le capital."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables. Cette règle constitue le repère théorique à retenir concernant le compte-titres ordinaire et son univers d'investissement.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement."
+    },
+    "sources": [
+      "S057"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0347",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de le compte-titres ordinaire, quel principe faut-il retenir pour son plafond de versements ?",
+    "choix": {
+      "A": "Il ne comporte pas de plafond réglementaire général de versements comparable à celui du PEA.",
+      "B": "Son plafond est de 150 000 euros.",
+      "C": "Son plafond est de 22 950 euros.",
+      "D": "Son plafond est toujours égal au revenu annuel."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il ne comporte pas de plafond réglementaire général de versements comparable à celui du PEA. Cette règle constitue le repère théorique à retenir concernant le compte-titres ordinaire et son plafond de versements.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son plafond de versements.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son plafond de versements.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son plafond de versements."
+    },
+    "sources": [
+      "S057"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0348",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "avance",
+    "enonce": "À propos de les revenus et plus-values du compte-titres, quel principe faut-il retenir pour leur fiscalité ?",
+    "choix": {
+      "A": "Ils sont toujours exonérés après cinq ans.",
+      "B": "Ils sont traités comme des intérêts de Livret A.",
+      "C": "Ils ne sont jamais déclarables.",
+      "D": "Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe."
+    },
+    "bonne_reponse": "D",
+    "explication": "Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe. Cette règle constitue le repère théorique à retenir concernant les revenus et plus-values du compte-titres et leur fiscalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0349",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Contrat de capitalisation",
+    "difficulte": "avance",
+    "enonce": "À propos de le contrat de capitalisation, quel principe faut-il retenir pour la personne assurée ?",
+    "choix": {
+      "A": "Il est un compte de dépôt à vue.",
+      "B": "Il ne peut être transmis.",
+      "C": "Il repose sur une logique de capitalisation et ne se dénoue pas par le décès d'un assuré comme l'assurance-vie.",
+      "D": "Il impose toujours un bénéficiaire décès."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il repose sur une logique de capitalisation et ne se dénoue pas par le décès d'un assuré comme l'assurance-vie. Cette règle constitue le repère théorique à retenir concernant le contrat de capitalisation et la personne assurée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le contrat de capitalisation pour la personne assurée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le contrat de capitalisation pour la personne assurée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le contrat de capitalisation pour la personne assurée."
+    },
+    "sources": [
+      "S058"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0350",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Contrat de capitalisation",
+    "difficulte": "expert",
+    "enonce": "À propos de la transmission d'un contrat de capitalisation, quel principe faut-il retenir pour son principe ?",
+    "choix": {
+      "A": "Il est incessible dans toutes les situations.",
+      "B": "Le contrat peut faire partie du patrimoine transmis et conserver son enveloppe selon les règles applicables.",
+      "C": "Il disparaît toujours au décès.",
+      "D": "Il est automatiquement versé hors succession à un bénéficiaire."
+    },
+    "bonne_reponse": "B",
+    "explication": "Le contrat peut faire partie du patrimoine transmis et conserver son enveloppe selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant la transmission d'un contrat de capitalisation et son principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe."
+    },
+    "sources": [
+      "S058"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  }
+]

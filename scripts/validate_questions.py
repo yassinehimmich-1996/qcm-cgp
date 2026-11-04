@@ -17,6 +17,8 @@ ID_RE = re.compile(r"^CGP-\d{4}-\d{4}$")
 SOURCE_RE = re.compile(r"^S\d{3}$")
 SCENARIO_RE = re.compile(r"\b(un|une)\s+client(e)?\b|\bM(?:me|onsieur)?\.?\s", re.IGNORECASE)
 CALCULATION_RE = re.compile(r"(?:\d\s*[×x*/+]\s*\d)|(?:combien\s+(?:vaut|représente|reste))", re.IGNORECASE)
+TARGET_QUESTIONS = 1_000
+TARGET_LOT_SIZE = 50
 ALLOWED_DIFFICULTIES = {"debutant", "intermediaire", "avance", "expert"}
 ALLOWED_STATUSES = {"brouillon", "a_valider", "validee", "a_actualiser", "retiree"}
 
@@ -47,17 +49,25 @@ def validate() -> list[str]:
                 fail(errors, f"{sid}: champ source manquant : {field}")
 
     questions = []
-    for path in sorted(QUESTION_DIR.glob("lot-*.json")):
+    lot_paths = sorted(QUESTION_DIR.glob("lot-*.json"))
+    for path in lot_paths:
         doc = load_json(path)
         if not isinstance(doc, list):
             fail(errors, f"{path.name}: la racine doit être une liste.")
             continue
+        if len(doc) != TARGET_LOT_SIZE:
+            fail(errors, f"{path.name}: le lot doit contenir {TARGET_LOT_SIZE} questions, {len(doc)} trouvées.")
         questions.extend((path, question) for question in doc)
 
     ids = [question.get("id") for _, question in questions]
     for duplicate, count in Counter(ids).items():
         if count > 1:
             fail(errors, f"Identifiant dupliqué : {duplicate}")
+
+    statements = [re.sub(r"\W+", " ", question.get("enonce", "").casefold()).strip() for _, question in questions]
+    for duplicate, count in Counter(statements).items():
+        if duplicate and count > 1:
+            fail(errors, f"Énoncé dupliqué ({count} occurrences) : {duplicate[:90]}")
 
     required = {
         "id", "domaine", "sous_domaine", "difficulte", "enonce", "choix",
@@ -106,6 +116,10 @@ def validate() -> list[str]:
 
     if not questions:
         fail(errors, "Aucune question trouvée.")
+    elif len(questions) != TARGET_QUESTIONS:
+        fail(errors, f"La banque doit contenir exactement {TARGET_QUESTIONS} questions, {len(questions)} trouvées.")
+    if len(lot_paths) != TARGET_QUESTIONS // TARGET_LOT_SIZE:
+        fail(errors, f"La banque doit contenir 20 lots, {len(lot_paths)} trouvés.")
     return errors
 
 

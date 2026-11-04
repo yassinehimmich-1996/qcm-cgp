@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "CGP-2026-0201",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Vigilance",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement l'identification du client concernant son moment ?",
+    "choix": {
+      "A": "Elle n'intervient qu'après la clôture.",
+      "B": "Elle est facultative pour toute banque.",
+      "C": "Elle se limite au nom commercial du produit.",
+      "D": "Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée. Cette règle constitue le repère théorique à retenir concernant l'identification du client et son moment.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment."
+    },
+    "sources": [
+      "S070"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0202",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Bénéficiaire effectif",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement le bénéficiaire effectif concernant sa notion ?",
+    "choix": {
+      "A": "Il est nécessairement une personne morale.",
+      "B": "Il correspond au bénéficiaire d'une carte bancaire.",
+      "C": "Il s'agit de la personne physique qui contrôle en dernier ressort le client ou pour laquelle l'opération est réalisée.",
+      "D": "Il est toujours le conseiller bancaire."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il s'agit de la personne physique qui contrôle en dernier ressort le client ou pour laquelle l'opération est réalisée. Cette règle constitue le repère théorique à retenir concernant le bénéficiaire effectif et sa notion.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le bénéficiaire effectif pour sa notion.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le bénéficiaire effectif pour sa notion.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le bénéficiaire effectif pour sa notion."
+    },
+    "sources": [
+      "S070"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0203",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Vigilance renforcée",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement une situation présentant un risque élevé concernant la vigilance ?",
+    "choix": {
+      "A": "Elle supprime la connaissance client.",
+      "B": "Elle appelle des mesures de vigilance renforcée proportionnées au risque identifié.",
+      "C": "Elle dispense de toute vérification.",
+      "D": "Elle impose d'accepter toutes les opérations."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle appelle des mesures de vigilance renforcée proportionnées au risque identifié. Cette règle constitue le repère théorique à retenir concernant une situation présentant un risque élevé et la vigilance.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une situation présentant un risque élevé pour la vigilance.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une situation présentant un risque élevé pour la vigilance.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une situation présentant un risque élevé pour la vigilance."
+    },
+    "sources": [
+      "S070"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0204",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Déclaration de soupçon",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement une déclaration de soupçon à TRACFIN concernant la preuve d'une infraction ?",
+    "choix": {
+      "A": "Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction.",
+      "B": "Elle exige toujours une condamnation pénale préalable.",
+      "C": "Elle est adressée au client.",
+      "D": "Elle ne concerne jamais les banques."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction. Cette règle constitue le repère théorique à retenir concernant une déclaration de soupçon à TRACFIN et la preuve d'une infraction.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction."
+    },
+    "sources": [
+      "S038"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0205",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Confidentialité",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement l'existence d'une déclaration de soupçon concernant l'information du client ?",
+    "choix": {
+      "A": "Elle doit être publiée sur internet.",
+      "B": "Elle est remise au client pour signature.",
+      "C": "Elle figure sur chaque relevé de compte.",
+      "D": "Elle est confidentielle et ne doit pas être révélée au client ni aux personnes non autorisées."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle est confidentielle et ne doit pas être révélée au client ni aux personnes non autorisées. Cette règle constitue le repère théorique à retenir concernant l'existence d'une déclaration de soupçon et l'information du client.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'existence d'une déclaration de soupçon pour l'information du client.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'existence d'une déclaration de soupçon pour l'information du client.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'existence d'une déclaration de soupçon pour l'information du client."
+    },
+    "sources": [
+      "S038"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0206",
+    "domaine": "RGPD",
+    "sous_domaine": "Minimisation",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement le principe de minimisation concernant sa portée ?",
+    "choix": {
+      "A": "La finalité n'a pas à être définie.",
+      "B": "La conservation doit être illimitée.",
+      "C": "Les données collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire à la finalité.",
+      "D": "Toutes les données disponibles doivent être collectées."
+    },
+    "bonne_reponse": "C",
+    "explication": "Les données collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire à la finalité. Cette règle constitue le repère théorique à retenir concernant le principe de minimisation et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0207",
+    "domaine": "RGPD",
+    "sous_domaine": "Droits",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement le droit d'accès concernant son objet ?",
+    "choix": {
+      "A": "Il supprime automatiquement le contrat.",
+      "B": "Il permet à la personne d'obtenir des informations sur le traitement et une copie de ses données dans les conditions prévues.",
+      "C": "Il permet d'effacer toute dette bancaire.",
+      "D": "Il donne accès aux données de tous les clients."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il permet à la personne d'obtenir des informations sur le traitement et une copie de ses données dans les conditions prévues. Cette règle constitue le repère théorique à retenir concernant le droit d'accès et son objet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le droit d'accès pour son objet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le droit d'accès pour son objet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le droit d'accès pour son objet."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0208",
+    "domaine": "RGPD",
+    "sous_domaine": "Prospection",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement le droit d'opposition à la prospection concernant son exercice ?",
+    "choix": {
+      "A": "La personne peut s'opposer à tout moment et sans frais au traitement de ses données à des fins de prospection.",
+      "B": "Il est impossible après la collecte.",
+      "C": "Il impose un paiement au prospect.",
+      "D": "Il ne concerne jamais le profilage lié à la prospection."
+    },
+    "bonne_reponse": "A",
+    "explication": "La personne peut s'opposer à tout moment et sans frais au traitement de ses données à des fins de prospection. Cette règle constitue le repère théorique à retenir concernant le droit d'opposition à la prospection et son exercice.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0209",
+    "domaine": "RGPD",
+    "sous_domaine": "Conservation",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement les données d'un prospect non devenu client concernant la durée de conservation de prospection ?",
+    "choix": {
+      "A": "Elles doivent être conservées à vie.",
+      "B": "Elles doivent être détruites le jour même.",
+      "C": "Aucune durée ne doit être définie.",
+      "D": "Elles ne devraient en principe pas être conservées au-delà de trois ans après la collecte ou le dernier contact émanant du prospect."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elles ne devraient en principe pas être conservées au-delà de trois ans après la collecte ou le dernier contact émanant du prospect. Cette règle constitue le repère théorique à retenir concernant les données d'un prospect non devenu client et la durée de conservation de prospection.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les données d'un prospect non devenu client pour la durée de conservation de prospection.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les données d'un prospect non devenu client pour la durée de conservation de prospection.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les données d'un prospect non devenu client pour la durée de conservation de prospection."
+    },
+    "sources": [
+      "S072"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0210",
+    "domaine": "RGPD",
+    "sous_domaine": "Sécurité",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement une violation de données personnelles concernant la gestion ?",
+    "choix": {
+      "A": "Elle ne concerne que les données papier.",
+      "B": "Elle supprime l'obligation de sécurité.",
+      "C": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque.",
+      "D": "Elle doit toujours rester secrète pour l'autorité."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque. Cette règle constitue le repère théorique à retenir concernant une violation de données personnelles et la gestion.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0211",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Compte joint",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement un compte joint concernant la solidarité active ?",
+    "choix": {
+      "A": "Le compte joint ne peut recevoir aucun virement.",
+      "B": "Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable.",
+      "C": "Toutes les opérations exigent toujours deux signatures.",
+      "D": "Un seul cotitulaire est propriétaire de tous les fonds."
+    },
+    "bonne_reponse": "B",
+    "explication": "Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable. Cette règle constitue le repère théorique à retenir concernant un compte joint et la solidarité active.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active."
+    },
+    "sources": [
+      "S073"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0212",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Compte joint",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement un incident de chèque sur compte joint concernant le risque d'interdiction ?",
+    "choix": {
+      "A": "Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables.",
+      "B": "Aucun cotitulaire ne peut être concerné.",
+      "C": "Seul le bénéficiaire du chèque est interdit bancaire.",
+      "D": "L'incident disparaît automatiquement."
+    },
+    "bonne_reponse": "A",
+    "explication": "Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant un incident de chèque sur compte joint et le risque d'interdiction.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un incident de chèque sur compte joint pour le risque d'interdiction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un incident de chèque sur compte joint pour le risque d'interdiction.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un incident de chèque sur compte joint pour le risque d'interdiction."
+    },
+    "sources": [
+      "S073"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0213",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Mobilité bancaire",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement le service d'aide à la mobilité bancaire concernant son coût ?",
+    "choix": {
+      "A": "Il est facturé par la Banque de France.",
+      "B": "Il est réservé aux entreprises cotées.",
+      "C": "Il impose la clôture de tous les livrets.",
+      "D": "Il est gratuit pour le client particulier qui change de compte de paiement dans les conditions prévues."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il est gratuit pour le client particulier qui change de compte de paiement dans les conditions prévues. Cette règle constitue le repère théorique à retenir concernant le service d'aide à la mobilité bancaire et son coût.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le service d'aide à la mobilité bancaire pour son coût.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le service d'aide à la mobilité bancaire pour son coût.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le service d'aide à la mobilité bancaire pour son coût."
+    },
+    "sources": [
+      "S074"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0214",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Droit au compte",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement la procédure de droit au compte concernant sa finalité ?",
+    "choix": {
+      "A": "Elle supprime tout contrôle d'identité.",
+      "B": "Elle est réservée aux banques.",
+      "C": "Elle permet à une personne dépourvue de compte et confrontée à un refus de demander la désignation d'un établissement par la Banque de France.",
+      "D": "Elle garantit un crédit immobilier."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle permet à une personne dépourvue de compte et confrontée à un refus de demander la désignation d'un établissement par la Banque de France. Cette règle constitue le repère théorique à retenir concernant la procédure de droit au compte et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la procédure de droit au compte pour sa finalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la procédure de droit au compte pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la procédure de droit au compte pour sa finalité."
+    },
+    "sources": [
+      "S075"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0215",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Garantie des dépôts",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement les titres financiers conservés en compte-titres concernant leur propriété ?",
+    "choix": {
+      "A": "Ils disparaissent automatiquement en cas de faillite.",
+      "B": "Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées.",
+      "C": "Ils deviennent la propriété de la banque.",
+      "D": "Ils sont garantis comme un Livret A contre toute baisse."
+    },
+    "bonne_reponse": "B",
+    "explication": "Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées. Cette règle constitue le repère théorique à retenir concernant les titres financiers conservés en compte-titres et leur propriété.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les titres financiers conservés en compte-titres pour leur propriété.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les titres financiers conservés en compte-titres pour leur propriété.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les titres financiers conservés en compte-titres pour leur propriété."
+    },
+    "sources": [
+      "S053"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0216",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Fraude",
+    "difficulte": "debutant",
+    "enonce": "Quelle proposition décrit correctement les codes d'authentification bancaire concernant leur confidentialité ?",
+    "choix": {
+      "A": "Ils ne doivent pas être communiqués à un prétendu conseiller sollicitant leur transmission.",
+      "B": "Ils doivent être publiés pour sécuriser le compte.",
+      "C": "La banque les demande toujours par téléphone.",
+      "D": "Ils peuvent être partagés librement avec tout tiers."
+    },
+    "bonne_reponse": "A",
+    "explication": "Ils ne doivent pas être communiqués à un prétendu conseiller sollicitant leur transmission. Cette règle constitue le repère théorique à retenir concernant les codes d'authentification bancaire et leur confidentialité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les codes d'authentification bancaire pour leur confidentialité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les codes d'authentification bancaire pour leur confidentialité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les codes d'authentification bancaire pour leur confidentialité."
+    },
+    "sources": [
+      "S076"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0217",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Fraude",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement une opération par carte non autorisée concernant la réaction ?",
+    "choix": {
+      "A": "Il doit attendre la clôture annuelle.",
+      "B": "Il doit communiquer son code secret au fraudeur.",
+      "C": "Aucune contestation n'est possible.",
+      "D": "Le titulaire doit faire opposition et signaler rapidement l'opération à sa banque selon la procédure applicable."
+    },
+    "bonne_reponse": "D",
+    "explication": "Le titulaire doit faire opposition et signaler rapidement l'opération à sa banque selon la procédure applicable. Cette règle constitue le repère théorique à retenir concernant une opération par carte non autorisée et la réaction.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une opération par carte non autorisée pour la réaction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une opération par carte non autorisée pour la réaction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une opération par carte non autorisée pour la réaction."
+    },
+    "sources": [
+      "S076"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0218",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Clôture",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement la clôture d'un compte par la banque concernant le préavis ?",
+    "choix": {
+      "A": "Elle exige l'accord de tous les créanciers.",
+      "B": "Elle transforme le compte en PEA.",
+      "C": "Elle doit en principe respecter le préavis contractuel ou légal, sauf situations permettant une clôture sans préavis.",
+      "D": "Elle est toujours impossible."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle doit en principe respecter le préavis contractuel ou légal, sauf situations permettant une clôture sans préavis. Cette règle constitue le repère théorique à retenir concernant la clôture d'un compte par la banque et le préavis.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la clôture d'un compte par la banque pour le préavis.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la clôture d'un compte par la banque pour le préavis.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la clôture d'un compte par la banque pour le préavis."
+    },
+    "sources": [
+      "S077"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0219",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Surendettement",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement le dépôt d'un dossier de surendettement concernant l'inscription au FICP ?",
+    "choix": {
+      "A": "Il interdit le maintien d'un compte bancaire.",
+      "B": "Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables.",
+      "C": "Il entraîne automatiquement l'inscription de tout le voisinage.",
+      "D": "Il garantit l'effacement immédiat de toutes les dettes."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant le dépôt d'un dossier de surendettement et l'inscription au FICP.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP."
+    },
+    "sources": [
+      "S078"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0220",
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Fragilité financière",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement l'offre spécifique clientèle fragile concernant sa finalité ?",
+    "choix": {
+      "A": "Elle vise à fournir des services bancaires adaptés et à limiter certains frais pour les clients éligibles.",
+      "B": "Elle garantit un découvert illimité.",
+      "C": "Elle supprime toute tarification bancaire.",
+      "D": "Elle est réservée aux sociétés de gestion."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle vise à fournir des services bancaires adaptés et à limiter certains frais pour les clients éligibles. Cette règle constitue le repère théorique à retenir concernant l'offre spécifique clientèle fragile et sa finalité.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à l'offre spécifique clientèle fragile pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'offre spécifique clientèle fragile pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'offre spécifique clientèle fragile pour sa finalité."
+    },
+    "sources": [
+      "S079"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0221",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Inflation",
+    "difficulte": "debutant",
+    "enonce": "Quelle proposition décrit correctement l'inflation concernant sa définition ?",
+    "choix": {
+      "A": "Elle désigne une baisse générale des prix.",
+      "B": "Elle correspond uniquement à la hausse d'une action.",
+      "C": "Elle garantit un rendement réel positif.",
+      "D": "Elle correspond à une hausse générale et durable du niveau des prix, réduisant le pouvoir d'achat de la monnaie."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle correspond à une hausse générale et durable du niveau des prix, réduisant le pouvoir d'achat de la monnaie. Cette règle constitue le repère théorique à retenir concernant l'inflation et sa définition.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'inflation pour sa définition.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'inflation pour sa définition.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'inflation pour sa définition."
+    },
+    "sources": [
+      "S080"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0222",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Taux directeurs",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement une hausse des taux directeurs concernant son effet général ?",
+    "choix": {
+      "A": "Elle garantit la hausse des actions.",
+      "B": "Elle supprime l'inflation instantanément.",
+      "C": "Elle tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire.",
+      "D": "Elle rend tous les crédits gratuits."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire. Cette règle constitue le repère théorique à retenir concernant une hausse des taux directeurs et son effet général.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une hausse des taux directeurs pour son effet général.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une hausse des taux directeurs pour son effet général.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une hausse des taux directeurs pour son effet général."
+    },
+    "sources": [
+      "S081"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0223",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Obligations",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement la relation entre taux et cours obligataire concernant son sens général ?",
+    "choix": {
+      "A": "La hausse des taux transforme les obligations en actions.",
+      "B": "Lorsque les taux de marché montent, le prix des obligations à taux fixe existantes tend à baisser.",
+      "C": "Taux et prix montent toujours ensemble.",
+      "D": "Les taux n'ont aucun effet sur les obligations."
+    },
+    "bonne_reponse": "B",
+    "explication": "Lorsque les taux de marché montent, le prix des obligations à taux fixe existantes tend à baisser. Cette règle constitue le repère théorique à retenir concernant la relation entre taux et cours obligataire et son sens général.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la relation entre taux et cours obligataire pour son sens général.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la relation entre taux et cours obligataire pour son sens général.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la relation entre taux et cours obligataire pour son sens général."
+    },
+    "sources": [
+      "S032"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0224",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Rendement réel",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement le rendement réel concernant sa définition ?",
+    "choix": {
+      "A": "Il correspond au rendement nominal corrigé de l'effet de l'inflation.",
+      "B": "Il est toujours égal au rendement nominal.",
+      "C": "Il mesure uniquement les frais.",
+      "D": "Il ne peut jamais être négatif."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il correspond au rendement nominal corrigé de l'effet de l'inflation. Cette règle constitue le repère théorique à retenir concernant le rendement réel et sa définition.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le rendement réel pour sa définition.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le rendement réel pour sa définition.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le rendement réel pour sa définition."
+    },
+    "sources": [
+      "S080"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0225",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Courbe des taux",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement une courbe des taux concernant sa représentation ?",
+    "choix": {
+      "A": "Elle représente uniquement le cours d'une action.",
+      "B": "Elle mesure la fiscalité des livrets.",
+      "C": "Elle garantit le taux futur.",
+      "D": "Elle représente les rendements d'instruments comparables selon leurs différentes maturités."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle représente les rendements d'instruments comparables selon leurs différentes maturités. Cette règle constitue le repère théorique à retenir concernant une courbe des taux et sa représentation.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une courbe des taux pour sa représentation.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une courbe des taux pour sa représentation.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une courbe des taux pour sa représentation."
+    },
+    "sources": [
+      "S081"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0226",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Capitalisation",
+    "difficulte": "debutant",
+    "enonce": "Quelle proposition décrit correctement la capitalisation des intérêts concernant son effet ?",
+    "choix": {
+      "A": "Le capital diminue mécaniquement.",
+      "B": "La durée n'a aucun effet.",
+      "C": "Les intérêts produits s'ajoutent au capital et peuvent eux-mêmes produire des intérêts.",
+      "D": "Les intérêts sont définitivement perdus."
+    },
+    "bonne_reponse": "C",
+    "explication": "Les intérêts produits s'ajoutent au capital et peuvent eux-mêmes produire des intérêts. Cette règle constitue le repère théorique à retenir concernant la capitalisation des intérêts et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la capitalisation des intérêts pour son effet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la capitalisation des intérêts pour son effet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la capitalisation des intérêts pour son effet."
+    },
+    "sources": [
+      "S082"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0227",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Risque de marché",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement le risque de marché concernant sa définition ?",
+    "choix": {
+      "A": "Il garantit une liquidité parfaite.",
+      "B": "Il correspond au risque de perte lié aux variations des prix, taux, devises ou autres facteurs de marché.",
+      "C": "Il correspond uniquement à une fraude interne.",
+      "D": "Il est inexistant pour les actifs cotés."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il correspond au risque de perte lié aux variations des prix, taux, devises ou autres facteurs de marché. Cette règle constitue le repère théorique à retenir concernant le risque de marché et sa définition.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le risque de marché pour sa définition.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le risque de marché pour sa définition.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le risque de marché pour sa définition."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0228",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Risque de change",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement le risque de change concernant sa définition ?",
+    "choix": {
+      "A": "Il résulte de la variation du taux de conversion entre la devise de l'investissement et la devise de référence.",
+      "B": "Il est identique au risque décès.",
+      "C": "Il ne concerne jamais les placements étrangers.",
+      "D": "Il garantit une plus-value."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il résulte de la variation du taux de conversion entre la devise de l'investissement et la devise de référence. Cette règle constitue le repère théorique à retenir concernant le risque de change et sa définition.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le risque de change pour sa définition.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le risque de change pour sa définition.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le risque de change pour sa définition."
+    },
+    "sources": [
+      "S033"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0229",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Corrélation",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement la corrélation entre deux actifs concernant son interprétation ?",
+    "choix": {
+      "A": "Elle garantit des performances identiques.",
+      "B": "Elle est toujours égale à un.",
+      "C": "Elle supprime le risque spécifique.",
+      "D": "Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité. Cette règle constitue le repère théorique à retenir concernant la corrélation entre deux actifs et son interprétation.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la corrélation entre deux actifs pour son interprétation.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la corrélation entre deux actifs pour son interprétation.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la corrélation entre deux actifs pour son interprétation."
+    },
+    "sources": [
+      "S056"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0230",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Cycle économique",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement une récession concernant sa définition usuelle ?",
+    "choix": {
+      "A": "Elle garantit la hausse de tous les actifs.",
+      "B": "Elle est décidée par une banque commerciale.",
+      "C": "Elle désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs.",
+      "D": "Elle correspond à une inflation nulle uniquement."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs. Cette règle constitue le repère théorique à retenir concernant une récession et sa définition usuelle.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une récession pour sa définition usuelle.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une récession pour sa définition usuelle.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une récession pour sa définition usuelle."
+    },
+    "sources": [
+      "S080"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0231",
+    "domaine": "Relation commerciale",
+    "sous_domaine": "Découverte",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement la découverte patrimoniale concernant sa finalité ?",
+    "choix": {
+      "A": "Elle remplace toute obligation réglementaire.",
+      "B": "Elle vise à comprendre de manière structurée la situation, les objectifs, les contraintes et les priorités avant toute recommandation.",
+      "C": "Elle sert uniquement à vendre le produit le plus rémunérateur.",
+      "D": "Elle peut ignorer les engagements existants."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle vise à comprendre de manière structurée la situation, les objectifs, les contraintes et les priorités avant toute recommandation. Cette règle constitue le repère théorique à retenir concernant la découverte patrimoniale et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la découverte patrimoniale pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la découverte patrimoniale pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la découverte patrimoniale pour sa finalité."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0232",
+    "domaine": "Relation commerciale",
+    "sous_domaine": "Argumentation",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement une recommandation patrimoniale concernant sa justification ?",
+    "choix": {
+      "A": "Elle doit relier les caractéristiques du produit aux besoins et contraintes identifiés, en exposant aussi les risques.",
+      "B": "Elle doit présenter uniquement les avantages.",
+      "C": "Elle peut reposer sur le rendement passé seul.",
+      "D": "Elle n'a pas à être compréhensible."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle doit relier les caractéristiques du produit aux besoins et contraintes identifiés, en exposant aussi les risques. Cette règle constitue le repère théorique à retenir concernant une recommandation patrimoniale et sa justification.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à une recommandation patrimoniale pour sa justification.",
+      "C": "Cette proposition ne correspond pas au principe applicable à une recommandation patrimoniale pour sa justification.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une recommandation patrimoniale pour sa justification."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0233",
+    "domaine": "Relation commerciale",
+    "sous_domaine": "Conflits d'intérêts",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement un conflit d'intérêts concernant sa gestion ?",
+    "choix": {
+      "A": "Il doit être dissimulé au client.",
+      "B": "Il rend toute vente automatiquement licite.",
+      "C": "Il ne peut jamais exister dans une banque.",
+      "D": "Il doit être identifié, prévenu ou géré, et faire l'objet d'une information lorsque les mesures prises ne suffisent pas."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il doit être identifié, prévenu ou géré, et faire l'objet d'une information lorsque les mesures prises ne suffisent pas. Cette règle constitue le repère théorique à retenir concernant un conflit d'intérêts et sa gestion.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un conflit d'intérêts pour sa gestion.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un conflit d'intérêts pour sa gestion.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un conflit d'intérêts pour sa gestion."
+    },
+    "sources": [
+      "S083"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0234",
+    "domaine": "Relation commerciale",
+    "sous_domaine": "Déontologie",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement l'intérêt du client concernant sa place ?",
+    "choix": {
+      "A": "Il se confond avec l'intérêt de l'émetteur.",
+      "B": "Il dispense de vérifier les risques.",
+      "C": "Il doit guider la recommandation dans le respect des règles professionnelles et de l'adéquation.",
+      "D": "Il est secondaire par rapport au volume de vente."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il doit guider la recommandation dans le respect des règles professionnelles et de l'adéquation. Cette règle constitue le repère théorique à retenir concernant l'intérêt du client et sa place.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'intérêt du client pour sa place.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'intérêt du client pour sa place.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'intérêt du client pour sa place."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0235",
+    "domaine": "Relation commerciale",
+    "sous_domaine": "Traçabilité",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement la traçabilité du conseil concernant son utilité ?",
+    "choix": {
+      "A": "Elle ne concerne que les opérations refusées.",
+      "B": "Elle permet de démontrer les informations recueillies, l'analyse réalisée et les motifs de la recommandation.",
+      "C": "Elle consiste à supprimer les justificatifs.",
+      "D": "Elle rend inutile toute mise à jour."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle permet de démontrer les informations recueillies, l'analyse réalisée et les motifs de la recommandation. Cette règle constitue le repère théorique à retenir concernant la traçabilité du conseil et son utilité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la traçabilité du conseil pour son utilité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la traçabilité du conseil pour son utilité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la traçabilité du conseil pour son utilité."
+    },
+    "sources": [
+      "S004"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0236",
+    "domaine": "International",
+    "sous_domaine": "Résidence fiscale",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement la résidence fiscale concernant sa détermination ?",
+    "choix": {
+      "A": "Elle dépend des critères des droits internes et, en cas de conflit, des conventions fiscales applicables.",
+      "B": "Elle dépend uniquement de la nationalité.",
+      "C": "Elle est choisie librement chaque mois.",
+      "D": "Elle correspond toujours au pays de naissance."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle dépend des critères des droits internes et, en cas de conflit, des conventions fiscales applicables. Cette règle constitue le repère théorique à retenir concernant la résidence fiscale et sa détermination.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la résidence fiscale pour sa détermination.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la résidence fiscale pour sa détermination.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la résidence fiscale pour sa détermination."
+    },
+    "sources": [
+      "S084"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0237",
+    "domaine": "International",
+    "sous_domaine": "CRS",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement l'échange automatique d'informations CRS concernant sa finalité ?",
+    "choix": {
+      "A": "Il garantit l'absence d'impôt.",
+      "B": "Il concerne uniquement les paiements en espèces.",
+      "C": "Il remplace toutes les conventions fiscales.",
+      "D": "Il organise la collecte et la transmission d'informations sur certains comptes financiers entre juridictions participantes."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il organise la collecte et la transmission d'informations sur certains comptes financiers entre juridictions participantes. Cette règle constitue le repère théorique à retenir concernant l'échange automatique d'informations CRS et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'échange automatique d'informations CRS pour sa finalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'échange automatique d'informations CRS pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'échange automatique d'informations CRS pour sa finalité."
+    },
+    "sources": [
+      "S085"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0238",
+    "domaine": "International",
+    "sous_domaine": "Auto-certification",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement une auto-certification fiscale concernant son objet ?",
+    "choix": {
+      "A": "Elle remplace toute pièce d'identité.",
+      "B": "Elle autorise à choisir une résidence sans critère.",
+      "C": "Elle permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux.",
+      "D": "Elle vaut conseil fiscal personnalisé de la banque."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux. Cette règle constitue le repère théorique à retenir concernant une auto-certification fiscale et son objet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une auto-certification fiscale pour son objet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une auto-certification fiscale pour son objet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une auto-certification fiscale pour son objet."
+    },
+    "sources": [
+      "S085"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0239",
+    "domaine": "International",
+    "sous_domaine": "FATCA",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement FATCA concernant son objectif ?",
+    "choix": {
+      "A": "Il supprime les obligations CRS.",
+      "B": "Le dispositif vise l'identification et la déclaration de certains comptes liés à des contribuables américains selon l'accord applicable.",
+      "C": "Il concerne uniquement les résidents français sans lien américain.",
+      "D": "Il est un produit d'assurance-vie."
+    },
+    "bonne_reponse": "B",
+    "explication": "Le dispositif vise l'identification et la déclaration de certains comptes liés à des contribuables américains selon l'accord applicable. Cette règle constitue le repère théorique à retenir concernant FATCA et son objectif.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à FATCA pour son objectif.",
+      "C": "Cette proposition ne correspond pas au principe applicable à FATCA pour son objectif.",
+      "D": "Cette proposition ne correspond pas au principe applicable à FATCA pour son objectif."
+    },
+    "sources": [
+      "S086"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0240",
+    "domaine": "International",
+    "sous_domaine": "Non-résidents",
+    "difficulte": "expert",
+    "enonce": "Quelle proposition décrit correctement la fiscalité d'un non-résident concernant l'analyse ?",
+    "choix": {
+      "A": "Elle dépend de la nature du revenu, du droit français, du droit local et de la convention fiscale éventuellement applicable.",
+      "B": "Elle est identique dans tous les pays.",
+      "C": "Elle dépend uniquement de la devise du compte.",
+      "D": "Elle peut être déterminée sans connaître la résidence fiscale."
+    },
+    "bonne_reponse": "A",
+    "explication": "Elle dépend de la nature du revenu, du droit français, du droit local et de la convention fiscale éventuellement applicable. Cette règle constitue le repère théorique à retenir concernant la fiscalité d'un non-résident et l'analyse.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à la fiscalité d'un non-résident pour l'analyse.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la fiscalité d'un non-résident pour l'analyse.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la fiscalité d'un non-résident pour l'analyse."
+    },
+    "sources": [
+      "S084"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0241",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Nature du contrat",
+    "difficulte": "debutant",
+    "enonce": "À propos de l'assurance-vie, quel principe faut-il retenir pour la nature juridique ?",
+    "choix": {
+      "A": "Il s'agit d'un dépôt à vue garanti sans limite.",
+      "B": "Il s'agit obligatoirement d'un produit de retraite.",
+      "C": "Il s'agit d'un contrat conclu avec un assureur et non d'un compte bancaire.",
+      "D": "Il s'agit toujours d'un compte-titres."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il s'agit d'un contrat conclu avec un assureur et non d'un compte bancaire. Cette règle constitue le repère théorique à retenir concernant l'assurance-vie et la nature juridique.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'assurance-vie pour la nature juridique.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'assurance-vie pour la nature juridique.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'assurance-vie pour la nature juridique."
+    },
+    "sources": [
+      "S022"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0242",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Supports",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de le fonds en euros, quel principe faut-il retenir pour la garantie en capital ?",
+    "choix": {
+      "A": "Aucune garantie ne peut exister en assurance-vie.",
+      "B": "La garantie en capital est portée par l'assureur, sous réserve des frais et des conditions contractuelles.",
+      "C": "La valeur varie exactement comme un indice actions.",
+      "D": "Le souscripteur supporte toujours une perte illimitée."
+    },
+    "bonne_reponse": "B",
+    "explication": "La garantie en capital est portée par l'assureur, sous réserve des frais et des conditions contractuelles. Cette règle constitue le repère théorique à retenir concernant le fonds en euros et la garantie en capital.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le fonds en euros pour la garantie en capital.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le fonds en euros pour la garantie en capital.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le fonds en euros pour la garantie en capital."
+    },
+    "sources": [
+      "S022"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0243",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Supports",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de les unités de compte, quel principe faut-il retenir pour le risque en capital ?",
+    "choix": {
+      "A": "Le nombre d'unités peut être garanti, mais leur valeur ne l'est généralement pas.",
+      "B": "La valeur est garantie quotidiennement par l'État.",
+      "C": "Les unités de compte ne peuvent contenir aucun actif financier.",
+      "D": "Leur rendement est fixé réglementairement."
+    },
+    "bonne_reponse": "A",
+    "explication": "Le nombre d'unités peut être garanti, mais leur valeur ne l'est généralement pas. Cette règle constitue le repère théorique à retenir concernant les unités de compte et le risque en capital.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à les unités de compte pour le risque en capital.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les unités de compte pour le risque en capital.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les unités de compte pour le risque en capital."
+    },
+    "sources": [
+      "S022"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0244",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Arbitrage",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de un arbitrage, quel principe faut-il retenir pour son effet ?",
+    "choix": {
+      "A": "Il clôture nécessairement le contrat.",
+      "B": "Il change automatiquement le bénéficiaire.",
+      "C": "Il entraîne toujours le paiement immédiat de l'impôt sur le revenu.",
+      "D": "Il modifie la répartition entre supports sans constituer, en lui-même, un rachat versé au souscripteur."
+    },
+    "bonne_reponse": "D",
+    "explication": "Il modifie la répartition entre supports sans constituer, en lui-même, un rachat versé au souscripteur. Cette règle constitue le repère théorique à retenir concernant un arbitrage et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un arbitrage pour son effet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un arbitrage pour son effet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un arbitrage pour son effet."
+    },
+    "sources": [
+      "S022"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0245",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Versements",
+    "difficulte": "debutant",
+    "enonce": "À propos de un versement libre, quel principe faut-il retenir pour sa caractéristique ?",
+    "choix": {
+      "A": "Il ne peut jamais être interrompu.",
+      "B": "Il est réservé aux contrats de plus de huit ans.",
+      "C": "Il est effectué à l'initiative du souscripteur, selon les conditions et minimums du contrat.",
+      "D": "Il est imposé chaque mois par la loi."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il est effectué à l'initiative du souscripteur, selon les conditions et minimums du contrat. Cette règle constitue le repère théorique à retenir concernant un versement libre et sa caractéristique.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un versement libre pour sa caractéristique.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un versement libre pour sa caractéristique.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un versement libre pour sa caractéristique."
+    },
+    "sources": [
+      "S022"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0246",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Rachat",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de un rachat partiel, quel principe faut-il retenir pour son incidence sur le contrat ?",
+    "choix": {
+      "A": "Il transforme le contrat en PEA.",
+      "B": "Il retire une partie de l'épargne tout en laissant le contrat subsister.",
+      "C": "Il entraîne toujours le dénouement total.",
+      "D": "Il supprime automatiquement la clause bénéficiaire."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il retire une partie de l'épargne tout en laissant le contrat subsister. Cette règle constitue le repère théorique à retenir concernant un rachat partiel et son incidence sur le contrat.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un rachat partiel pour son incidence sur le contrat.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un rachat partiel pour son incidence sur le contrat.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un rachat partiel pour son incidence sur le contrat."
+    },
+    "sources": [
+      "S023"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0247",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Rachat",
+    "difficulte": "debutant",
+    "enonce": "À propos de un rachat total, quel principe faut-il retenir pour son incidence ?",
+    "choix": {
+      "A": "Il met fin au contrat par retrait de l'intégralité de la valeur de rachat.",
+      "B": "Il conserve obligatoirement l'antériorité fiscale pour de futurs versements.",
+      "C": "Il ne porte que sur les gains.",
+      "D": "Il est impossible avant huit ans."
+    },
+    "bonne_reponse": "A",
+    "explication": "Il met fin au contrat par retrait de l'intégralité de la valeur de rachat. Cette règle constitue le repère théorique à retenir concernant un rachat total et son incidence.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à un rachat total pour son incidence.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un rachat total pour son incidence.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un rachat total pour son incidence."
+    },
+    "sources": [
+      "S023"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0248",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Fiscalité",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de l'absence de rachat, quel principe faut-il retenir pour l'impôt sur le revenu ?",
+    "choix": {
+      "A": "Les gains sont imposés chaque mois.",
+      "B": "Le capital versé est taxé annuellement.",
+      "C": "Le contrat est exonéré de toute fiscalité en toutes circonstances.",
+      "D": "En principe, les gains ne sont pas imposés à l'impôt sur le revenu tant qu'aucun rachat n'est effectué."
+    },
+    "bonne_reponse": "D",
+    "explication": "En principe, les gains ne sont pas imposés à l'impôt sur le revenu tant qu'aucun rachat n'est effectué. Cette règle constitue le repère théorique à retenir concernant l'absence de rachat et l'impôt sur le revenu.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'absence de rachat pour l'impôt sur le revenu.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'absence de rachat pour l'impôt sur le revenu.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'absence de rachat pour l'impôt sur le revenu."
+    },
+    "sources": [
+      "S024"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0249",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Frais",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de les frais sur versement, quel principe faut-il retenir pour leur effet ?",
+    "choix": {
+      "A": "Ils sont toujours interdits.",
+      "B": "Ils sont identiques pour tous les contrats.",
+      "C": "Ils réduisent la part du versement effectivement investie sur le contrat.",
+      "D": "Ils augmentent mécaniquement le capital garanti."
+    },
+    "bonne_reponse": "C",
+    "explication": "Ils réduisent la part du versement effectivement investie sur le contrat. Cette règle constitue le repère théorique à retenir concernant les frais sur versement et leur effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les frais sur versement pour leur effet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à les frais sur versement pour leur effet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les frais sur versement pour leur effet."
+    },
+    "sources": [
+      "S022"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  },
+  {
+    "id": "CGP-2026-0250",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Risque",
+    "difficulte": "avance",
+    "enonce": "À propos de la diversification des supports, quel principe faut-il retenir pour sa finalité ?",
+    "choix": {
+      "A": "Elle rend inutile l'analyse de l'horizon.",
+      "B": "Elle vise à répartir les risques sans supprimer toute possibilité de perte.",
+      "C": "Elle garantit un rendement positif.",
+      "D": "Elle impose d'investir uniquement en actions."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle vise à répartir les risques sans supprimer toute possibilité de perte. Cette règle constitue le repère théorique à retenir concernant la diversification des supports et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la diversification des supports pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la diversification des supports pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la diversification des supports pour sa finalité."
+    },
+    "sources": [
+      "S022"
+    ],
+    "origine": "entrainement_original",
+    "statut": "a_valider",
+    "date_verification": "2026-11-04"
+  }
+]
