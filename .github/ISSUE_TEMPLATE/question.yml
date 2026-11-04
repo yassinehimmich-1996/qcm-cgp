@@ -1,0 +1,38 @@
+name: Proposer une question
+description: Proposer une nouvelle question théorique ou une correction
+title: "[QUESTION] "
+labels: ["question", "à valider"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question proposée
+      description: La question doit être théorique et ne nécessiter aucun calcul.
+    validations:
+      required: true
+  - type: textarea
+    id: choices
+    attributes:
+      label: Choix A, B, C et D
+    validations:
+      required: true
+  - type: input
+    id: answer
+    attributes:
+      label: Bonne réponse
+      placeholder: A, B, C ou D
+    validations:
+      required: true
+  - type: textarea
+    id: explanation
+    attributes:
+      label: Explication
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source publique
+      placeholder: URL officielle ou institutionnelle
+    validations:
+      required: true

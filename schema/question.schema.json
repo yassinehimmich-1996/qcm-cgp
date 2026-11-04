@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/qcm-cgp-france/question.schema.json",
+  "title": "Question QCM CGP France",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id", "domaine", "sous_domaine", "difficulte", "enonce", "choix",
+    "bonne_reponse", "explication", "pieges", "sources", "origine",
+    "statut", "date_verification"
+  ],
+  "properties": {
+    "id": {"type": "string", "pattern": "^CGP-[0-9]{4}-[0-9]{4}$"},
+    "domaine": {"type": "string", "minLength": 2},
+    "sous_domaine": {"type": "string", "minLength": 2},
+    "difficulte": {"enum": ["debutant", "intermediaire", "avance", "expert"]},
+    "enonce": {"type": "string", "minLength": 15},
+    "choix": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["A", "B", "C", "D"],
+      "properties": {
+        "A": {"type": "string", "minLength": 1},
+        "B": {"type": "string", "minLength": 1},
+        "C": {"type": "string", "minLength": 1},
+        "D": {"type": "string", "minLength": 1}
+      }
+    },
+    "bonne_reponse": {"enum": ["A", "B", "C", "D"]},
+    "explication": {"type": "string", "minLength": 30},
+    "pieges": {
+      "type": "object",
+      "minProperties": 3,
+      "maxProperties": 3,
+      "additionalProperties": {"type": "string", "minLength": 10}
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"type": "string", "pattern": "^S[0-9]{3}$"},
+      "uniqueItems": true
+    },
+    "origine": {"enum": ["entrainement_original"]},
+    "statut": {"enum": ["brouillon", "a_valider", "validee", "a_actualiser", "retiree"]},
+    "date_verification": {"type": "string", "format": "date"}
+  }
+}
