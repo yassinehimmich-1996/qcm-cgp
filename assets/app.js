@@ -1,7 +1,6 @@
-const DATA_VERSION = 1;
-const STORAGE_KEY = "qcm-cgp-progress-v1";
+const DATA_VERSION = 3;
+const STORAGE_KEY = "qcm-cgp-progress-v3";
 const EXAM_SECONDS = 60 * 60;
-const letters = ["A", "B", "C", "D"];
 const EXAM_BLUEPRINT = [
   { count: 12, domains: ["Fiscalité"] },
   { count: 10, domains: ["Immobilier", "Immobilier locatif", "Fiscalité immobilière", "Placements immobiliers"] },
@@ -98,6 +97,16 @@ function difficultyLabel(value) {
   return { debutant: "Débutant", intermediaire: "Intermédiaire", avance: "Avancé", expert: "Expert" }[value] || value;
 }
 
+function sameAnswers(selected, expected) {
+  const left = [...selected].sort();
+  const right = [...expected].sort();
+  return left.length === right.length && left.every((letter, index) => letter === right[index]);
+}
+
+function formatAnswerLetters(values) {
+  return values.length === 1 ? values[0] : `${values.slice(0, -1).join(", ")} et ${values.at(-1)}`;
+}
+
 function showScreen(name) {
   Object.entries(screens).forEach(([key, element]) => element.classList.toggle("hidden", key !== name));
   const inQuiz = name === "quiz";
@@ -185,7 +194,7 @@ function startSession(mode, options = {}) {
         : sample(pool, count, true),
     index: 0,
     responses: [],
-    selected: null,
+    selected: new Set(),
     validated: false,
     startedAt: Date.now(),
     questionStartedAt: Date.now(),
@@ -205,7 +214,7 @@ function currentQuestion() {
 function renderQuestion() {
   const question = currentQuestion();
   if (!question) return finishSession();
-  session.selected = null;
+  session.selected = new Set();
   session.validated = false;
   session.questionStartedAt = Date.now();
 
@@ -215,13 +224,18 @@ function renderQuestion() {
   $("#questionDomain").textContent = question.domaine;
   $("#questionDifficulty").textContent = difficultyLabel(question.difficulte);
   $("#questionText").textContent = question.enonce;
+  $("#answerInstruction").textContent = question.type_question === "multiple"
+    ? "Plusieurs réponses possibles"
+    : question.type_question === "vrai_faux"
+      ? "Vrai ou faux"
+      : "Une seule réponse attendue";
   $("#feedback").classList.add("hidden");
   $("#feedback").classList.remove("incorrect");
   $("#validateButton").classList.remove("hidden");
   $("#validateButton").disabled = true;
   $("#nextButton").classList.add("hidden");
   $("#skipButton").classList.remove("hidden");
-  $("#answers").innerHTML = letters.map((letter) => `<button class="answer" type="button" data-answer="${letter}">
+  $("#answers").innerHTML = Object.keys(question.choix).map((letter) => `<button class="answer" type="button" data-answer="${letter}" aria-pressed="false">
     <span class="letter">${letter}</span><span class="answer-copy">${escapeHtml(question.choix[letter])}</span><span class="answer-state" aria-hidden="true"></span>
   </button>`).join("");
   $("#questionCard").scrollIntoView({ behavior: "instant", block: "start" });
@@ -229,18 +243,27 @@ function renderQuestion() {
 
 function selectAnswer(letter) {
   if (!session || session.validated) return;
-  session.selected = letter;
-  $$(".answer").forEach((answer) => answer.classList.toggle("selected", answer.dataset.answer === letter));
-  $("#validateButton").disabled = false;
+  const question = currentQuestion();
+  if (question.type_question === "multiple") {
+    if (session.selected.has(letter)) session.selected.delete(letter); else session.selected.add(letter);
+  } else {
+    session.selected = new Set([letter]);
+  }
+  $$(".answer").forEach((answer) => {
+    const selected = session.selected.has(answer.dataset.answer);
+    answer.classList.toggle("selected", selected);
+    answer.setAttribute("aria-pressed", String(selected));
+  });
+  $("#validateButton").disabled = session.selected.size === 0;
 }
 
 function validateAnswer() {
-  if (!session?.selected || session.validated) return;
+  if (!session?.selected?.size || session.validated) return;
   const question = currentQuestion();
-  const correct = session.selected === question.bonne_reponse;
+  const correct = sameAnswers(session.selected, question.bonnes_reponses);
   const elapsed = Math.max(1, Math.round((Date.now() - session.questionStartedAt) / 1000));
   session.validated = true;
-  session.responses.push({ id: question.id, selected: session.selected, correct, seconds: elapsed });
+  session.responses.push({ id: question.id, selected: [...session.selected].sort(), correct, seconds: elapsed });
   recordAnswer(question, correct);
 
   if (!session.feedback) {
@@ -251,10 +274,10 @@ function validateAnswer() {
   $$(".answer").forEach((answer) => {
     answer.disabled = true;
     const letter = answer.dataset.answer;
-    if (letter === question.bonne_reponse) {
+    if (question.bonnes_reponses.includes(letter)) {
       answer.classList.add("correct");
       answer.querySelector(".answer-state").textContent = "✓";
-    } else if (letter === session.selected) {
+    } else if (session.selected.has(letter)) {
       answer.classList.add("wrong");
       answer.querySelector(".answer-state").textContent = "×";
     }
@@ -272,7 +295,10 @@ function renderFeedback(question, correct) {
   const feedback = $("#feedback");
   feedback.classList.remove("hidden");
   feedback.classList.toggle("incorrect", !correct);
-  $("#feedbackHeading").textContent = correct ? "Bonne réponse" : `Réponse correcte : ${question.bonne_reponse}`;
+  const expected = formatAnswerLetters(question.bonnes_reponses);
+  $("#feedbackHeading").textContent = correct
+    ? "Bonne réponse"
+    : `${question.bonnes_reponses.length > 1 ? "Réponses correctes" : "Réponse correcte"} : ${expected}`;
   $("#feedbackText").textContent = question.explication;
   const wrongTraps = Object.entries(question.pieges)
     .map(([letter, text]) => `<p><strong>${letter}.</strong> ${escapeHtml(text)}</p>`).join("");
@@ -514,7 +540,7 @@ async function init() {
   }
 
   if ("serviceWorker" in navigator && location.protocol !== "file:") {
-    navigator.serviceWorker.register("sw.js?v=7").catch((error) => console.warn("Service worker non enregistré", error));
+    navigator.serviceWorker.register("sw.js?v=9").catch((error) => console.warn("Service worker non enregistré", error));
   }
 }
 

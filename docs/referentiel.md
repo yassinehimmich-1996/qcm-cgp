@@ -25,17 +25,20 @@ La pondération ci-dessous est une hypothèse pédagogique de travail. Elle ne c
 
 ## Répartition des difficultés
 
-- débutant : 147 questions ;
-- intermédiaire : 567 questions ;
-- avancé : 345 questions ;
-- expert : 41 questions.
+- débutant : 0 question ;
+- intermédiaire : 217 questions ;
+- avancé : 447 questions ;
+- expert : 436 questions.
 
-## Équilibre des réponses
+## Format des réponses
 
-- A : 275 bonnes réponses ;
-- B : 276 bonnes réponses ;
-- C : 275 bonnes réponses ;
-- D : 274 bonnes réponses.
+- réponse unique : 452 questions ;
+- réponses multiples : 356 questions ;
+- vrai/faux : 292 questions ;
+- deux réponses exactes : 348 questions multiples ;
+- trois réponses exactes : 8 questions multiples.
+
+Les positions correctes restent brassées sur l'ensemble de la banque. L'interface indique avant chaque question s'il s'agit d'un vrai/faux, d'une réponse unique ou de plusieurs réponses attendues.
 
 ## Réserve d'examen
 

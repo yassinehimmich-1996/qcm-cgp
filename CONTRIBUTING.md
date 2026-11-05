@@ -7,13 +7,13 @@ Chaque question doit :
 1. tester une connaissance théorique utile au métier de CGP ;
 2. pouvoir être comprise sans scénario client ;
 3. ne nécessiter aucun calcul ;
-4. comporter exactement quatre propositions `A`, `B`, `C`, `D` ;
-5. comporter une seule bonne réponse ;
-6. éviter les formulations négatives, sauf nécessité pédagogique ;
+4. comporter exactement deux propositions `A`, `B` pour un `vrai_faux`, ou quatre propositions `A`, `B`, `C`, `D` pour un QCM ;
+5. comporter une à trois bonnes réponses, avec un type `unique`, `multiple` ou `vrai_faux` cohérent ;
+6. réserver les formulations négatives aux questions contrôlées de type « laquelle est inexacte ? » ;
 7. citer au moins une source publique identifiable ;
 8. indiquer une date de vérification ;
 9. expliquer pourquoi la réponse correcte l'est et pourquoi les distracteurs sont trompeurs ;
-10. être originale et ne reproduire aucun questionnaire interne ou protégé.
+10. être originale et ne reproduire aucun questionnaire, outil, procédure ou référentiel strictement interne.
 
 ## Statuts
 
@@ -27,7 +27,7 @@ Une question ne passe à `verifie_sources_publiques` qu'après :
 
 - vérification de la règle dans la source primaire ou institutionnelle ;
 - vérification de la date d'entrée en vigueur ;
-- contrôle qu'une seule réponse est défendable ;
+- contrôle que toutes les réponses déclarées exactes sont défendables et qu'aucune autre ne l'est ;
 - contrôle du niveau de difficulté ;
 - recherche de doublons ;
 - lecture à voix haute en moins de 36 secondes.

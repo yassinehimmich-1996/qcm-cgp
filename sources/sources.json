@@ -1659,6 +1659,186 @@
         "droit temporaire au logement",
         "droit viager au logement"
       ]
+    },
+    {
+      "id": "S127",
+      "nom": "Programme de formation des intermédiaires en opérations de banque et services de paiement",
+      "organisme": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046107057",
+      "date_document": "2022-07-18",
+      "date_consultation": "2026-11-05",
+      "sujets": ["IOBSP", "crédit immobilier", "information précontractuelle", "solvabilité"]
+    },
+    {
+      "id": "S128",
+      "nom": "Pouvoir disciplinaire de l'ACPR — articles L. 612-38 à L. 612-42",
+      "organisme": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000021722326/",
+      "date_document": "2026-11-05",
+      "date_consultation": "2026-11-05",
+      "sujets": ["ACPR", "sanctions", "agrément", "radiation"]
+    },
+    {
+      "id": "S129",
+      "nom": "Crédit immobilier : lire les documents remis",
+      "organisme": "DGCCRF — Ministère de l'Économie",
+      "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/credit-immobilier-lisez-attentivement-les-documents-remis",
+      "date_document": "2026-01-21",
+      "date_consultation": "2026-11-05",
+      "sujets": ["FISE", "TAEG", "frais", "garanties", "évaluation immobilière"]
+    },
+    {
+      "id": "S130",
+      "nom": "Achat d'un logement en copropriété",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F37190",
+      "date_document": "2025-10-01",
+      "date_consultation": "2026-11-05",
+      "sujets": ["avant-contrat", "délai de rétractation", "acte authentique", "notaire"]
+    },
+    {
+      "id": "S131",
+      "nom": "Droit de préemption et déclaration d'intention d'aliéner",
+      "organisme": "ANIL",
+      "url": "https://www.anil.org/documentation-experte/analyses-juridiques-jurisprudence/jurisprudence/jurisprudence-2014/legalite-de-la-decision-de-preempter-en-presence-dune-declaration-dintention-daliener-incomplete-ou-erronee/",
+      "date_document": "2014-02-12",
+      "date_consultation": "2026-11-05",
+      "sujets": ["préemption", "DIA", "délai de deux mois"]
+    },
+    {
+      "id": "S132",
+      "nom": "Acheter un logement ancien",
+      "organisme": "ANIL",
+      "url": "https://www.anil.org/votre-besoin/acheter/types-dachat/logement-existant",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": ["avant-contrat", "compromis", "conditions suspensives", "dépôt de garantie"]
+    },
+    {
+      "id": "S133",
+      "nom": "Détail de la procédure de surendettement",
+      "organisme": "Banque de France",
+      "url": "https://www.banque-france.fr/fr/a-votre-service/particuliers/dossier-surendettement",
+      "date_document": "2026-01-01",
+      "date_consultation": "2026-11-05",
+      "sujets": ["surendettement", "obligations", "interdictions", "recevabilité"]
+    },
+    {
+      "id": "S134",
+      "nom": "Foire aux questions du dossier de surendettement",
+      "organisme": "Banque de France",
+      "url": "https://www.banque-france.fr/fr/foire-aux-questions-dossier-de-surendettement",
+      "date_document": "2026-10-01",
+      "date_consultation": "2026-11-05",
+      "sujets": ["surendettement", "délais", "recevabilité", "FICP"]
+    },
+    {
+      "id": "S135",
+      "nom": "Audit énergétique en cas de vente d'une passoire thermique",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F37110",
+      "date_document": "2025-01-01",
+      "date_consultation": "2026-11-05",
+      "sujets": ["audit énergétique", "DPE", "passoire thermique", "coût des travaux"]
+    },
+    {
+      "id": "S136",
+      "nom": "Caution et garanties du crédit immobilier",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F34997",
+      "date_document": "2024-12-01",
+      "date_consultation": "2026-11-05",
+      "sujets": ["caution", "hypothèque", "garantie de prêt"]
+    },
+    {
+      "id": "S137",
+      "nom": "Rembourser un crédit immobilier avant son terme",
+      "organisme": "Ministère de l'Économie",
+      "url": "https://www.economie.gouv.fr/particuliers/emprunter-et-sassurer/rembourser-son-credit-immobilier-avant-le-terme-comment-ca",
+      "date_document": "2025-09-01",
+      "date_consultation": "2026-11-05",
+      "sujets": ["remboursement anticipé", "IRA", "plafond", "seuil de 10 %"]
+    },
+    {
+      "id": "S138",
+      "nom": "Mainlevée et extinction d'une hypothèque",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F787",
+      "date_document": "2025-01-01",
+      "date_consultation": "2026-11-05",
+      "sujets": ["hypothèque", "mainlevée", "publicité foncière"]
+    },
+    {
+      "id": "S139",
+      "nom": "Article 544 du Code civil — droit de propriété",
+      "organisme": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428859/",
+      "date_document": "1804-03-21",
+      "date_consultation": "2026-11-05",
+      "sujets": ["propriété", "jouissance", "disposition"]
+    },
+    {
+      "id": "S140",
+      "nom": "Donations — assiette des droits en présence d'un démembrement",
+      "organisme": "BOFiP-Impôts",
+      "url": "https://bofip.impots.gouv.fr/bofip/2696-PGP.html/identifiant=BOI-ENR-DMTG-20-30-10-20210406",
+      "date_document": "2021-04-06",
+      "date_consultation": "2026-11-05",
+      "sujets": ["donation", "nue-propriété", "usufruit", "article 669 du CGI"]
+    },
+    {
+      "id": "S141",
+      "nom": "L'agent immobilier : les règles qui encadrent la profession",
+      "organisme": "DGCCRF — Ministère de l'Économie",
+      "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques-et-les-faq/lagent-immobilier-les-regles-qui-encadrent-la-profession",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": ["mandat immobilier", "mandat simple", "mandat exclusif", "rémunération"]
+    },
+    {
+      "id": "S142",
+      "nom": "Acte de vente d'un logement en l'état futur d'achèvement (Vefa)",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F2961",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": ["VEFA", "paiements échelonnés", "délai de réflexion", "acte de vente"]
+    },
+    {
+      "id": "S143",
+      "nom": "Le contrat de construction de maison individuelle offre une sécurité juridique élevée",
+      "organisme": "DGCCRF — Ministère de l'Économie",
+      "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/le-contrat-de-construction-de-maison-individuelle-ccmi-offre-une",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": ["CCMI", "construction", "garantie de livraison", "mentions obligatoires"]
+    },
+    {
+      "id": "S144",
+      "nom": "Garantie co-emprunteur : que faire en cas de divorce ou de séparation du couple ?",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F548",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": ["co-emprunteur", "solidarité", "désolidarisation", "séparation"]
+    },
+    {
+      "id": "S145",
+      "nom": "Crédit immobilier : comment le renégocier ou le faire racheter ?",
+      "organisme": "Ministère de l'Économie",
+      "url": "https://www.economie.gouv.fr/particuliers/gerer-mon-argent/gerer-mon-budget-et-mon-epargne/credit-immobilier-comment-le-renegocier-ou-le-faire-racheter",
+      "date_document": "2026-02-17",
+      "date_consultation": "2026-11-05",
+      "sujets": ["renégociation", "rachat de crédit", "avenant", "délai de réflexion"]
+    },
+    {
+      "id": "S146",
+      "nom": "Promesse de vente et condition suspensive d'obtention du prêt immobilier",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F188",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": ["condition suspensive", "refus de prêt", "délai", "avant-contrat"]
     }
   ]
 }

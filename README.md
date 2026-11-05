@@ -11,7 +11,7 @@ L'application est conçue en priorité pour iPhone. Elle peut être ajoutée à 
 ## Périmètre
 
 - questions exclusivement théoriques ;
-- quatre propositions et une seule bonne réponse ;
+- deux propositions pour les vrai/faux, ou quatre propositions pour les QCM à réponse unique ou multiple ;
 - objectif de réponse rapide, environ 36 secondes par question ;
 - références publiques et datées ;
 - réglementation, fiscalité, produits, droit patrimonial, crédit, assurance et conformité ;
@@ -22,10 +22,11 @@ Ce projet est indépendant. Il ne constitue ni un examen officiel, ni une banque
 ## État du projet
 
 - 1 100 questions théoriques réparties en 22 lots de 50, chacun brassé sur au moins 12 domaines ;
-- 292 notions-mères, dont 102 questions complémentaires consacrées aux lacunes fiscales, immobilières, successorales et retraite ;
+- 292 notions-mères publiques, complétées par 91 questions ciblées de niveau professionnel ;
 - 28 domaines présents dans la banque ;
-- 126 références publiques cataloguées ;
-- quatre réponses et une seule bonne réponse par question ;
+- 146 références publiques cataloguées ;
+- 452 questions à réponse unique, 356 questions à réponses multiples et 292 vrai/faux ;
+- aucun niveau débutant : 217 questions intermédiaires, 447 avancées et 436 expertes ;
 - aucun cas client ni calcul ;
 - statut éditorial des questions : `verifie_sources_publiques` ;
 - dernière revue documentaire et validation technique : 5 novembre 2026.
@@ -48,6 +49,8 @@ assets/                            Interface, logique et icônes PWA
 questions/lot-001..022.json        Questions et corrigés structurés
 data/knowledge-seeds.mjs           Notions théoriques servant à la génération
 data/coverage-seeds.mjs            Compléments de couverture vérifiés en 2026
+data/test-level-seeds.mjs          Renforcements de niveau test professionnel
+data/capture-gap-seeds.mjs         Compléments publics issus de l'audit des captures
 sources/sources.json               Catalogue des références publiques
 schema/question.schema.json        Contrat de données
 scripts/validate_questions.py      Contrôles automatiques
@@ -62,7 +65,7 @@ CONTRIBUTING.md                    Processus de contribution et de revue
 npm run check
 ```
 
-Le validateur contrôle notamment le total de 1 100 questions, les lots de 50, les identifiants, les doublons d'énoncé, les quatre choix, la réponse unique, les sources, les dates et l'absence de scénarios ou de calculs manifestes.
+Le validateur contrôle notamment le total de 1 100 questions, les lots de 50, les identifiants, les doublons complets, les choix A-B ou A-D, la cohérence des réponses uniques, multiples ou vrai/faux, les sources, les dates, le niveau de difficulté et l'absence de scénarios ou de calculs manifestes.
 
 Pour prévisualiser l'application en local :
 

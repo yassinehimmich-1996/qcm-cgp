@@ -1,1302 +1,1425 @@
 [
   {
-    "id": "CGP-2026-0813",
-    "domaine": "Assurance-vie",
-    "sous_domaine": "Supports",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les unités de compte — le risque en capital ?",
+    "domaine": "Retraite",
+    "sous_domaine": "Fiscalité du PER",
+    "difficulte": "expert",
+    "type_question": "vrai_faux",
+    "enonce": "Dans le thème « Fiscalité du PER », l'affirmation suivante est-elle exacte ? « La fraction correspondant aux versements déduits est en principe imposée au barème sans abattement de 10 %. »",
     "choix": {
-      "A": "La valeur est garantie quotidiennement par l'État.",
-      "B": "Les unités de compte ne peuvent contenir aucun actif financier.",
-      "C": "Leur rendement est fixé réglementairement.",
-      "D": "Le nombre d'unités peut être garanti, mais leur valeur ne l'est généralement pas."
+      "A": "Vrai",
+      "B": "Faux"
     },
-    "bonne_reponse": "D",
-    "explication": "Le nombre d'unités peut être garanti, mais leur valeur ne l'est généralement pas. Cette règle constitue le repère théorique à retenir concernant les unités de compte et le risque en capital.",
+    "bonnes_reponses": [
+      "A"
+    ],
+    "explication": "L'affirmation est exacte. La fraction correspondant aux versements déduits est en principe imposée au barème sans abattement de 10 %.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à les unités de compte pour le risque en capital.",
-      "B": "Cette proposition ne correspond pas au principe applicable à les unités de compte pour le risque en capital.",
-      "C": "Cette proposition ne correspond pas au principe applicable à les unités de compte pour le risque en capital."
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S022"
+      "S103"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0539"
   },
   {
-    "id": "CGP-2026-0826",
-    "domaine": "Assurance-vie",
-    "sous_domaine": "Dénouement décès",
+    "domaine": "Retraite",
+    "sous_domaine": "Agirc-Arrco / PER",
+    "difficulte": "expert",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « Agirc-Arrco » et « PER », lesquelles sont exactes ?",
+    "choix": {
+      "A": "Elle devient un dépôt à vue.",
+      "B": "Sous forme de points acquis par les cotisations, puis convertis en pension selon la valeur de service du point.",
+      "C": "Elle est en principe orientée vers une sortie en rente, hors exceptions légales.",
+      "D": "Sous forme d'un capital garanti par l'État."
+    },
+    "bonnes_reponses": [
+      "B",
+      "C"
+    ],
+    "explication": "Les deux règles à retenir sont : Sous forme de points acquis par les cotisations, puis convertis en pension selon la valeur de service du point. Elle est en principe orientée vers une sortie en rente, hors exceptions légales.",
+    "pieges": {
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S116",
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0856"
+  },
+  {
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "expert",
+    "type_question": "unique",
+    "enonce": "Parmi les affirmations suivantes portant sur « PER », laquelle est inexacte ?",
+    "choix": {
+      "A": "Elle constitue un cas de déblocage anticipé de l'épargne, sous les règles applicables.",
+      "B": "Elle est exonérée de toute règle de blocage.",
+      "C": "Elle est en principe orientée vers une sortie en rente, hors exceptions légales.",
+      "D": "Ils peuvent réduire le revenu imposable dans la limite du plafond de déduction disponible."
+    },
+    "bonnes_reponses": [
+      "B"
+    ],
+    "explication": "L'affirmation à écarter est inexacte. La règle correcte est : Elle est en principe orientée vers une sortie en rente, hors exceptions légales. Les autres propositions décrivent des règles applicables au même domaine.",
+    "pieges": {
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "C": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0997"
+  },
+  {
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
+    "difficulte": "expert",
+    "type_question": "unique",
+    "enonce": "Parmi les affirmations suivantes portant sur « PER », laquelle est inexacte ?",
+    "choix": {
+      "A": "Ils peuvent réduire le revenu imposable dans la limite du plafond de déduction disponible.",
+      "B": "Elle est en principe orientée vers une sortie en rente, hors exceptions légales.",
+      "C": "Elle transforme le PER en PEA.",
+      "D": "Elle constitue un cas de déblocage anticipé de l'épargne, sous les règles applicables."
+    },
+    "bonnes_reponses": [
+      "C"
+    ],
+    "explication": "L'affirmation à écarter est inexacte. La règle correcte est : Elle constitue un cas de déblocage anticipé de l'épargne, sous les règles applicables. Les autres propositions décrivent des règles applicables au même domaine.",
+    "pieges": {
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-1053"
+  },
+  {
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
     "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'article 757 B du CGI — son champ principal ?",
+    "type_question": "unique",
+    "enonce": "Parmi les affirmations suivantes portant sur « PER », laquelle est inexacte ?",
     "choix": {
-      "A": "Il ne concerne que les contrats sans bénéficiaire.",
-      "B": "Il s'applique aux retraits sur un livret A.",
-      "C": "Il vise les primes versées après les soixante-dix ans de l'assuré, selon les conditions et l'abattement prévus.",
-      "D": "Il taxe toute la valeur du contrat sans distinction."
+      "A": "Ils peuvent permettre une sortie anticipée avant la retraite dans les cas limitativement prévus.",
+      "B": "Elle permet uniquement une sortie en rente.",
+      "C": "Elle constitue un cas de déblocage anticipé de l'épargne, sous les règles applicables.",
+      "D": "Ils peuvent réduire le revenu imposable dans la limite du plafond de déduction disponible."
     },
-    "bonne_reponse": "C",
-    "explication": "Il vise les primes versées après les soixante-dix ans de l'assuré, selon les conditions et l'abattement prévus. Cette règle constitue le repère théorique à retenir concernant l'article 757 B du CGI et son champ principal.",
+    "bonnes_reponses": [
+      "B"
+    ],
+    "explication": "L'affirmation à écarter est inexacte. La règle correcte est : Elle constitue un cas de déblocage anticipé de l'épargne, sous les règles applicables. Les autres propositions décrivent des règles applicables au même domaine.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à l'article 757 B du CGI pour son champ principal.",
-      "B": "Cette proposition ne correspond pas au principe applicable à l'article 757 B du CGI pour son champ principal.",
-      "D": "Cette proposition ne correspond pas au principe applicable à l'article 757 B du CGI pour son champ principal."
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "C": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S026"
+      "S031"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-1097"
   },
   {
-    "id": "CGP-2026-0259",
-    "domaine": "Assurance-vie",
-    "sous_domaine": "Assuré",
-    "difficulte": "debutant",
-    "enonce": "À propos de l'assuré, quel principe faut-il retenir pour sa fonction ?",
-    "choix": {
-      "A": "Son décès constitue l'événement qui déclenche le dénouement décès du contrat.",
-      "B": "Il est toujours l'assureur.",
-      "C": "Il fixe les taux directeurs.",
-      "D": "Il doit obligatoirement être une personne morale."
-    },
-    "bonne_reponse": "A",
-    "explication": "Son décès constitue l'événement qui déclenche le dénouement décès du contrat. Cette règle constitue le repère théorique à retenir concernant l'assuré et sa fonction.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à l'assuré pour sa fonction.",
-      "C": "Cette proposition ne correspond pas au principe applicable à l'assuré pour sa fonction.",
-      "D": "Cette proposition ne correspond pas au principe applicable à l'assuré pour sa fonction."
-    },
-    "sources": [
-      "S022"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0061",
-    "domaine": "Assurance-vie",
-    "sous_domaine": "Fiscalité des rachats",
+    "domaine": "Retraite",
+    "sous_domaine": "PER",
     "difficulte": "avance",
-    "enonce": "Quelle proposition décrit correctement un rachat d'assurance-vie concernant l'assiette imposable ?",
+    "type_question": "unique",
+    "enonce": "Concernant la déduction des versements volontaires et son caractère, quelle proposition restitue exactement la règle applicable ?",
     "choix": {
-      "A": "La totalité du rachat constitue toujours un revenu.",
-      "B": "Seul le capital initial est imposable.",
-      "C": "Aucune fraction n'est jamais imposable.",
-      "D": "Seule la quote-part de produits comprise dans le rachat est imposable, et non la totalité de la somme retirée."
+      "A": "Elle constitue une option fiscale et doit être appréciée au regard de la fiscalité à l'entrée et à la sortie.",
+      "B": "Elle est toujours obligatoire.",
+      "C": "Elle rend toute sortie exonérée.",
+      "D": "Elle dépend du cours du CAC 40."
     },
-    "bonne_reponse": "D",
-    "explication": "Seule la quote-part de produits comprise dans le rachat est imposable, et non la totalité de la somme retirée. Cette règle constitue le repère théorique à retenir concernant un rachat d'assurance-vie et l'assiette imposable.",
+    "bonnes_reponses": [
+      "A"
+    ],
+    "explication": "Elle constitue une option fiscale et doit être appréciée au regard de la fiscalité à l'entrée et à la sortie. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à un rachat d'assurance-vie pour l'assiette imposable.",
-      "B": "Cette proposition ne correspond pas au principe applicable à un rachat d'assurance-vie pour l'assiette imposable.",
-      "C": "Cette proposition ne correspond pas au principe applicable à un rachat d'assurance-vie pour l'assiette imposable."
+      "B": "Cette réponse attribue à la déduction des versements volontaires un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Cette réponse attribue à la déduction des versements volontaires un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "D": "Cette réponse attribue à la déduction des versements volontaires un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
-      "S023"
+      "S031"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0113"
   },
   {
-    "id": "CGP-2026-0054",
-    "domaine": "Assurance-vie",
-    "sous_domaine": "Arbitrage",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle proposition décrit correctement un arbitrage concernant son effet ?",
+    "domaine": "Retraite",
+    "sous_domaine": "EIG / Déblocage du PER",
+    "difficulte": "expert",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « EIG » et « Déblocage du PER », lesquelles sont exactes ?",
     "choix": {
-      "A": "Il change automatiquement le bénéficiaire.",
-      "B": "Il entraîne toujours le paiement immédiat de l'impôt sur le revenu.",
-      "C": "Il modifie la répartition entre supports sans constituer, en lui-même, un rachat versé au souscripteur.",
-      "D": "Il clôture nécessairement le contrat."
+      "A": "L'épargne salariale dans tous les cas.",
+      "B": "Une synthèse des droits acquis et une estimation de pension selon plusieurs âges de départ.",
+      "C": "Les droits issus des cotisations obligatoires.",
+      "D": "Une promesse contractuelle de pension minimale."
     },
-    "bonne_reponse": "C",
-    "explication": "Il modifie la répartition entre supports sans constituer, en lui-même, un rachat versé au souscripteur. Cette règle constitue le repère théorique à retenir concernant un arbitrage et son effet.",
+    "bonnes_reponses": [
+      "B",
+      "C"
+    ],
+    "explication": "Les deux règles à retenir sont : Une synthèse des droits acquis et une estimation de pension selon plusieurs âges de départ. Les droits issus des cotisations obligatoires.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à un arbitrage pour son effet.",
-      "B": "Cette proposition ne correspond pas au principe applicable à un arbitrage pour son effet.",
-      "D": "Cette proposition ne correspond pas au principe applicable à un arbitrage pour son effet."
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S022"
+      "S115",
+      "S031"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0860"
   },
   {
-    "id": "CGP-2026-0717",
-    "domaine": "Placements financiers",
-    "sous_domaine": "Produits structurés",
+    "domaine": "Retraite",
+    "sous_domaine": "Décote",
     "difficulte": "avance",
-    "enonce": "Dans un QCM portant sur la protection du capital à l'échéance, quelle réponse est juste au sujet de sa portée ?",
+    "type_question": "unique",
+    "enonce": "Quel est l'effet d'un nombre de trimestres insuffisant lors d'un départ avant l'âge du taux plein automatique ?",
     "choix": {
-      "A": "Elle ne vaut que dans les conditions prévues et reste exposée notamment au risque de défaut de l'émetteur.",
-      "B": "Elle protège contre tout risque avant l'échéance.",
-      "C": "Elle rend l'émetteur sans importance.",
-      "D": "Elle s'applique à tout produit structuré sans exception."
+      "A": "Le manque est automatiquement compensé par Agirc-Arrco.",
+      "B": "Le dernier salaire est retenu à 100 %.",
+      "C": "Le taux de pension peut subir une minoration définitive, en plus d'une éventuelle proratisation.",
+      "D": "La pension est seulement reportée de quelques mois sans effet sur son montant."
     },
-    "bonne_reponse": "A",
-    "explication": "Elle ne vaut que dans les conditions prévues et reste exposée notamment au risque de défaut de l'émetteur. Cette règle constitue le repère théorique à retenir concernant la protection du capital à l'échéance et sa portée.",
+    "bonnes_reponses": [
+      "C"
+    ],
+    "explication": "L'absence de trimestres peut produire une décote sur le taux et une proratisation liée à la durée validée. Ces deux mécanismes ne doivent pas être confondus.",
     "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée.",
-      "C": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée.",
-      "D": "Cette proposition ne correspond pas au principe applicable à la protection du capital à l'échéance pour sa portée."
+      "A": "Le régime complémentaire ne crée pas les trimestres manquants.",
+      "B": "Le calcul ne garantit pas le dernier salaire.",
+      "D": "La minoration peut être permanente."
     },
     "sources": [
-      "S035"
+      "S114"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0285"
   },
   {
-    "id": "CGP-2026-0329",
-    "domaine": "Placements financiers",
-    "sous_domaine": "Diversification",
-    "difficulte": "intermediaire",
-    "enonce": "À propos de la diversification, quel principe faut-il retenir pour son effet ?",
-    "choix": {
-      "A": "Elle impose un actif unique.",
-      "B": "Elle augmente nécessairement chaque risque individuel.",
-      "C": "Elle réduit la concentration des risques mais n'élimine pas tous les risques de marché.",
-      "D": "Elle garantit un gain."
-    },
-    "bonne_reponse": "C",
-    "explication": "Elle réduit la concentration des risques mais n'élimine pas tous les risques de marché. Cette règle constitue le repère théorique à retenir concernant la diversification et son effet.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet.",
-      "B": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet.",
-      "D": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet."
-    },
-    "sources": [
-      "S056"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0715",
-    "domaine": "Placements financiers",
-    "sous_domaine": "ETF",
-    "difficulte": "avance",
-    "enonce": "Dans un QCM portant sur un ETF exposé en devise étrangère, quelle réponse est juste au sujet de le risque de change ?",
-    "choix": {
-      "A": "La devise garantit le capital.",
-      "B": "Le risque de change remplace tous les autres risques.",
-      "C": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert.",
-      "D": "Le change n'a jamais aucun effet."
-    },
-    "bonne_reponse": "C",
-    "explication": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert. Cette règle constitue le repère théorique à retenir concernant un ETF exposé en devise étrangère et le risque de change.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change.",
-      "B": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change.",
-      "D": "Cette proposition ne correspond pas au principe applicable à un ETF exposé en devise étrangère pour le risque de change."
-    },
-    "sources": [
-      "S033"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0513",
-    "domaine": "Placements financiers",
-    "sous_domaine": "Obligations",
-    "difficulte": "debutant",
-    "enonce": "Quelle affirmation théorique est exacte sur sa nature de une obligation ?",
-    "choix": {
-      "A": "Elle ne comporte aucun risque de crédit.",
-      "B": "Elle représente une créance sur un émetteur, assortie de conditions de rémunération et de remboursement.",
-      "C": "Elle donne toujours un droit de vote d'actionnaire.",
-      "D": "Elle est un livret réglementé."
-    },
-    "bonne_reponse": "B",
-    "explication": "Elle représente une créance sur un émetteur, assortie de conditions de rémunération et de remboursement. Cette règle constitue le repère théorique à retenir concernant une obligation et sa nature.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une obligation pour sa nature.",
-      "C": "Cette proposition ne correspond pas au principe applicable à une obligation pour sa nature.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une obligation pour sa nature."
-    },
-    "sources": [
-      "S032"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0367",
     "domaine": "Fiscalité",
-    "sous_domaine": "IFI",
-    "difficulte": "avance",
-    "enonce": "À propos de les dettes déductibles de l'IFI, quel principe faut-il retenir pour leur principe ?",
-    "choix": {
-      "A": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles.",
-      "B": "Toutes les dettes personnelles sont automatiquement déductibles.",
-      "C": "Aucune dette ne peut jamais être déduite.",
-      "D": "Les dettes sont ajoutées à l'actif taxable."
-    },
-    "bonne_reponse": "A",
-    "explication": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles. Cette règle constitue le repère théorique à retenir concernant les dettes déductibles de l'IFI et leur principe.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à les dettes déductibles de l'IFI pour leur principe.",
-      "C": "Cette proposition ne correspond pas au principe applicable à les dettes déductibles de l'IFI pour leur principe.",
-      "D": "Cette proposition ne correspond pas au principe applicable à les dettes déductibles de l'IFI pour leur principe."
-    },
-    "sources": [
-      "S060"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0750",
-    "domaine": "Fiscalité",
-    "sous_domaine": "Revenus fonciers",
+    "sous_domaine": "Dividendes",
     "difficulte": "intermediaire",
-    "enonce": "Dans un QCM portant sur les loyers nus, quelle réponse est juste au sujet de leur catégorie fiscale ?",
+    "type_question": "unique",
+    "enonce": "Concernant les dividendes d'actions détenues en compte-titres et leur catégorie fiscale, quelle proposition restitue exactement la règle applicable ?",
     "choix": {
-      "A": "Ils sont des bénéfices industriels et commerciaux dans tous les cas.",
-      "B": "Ils sont des dividendes.",
-      "C": "Ils sont toujours exonérés.",
-      "D": "Ils relèvent en principe des revenus fonciers, après application du régime correspondant."
+      "A": "Ils sont toujours exonérés.",
+      "B": "Ils constituent un remboursement de prêt.",
+      "C": "Ils relèvent en principe des revenus de capitaux mobiliers.",
+      "D": "Ils sont des revenus fonciers."
     },
-    "bonne_reponse": "D",
-    "explication": "Ils relèvent en principe des revenus fonciers, après application du régime correspondant. Cette règle constitue le repère théorique à retenir concernant les loyers nus et leur catégorie fiscale.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à les loyers nus pour leur catégorie fiscale.",
-      "B": "Cette proposition ne correspond pas au principe applicable à les loyers nus pour leur catégorie fiscale.",
-      "C": "Cette proposition ne correspond pas au principe applicable à les loyers nus pour leur catégorie fiscale."
-    },
-    "sources": [
-      "S061"
+    "bonnes_reponses": [
+      "C"
     ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0174",
-    "domaine": "Fiscalité",
-    "sous_domaine": "Plus-values mobilières",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle proposition décrit correctement une plus-value de cession de valeurs mobilières concernant son assiette ?",
-    "choix": {
-      "A": "Elle correspond uniquement aux dividendes.",
-      "B": "Elle est toujours nulle.",
-      "C": "Elle correspond en principe à la différence positive entre prix de cession et prix ou valeur d'acquisition, ajustée selon les règles fiscales.",
-      "D": "Elle est égale au montant total vendu."
-    },
-    "bonne_reponse": "C",
-    "explication": "Elle correspond en principe à la différence positive entre prix de cession et prix ou valeur d'acquisition, ajustée selon les règles fiscales. Cette règle constitue le repère théorique à retenir concernant une plus-value de cession de valeurs mobilières et son assiette.",
+    "explication": "Ils relèvent en principe des revenus de capitaux mobiliers. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une plus-value de cession de valeurs mobilières pour son assiette.",
-      "B": "Cette proposition ne correspond pas au principe applicable à une plus-value de cession de valeurs mobilières pour son assiette.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une plus-value de cession de valeurs mobilières pour son assiette."
+      "A": "Cette réponse attribue à les dividendes d'actions détenues en compte-titres un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Cette réponse attribue à les dividendes d'actions détenues en compte-titres un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "D": "Cette réponse attribue à les dividendes d'actions détenues en compte-titres un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
       "S036"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0123"
   },
   {
-    "id": "CGP-2026-1010",
     "domaine": "Fiscalité",
-    "sous_domaine": "Revenus sans collecteur",
+    "sous_domaine": "Liquidation de l'impôt",
     "difficulte": "intermediaire",
-    "enonce": "Comment le prélèvement à la source est-il généralement acquitté sur les revenus fonciers et certains revenus d'indépendants ?",
+    "type_question": "unique",
+    "enonce": "Le prélèvement à la source constitue-t-il le calcul définitif de l'impôt sur le revenu ?",
     "choix": {
-      "A": "Uniquement lors de la vente du patrimoine.",
-      "B": "Ces revenus sont toujours hors prélèvement à la source.",
-      "C": "Par des acomptes prélevés par l'administration fiscale.",
-      "D": "Par l'employeur du contribuable."
+      "A": "Oui, sauf pour les salariés.",
+      "B": "Non, car le prélèvement à la source est toujours remboursé intégralement.",
+      "C": "Non, l'impôt définitif est liquidé après la déclaration annuelle et peut donner lieu à solde ou remboursement.",
+      "D": "Oui, aucune déclaration annuelle n'est plus nécessaire."
     },
-    "bonne_reponse": "C",
-    "explication": "En l'absence de collecteur comme un employeur ou une caisse de retraite, l'administration prélève des acomptes contemporains sur le compte bancaire.",
+    "bonnes_reponses": [
+      "C"
+    ],
+    "explication": "Le PAS modifie le calendrier de paiement, pas le principe de la déclaration ni la liquidation annuelle de l'impôt.",
     "pieges": {
-      "A": "Le PAS n'attend pas une cession patrimoniale.",
-      "B": "Ces revenus sont bien intégrés au dispositif par acomptes.",
-      "D": "L'employeur ne collecte pas l'impôt sur des revenus fonciers."
+      "A": "La liquidation annuelle concerne aussi les salariés.",
+      "B": "Seul un trop-versé est remboursé.",
+      "D": "La déclaration reste nécessaire."
     },
     "sources": [
       "S122"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0201"
   },
   {
-    "id": "CGP-2026-1093",
-    "domaine": "Retraite",
-    "sous_domaine": "Retraite des indépendants",
-    "difficulte": "intermediaire",
-    "enonce": "Quel organisme est l'interlocuteur principal pour la retraite de base des artisans et commerçants relevant du régime des travailleurs indépendants ?",
+    "domaine": "Fiscalité",
+    "sous_domaine": "IFI / IFI",
+    "difficulte": "expert",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « IFI », lesquelles sont exactes ?",
     "choix": {
-      "A": "L'Agirc-Arrco pour la retraite de base.",
-      "B": "La Banque de France.",
-      "C": "La caisse de retraite des fonctionnaires de l'État.",
-      "D": "L'Assurance retraite, au sein du régime général."
+      "A": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles.",
+      "B": "Aucun abattement.",
+      "C": "Les dettes sont ajoutées à l'actif taxable.",
+      "D": "30 %."
     },
-    "bonne_reponse": "D",
-    "explication": "La retraite de base des artisans et commerçants est gérée par l'Assurance retraite. Leur retraite complémentaire obligatoire fonctionne par points.",
+    "bonnes_reponses": [
+      "A",
+      "D"
+    ],
+    "explication": "Les deux règles à retenir sont : 30 %. Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles.",
     "pieges": {
-      "A": "Agirc-Arrco complète les salariés du privé.",
-      "B": "La Banque de France n'est pas une caisse de retraite générale.",
-      "C": "Le régime des fonctionnaires ne gère pas les artisans et commerçants."
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "C": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S125"
+      "S107",
+      "S060"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0814"
   },
   {
-    "id": "CGP-2026-0163",
-    "domaine": "Retraite",
-    "sous_domaine": "PER",
+    "domaine": "Fiscalité",
+    "sous_domaine": "IFI",
+    "difficulte": "expert",
+    "type_question": "unique",
+    "enonce": "Parmi les affirmations suivantes portant sur « IFI », laquelle est inexacte ?",
+    "choix": {
+      "A": "À la date choisie librement par le contribuable.",
+      "B": "Au 1er janvier de l'année d'imposition.",
+      "C": "Exister au 1er janvier, être à la charge du foyer et se rapporter à un actif immobilier taxable.",
+      "D": "30 %."
+    },
+    "bonnes_reponses": [
+      "A"
+    ],
+    "explication": "L'affirmation à écarter est inexacte. La règle correcte est : Au 1er janvier de l'année d'imposition. Les autres propositions décrivent des règles applicables au même domaine.",
+    "pieges": {
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "C": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S106",
+      "S107"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-1085"
+  },
+  {
+    "domaine": "Fiscalité",
+    "sous_domaine": "Foyer fiscal",
     "difficulte": "avance",
-    "enonce": "Quelle proposition décrit correctement la déduction des versements volontaires concernant son caractère ?",
+    "type_question": "vrai_faux",
+    "enonce": "Dans le thème « Foyer fiscal », l'affirmation suivante est-elle exacte ? « Le couple forme en principe un foyer fiscal soumis à une imposition commune, sauf cas d'imposition distincte prévus par la loi. »",
     "choix": {
-      "A": "Elle dépend du cours du CAC 40.",
-      "B": "Elle constitue une option fiscale et doit être appréciée au regard de la fiscalité à l'entrée et à la sortie.",
-      "C": "Elle est toujours obligatoire.",
-      "D": "Elle rend toute sortie exonérée."
+      "A": "Vrai",
+      "B": "Faux"
     },
-    "bonne_reponse": "B",
-    "explication": "Elle constitue une option fiscale et doit être appréciée au regard de la fiscalité à l'entrée et à la sortie. Cette règle constitue le repère théorique à retenir concernant la déduction des versements volontaires et son caractère.",
+    "bonnes_reponses": [
+      "A"
+    ],
+    "explication": "L'affirmation est exacte. Le couple forme en principe un foyer fiscal soumis à une imposition commune, sauf cas d'imposition distincte prévus par la loi.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à la déduction des versements volontaires pour son caractère.",
-      "C": "Cette proposition ne correspond pas au principe applicable à la déduction des versements volontaires pour son caractère.",
-      "D": "Cette proposition ne correspond pas au principe applicable à la déduction des versements volontaires pour son caractère."
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S031"
+      "S121"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0485"
   },
   {
-    "id": "CGP-2026-0732",
-    "domaine": "Retraite",
-    "sous_domaine": "PER",
-    "difficulte": "intermediaire",
-    "enonce": "Dans un QCM portant sur les versements volontaires déductibles, quelle réponse est juste au sujet de leur effet fiscal à l'entrée ?",
+    "domaine": "Fiscalité",
+    "sous_domaine": "CSG déductible / IFI",
+    "difficulte": "expert",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « CSG déductible » et « IFI », lesquelles sont exactes ?",
     "choix": {
-      "A": "Ils suppriment les prélèvements sociaux futurs.",
-      "B": "Ils peuvent réduire le revenu imposable dans la limite du plafond de déduction disponible.",
-      "C": "Ils sont toujours sans effet fiscal.",
-      "D": "Ils ouvrent un crédit d'impôt illimité."
+      "A": "Exister au 1er janvier, être à la charge du foyer et se rapporter à un actif immobilier taxable.",
+      "B": "10,6 % en totalité.",
+      "C": "Financer un actif totalement exonéré.",
+      "D": "6,8 %."
     },
-    "bonne_reponse": "B",
-    "explication": "Ils peuvent réduire le revenu imposable dans la limite du plafond de déduction disponible. Cette règle constitue le repère théorique à retenir concernant les versements volontaires déductibles et leur effet fiscal à l'entrée.",
+    "bonnes_reponses": [
+      "A",
+      "D"
+    ],
+    "explication": "Les deux règles à retenir sont : 6,8 %. Exister au 1er janvier, être à la charge du foyer et se rapporter à un actif immobilier taxable.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à les versements volontaires déductibles pour leur effet fiscal à l'entrée.",
-      "C": "Cette proposition ne correspond pas au principe applicable à les versements volontaires déductibles pour leur effet fiscal à l'entrée.",
-      "D": "Cette proposition ne correspond pas au principe applicable à les versements volontaires déductibles pour leur effet fiscal à l'entrée."
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "C": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S031"
+      "S101",
+      "S107"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0818"
   },
   {
-    "id": "CGP-2026-1063",
     "domaine": "Transmission",
-    "sous_domaine": "Déclaration du don",
+    "sous_domaine": "Indivision successorale",
     "difficulte": "intermediaire",
-    "enonce": "Qui doit en principe déclarer un don manuel à l'administration fiscale ?",
+    "type_question": "unique",
+    "enonce": "Concernant les biens successoraux avant partage et leur situation, quelle proposition restitue exactement la règle applicable ?",
     "choix": {
-      "A": "Aucune déclaration n'est jamais requise.",
-      "B": "Le donataire, c'est-à-dire le bénéficiaire du don.",
-      "C": "Le donateur uniquement.",
-      "D": "La banque qui exécute le virement dans tous les cas."
+      "A": "Ils reviennent toujours au conjoint seul.",
+      "B": "Ils appartiennent collectivement aux héritiers en indivision jusqu'au partage.",
+      "C": "Ils appartiennent automatiquement au notaire.",
+      "D": "Ils sont sans propriétaire."
     },
-    "bonne_reponse": "B",
-    "explication": "La déclaration du don incombe au bénéficiaire, même lorsque aucun droit n'est dû grâce à une exonération ou un abattement.",
+    "bonnes_reponses": [
+      "B"
+    ],
+    "explication": "Ils appartiennent collectivement aux héritiers en indivision jusqu'au partage. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
     "pieges": {
-      "A": "L'absence de droits ne supprime pas nécessairement la déclaration.",
-      "C": "Le donateur peut payer les droits mais n'est pas le déclarant de principe.",
-      "D": "La banque n'est pas substituée au donataire."
+      "A": "Cette réponse attribue à les biens successoraux avant partage un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Cette réponse attribue à les biens successoraux avant partage un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "D": "Cette réponse attribue à les biens successoraux avant partage un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
-      "S108"
+      "S044"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0060"
   },
   {
-    "id": "CGP-2026-0865",
+    "domaine": "Transmission",
+    "sous_domaine": "Paiement fractionné",
+    "difficulte": "expert",
+    "type_question": "unique",
+    "enonce": "Quand la durée maximale ordinaire du paiement fractionné des droits de succession peut-elle être portée de un à trois ans ?",
+    "choix": {
+      "A": "Dès qu'un héritier en fait la demande, sans garantie.",
+      "B": "Uniquement lorsque la succession ne comporte aucun bien.",
+      "C": "Lorsque tous les droits sont déjà payés.",
+      "D": "Lorsque l'actif successoral est composé d'au moins 50 % de biens non liquides, sous les autres conditions."
+    },
+    "bonnes_reponses": [
+      "D"
+    ],
+    "explication": "La présence d'au moins 50 % de biens non liquides peut allonger le fractionnement. L'accord, les garanties et les intérêts restent requis.",
+    "pieges": {
+      "A": "La demande ne suffit pas à elle seule.",
+      "B": "Le dispositif vise au contraire les successions difficiles à liquéfier.",
+      "C": "Un paiement déjà achevé ne se fractionne plus."
+    },
+    "sources": [
+      "S111"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0256"
+  },
+  {
+    "domaine": "Transmission",
+    "sous_domaine": "Réserve héréditaire",
+    "difficulte": "intermediaire",
+    "type_question": "unique",
+    "enonce": "Quelle est la quotité disponible ordinaire en présence de trois enfants ou plus ?",
+    "choix": {
+      "A": "Un quart de la succession.",
+      "B": "La moitié de la succession.",
+      "C": "Deux tiers de la succession.",
+      "D": "La totalité de la succession."
+    },
+    "bonnes_reponses": [
+      "A"
+    ],
+    "explication": "Avec trois enfants ou davantage, la réserve globale atteint trois quarts et la quotité disponible est d'un quart.",
+    "pieges": {
+      "B": "La moitié concerne un enfant.",
+      "C": "Deux tiers est la réserve avec deux enfants.",
+      "D": "La présence de descendants empêche une liberté totale."
+    },
+    "sources": [
+      "S110"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0263"
+  },
+  {
     "domaine": "Transmission",
     "sous_domaine": "Concubinage",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le concubin survivant — sa qualité d'héritier légal ?",
+    "difficulte": "avance",
+    "type_question": "vrai_faux",
+    "enonce": "Dans le thème « Concubinage », l'affirmation suivante est-elle exacte ? « Il n'est pas héritier légal en l'absence de disposition en sa faveur. »",
     "choix": {
-      "A": "Il reçoit automatiquement l'usufruit universel.",
-      "B": "Il est héritier réservataire.",
-      "C": "Il hérite comme un époux marié.",
-      "D": "Il n'est pas héritier légal en l'absence de disposition en sa faveur."
+      "A": "Vrai",
+      "B": "Faux"
     },
-    "bonne_reponse": "D",
-    "explication": "Il n'est pas héritier légal en l'absence de disposition en sa faveur. Cette règle constitue le repère théorique à retenir concernant le concubin survivant et sa qualité d'héritier légal.",
+    "bonnes_reponses": [
+      "A"
+    ],
+    "explication": "L'affirmation est exacte. Il n'est pas héritier légal en l'absence de disposition en sa faveur.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le concubin survivant pour sa qualité d'héritier légal.",
-      "B": "Cette proposition ne correspond pas au principe applicable à le concubin survivant pour sa qualité d'héritier légal.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le concubin survivant pour sa qualité d'héritier légal."
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
       "S043"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0347"
   },
   {
-    "id": "CGP-2026-0867",
-    "domaine": "Transmission",
-    "sous_domaine": "Donation",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'abattement parent-enfant — son renouvellement ?",
-    "choix": {
-      "A": "Il dépend du taux du Livret A.",
-      "B": "Il se renouvelle en principe après le délai fiscal de rappel applicable.",
-      "C": "Il ne s'applique qu'une fois dans la vie.",
-      "D": "Il est mensuel."
-    },
-    "bonne_reponse": "B",
-    "explication": "Il se renouvelle en principe après le délai fiscal de rappel applicable. Cette règle constitue le repère théorique à retenir concernant l'abattement parent-enfant et son renouvellement.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à l'abattement parent-enfant pour son renouvellement.",
-      "C": "Cette proposition ne correspond pas au principe applicable à l'abattement parent-enfant pour son renouvellement.",
-      "D": "Cette proposition ne correspond pas au principe applicable à l'abattement parent-enfant pour son renouvellement."
-    },
-    "sources": [
-      "S021"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0346",
     "domaine": "Enveloppes d'investissement",
     "sous_domaine": "Compte-titres",
-    "difficulte": "debutant",
-    "enonce": "À propos de le compte-titres ordinaire, quel principe faut-il retenir pour son univers d'investissement ?",
+    "difficulte": "intermediaire",
+    "type_question": "unique",
+    "enonce": "Concernant le compte-titres ordinaire et son plafond de versements, quelle proposition restitue exactement la règle applicable ?",
     "choix": {
-      "A": "Il est réservé aux mineurs émancipés.",
-      "B": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables.",
-      "C": "Il est limité aux seuls titres éligibles au PEA.",
-      "D": "Il garantit le capital."
+      "A": "Son plafond est de 22 950 euros.",
+      "B": "Son plafond est toujours égal au revenu annuel.",
+      "C": "Il ne comporte pas de plafond réglementaire général de versements comparable à celui du PEA.",
+      "D": "Son plafond est de 150 000 euros."
     },
-    "bonne_reponse": "B",
-    "explication": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables. Cette règle constitue le repère théorique à retenir concernant le compte-titres ordinaire et son univers d'investissement.",
+    "bonnes_reponses": [
+      "C"
+    ],
+    "explication": "Il ne comporte pas de plafond réglementaire général de versements comparable à celui du PEA. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le compte-titres ordinaire pour son univers d'investissement."
+      "A": "Cette réponse attribue à le compte-titres ordinaire un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Cette réponse attribue à le compte-titres ordinaire un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "D": "Cette réponse attribue à le compte-titres ordinaire un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
       "S057"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0107"
   },
   {
-    "id": "CGP-2026-0918",
-    "domaine": "Enveloppes d'investissement",
-    "sous_domaine": "Compte-titres",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les revenus et plus-values du compte-titres — leur fiscalité ?",
-    "choix": {
-      "A": "Ils sont traités comme des intérêts de Livret A.",
-      "B": "Ils ne sont jamais déclarables.",
-      "C": "Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe.",
-      "D": "Ils sont toujours exonérés après cinq ans."
-    },
-    "bonne_reponse": "C",
-    "explication": "Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe. Cette règle constitue le repère théorique à retenir concernant les revenus et plus-values du compte-titres et leur fiscalité.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité.",
-      "B": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité.",
-      "D": "Cette proposition ne correspond pas au principe applicable à les revenus et plus-values du compte-titres pour leur fiscalité."
-    },
-    "sources": [
-      "S036"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0533",
     "domaine": "Enveloppes d'investissement",
     "sous_domaine": "PEA",
-    "difficulte": "avance",
-    "enonce": "Quelle affirmation théorique est exacte sur l'effet sur le plan de un retrait après cinq ans ?",
+    "difficulte": "expert",
+    "type_question": "unique",
+    "enonce": "Parmi les affirmations suivantes portant sur « PEA », laquelle est inexacte ?",
     "choix": {
-      "A": "Il transforme le plan en Livret A.",
-      "B": "Il n'entraîne en principe plus la clôture et de nouveaux versements peuvent rester possibles.",
+      "A": "L'ouverture est réservée aux personnes fiscalement domiciliées en France, sous les règles applicables.",
+      "B": "L'enveloppe vise principalement les actions européennes et certains fonds respectant les critères d'éligibilité.",
       "C": "Il clôture toujours le plan immédiatement.",
-      "D": "Il rend tous les gains imposables comme des salaires."
+      "D": "Il n'entraîne en principe plus la clôture et de nouveaux versements peuvent rester possibles."
     },
-    "bonne_reponse": "B",
-    "explication": "Il n'entraîne en principe plus la clôture et de nouveaux versements peuvent rester possibles. Cette règle constitue le repère théorique à retenir concernant un retrait après cinq ans et l'effet sur le plan.",
+    "bonnes_reponses": [
+      "C"
+    ],
+    "explication": "L'affirmation à écarter est inexacte. La règle correcte est : Il n'entraîne en principe plus la clôture et de nouveaux versements peuvent rester possibles. Les autres propositions décrivent des règles applicables au même domaine.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan.",
-      "C": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan.",
-      "D": "Cette proposition ne correspond pas au principe applicable à un retrait après cinq ans pour l'effet sur le plan."
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
       "S029"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0976"
   },
   {
-    "id": "CGP-2026-0123",
-    "domaine": "Épargne bancaire",
-    "sous_domaine": "LDDS",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle proposition décrit correctement le LDDS concernant son plafond de versements ?",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "expert",
+    "type_question": "unique",
+    "enonce": "Parmi les affirmations suivantes portant sur « PEA », laquelle est inexacte ?",
     "choix": {
-      "A": "Le plafond dépend du cours des actions.",
-      "B": "Le plafond réglementaire des versements est de 12 000 euros, hors intérêts capitalisés.",
-      "C": "Le plafond est de 22 950 euros.",
-      "D": "Le plafond est de 1 600 euros."
+      "A": "L'enveloppe vise principalement les actions européennes et certains fonds respectant les critères d'éligibilité.",
+      "B": "Ils sont toujours exonérés de tous prélèvements.",
+      "C": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables.",
+      "D": "L'ouverture est réservée aux personnes fiscalement domiciliées en France, sous les règles applicables."
     },
-    "bonne_reponse": "B",
-    "explication": "Le plafond réglementaire des versements est de 12 000 euros, hors intérêts capitalisés. Cette règle constitue le repère théorique à retenir concernant le LDDS et son plafond de versements.",
+    "bonnes_reponses": [
+      "B"
+    ],
+    "explication": "L'affirmation à écarter est inexacte. La règle correcte est : Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables. Les autres propositions décrivent des règles applicables au même domaine.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le LDDS pour son plafond de versements.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le LDDS pour son plafond de versements.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le LDDS pour son plafond de versements."
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "C": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S040"
+      "S030",
+      "S029"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-1041"
   },
   {
-    "id": "CGP-2026-0129",
-    "domaine": "Épargne bancaire",
-    "sous_domaine": "Garantie des dépôts",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle proposition décrit correctement la garantie des dépôts concernant son plafond général ?",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Compte-titres",
+    "difficulte": "avance",
+    "type_question": "vrai_faux",
+    "enonce": "Dans le thème « Compte-titres », l'affirmation suivante est-elle exacte ? « Il ne comporte pas de plafond réglementaire général de versements comparable à celui du PEA. »",
     "choix": {
-      "A": "Elle est illimitée pour tout actif financier.",
-      "B": "Elle couvre toutes les pertes boursières.",
-      "C": "Elle est fixée à 1 000 euros.",
-      "D": "Elle couvre en principe jusqu'à 100 000 euros par déposant et par établissement, sous les conditions du dispositif."
+      "A": "Vrai",
+      "B": "Faux"
     },
-    "bonne_reponse": "D",
-    "explication": "Elle couvre en principe jusqu'à 100 000 euros par déposant et par établissement, sous les conditions du dispositif. Cette règle constitue le repère théorique à retenir concernant la garantie des dépôts et son plafond général.",
+    "bonnes_reponses": [
+      "A"
+    ],
+    "explication": "L'affirmation est exacte. Il ne comporte pas de plafond réglementaire général de versements comparable à celui du PEA.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à la garantie des dépôts pour son plafond général.",
-      "B": "Cette proposition ne correspond pas au principe applicable à la garantie des dépôts pour son plafond général.",
-      "C": "Cette proposition ne correspond pas au principe applicable à la garantie des dépôts pour son plafond général."
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S053"
+      "S057"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0399"
   },
   {
-    "id": "CGP-2026-0409",
-    "domaine": "Banque quotidienne",
-    "sous_domaine": "Surendettement",
-    "difficulte": "intermediaire",
-    "enonce": "À propos de le dépôt d'un dossier de surendettement, quel principe faut-il retenir pour l'inscription au FICP ?",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Rachat / Rachat",
+    "difficulte": "avance",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « Rachat », lesquelles sont exactes ?",
     "choix": {
-      "A": "Il garantit l'effacement immédiat de toutes les dettes.",
-      "B": "Il interdit le maintien d'un compte bancaire.",
-      "C": "Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables.",
-      "D": "Il entraîne automatiquement l'inscription de tout le voisinage."
+      "A": "Il met fin au contrat par retrait de l'intégralité de la valeur de rachat.",
+      "B": "Il transforme le contrat en PEA.",
+      "C": "Il est impossible avant huit ans.",
+      "D": "Il retire une partie de l'épargne tout en laissant le contrat subsister."
     },
-    "bonne_reponse": "C",
-    "explication": "Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant le dépôt d'un dossier de surendettement et l'inscription au FICP.",
+    "bonnes_reponses": [
+      "A",
+      "D"
+    ],
+    "explication": "Les deux règles à retenir sont : Il retire une partie de l'épargne tout en laissant le contrat subsister. Il met fin au contrat par retrait de l'intégralité de la valeur de rachat.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP.",
-      "B": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP."
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "C": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S078"
+      "S023"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0590"
   },
   {
-    "id": "CGP-2026-0971",
-    "domaine": "Banque quotidienne",
-    "sous_domaine": "Compte joint",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Frais",
     "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un compte joint — la solidarité active ?",
+    "type_question": "unique",
+    "enonce": "Concernant les frais sur versement et leur effet, quelle proposition restitue exactement la règle applicable ?",
     "choix": {
-      "A": "Le compte joint ne peut recevoir aucun virement.",
-      "B": "Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable.",
-      "C": "Toutes les opérations exigent toujours deux signatures.",
-      "D": "Un seul cotitulaire est propriétaire de tous les fonds."
+      "A": "Ils réduisent la part du versement effectivement investie sur le contrat.",
+      "B": "Ils augmentent mécaniquement le capital garanti.",
+      "C": "Ils sont toujours interdits.",
+      "D": "Ils sont identiques pour tous les contrats."
     },
-    "bonne_reponse": "B",
-    "explication": "Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable. Cette règle constitue le repère théorique à retenir concernant un compte joint et la solidarité active.",
+    "bonnes_reponses": [
+      "A"
+    ],
+    "explication": "Ils réduisent la part du versement effectivement investie sur le contrat. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active.",
-      "C": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active.",
-      "D": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active."
+      "B": "Cette réponse attribue à les frais sur versement un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Cette réponse attribue à les frais sur versement un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "D": "Cette réponse attribue à les frais sur versement un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
-      "S073"
+      "S022"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0009"
   },
   {
-    "id": "CGP-2026-0075",
-    "domaine": "Crédit immobilier",
-    "sous_domaine": "TAEG",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle proposition décrit correctement le TAEG concernant sa finalité ?",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Clause bénéficiaire",
+    "difficulte": "expert",
+    "type_question": "vrai_faux",
+    "enonce": "Dans le thème « Clause bénéficiaire », l'affirmation suivante est-elle exacte ? « Elle clôture automatiquement le contrat. »",
     "choix": {
-      "A": "Il exclut tous les frais nécessaires à l'obtention du prêt.",
-      "B": "Il permet d'apprécier et de comparer le coût global obligatoire du crédit sur une base annuelle.",
-      "C": "Il mesure uniquement l'inflation.",
-      "D": "Il correspond toujours au taux nominal."
+      "A": "Vrai",
+      "B": "Faux"
     },
-    "bonne_reponse": "B",
-    "explication": "Il permet d'apprécier et de comparer le coût global obligatoire du crédit sur une base annuelle. Cette règle constitue le repère théorique à retenir concernant le TAEG et sa finalité.",
+    "bonnes_reponses": [
+      "B"
+    ],
+    "explication": "L'affirmation est inexacte. La règle à retenir est la suivante : Après acceptation conforme, certaines opérations comme le rachat peuvent nécessiter l'accord du bénéficiaire acceptant.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le TAEG pour sa finalité.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le TAEG pour sa finalité.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le TAEG pour sa finalité."
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S008"
+      "S027"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0306"
   },
   {
-    "id": "CGP-2026-0268",
-    "domaine": "Crédit immobilier",
-    "sous_domaine": "Prêt in fine",
-    "difficulte": "intermediaire",
-    "enonce": "À propos de un prêt in fine, quel principe faut-il retenir pour le remboursement du capital ?",
-    "choix": {
-      "A": "Le capital est amorti intégralement dès la première mensualité.",
-      "B": "Les intérêts sont interdits.",
-      "C": "Aucune garantie ne peut être demandée.",
-      "D": "Le capital est remboursé en une fois à l'échéance, selon le contrat."
-    },
-    "bonne_reponse": "D",
-    "explication": "Le capital est remboursé en une fois à l'échéance, selon le contrat. Cette règle constitue le repère théorique à retenir concernant un prêt in fine et le remboursement du capital.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à un prêt in fine pour le remboursement du capital.",
-      "B": "Cette proposition ne correspond pas au principe applicable à un prêt in fine pour le remboursement du capital.",
-      "C": "Cette proposition ne correspond pas au principe applicable à un prêt in fine pour le remboursement du capital."
-    },
-    "sources": [
-      "S008"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0264",
     "domaine": "Crédit immobilier",
     "sous_domaine": "Décision de crédit",
-    "difficulte": "intermediaire",
-    "enonce": "À propos de le respect des normes HCSF, quel principe faut-il retenir pour le droit au crédit ?",
+    "difficulte": "expert",
+    "type_question": "multiple",
+    "enonce": "À propos de la décision d'octroi d'un crédit immobilier, quelles affirmations sont exactes ?",
     "choix": {
-      "A": "Il oblige la banque à prêter.",
-      "B": "Il interdit toute analyse de solvabilité.",
-      "C": "Il vaut acceptation définitive de l'offre.",
-      "D": "Le respect des critères ne crée aucun droit à l'obtention du financement."
+      "A": "Le prêteur conserve une appréciation du risque dans le respect des règles applicables.",
+      "B": "Une garantie réelle dispense toujours d'étudier la solvabilité.",
+      "C": "Une estimation du bien remplace l'analyse des revenus et charges.",
+      "D": "Le respect de critères prudentiels ne crée pas, à lui seul, un droit au crédit."
     },
-    "bonne_reponse": "D",
-    "explication": "Le respect des critères ne crée aucun droit à l'obtention du financement. Cette règle constitue le repère théorique à retenir concernant le respect des normes HCSF et le droit au crédit.",
+    "bonnes_reponses": [
+      "A",
+      "D"
+    ],
+    "explication": "Les normes encadrent l'octroi sans supprimer l'analyse individualisée du risque et de la solvabilité.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le respect des normes HCSF pour le droit au crédit.",
-      "B": "Cette proposition ne correspond pas au principe applicable à le respect des normes HCSF pour le droit au crédit.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le respect des normes HCSF pour le droit au crédit."
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "C": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S005"
+      "S127"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0886"
   },
   {
-    "id": "CGP-2026-0411",
-    "domaine": "Économie et marchés",
-    "sous_domaine": "Inflation",
-    "difficulte": "debutant",
-    "enonce": "À propos de l'inflation, quel principe faut-il retenir pour sa définition ?",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "Amortissement / Prêt in fine",
+    "difficulte": "avance",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « Amortissement » et « Prêt in fine », lesquelles sont exactes ?",
     "choix": {
-      "A": "Elle correspond à une hausse générale et durable du niveau des prix, réduisant le pouvoir d'achat de la monnaie.",
-      "B": "Elle désigne une baisse générale des prix.",
-      "C": "Elle correspond uniquement à la hausse d'une action.",
-      "D": "Elle garantit un rendement réel positif."
+      "A": "Le capital est toujours remboursé uniquement au terme.",
+      "B": "Les intérêts sont interdits.",
+      "C": "Chaque échéance comprend en principe une part d'intérêts et une part de remboursement du capital.",
+      "D": "Le capital est remboursé en une fois à l'échéance, selon le contrat."
     },
-    "bonne_reponse": "A",
-    "explication": "Elle correspond à une hausse générale et durable du niveau des prix, réduisant le pouvoir d'achat de la monnaie. Cette règle constitue le repère théorique à retenir concernant l'inflation et sa définition.",
+    "bonnes_reponses": [
+      "C",
+      "D"
+    ],
+    "explication": "Les deux règles à retenir sont : Chaque échéance comprend en principe une part d'intérêts et une part de remboursement du capital. Le capital est remboursé en une fois à l'échéance, selon le contrat.",
     "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à l'inflation pour sa définition.",
-      "C": "Cette proposition ne correspond pas au principe applicable à l'inflation pour sa définition.",
-      "D": "Cette proposition ne correspond pas au principe applicable à l'inflation pour sa définition."
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S080"
+      "S008"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0611"
   },
   {
-    "id": "CGP-2026-0607",
-    "domaine": "Économie et marchés",
-    "sous_domaine": "Risque de marché",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle affirmation théorique est exacte sur sa définition de le risque de marché ?",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC / OPC",
+    "difficulte": "avance",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « OPC », lesquelles sont exactes ?",
     "choix": {
-      "A": "Il correspond uniquement à une fraude interne.",
-      "B": "Il est inexistant pour les actifs cotés.",
-      "C": "Il garantit une liquidité parfaite.",
-      "D": "Il correspond au risque de perte lié aux variations des prix, taux, devises ou autres facteurs de marché."
+      "A": "Il garantit nécessairement le capital.",
+      "B": "Il garantit un taux réglementé.",
+      "C": "Il regroupe l'épargne de plusieurs investisseurs dans un portefeuille géré selon une stratégie définie.",
+      "D": "Un fonds commun de placement est une copropriété de valeurs mobilières sans personnalité morale."
     },
-    "bonne_reponse": "D",
-    "explication": "Il correspond au risque de perte lié aux variations des prix, taux, devises ou autres facteurs de marché. Cette règle constitue le repère théorique à retenir concernant le risque de marché et sa définition.",
+    "bonnes_reponses": [
+      "C",
+      "D"
+    ],
+    "explication": "Les deux règles à retenir sont : Il regroupe l'épargne de plusieurs investisseurs dans un portefeuille géré selon une stratégie définie. Un fonds commun de placement est une copropriété de valeurs mobilières sans personnalité morale.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le risque de marché pour sa définition.",
-      "B": "Cette proposition ne correspond pas au principe applicable à le risque de marché pour sa définition.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le risque de marché pour sa définition."
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0675"
+  },
+  {
+    "domaine": "Placements financiers",
+    "sous_domaine": "Liquidité",
+    "difficulte": "intermediaire",
+    "type_question": "unique",
+    "enonce": "Concernant la liquidité d'un placement et sa signification, quelle proposition restitue exactement la règle applicable ?",
+    "choix": {
+      "A": "Elle est identique à la rentabilité.",
+      "B": "Elle traduit la possibilité de vendre ou récupérer les fonds rapidement sans forte décote.",
+      "C": "Elle désigne toujours une garantie en capital.",
+      "D": "Elle mesure la fiscalité."
+    },
+    "bonnes_reponses": [
+      "B"
+    ],
+    "explication": "Elle traduit la possibilité de vendre ou récupérer les fonds rapidement sans forte décote. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "pieges": {
+      "A": "Cette réponse attribue à la liquidité d'un placement un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Cette réponse attribue à la liquidité d'un placement un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "D": "Cette réponse attribue à la liquidité d'un placement un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
       "S055"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0088"
   },
   {
-    "id": "CGP-2026-0944",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Location meublée",
+    "difficulte": "intermediaire",
+    "type_question": "unique",
+    "enonce": "Concernant un bail meublé de résidence principale et sa durée de principe, quelle proposition restitue exactement la règle applicable ?",
+    "choix": {
+      "A": "Il ne peut jamais être renouvelé.",
+      "B": "La durée de principe est d'un an, avec un régime spécifique notamment pour l'étudiant.",
+      "C": "La durée minimale est toujours de neuf ans.",
+      "D": "Il est nécessairement viager."
+    },
+    "bonnes_reponses": [
+      "B"
+    ],
+    "explication": "La durée de principe est d'un an, avec un régime spécifique notamment pour l'étudiant. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "pieges": {
+      "A": "Cette réponse attribue à un bail meublé de résidence principale un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Cette réponse attribue à un bail meublé de résidence principale un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "D": "Cette réponse attribue à un bail meublé de résidence principale un effet ou une condition qui ne correspond pas à la règle exacte."
+    },
+    "sources": [
+      "S063"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0136"
+  },
+  {
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "LMNP",
+    "difficulte": "expert",
+    "type_question": "vrai_faux",
+    "enonce": "Dans le thème « LMNP », l'affirmation suivante est-elle exacte ? « Lorsque au moins l'une des deux conditions du statut professionnel n'est pas remplie. »",
+    "choix": {
+      "A": "Vrai",
+      "B": "Faux"
+    },
+    "bonnes_reponses": [
+      "A"
+    ],
+    "explication": "L'affirmation est exacte. Lorsque au moins l'une des deux conditions du statut professionnel n'est pas remplie.",
+    "pieges": {
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S095"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0509"
+  },
+  {
     "domaine": "Immobilier locatif",
     "sous_domaine": "Décence énergétique",
     "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le calendrier métropolitain — les classes progressivement concernées ?",
+    "type_question": "unique",
+    "enonce": "Concernant un logement classé G en métropole et sa mise en location depuis 2025, quelle proposition restitue exactement la règle applicable ?",
     "choix": {
-      "A": "Le calendrier vise les logements G depuis 2025, F à partir de 2028 et E à partir de 2034.",
-      "B": "Toutes les classes sont interdites depuis 2020.",
-      "C": "Seule la classe A est concernée.",
-      "D": "Aucun calendrier n'existe."
+      "A": "Il ne satisfait plus au critère de décence énergétique pour une nouvelle location ou un renouvellement selon le calendrier applicable.",
+      "B": "Il bénéficie d'une garantie de location perpétuelle.",
+      "C": "Il devient automatiquement classé A.",
+      "D": "Il est soumis uniquement à une taxe bancaire."
     },
-    "bonne_reponse": "A",
-    "explication": "Le calendrier vise les logements G depuis 2025, F à partir de 2028 et E à partir de 2034. Cette règle constitue le repère théorique à retenir concernant le calendrier métropolitain et les classes progressivement concernées.",
+    "bonnes_reponses": [
+      "A"
+    ],
+    "explication": "Il ne satisfait plus au critère de décence énergétique pour une nouvelle location ou un renouvellement selon le calendrier applicable. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
     "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à le calendrier métropolitain pour les classes progressivement concernées.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le calendrier métropolitain pour les classes progressivement concernées.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le calendrier métropolitain pour les classes progressivement concernées."
+      "B": "Cette réponse attribue à un logement classé G en métropole un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Cette réponse attribue à un logement classé G en métropole un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "D": "Cette réponse attribue à un logement classé G en métropole un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
       "S012"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0133"
   },
   {
-    "id": "CGP-2026-0565",
-    "domaine": "Immobilier locatif",
-    "sous_domaine": "Location nue",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle affirmation théorique est exacte sur sa durée de principe avec un bailleur personne physique de un bail d'habitation vide ?",
-    "choix": {
-      "A": "Aucune durée n'est prévue.",
-      "B": "La durée minimale de principe est de trois ans, sauf cas légaux particuliers.",
-      "C": "La durée est toujours d'un mois.",
-      "D": "La durée minimale est de vingt ans."
-    },
-    "bonne_reponse": "B",
-    "explication": "La durée minimale de principe est de trois ans, sauf cas légaux particuliers. Cette règle constitue le repère théorique à retenir concernant un bail d'habitation vide et sa durée de principe avec un bailleur personne physique.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à un bail d'habitation vide pour sa durée de principe avec un bailleur personne physique.",
-      "C": "Cette proposition ne correspond pas au principe applicable à un bail d'habitation vide pour sa durée de principe avec un bailleur personne physique.",
-      "D": "Cette proposition ne correspond pas au principe applicable à un bail d'habitation vide pour sa durée de principe avec un bailleur personne physique."
-    },
-    "sources": [
-      "S062"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0955",
-    "domaine": "Conformité",
-    "sous_domaine": "Coûts et frais",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "PEL",
     "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'information sur les coûts et frais — sa finalité ?",
+    "type_question": "unique",
+    "enonce": "Parmi les affirmations suivantes portant sur « PEL », laquelle est inexacte ?",
     "choix": {
-      "A": "Elle remplace la documentation contractuelle.",
-      "B": "Elle permet au client de comprendre l'incidence globale des coûts sur son investissement.",
-      "C": "Elle n'est communiquée qu'en cas de perte.",
-      "D": "Elle exclut les coûts du produit."
+      "A": "61 200 euros de plafond et 540 euros de versements annuels minimums, hors cas particuliers de phase contractuelle.",
+      "B": "1,25 %, révisé chaque mois.",
+      "C": "2 %, fixé à l'ouverture pour la durée du plan.",
+      "D": "Une personne ne peut détenir qu'un seul PEL à la fois."
     },
-    "bonne_reponse": "B",
-    "explication": "Elle permet au client de comprendre l'incidence globale des coûts sur son investissement. Cette règle constitue le repère théorique à retenir concernant l'information sur les coûts et frais et sa finalité.",
+    "bonnes_reponses": [
+      "B"
+    ],
+    "explication": "L'affirmation à écarter est inexacte. La règle correcte est : 2 %, fixé à l'ouverture pour la durée du plan. Les autres propositions décrivent des règles applicables au même domaine.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à l'information sur les coûts et frais pour sa finalité.",
-      "C": "Cette proposition ne correspond pas au principe applicable à l'information sur les coûts et frais pour sa finalité.",
-      "D": "Cette proposition ne correspond pas au principe applicable à l'information sur les coûts et frais pour sa finalité."
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "C": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S066"
+      "S104",
+      "S051"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-1022"
   },
   {
-    "id": "CGP-2026-0390",
-    "domaine": "Conformité",
-    "sous_domaine": "Réclamations",
-    "difficulte": "avance",
-    "enonce": "À propos de une réclamation écrite, quel principe faut-il retenir pour les délais de traitement recommandés ?",
-    "choix": {
-      "A": "Le client doit saisir directement un tribunal avant toute réponse.",
-      "B": "Le professionnel accuse réception sous dix jours ouvrables et répond en principe au plus tard sous deux mois.",
-      "C": "Aucun accusé de réception n'est attendu.",
-      "D": "La réponse peut être différée dix ans."
-    },
-    "bonne_reponse": "B",
-    "explication": "Le professionnel accuse réception sous dix jours ouvrables et répond en principe au plus tard sous deux mois. Cette règle constitue le repère théorique à retenir concernant une réclamation écrite et les délais de traitement recommandés.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une réclamation écrite pour les délais de traitement recommandés.",
-      "C": "Cette proposition ne correspond pas au principe applicable à une réclamation écrite pour les délais de traitement recommandés.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une réclamation écrite pour les délais de traitement recommandés."
-    },
-    "sources": [
-      "S069"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0491",
-    "domaine": "Prévoyance",
-    "sous_domaine": "Incapacité",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle affirmation théorique est exacte sur sa logique de l'incapacité temporaire de travail ?",
-    "choix": {
-      "A": "Elle est nécessairement définitive.",
-      "B": "Elle équivaut toujours au décès.",
-      "C": "Elle ne peut jamais donner lieu à indemnisation.",
-      "D": "Elle correspond à une impossibilité temporaire d'exercer l'activité, selon la définition contractuelle."
-    },
-    "bonne_reponse": "D",
-    "explication": "Elle correspond à une impossibilité temporaire d'exercer l'activité, selon la définition contractuelle. Cette règle constitue le repère théorique à retenir concernant l'incapacité temporaire de travail et sa logique.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à l'incapacité temporaire de travail pour sa logique.",
-      "B": "Cette proposition ne correspond pas au principe applicable à l'incapacité temporaire de travail pour sa logique.",
-      "C": "Cette proposition ne correspond pas au principe applicable à l'incapacité temporaire de travail pour sa logique."
-    },
-    "sources": [
-      "S028"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0304",
-    "domaine": "Prévoyance",
-    "sous_domaine": "Exclusions",
-    "difficulte": "intermediaire",
-    "enonce": "À propos de une exclusion de garantie, quel principe faut-il retenir pour sa portée ?",
-    "choix": {
-      "A": "Elle augmente automatiquement toutes les prestations.",
-      "B": "Elle est sans effet juridique.",
-      "C": "Elle remplace la clause bénéficiaire.",
-      "D": "Elle délimite un risque non couvert et doit être examinée avec les conditions du contrat."
-    },
-    "bonne_reponse": "D",
-    "explication": "Elle délimite un risque non couvert et doit être examinée avec les conditions du contrat. Cette règle constitue le repère théorique à retenir concernant une exclusion de garantie et sa portée.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une exclusion de garantie pour sa portée.",
-      "B": "Cette proposition ne correspond pas au principe applicable à une exclusion de garantie pour sa portée.",
-      "C": "Cette proposition ne correspond pas au principe applicable à une exclusion de garantie pour sa portée."
-    },
-    "sources": [
-      "S028"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0612",
-    "domaine": "Relation commerciale",
-    "sous_domaine": "Argumentation",
-    "difficulte": "avance",
-    "enonce": "Quelle affirmation théorique est exacte sur sa justification de une recommandation patrimoniale ?",
-    "choix": {
-      "A": "Elle peut reposer sur le rendement passé seul.",
-      "B": "Elle n'a pas à être compréhensible.",
-      "C": "Elle doit relier les caractéristiques du produit aux besoins et contraintes identifiés, en exposant aussi les risques.",
-      "D": "Elle doit présenter uniquement les avantages."
-    },
-    "bonne_reponse": "C",
-    "explication": "Elle doit relier les caractéristiques du produit aux besoins et contraintes identifiés, en exposant aussi les risques. Cette règle constitue le repère théorique à retenir concernant une recommandation patrimoniale et sa justification.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une recommandation patrimoniale pour sa justification.",
-      "B": "Cette proposition ne correspond pas au principe applicable à une recommandation patrimoniale pour sa justification.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une recommandation patrimoniale pour sa justification."
-    },
-    "sources": [
-      "S002"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0290",
-    "domaine": "Régimes matrimoniaux",
-    "sous_domaine": "Accessions",
-    "difficulte": "expert",
-    "enonce": "À propos de une construction financée par la communauté sur le terrain propre d'un époux, quel principe faut-il retenir pour la propriété du bien ?",
-    "choix": {
-      "A": "Aucune créance entre masses ne peut exister.",
-      "B": "Par accession, la construction appartient en principe au propriétaire du terrain, avec une éventuelle récompense à la communauté.",
-      "C": "La construction est toujours commune par moitié.",
-      "D": "Le terrain devient automatiquement commun."
-    },
-    "bonne_reponse": "B",
-    "explication": "Par accession, la construction appartient en principe au propriétaire du terrain, avec une éventuelle récompense à la communauté. Cette règle constitue le repère théorique à retenir concernant une construction financée par la communauté sur le terrain propre d'un époux et la propriété du bien.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une construction financée par la communauté sur le terrain propre d'un époux pour la propriété du bien.",
-      "C": "Cette proposition ne correspond pas au principe applicable à une construction financée par la communauté sur le terrain propre d'un époux pour la propriété du bien.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une construction financée par la communauté sur le terrain propre d'un époux pour la propriété du bien."
-    },
-    "sources": [
-      "S018"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0854",
-    "domaine": "Droit civil",
-    "sous_domaine": "Indivision",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'occupation privative d'un bien indivis — l'indemnité ?",
-    "choix": {
-      "A": "Elle transfère la pleine propriété après un an.",
-      "B": "Elle entraîne automatiquement le partage.",
-      "C": "Elle peut donner lieu à une indemnité envers l'indivision, sauf convention contraire.",
-      "D": "Elle est nécessairement gratuite."
-    },
-    "bonne_reponse": "C",
-    "explication": "Elle peut donner lieu à une indemnité envers l'indivision, sauf convention contraire. Cette règle constitue le repère théorique à retenir concernant l'occupation privative d'un bien indivis et l'indemnité.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à l'occupation privative d'un bien indivis pour l'indemnité.",
-      "B": "Cette proposition ne correspond pas au principe applicable à l'occupation privative d'un bien indivis pour l'indemnité.",
-      "D": "Cette proposition ne correspond pas au principe applicable à l'occupation privative d'un bien indivis pour l'indemnité."
-    },
-    "sources": [
-      "S014"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0119",
-    "domaine": "Assurance",
-    "sous_domaine": "Sinistre",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle proposition décrit correctement une déclaration de sinistre concernant son contenu ?",
-    "choix": {
-      "A": "Elle interdit toute demande de justificatif.",
-      "B": "Elle doit être faite selon les délais et modalités prévus par le contrat, avec les informations utiles.",
-      "C": "Elle est toujours verbale et sans délai.",
-      "D": "Elle vaut reconnaissance automatique de garantie."
-    },
-    "bonne_reponse": "B",
-    "explication": "Elle doit être faite selon les délais et modalités prévus par le contrat, avec les informations utiles. Cette règle constitue le repère théorique à retenir concernant une déclaration de sinistre et son contenu.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une déclaration de sinistre pour son contenu.",
-      "C": "Cette proposition ne correspond pas au principe applicable à une déclaration de sinistre pour son contenu.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une déclaration de sinistre pour son contenu."
-    },
-    "sources": [
-      "S049"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0120",
-    "domaine": "Assurance",
-    "sous_domaine": "Prime",
-    "difficulte": "debutant",
-    "enonce": "Quelle proposition décrit correctement la prime d'assurance concernant sa fonction ?",
-    "choix": {
-      "A": "Elle constitue le prix payé pour la couverture prévue au contrat.",
-      "B": "Elle est le montant toujours versé après sinistre.",
-      "C": "Elle désigne la franchise.",
-      "D": "Elle correspond au taux d'un crédit immobilier."
-    },
-    "bonne_reponse": "A",
-    "explication": "Elle constitue le prix payé pour la couverture prévue au contrat. Cette règle constitue le repère théorique à retenir concernant la prime d'assurance et sa fonction.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à la prime d'assurance pour sa fonction.",
-      "C": "Cette proposition ne correspond pas au principe applicable à la prime d'assurance pour sa fonction.",
-      "D": "Cette proposition ne correspond pas au principe applicable à la prime d'assurance pour sa fonction."
-    },
-    "sources": [
-      "S049"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0468",
-    "domaine": "Assurance emprunteur",
-    "sous_domaine": "Quotité",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle affirmation théorique est exacte sur sa signification de la quotité assurée ?",
-    "choix": {
-      "A": "Elle fixe le prix de vente du logement.",
-      "B": "Elle remplace la durée du crédit.",
-      "C": "Elle représente la part du capital couverte sur la tête de chaque assuré.",
-      "D": "Elle désigne le taux nominal du prêt."
-    },
-    "bonne_reponse": "C",
-    "explication": "Elle représente la part du capital couverte sur la tête de chaque assuré. Cette règle constitue le repère théorique à retenir concernant la quotité assurée et sa signification.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à la quotité assurée pour sa signification.",
-      "B": "Cette proposition ne correspond pas au principe applicable à la quotité assurée pour sa signification.",
-      "D": "Cette proposition ne correspond pas au principe applicable à la quotité assurée pour sa signification."
-    },
-    "sources": [
-      "S010"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0204",
-    "domaine": "LCB-FT",
-    "sous_domaine": "Déclaration de soupçon",
-    "difficulte": "avance",
-    "enonce": "Quelle proposition décrit correctement une déclaration de soupçon à TRACFIN concernant la preuve d'une infraction ?",
-    "choix": {
-      "A": "Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction.",
-      "B": "Elle exige toujours une condamnation pénale préalable.",
-      "C": "Elle est adressée au client.",
-      "D": "Elle ne concerne jamais les banques."
-    },
-    "bonne_reponse": "A",
-    "explication": "Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction. Cette règle constitue le repère théorique à retenir concernant une déclaration de soupçon à TRACFIN et la preuve d'une infraction.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction.",
-      "C": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction."
-    },
-    "sources": [
-      "S038"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0396",
-    "domaine": "RGPD",
-    "sous_domaine": "Minimisation",
-    "difficulte": "intermediaire",
-    "enonce": "À propos de le principe de minimisation, quel principe faut-il retenir pour sa portée ?",
-    "choix": {
-      "A": "Toutes les données disponibles doivent être collectées.",
-      "B": "La finalité n'a pas à être définie.",
-      "C": "La conservation doit être illimitée.",
-      "D": "Les données collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire à la finalité."
-    },
-    "bonne_reponse": "D",
-    "explication": "Les données collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire à la finalité. Cette règle constitue le repère théorique à retenir concernant le principe de minimisation et sa portée.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée.",
-      "B": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée."
-    },
-    "sources": [
-      "S071"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0208",
-    "domaine": "RGPD",
-    "sous_domaine": "Prospection",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle proposition décrit correctement le droit d'opposition à la prospection concernant son exercice ?",
-    "choix": {
-      "A": "La personne peut s'opposer à tout moment et sans frais au traitement de ses données à des fins de prospection.",
-      "B": "Il est impossible après la collecte.",
-      "C": "Il impose un paiement au prospect.",
-      "D": "Il ne concerne jamais le profilage lié à la prospection."
-    },
-    "bonne_reponse": "A",
-    "explication": "La personne peut s'opposer à tout moment et sans frais au traitement de ses données à des fins de prospection. Cette règle constitue le repère théorique à retenir concernant le droit d'opposition à la prospection et son exercice.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice."
-    },
-    "sources": [
-      "S071"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0809",
-    "domaine": "International",
-    "sous_domaine": "FATCA",
-    "difficulte": "avance",
-    "enonce": "Dans un QCM portant sur FATCA, quelle réponse est juste au sujet de son objectif ?",
-    "choix": {
-      "A": "Le dispositif vise l'identification et la déclaration de certains comptes liés à des contribuables américains selon l'accord applicable.",
-      "B": "Il concerne uniquement les résidents français sans lien américain.",
-      "C": "Il est un produit d'assurance-vie.",
-      "D": "Il supprime les obligations CRS."
-    },
-    "bonne_reponse": "A",
-    "explication": "Le dispositif vise l'identification et la déclaration de certains comptes liés à des contribuables américains selon l'accord applicable. Cette règle constitue le repère théorique à retenir concernant FATCA et son objectif.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à FATCA pour son objectif.",
-      "C": "Cette proposition ne correspond pas au principe applicable à FATCA pour son objectif.",
-      "D": "Cette proposition ne correspond pas au principe applicable à FATCA pour son objectif."
-    },
-    "sources": [
-      "S086"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0271",
-    "domaine": "Crédit à la consommation",
-    "sous_domaine": "Rétractation",
-    "difficulte": "debutant",
-    "enonce": "À propos de le crédit à la consommation, quel principe faut-il retenir pour le délai de rétractation de principe ?",
-    "choix": {
-      "A": "Le délai de rétractation est de quatorze jours calendaires à compter de l'acceptation.",
-      "B": "Le délai est toujours de deux jours.",
-      "C": "Aucun délai n'existe.",
-      "D": "Le délai est de trois mois ouvrés."
-    },
-    "bonne_reponse": "A",
-    "explication": "Le délai de rétractation est de quatorze jours calendaires à compter de l'acceptation. Cette règle constitue le repère théorique à retenir concernant le crédit à la consommation et le délai de rétractation de principe.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à le crédit à la consommation pour le délai de rétractation de principe.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le crédit à la consommation pour le délai de rétractation de principe.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le crédit à la consommation pour le délai de rétractation de principe."
-    },
-    "sources": [
-      "S007"
-    ],
-    "origine": "entrainement_original",
-    "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
-  },
-  {
-    "id": "CGP-2026-0182",
     "domaine": "Immobilier",
-    "sous_domaine": "DPE",
-    "difficulte": "avance",
-    "enonce": "Quelle proposition décrit correctement le coefficient d'énergie primaire de l'électricité en 2026 concernant sa valeur ?",
+    "sous_domaine": "DPE / DPE",
+    "difficulte": "expert",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « DPE », lesquelles sont exactes ?",
     "choix": {
-      "A": "Il est supprimé.",
-      "B": "Il est de 0,1.",
-      "C": "Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9.",
-      "D": "Il est de 10."
+      "A": "Il garantit la valeur de vente.",
+      "B": "Il est de 10.",
+      "C": "Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire.",
+      "D": "Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9."
     },
-    "bonne_reponse": "C",
-    "explication": "Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9. Cette règle constitue le repère théorique à retenir concernant le coefficient d'énergie primaire de l'électricité en 2026 et sa valeur.",
+    "bonnes_reponses": [
+      "C",
+      "D"
+    ],
+    "explication": "Les deux règles à retenir sont : Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire. Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur.",
-      "B": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur."
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
       "S011"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0715"
   },
   {
-    "id": "CGP-2026-0930",
-    "domaine": "Épargne salariale",
-    "sous_domaine": "Abondement",
-    "difficulte": "debutant",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'abondement de l'employeur — sa nature ?",
+    "domaine": "Immobilier",
+    "sous_domaine": "DPE — enregistrement",
+    "difficulte": "avance",
+    "type_question": "multiple",
+    "enonce": "À propos de l'enregistrement d'un DPE, quelles affirmations sont exactes ?",
     "choix": {
-      "A": "Il remplace le salaire obligatoire.",
-      "B": "Il est versé uniquement à l'État.",
-      "C": "Il complète l'épargne du salarié dans les limites et conditions du dispositif.",
-      "D": "Il constitue un crédit remboursable à la banque."
+      "A": "Le propriétaire choisit librement le numéro d'identification.",
+      "B": "L'absence de transmission n'a aucun effet sur la validité du document.",
+      "C": "Le diagnostiqueur transmet le DPE à l'Ademe.",
+      "D": "Un numéro d'identification est attribué et figure sur le DPE."
     },
-    "bonne_reponse": "C",
-    "explication": "Il complète l'épargne du salarié dans les limites et conditions du dispositif. Cette règle constitue le repère théorique à retenir concernant l'abondement de l'employeur et sa nature.",
+    "bonnes_reponses": [
+      "C",
+      "D"
+    ],
+    "explication": "Le DPE est transmis à l'Ademe, qui attribue son identifiant ; cet enregistrement participe à la traçabilité du diagnostic.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à l'abondement de l'employeur pour sa nature.",
-      "B": "Cette proposition ne correspond pas au principe applicable à l'abondement de l'employeur pour sa nature.",
-      "D": "Cette proposition ne correspond pas au principe applicable à l'abondement de l'employeur pour sa nature."
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
     },
     "sources": [
-      "S059"
+      "S011"
     ],
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
-    "date_verification": "2026-11-05"
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0947"
+  },
+  {
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Garantie des dépôts",
+    "difficulte": "expert",
+    "type_question": "vrai_faux",
+    "enonce": "Dans le thème « Garantie des dépôts », l'affirmation suivante est-elle exacte ? « Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées. »",
+    "choix": {
+      "A": "Vrai",
+      "B": "Faux"
+    },
+    "bonnes_reponses": [
+      "A"
+    ],
+    "explication": "L'affirmation est exacte. Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées.",
+    "pieges": {
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S053"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0457"
+  },
+  {
+    "domaine": "Banque quotidienne",
+    "sous_domaine": "Surendettement / Garantie des dépôts",
+    "difficulte": "expert",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « Surendettement » et « Garantie des dépôts », lesquelles sont exactes ?",
+    "choix": {
+      "A": "Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables.",
+      "B": "Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées.",
+      "C": "Il entraîne automatiquement l'inscription de tout le voisinage.",
+      "D": "Ils disparaissent automatiquement en cas de faillite."
+    },
+    "bonnes_reponses": [
+      "A",
+      "B"
+    ],
+    "explication": "Les deux règles à retenir sont : Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables. Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées.",
+    "pieges": {
+      "C": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S078",
+      "S053"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0753"
+  },
+  {
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Taux directeurs",
+    "difficulte": "intermediaire",
+    "type_question": "unique",
+    "enonce": "Concernant une hausse des taux directeurs et son effet général, quelle proposition restitue exactement la règle applicable ?",
+    "choix": {
+      "A": "Elle supprime l'inflation instantanément.",
+      "B": "Elle tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire.",
+      "C": "Elle rend tous les crédits gratuits.",
+      "D": "Elle garantit la hausse des actions."
+    },
+    "bonnes_reponses": [
+      "B"
+    ],
+    "explication": "Elle tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "pieges": {
+      "A": "Cette réponse attribue à une hausse des taux directeurs un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Cette réponse attribue à une hausse des taux directeurs un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "D": "Cette réponse attribue à une hausse des taux directeurs un effet ou une condition qui ne correspond pas à la règle exacte."
+    },
+    "sources": [
+      "S081"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0172"
+  },
+  {
+    "domaine": "Conformité",
+    "sous_domaine": "Connaissance client",
+    "difficulte": "avance",
+    "type_question": "multiple",
+    "enonce": "Quels éléments doivent être rapprochés avant une recommandation patrimoniale adaptée ?",
+    "choix": {
+      "A": "La situation financière et la capacité à subir des pertes.",
+      "B": "Les objectifs et l'horizon de placement.",
+      "C": "Les connaissances et l'expérience du client.",
+      "D": "Uniquement la performance passée du produit."
+    },
+    "bonnes_reponses": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explication": "L'adéquation repose sur une connaissance multidimensionnelle du client ; la performance passée ne suffit jamais.",
+    "pieges": {
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S004"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0929"
+  },
+  {
+    "domaine": "Conformité",
+    "sous_domaine": "Arbitrage",
+    "difficulte": "expert",
+    "type_question": "unique",
+    "enonce": "Concernant un arbitrage conseillé sous MIF 2 et l'analyse coûts-avantages, quelle proposition restitue exactement la règle applicable ?",
+    "choix": {
+      "A": "Il peut ignorer les alternatives équivalentes.",
+      "B": "Il est automatiquement adéquat.",
+      "C": "Il doit notamment faire l'objet d'une appréciation du rapport coûts-avantages pour le client selon les exigences applicables.",
+      "D": "Il est recommandé dès qu'il génère des frais."
+    },
+    "bonnes_reponses": [
+      "C"
+    ],
+    "explication": "Il doit notamment faire l'objet d'une appréciation du rapport coûts-avantages pour le client selon les exigences applicables. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "pieges": {
+      "A": "Cette réponse attribue à un arbitrage conseillé sous MIF 2 un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Cette réponse attribue à un arbitrage conseillé sous MIF 2 un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "D": "Cette réponse attribue à un arbitrage conseillé sous MIF 2 un effet ou une condition qui ne correspond pas à la règle exacte."
+    },
+    "sources": [
+      "S068"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0147"
+  },
+  {
+    "domaine": "Relation commerciale",
+    "sous_domaine": "Conflits d'intérêts",
+    "difficulte": "avance",
+    "type_question": "unique",
+    "enonce": "Concernant un conflit d'intérêts et sa gestion, quelle proposition restitue exactement la règle applicable ?",
+    "choix": {
+      "A": "Il rend toute vente automatiquement licite.",
+      "B": "Il ne peut jamais exister dans une banque.",
+      "C": "Il doit être identifié, prévenu ou géré, et faire l'objet d'une information lorsque les mesures prises ne suffisent pas.",
+      "D": "Il doit être dissimulé au client."
+    },
+    "bonnes_reponses": [
+      "C"
+    ],
+    "explication": "Il doit être identifié, prévenu ou géré, et faire l'objet d'une information lorsque les mesures prises ne suffisent pas. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "pieges": {
+      "A": "Cette réponse attribue à un conflit d'intérêts un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Cette réponse attribue à un conflit d'intérêts un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "D": "Cette réponse attribue à un conflit d'intérêts un effet ou une condition qui ne correspond pas à la règle exacte."
+    },
+    "sources": [
+      "S083"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0183"
+  },
+  {
+    "domaine": "Régimes matrimoniaux",
+    "sous_domaine": "Communauté légale / Communauté légale",
+    "difficulte": "avance",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « Communauté légale », lesquelles sont exactes ?",
+    "choix": {
+      "A": "Ils alimentent en principe la communauté pendant le mariage.",
+      "B": "Il devient toujours commun.",
+      "C": "Ils sont placés automatiquement en indivision successorale.",
+      "D": "Il demeure en principe un bien propre de l'époux héritier."
+    },
+    "bonnes_reponses": [
+      "A",
+      "D"
+    ],
+    "explication": "Les deux règles à retenir sont : Il demeure en principe un bien propre de l'époux héritier. Ils alimentent en principe la communauté pendant le mariage.",
+    "pieges": {
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "C": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S017"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0630"
+  },
+  {
+    "domaine": "Droit civil",
+    "sous_domaine": "Indivision / Indivision",
+    "difficulte": "expert",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « Indivision », lesquelles sont exactes ?",
+    "choix": {
+      "A": "Aucune décision collective n'est nécessaire.",
+      "B": "Elle peut donner lieu à une indemnité envers l'indivision, sauf convention contraire.",
+      "C": "Les actes de disposition les plus importants requièrent en principe l'unanimité, sous réserve des dérogations légales.",
+      "D": "Elle entraîne automatiquement le partage."
+    },
+    "bonnes_reponses": [
+      "B",
+      "C"
+    ],
+    "explication": "Les deux règles à retenir sont : Elle peut donner lieu à une indemnité envers l'indivision, sauf convention contraire. Les actes de disposition les plus importants requièrent en principe l'unanimité, sous réserve des dérogations légales.",
+    "pieges": {
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S014",
+      "S044"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0628"
+  },
+  {
+    "domaine": "Prévoyance",
+    "sous_domaine": "Décès",
+    "difficulte": "intermediaire",
+    "type_question": "vrai_faux",
+    "enonce": "Dans le thème « Décès », l'affirmation suivante est-elle exacte ? « Il vise à fournir aux bénéficiaires un capital prévu au contrat lors du décès couvert. »",
+    "choix": {
+      "A": "Vrai",
+      "B": "Faux"
+    },
+    "bonnes_reponses": [
+      "A"
+    ],
+    "explication": "L'affirmation est exacte. Il vise à fournir aux bénéficiaires un capital prévu au contrat lors du décès couvert.",
+    "pieges": {
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0355"
+  },
+  {
+    "domaine": "Fiscalité immobilière",
+    "sous_domaine": "Durée de détention / Plus-value immobilière",
+    "difficulte": "expert",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « Durée de détention » et « Plus-value immobilière », lesquelles sont exactes ?",
+    "choix": {
+      "A": "Après huit ans pour l'impôt et dix ans pour les prélèvements.",
+      "B": "Toute cession réalisée avec un crédit en cours.",
+      "C": "Après vingt-deux ans pour l'impôt sur le revenu et trente ans pour les prélèvements sociaux.",
+      "D": "La cession de la résidence principale du cédant, sous les conditions applicables."
+    },
+    "bonnes_reponses": [
+      "C",
+      "D"
+    ],
+    "explication": "Les deux règles à retenir sont : Après vingt-deux ans pour l'impôt sur le revenu et trente ans pour les prélèvements sociaux. La cession de la résidence principale du cédant, sous les conditions applicables.",
+    "pieges": {
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "B": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S097"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0807"
+  },
+  {
+    "domaine": "LCB-FT",
+    "sous_domaine": "Déclaration de soupçon",
+    "difficulte": "expert",
+    "type_question": "multiple",
+    "enonce": "À propos d'une déclaration de soupçon à Tracfin, quelles affirmations sont exactes ?",
+    "choix": {
+      "A": "Elle relève d'une analyse étayée des opérations et du contexte.",
+      "B": "Son existence ne doit pas être révélée au client concerné.",
+      "C": "Elle équivaut à une condamnation pénale du client.",
+      "D": "Elle dispense de conserver les éléments ayant fondé l'analyse."
+    },
+    "bonnes_reponses": [
+      "A",
+      "B"
+    ],
+    "explication": "La déclaration est confidentielle et procède d'un soupçon documenté ; elle ne préjuge pas d'une culpabilité et doit être traçable.",
+    "pieges": {
+      "C": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S003"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0933"
+  },
+  {
+    "domaine": "RGPD",
+    "sous_domaine": "Prospection",
+    "difficulte": "intermediaire",
+    "type_question": "unique",
+    "enonce": "Concernant le droit d'opposition à la prospection et son exercice, quelle proposition restitue exactement la règle applicable ?",
+    "choix": {
+      "A": "Il est impossible après la collecte.",
+      "B": "Il impose un paiement au prospect.",
+      "C": "Il ne concerne jamais le profilage lié à la prospection.",
+      "D": "La personne peut s'opposer à tout moment et sans frais au traitement de ses données à des fins de prospection."
+    },
+    "bonnes_reponses": [
+      "D"
+    ],
+    "explication": "La personne peut s'opposer à tout moment et sans frais au traitement de ses données à des fins de prospection. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "pieges": {
+      "A": "Cette réponse attribue à le droit d'opposition à la prospection un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Cette réponse attribue à le droit d'opposition à la prospection un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Cette réponse attribue à le droit d'opposition à la prospection un effet ou une condition qui ne correspond pas à la règle exacte."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0158"
+  },
+  {
+    "domaine": "Assurance",
+    "sous_domaine": "Formation",
+    "difficulte": "avance",
+    "type_question": "vrai_faux",
+    "enonce": "Dans le thème « Formation », l'affirmation suivante est-elle exacte ? « Elle n'existe que pour les actuaires. »",
+    "choix": {
+      "A": "Vrai",
+      "B": "Faux"
+    },
+    "bonnes_reponses": [
+      "B"
+    ],
+    "explication": "L'affirmation est inexacte. La règle à retenir est la suivante : La durée minimale est de quinze heures par an pour les personnes concernées par la distribution d'assurances.",
+    "pieges": {
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S003"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0360"
+  },
+  {
+    "domaine": "International",
+    "sous_domaine": "CRS",
+    "difficulte": "avance",
+    "type_question": "unique",
+    "enonce": "Concernant l'échange automatique d'informations CRS et sa finalité, quelle proposition restitue exactement la règle applicable ?",
+    "choix": {
+      "A": "Il concerne uniquement les paiements en espèces.",
+      "B": "Il remplace toutes les conventions fiscales.",
+      "C": "Il organise la collecte et la transmission d'informations sur certains comptes financiers entre juridictions participantes.",
+      "D": "Il garantit l'absence d'impôt."
+    },
+    "bonnes_reponses": [
+      "C"
+    ],
+    "explication": "Il organise la collecte et la transmission d'informations sur certains comptes financiers entre juridictions participantes. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "pieges": {
+      "A": "Cette réponse attribue à l'échange automatique d'informations CRS un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Cette réponse attribue à l'échange automatique d'informations CRS un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "D": "Cette réponse attribue à l'échange automatique d'informations CRS un effet ou une condition qui ne correspond pas à la règle exacte."
+    },
+    "sources": [
+      "S085"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0187"
+  },
+  {
+    "domaine": "Crédit",
+    "sous_domaine": "Taux / Prêt relais",
+    "difficulte": "avance",
+    "type_question": "multiple",
+    "enonce": "Parmi les affirmations suivantes portant sur « Taux » et « Prêt relais », lesquelles sont exactes ?",
+    "choix": {
+      "A": "Il est une assurance contre la baisse des prix.",
+      "B": "Il sert principalement au calcul des intérêts et ne résume pas à lui seul le coût total du crédit.",
+      "C": "Il finance temporairement le décalage entre une acquisition et la vente d'un bien existant.",
+      "D": "Il mesure la valeur du bien financé."
+    },
+    "bonnes_reponses": [
+      "B",
+      "C"
+    ],
+    "explication": "Les deux règles à retenir sont : Il sert principalement au calcul des intérêts et ne résume pas à lui seul le coût total du crédit. Il finance temporairement le décalage entre une acquisition et la vente d'un bien existant.",
+    "pieges": {
+      "A": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable.",
+      "D": "Cette proposition altère une condition, une portée ou un effet juridique essentiel de la règle applicable."
+    },
+    "sources": [
+      "S008"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05",
+    "id": "CGP-2026-0624"
   }
 ]

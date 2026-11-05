@@ -17,9 +17,11 @@ ID_RE = re.compile(r"^CGP-\d{4}-\d{4}$")
 SOURCE_RE = re.compile(r"^S\d{3}$")
 SCENARIO_RE = re.compile(r"\b(un|une)\s+client(e)?\b|\bM(?:me|onsieur)?\.?\s", re.IGNORECASE)
 CALCULATION_RE = re.compile(r"(?:\d\s*[×x*/+]\s*\d)|(?:combien\s+(?:vaut|représente|reste))", re.IGNORECASE)
+ARTIFICIAL_RE = re.compile(r"^(analyse croisée|contrôle de précision|sélection raisonnée|rapprochement réglementaire|synthèse transversale)\b", re.IGNORECASE)
 TARGET_QUESTIONS = 1_100
 TARGET_LOT_SIZE = 50
-ALLOWED_DIFFICULTIES = {"debutant", "intermediaire", "avance", "expert"}
+ALLOWED_DIFFICULTIES = {"intermediaire", "avance", "expert"}
+ALLOWED_TYPES = {"unique", "multiple", "vrai_faux"}
 ALLOWED_STATUSES = {"verifie_sources_publiques", "a_actualiser", "retiree"}
 ALLOWED_DOMAINS = {
     "Assurance", "Assurance emprunteur", "Assurance-vie", "Banque quotidienne",
@@ -77,14 +79,17 @@ def validate() -> list[str]:
         if count > 1:
             fail(errors, f"Identifiant dupliqué : {duplicate}")
 
-    statements = [re.sub(r"\W+", " ", question.get("enonce", "").casefold()).strip() for _, question in questions]
+    statements = [
+        re.sub(r"\W+", " ", f"{question.get('enonce', '')} {' '.join(sorted(question.get('choix', {}).values()))}".casefold()).strip()
+        for _, question in questions
+    ]
     for duplicate, count in Counter(statements).items():
         if duplicate and count > 1:
-            fail(errors, f"Énoncé dupliqué ({count} occurrences) : {duplicate[:90]}")
+            fail(errors, f"Question dupliquée ({count} occurrences) : {duplicate[:90]}")
 
     required = {
         "id", "domaine", "sous_domaine", "difficulte", "enonce", "choix",
-        "bonne_reponse", "explication", "pieges", "sources", "origine",
+        "type_question", "bonnes_reponses", "explication", "pieges", "sources", "origine",
         "statut", "date_verification"
     }
     for path, question in questions:
@@ -101,20 +106,38 @@ def validate() -> list[str]:
             fail(errors, f"{qid}: sous-thème manquant.")
         if question["difficulte"] not in ALLOWED_DIFFICULTIES:
             fail(errors, f"{qid}: difficulté invalide.")
+        if question["type_question"] not in ALLOWED_TYPES:
+            fail(errors, f"{qid}: type de question invalide.")
         if question["statut"] not in ALLOWED_STATUSES:
             fail(errors, f"{qid}: statut invalide.")
+        elif question["statut"] != "verifie_sources_publiques":
+            fail(errors, f"{qid}: une question publiée doit être vérifiée sur sources publiques.")
         if question["origine"] != "entrainement_original":
             fail(errors, f"{qid}: origine non autorisée.")
         choices = question["choix"]
-        if set(choices) != {"A", "B", "C", "D"}:
-            fail(errors, f"{qid}: les choix doivent être exactement A, B, C et D.")
-        if question["bonne_reponse"] not in choices:
-            fail(errors, f"{qid}: bonne réponse absente des choix.")
-        if len(set(choices.values())) != 4:
+        choice_keys = set(choices)
+        if choice_keys not in ({"A", "B"}, {"A", "B", "C", "D"}):
+            fail(errors, f"{qid}: les choix doivent être A-B pour un vrai/faux ou A-D pour un QCM.")
+        correct = question["bonnes_reponses"]
+        if not isinstance(correct, list) or not 1 <= len(correct) <= 3 or len(set(correct)) != len(correct):
+            fail(errors, f"{qid}: une à trois réponses correctes distinctes sont requises.")
+            continue
+        if any(letter not in choices for letter in correct):
+            fail(errors, f"{qid}: réponse correcte absente des choix.")
+        if question["type_question"] == "vrai_faux":
+            if choice_keys != {"A", "B"} or len(correct) != 1 or set(choices.values()) != {"Vrai", "Faux"}:
+                fail(errors, f"{qid}: un vrai/faux exige exactement Vrai et Faux avec une seule bonne réponse.")
+        else:
+            expected_type = "unique" if len(correct) == 1 else "multiple"
+            if question["type_question"] != expected_type:
+                fail(errors, f"{qid}: type incohérent avec le nombre de réponses correctes.")
+            if choice_keys != {"A", "B", "C", "D"}:
+                fail(errors, f"{qid}: une question unique ou multiple exige quatre choix A à D.")
+        if len(set(choices.values())) != len(choices):
             fail(errors, f"{qid}: propositions dupliquées.")
-        wrong = {key for key in choices if key != question["bonne_reponse"]}
+        wrong = {key for key in choices if key not in correct}
         if set(question["pieges"]) != wrong:
-            fail(errors, f"{qid}: les pièges doivent documenter les trois mauvaises réponses.")
+            fail(errors, f"{qid}: les pièges doivent documenter toutes les mauvaises réponses.")
         if not question["sources"]:
             fail(errors, f"{qid}: aucune source.")
         for sid in question["sources"]:
@@ -130,11 +153,21 @@ def validate() -> list[str]:
             fail(errors, f"{qid}: formulation de cas client détectée.")
         if CALCULATION_RE.search(question["enonce"]):
             fail(errors, f"{qid}: calcul apparent détecté.")
+        if ARTIFICIAL_RE.search(question["enonce"]):
+            fail(errors, f"{qid}: libellé artificiel de génération détecté.")
 
     if not questions:
         fail(errors, "Aucune question trouvée.")
     elif len(questions) != TARGET_QUESTIONS:
         fail(errors, f"La banque doit contenir exactement {TARGET_QUESTIONS} questions, {len(questions)} trouvées.")
+    type_counts = Counter(question.get("type_question") for _, question in questions)
+    if type_counts["multiple"] < 300:
+        fail(errors, f"La banque doit conserver au moins 300 questions à réponses multiples, {type_counts['multiple']} trouvées.")
+    if type_counts["vrai_faux"] < 250:
+        fail(errors, f"La banque doit conserver au moins 250 questions vrai/faux, {type_counts['vrai_faux']} trouvées.")
+    advanced_count = sum(question.get("difficulte") in {"avance", "expert"} for _, question in questions)
+    if advanced_count < 850:
+        fail(errors, f"Au moins 850 questions doivent être avancées ou expertes, {advanced_count} trouvées.")
     expected_lots = TARGET_QUESTIONS // TARGET_LOT_SIZE
     if len(lot_paths) != expected_lots:
         fail(errors, f"La banque doit contenir {expected_lots} lots, {len(lot_paths)} trouvés.")

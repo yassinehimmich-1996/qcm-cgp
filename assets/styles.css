@@ -93,7 +93,8 @@ main { width: 100%; }
 .question-meta { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
 .question-meta span { max-width: 68%; padding: 6px 9px; overflow: hidden; border-radius: 8px; color: var(--green-700); background: var(--green-100); font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: .07em; white-space: nowrap; text-overflow: ellipsis; }
 .question-meta span:last-child { max-width: 32%; color: #7c551e; background: var(--gold-soft); }
-.question-card h2 { margin: 22px 2px 24px; font-size: clamp(22px, 5.5vw, 29px); line-height: 1.2; letter-spacing: -.018em; }
+.question-card h2 { margin: 22px 2px 10px; font-size: clamp(22px, 5.5vw, 29px); line-height: 1.2; letter-spacing: -.018em; }
+.answer-instruction { margin: 0 2px 18px; color: var(--green-700); font-size: 11px; font-weight: 700; letter-spacing: .03em; }
 .answers { display: grid; gap: 10px; }
 .answer { width: 100%; min-height: 66px; display: grid; grid-template-columns: 39px 1fr 22px; align-items: center; gap: 11px; padding: 11px 13px; border: 1.5px solid var(--line); border-radius: 17px; background: white; text-align: left; cursor: pointer; transition: border .15s ease, background .15s ease, transform .1s ease; }
 .answer:active { transform: scale(.99); }

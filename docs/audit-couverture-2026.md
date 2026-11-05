@@ -17,12 +17,21 @@ Les questions sont des créations originales. Les règles citées sont rattaché
 | Couples et succession | Couverte | Régimes matrimoniaux, Pacs, réserve et droits du conjoint survivant |
 | Préparation à la retraite | Couverte | Architecture, âges 2026, trimestres, calcul de base, Agirc-Arrco, réversion et liquidation |
 | Méthode patrimoniale | Couverte | Découverte, actualisation et traçabilité du conseil |
+| Distribution du crédit | Couverte | DCI, IOBSP, FISE, explications adéquates, solvabilité, TAEG et sanctions ACPR |
+| Acquisition immobilière | Couverte | Avant-contrat, rétractation, condition suspensive, acte authentique, mandat et préemption |
+| Financement immobilier | Couverte | HCSF, PTZ, amortissement, prêt relais, prêt in fine, garanties et remboursement anticipé |
+| Assurance emprunteur | Couverte | Substitution, équivalence, quotité, questionnaire de santé et garanties de personne |
+| Rénovation énergétique | Couverte | DPE, petites surfaces, enregistrement Ademe, audit énergétique, scénarios de travaux et passoires thermiques |
+| Immobilier neuf et intermédiation | Couverte | VEFA, CCMI, mandat simple, mandat exclusif et investissement locatif |
+| Vie du crédit immobilier | Couverte | Co-emprunteurs, désolidarisation, différé, scoring et renégociation par avenant |
+| Surendettement | Couverte | Recevabilité, FICP, obligations, interdictions, délais et recours |
 
 ## Répartition dans la banque et les examens
 
 - Les 102 questions de renforcement issues de la grille thématique du document sont réparties dans l'ensemble des 22 lots, et non concentrées dans les deux derniers lots.
 - Chaque lot de 50 contient au moins 12 domaines distincts.
 - L'examen blanc de 100 questions utilise une sélection stratifiée : fiscalité, immobilier, épargne financière, enveloppes, transmission, retraite, conformité, crédit, prévoyance, banque quotidienne et international.
+- La banque comprend 356 questions à réponses multiples et 292 vrai/faux. Pour une question multiple, l'application exige toutes les réponses exactes, sans réponse supplémentaire, pour attribuer le point.
 - Cette répartition est une construction pédagogique. Elle ne prétend pas reproduire la pondération d'une évaluation interne.
 
 ## Contrôle détaillé
@@ -75,6 +84,22 @@ Les questions sont des créations originales. Les règles citées sont rattaché
 | Retraite des artisans et commerçants | Couvert | S125 |
 | Retraite des professions libérales | Couvert | S124 |
 | Découverte et traçabilité du conseil | Couvert | S002, S004, S083 |
+| DCI, IOBSP et explications adéquates | Couvert | S127, S129 |
+| Pouvoir disciplinaire de l'ACPR | Couvert | S128 |
+| FISE, TAEG et solvabilité | Couvert | S127, S129 |
+| Avant-contrat, rétractation et acte authentique | Couvert | S130, S132 |
+| Mandats simple et exclusif | Couvert | S141 |
+| VEFA et CCMI | Couvert | S142, S143 |
+| Droit de préemption et DIA | Couvert | S131 |
+| PTZ et qualité de primo-accédant | Couvert | S009 |
+| Prêt relais, prêt in fine et différés | Couvert | S129 |
+| Co-emprunteurs et désolidarisation | Couvert | S144 |
+| Renégociation et avenant | Couvert | S145 |
+| Condition suspensive de prêt | Couvert | S146 |
+| Remboursement anticipé et IRA | Couvert | S137 |
+| Caution, hypothèque et extinction de l'inscription | Couvert | S136, S138 |
+| DPE et audit énergétique | Couvert | S011, S012, S135 |
+| Procédure de surendettement | Couvert | S133, S134 |
 
 ## Règles de maintenance
 

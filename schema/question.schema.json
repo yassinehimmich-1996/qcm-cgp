@@ -6,19 +6,22 @@
   "additionalProperties": false,
   "required": [
     "id", "domaine", "sous_domaine", "difficulte", "enonce", "choix",
-    "bonne_reponse", "explication", "pieges", "sources", "origine",
+    "type_question", "bonnes_reponses", "explication", "pieges", "sources", "origine",
     "statut", "date_verification"
   ],
   "properties": {
     "id": {"type": "string", "pattern": "^CGP-[0-9]{4}-[0-9]{4}$"},
     "domaine": {"type": "string", "minLength": 2},
     "sous_domaine": {"type": "string", "minLength": 2},
-    "difficulte": {"enum": ["debutant", "intermediaire", "avance", "expert"]},
+    "difficulte": {"enum": ["intermediaire", "avance", "expert"]},
+    "type_question": {"enum": ["unique", "multiple", "vrai_faux"]},
     "enonce": {"type": "string", "minLength": 15},
     "choix": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["A", "B", "C", "D"],
+      "required": ["A", "B"],
+      "minProperties": 2,
+      "maxProperties": 4,
       "properties": {
         "A": {"type": "string", "minLength": 1},
         "B": {"type": "string", "minLength": 1},
@@ -26,11 +29,17 @@
         "D": {"type": "string", "minLength": 1}
       }
     },
-    "bonne_reponse": {"enum": ["A", "B", "C", "D"]},
+    "bonnes_reponses": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 3,
+      "uniqueItems": true,
+      "items": {"enum": ["A", "B", "C", "D"]}
+    },
     "explication": {"type": "string", "minLength": 30},
     "pieges": {
       "type": "object",
-      "minProperties": 3,
+      "minProperties": 1,
       "maxProperties": 3,
       "additionalProperties": {"type": "string", "minLength": 10}
     },
