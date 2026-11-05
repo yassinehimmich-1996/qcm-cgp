@@ -514,7 +514,7 @@ async function init() {
   }
 
   if ("serviceWorker" in navigator && location.protocol !== "file:") {
-    navigator.serviceWorker.register("sw.js").catch((error) => console.warn("Service worker non enregistré", error));
+    navigator.serviceWorker.register("sw.js?v=7").catch((error) => console.warn("Service worker non enregistré", error));
   }
 }
 

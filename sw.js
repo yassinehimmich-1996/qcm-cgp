@@ -1,9 +1,9 @@
-const CACHE = "qcm-cgp-v4";
+const CACHE = "qcm-cgp-v5";
 const CORE = [
   "./",
   "./index.html",
-  "./assets/styles.css",
-  "./assets/app.js",
+  "./assets/styles.css?v=7",
+  "./assets/app.js?v=7",
   "./assets/icon.svg",
   "./assets/icon-180.png",
   "./assets/icon-512.png",
