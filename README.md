@@ -34,11 +34,10 @@ Le statut `verifie_sources_publiques` indique que la règle a été rapprochée 
 
 ## Modes d'entraînement
 
-- session rapide de 20 questions avec correction immédiate ;
-- série complète de 50 questions ;
+- révision de l’intégralité des 1 100 questions avec correction immédiate ;
 - examen blanc stratifié de 100 questions en 60 minutes, sans correction avant la fin ;
-- révision par domaine, par erreurs ou par favoris ;
-- suivi local du taux de réussite, des questions vues et de la meilleure série ;
+- révision par domaine ou des erreurs enregistrées ;
+- suivi local du taux de réussite et des questions vues ;
 - fonctionnement installable et hors connexion après le premier chargement.
 
 ## Structure

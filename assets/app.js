@@ -145,11 +145,13 @@ function escapeHtml(value) {
 
 function startSession(mode, options = {}) {
   let pool = questions;
-  let count = 20;
-  let label = "Session rapide";
+  let count = questions.length;
+  let label = "Toutes les questions";
   let feedback = true;
 
-  if (mode === "exam") {
+  if (mode === "all") {
+    count = pool.length;
+  } else if (mode === "exam") {
     count = 100;
     label = "Examen blanc";
     feedback = false;
