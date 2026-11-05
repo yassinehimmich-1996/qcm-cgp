@@ -1,10 +1,10 @@
 const CACHE_PREFIX = "qcm-cgp-";
-const CACHE = `${CACHE_PREFIX}v11-final`;
+const CACHE = `${CACHE_PREFIX}v12-final`;
 const CORE = [
   "./",
   "./index.html",
-  "./assets/styles.css?v=11-final",
-  "./assets/app.js?v=11-final",
+  "./assets/styles.css?v=12-final",
+  "./assets/app.js?v=12-final",
   "./assets/icon.svg",
   "./assets/icon-180.png",
   "./assets/icon-512.png",
@@ -13,7 +13,7 @@ const CORE = [
 ];
 
 for (let index = 1; index <= 16; index += 1) {
-  CORE.push(`./questions/lot-${String(index).padStart(3, "0")}.json?v=11-final`);
+  CORE.push(`./questions/lot-${String(index).padStart(3, "0")}.json?v=12-final`);
 }
 
 self.addEventListener("install", (event) => {

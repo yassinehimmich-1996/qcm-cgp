@@ -531,7 +531,7 @@ function route() {
 
 async function init() {
   try {
-    const lotUrls = Array.from({ length: 16 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json?v=11-final`);
+    const lotUrls = Array.from({ length: 16 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json?v=12-final`);
     const [lotResponses, sourceResponse] = await Promise.all([
       Promise.all(lotUrls.map((url) => fetch(url))),
       fetch("sources/sources.json")
@@ -556,7 +556,7 @@ async function init() {
       reloading = true;
       location.reload();
     });
-    navigator.serviceWorker.register("sw.js?v=11-final", { updateViaCache: "none" })
+    navigator.serviceWorker.register("sw.js?v=12-final", { updateViaCache: "none" })
       .then((registration) => registration.update())
       .catch((error) => console.warn("Service worker non enregistré", error));
   }
