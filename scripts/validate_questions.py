@@ -21,6 +21,16 @@ TARGET_QUESTIONS = 1_100
 TARGET_LOT_SIZE = 50
 ALLOWED_DIFFICULTIES = {"debutant", "intermediaire", "avance", "expert"}
 ALLOWED_STATUSES = {"verifie_sources_publiques", "a_actualiser", "retiree"}
+ALLOWED_DOMAINS = {
+    "Assurance", "Assurance emprunteur", "Assurance-vie", "Banque quotidienne",
+    "Conformité", "Crédit", "Crédit immobilier", "Crédit à la consommation",
+    "Droit civil", "Enveloppes d'investissement", "Fiscalité",
+    "Fiscalité immobilière", "Immobilier", "Immobilier locatif", "International",
+    "LCB-FT", "Placements financiers", "Placements immobiliers", "Prévoyance",
+    "RGPD", "Relation commerciale", "Retraite", "Régimes matrimoniaux",
+    "Réglementation", "Transmission", "Économie et marchés", "Épargne bancaire",
+    "Épargne salariale",
+}
 
 
 def load_json(path: Path):
@@ -85,6 +95,10 @@ def validate() -> list[str]:
             continue
         if not ID_RE.fullmatch(qid):
             fail(errors, f"{qid}: format d'identifiant invalide.")
+        if question["domaine"] not in ALLOWED_DOMAINS:
+            fail(errors, f"{qid}: thème inconnu ou non classifié : {question['domaine']!r}.")
+        if not question["sous_domaine"].strip():
+            fail(errors, f"{qid}: sous-thème manquant.")
         if question["difficulte"] not in ALLOWED_DIFFICULTIES:
             fail(errors, f"{qid}: difficulté invalide.")
         if question["statut"] not in ALLOWED_STATUSES:
@@ -135,4 +149,5 @@ if __name__ == "__main__":
             print(f"- {problem}")
         sys.exit(1)
     count = sum(len(load_json(path)) for path in QUESTION_DIR.glob("lot-*.json"))
-    print(f"VALIDATION RÉUSSIE — {count} questions")
+    domain_count = len({question["domaine"] for path in QUESTION_DIR.glob("lot-*.json") for question in load_json(path)})
+    print(f"VALIDATION RÉUSSIE — {count} questions classifiées dans {domain_count} thèmes")
