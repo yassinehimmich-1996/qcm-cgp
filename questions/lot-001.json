@@ -5,11 +5,25 @@
     "sous_domaine": "Offre de prêt",
     "difficulte": "intermediaire",
     "enonce": "Quel délai minimal de réflexion précède l'acceptation d'une offre de prêt immobilier ?",
-    "choix": {"A": "Sept jours calendaires", "B": "Dix jours calendaires, avec acceptation possible à partir du onzième jour", "C": "Quatorze jours ouvrés", "D": "Trente jours calendaires"},
+    "choix": {
+      "A": "Sept jours calendaires",
+      "B": "Dix jours calendaires, avec acceptation possible à partir du onzième jour",
+      "C": "Quatorze jours ouvrés",
+      "D": "Trente jours calendaires"
+    },
     "bonne_reponse": "B",
     "explication": "L'emprunteur ne peut accepter l'offre qu'après l'expiration d'un délai de réflexion de dix jours calendaires. L'acceptation intervient donc au plus tôt le onzième jour suivant la réception.",
-    "pieges": {"A": "Ce délai ne correspond pas au régime du prêt immobilier.", "C": "Quatorze jours évoque surtout la rétractation de certains contrats de crédit à la consommation.", "D": "Trente jours ne constitue pas le délai légal de réflexion."},
-    "sources": ["S006"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Ce délai ne correspond pas au régime du prêt immobilier.",
+      "C": "Quatorze jours évoque surtout la rétractation de certains contrats de crédit à la consommation.",
+      "D": "Trente jours ne constitue pas le délai légal de réflexion."
+    },
+    "sources": [
+      "S006"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0002",
@@ -17,11 +31,25 @@
     "sous_domaine": "Rétractation",
     "difficulte": "debutant",
     "enonce": "Quel est, en principe, le délai de rétractation attaché à un crédit à la consommation ?",
-    "choix": {"A": "Sept jours calendaires", "B": "Dix jours ouvrés", "C": "Quatorze jours calendaires", "D": "Trente jours calendaires"},
+    "choix": {
+      "A": "Sept jours calendaires",
+      "B": "Dix jours ouvrés",
+      "C": "Quatorze jours calendaires",
+      "D": "Trente jours calendaires"
+    },
     "bonne_reponse": "C",
     "explication": "Le délai de rétractation est en principe de quatorze jours calendaires à compter de l'acceptation de l'offre de crédit à la consommation.",
-    "pieges": {"A": "Sept jours correspond à d'anciens repères ou à d'autres procédures.", "B": "Le délai n'est ni de dix jours ni exprimé en jours ouvrés.", "D": "Trente jours n'est pas le délai ordinaire de rétractation."},
-    "sources": ["S007"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Sept jours correspond à d'anciens repères ou à d'autres procédures.",
+      "B": "Le délai n'est ni de dix jours ni exprimé en jours ouvrés.",
+      "D": "Trente jours n'est pas le délai ordinaire de rétractation."
+    },
+    "sources": [
+      "S007"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0003",
@@ -29,11 +57,25 @@
     "sous_domaine": "TAEG",
     "difficulte": "avance",
     "enonce": "Quel élément n'entre pas, par nature, dans le TAEG d'un financement immobilier ?",
-    "choix": {"A": "Les intérêts du prêt", "B": "Les frais de dossier imposés", "C": "Le coût d'une assurance exigée pour obtenir le crédit", "D": "Les droits de mutation liés à l'acquisition du bien"},
+    "choix": {
+      "A": "Les intérêts du prêt",
+      "B": "Les frais de dossier imposés",
+      "C": "Le coût d'une assurance exigée pour obtenir le crédit",
+      "D": "Les droits de mutation liés à l'acquisition du bien"
+    },
     "bonne_reponse": "D",
     "explication": "Le TAEG agrège les coûts nécessaires à l'obtention du crédit. Les droits de mutation rémunèrent ou taxent l'acquisition immobilière elle-même et non la mise à disposition du financement.",
-    "pieges": {"A": "Les intérêts constituent le coût principal du crédit.", "B": "Les frais de dossier imposés pour obtenir le prêt sont intégrés.", "C": "L'assurance exigée pour l'octroi doit être prise en compte."},
-    "sources": ["S008"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Les intérêts constituent le coût principal du crédit.",
+      "B": "Les frais de dossier imposés pour obtenir le prêt sont intégrés.",
+      "C": "L'assurance exigée pour l'octroi doit être prise en compte."
+    },
+    "sources": [
+      "S008"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0004",
@@ -41,11 +83,25 @@
     "sous_domaine": "Normes HCSF",
     "difficulte": "intermediaire",
     "enonce": "Quel taux d'effort maximal constitue le principe général de la décision du HCSF sur le crédit immobilier ?",
-    "choix": {"A": "35 %", "B": "30 %", "C": "40 %", "D": "45 %"},
+    "choix": {
+      "A": "35 %",
+      "B": "30 %",
+      "C": "40 %",
+      "D": "45 %"
+    },
     "bonne_reponse": "A",
     "explication": "La norme HCSF retient en principe un taux d'effort maximal de 35 %, assurance emprunteur comprise, sous réserve de la marge de flexibilité prévue par la décision.",
-    "pieges": {"B": "Trente pour cent n'est pas le plafond HCSF en vigueur.", "C": "Quarante pour cent peut exister dans une appréciation particulière, mais pas comme plafond de principe.", "D": "Quarante-cinq pour cent dépasse nettement la norme de principe."},
-    "sources": ["S005"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "B": "Trente pour cent n'est pas le plafond HCSF en vigueur.",
+      "C": "Quarante pour cent peut exister dans une appréciation particulière, mais pas comme plafond de principe.",
+      "D": "Quarante-cinq pour cent dépasse nettement la norme de principe."
+    },
+    "sources": [
+      "S005"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0005",
@@ -53,11 +109,25 @@
     "sous_domaine": "Décision de crédit",
     "difficulte": "intermediaire",
     "enonce": "Le respect des critères du HCSF crée-t-il un droit à l'obtention d'un crédit immobilier ?",
-    "choix": {"A": "Oui, lorsque le taux d'effort est inférieur au plafond", "B": "Oui, si la durée reste inférieure à vingt-cinq ans", "C": "Non, le prêteur conserve sa décision d'octroi après analyse du risque", "D": "Non, sauf pour l'acquisition d'une résidence principale"},
+    "choix": {
+      "A": "Oui, lorsque le taux d'effort est inférieur au plafond",
+      "B": "Oui, si la durée reste inférieure à vingt-cinq ans",
+      "C": "Non, le prêteur conserve sa décision d'octroi après analyse du risque",
+      "D": "Non, sauf pour l'acquisition d'une résidence principale"
+    },
     "bonne_reponse": "C",
     "explication": "Les critères HCSF encadrent l'octroi mais ne contraignent pas un établissement à financer. La banque demeure libre de refuser après son analyse de solvabilité et de risque.",
-    "pieges": {"A": "Le seul taux d'effort ne suffit pas à créer un droit au crédit.", "B": "La durée conforme ne neutralise pas l'analyse bancaire.", "D": "La résidence principale bénéficie de priorités dans la flexibilité, pas d'un droit automatique."},
-    "sources": ["S005"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Le seul taux d'effort ne suffit pas à créer un droit au crédit.",
+      "B": "La durée conforme ne neutralise pas l'analyse bancaire.",
+      "D": "La résidence principale bénéficie de priorités dans la flexibilité, pas d'un droit automatique."
+    },
+    "sources": [
+      "S005"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0006",
@@ -65,11 +135,25 @@
     "sous_domaine": "Durée",
     "difficulte": "avance",
     "enonce": "Quelle durée maximale de principe le HCSF retient-il pour un crédit immobilier ?",
-    "choix": {"A": "Vingt ans sans exception", "B": "Vingt-cinq ans, avec une tolérance de différé pouvant porter la maturité totale à vingt-sept ans dans certains cas", "C": "Trente ans pour toute résidence principale", "D": "Trente-cinq ans avec garantie hypothécaire"},
+    "choix": {
+      "A": "Vingt ans sans exception",
+      "B": "Vingt-cinq ans, avec une tolérance de différé pouvant porter la maturité totale à vingt-sept ans dans certains cas",
+      "C": "Trente ans pour toute résidence principale",
+      "D": "Trente-cinq ans avec garantie hypothécaire"
+    },
     "bonne_reponse": "B",
     "explication": "La maturité maximale de principe est de vingt-cinq ans. Un différé d'amortissement pouvant aller jusqu'à deux ans est admis dans certaines opérations définies par la décision.",
-    "pieges": {"A": "La norme n'est pas limitée à vingt ans.", "C": "Vingt-sept ans n'est pas une durée d'amortissement générale de trente ans.", "D": "La nature de la garantie ne crée pas un plafond de trente-cinq ans."},
-    "sources": ["S005"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "La norme n'est pas limitée à vingt ans.",
+      "C": "Vingt-sept ans n'est pas une durée d'amortissement générale de trente ans.",
+      "D": "La nature de la garantie ne crée pas un plafond de trente-cinq ans."
+    },
+    "sources": [
+      "S005"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0007",
@@ -77,11 +161,25 @@
     "sous_domaine": "PTZ",
     "difficulte": "avance",
     "enonce": "Quelle condition patrimoniale caractérise en principe le primo-accédant au sens du PTZ ?",
-    "choix": {"A": "Ne jamais avoir détenu aucun bien immobilier", "B": "Ne posséder aucun placement immobilier au jour de la demande", "C": "Acheter obligatoirement un logement neuf", "D": "Ne pas avoir été propriétaire de sa résidence principale durant les deux années précédant l'offre, sauf exceptions"},
+    "choix": {
+      "A": "Ne jamais avoir détenu aucun bien immobilier",
+      "B": "Ne posséder aucun placement immobilier au jour de la demande",
+      "C": "Acheter obligatoirement un logement neuf",
+      "D": "Ne pas avoir été propriétaire de sa résidence principale durant les deux années précédant l'offre, sauf exceptions"
+    },
     "bonne_reponse": "D",
     "explication": "La condition porte en principe sur la propriété de la résidence principale pendant les deux années précédant l'offre. La détention d'un autre bien ne suffit pas toujours à exclure le PTZ.",
-    "pieges": {"A": "Le PTZ n'exige pas une absence totale de propriété immobilière pendant toute la vie.", "B": "La détention d'un placement immobilier n'est pas le critère légal formulé ainsi.", "C": "Le champ du PTZ ne se résume pas à tout logement neuf sans autre condition."},
-    "sources": ["S009"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Le PTZ n'exige pas une absence totale de propriété immobilière pendant toute la vie.",
+      "B": "La détention d'un placement immobilier n'est pas le critère légal formulé ainsi.",
+      "C": "Le champ du PTZ ne se résume pas à tout logement neuf sans autre condition."
+    },
+    "sources": [
+      "S009"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0008",
@@ -89,11 +187,25 @@
     "sous_domaine": "Questionnaire de santé",
     "difficulte": "avance",
     "enonce": "Quand l'absence de questionnaire de santé prévue par la loi Lemoine peut-elle s'appliquer ?",
-    "choix": {"A": "Lorsque la part assurée cumulée par personne n'excède pas 200 000 euros et que le prêt est remboursé avant le soixantième anniversaire", "B": "Pour tout prêt inférieur à 500 000 euros", "C": "Uniquement pour les primo-accédants de moins de quarante ans", "D": "Pour toute résidence principale, quelle que soit la durée"},
+    "choix": {
+      "A": "Lorsque la part assurée cumulée par personne n'excède pas 200 000 euros et que le prêt est remboursé avant le soixantième anniversaire",
+      "B": "Pour tout prêt inférieur à 500 000 euros",
+      "C": "Uniquement pour les primo-accédants de moins de quarante ans",
+      "D": "Pour toute résidence principale, quelle que soit la durée"
+    },
     "bonne_reponse": "A",
     "explication": "La dispense repose sur deux conditions cumulatives : un encours assuré cumulé par personne n'excédant pas 200 000 euros et une échéance du crédit avant le soixantième anniversaire de l'assuré.",
-    "pieges": {"B": "Le seuil légal n'est pas fixé à 500 000 euros.", "C": "La qualité de primo-accédant et l'âge de quarante ans ne constituent pas ces critères.", "D": "La nature de résidence principale ne suffit pas à elle seule."},
-    "sources": ["S010"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "B": "Le seuil légal n'est pas fixé à 500 000 euros.",
+      "C": "La qualité de primo-accédant et l'âge de quarante ans ne constituent pas ces critères.",
+      "D": "La nature de résidence principale ne suffit pas à elle seule."
+    },
+    "sources": [
+      "S010"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0009",
@@ -101,11 +213,25 @@
     "sous_domaine": "Substitution",
     "difficulte": "intermediaire",
     "enonce": "À quelle fréquence l'assurance emprunteur d'un crédit immobilier peut-elle être substituée dans le champ de la loi Lemoine ?",
-    "choix": {"A": "Uniquement à chaque date anniversaire", "B": "Une seule fois pendant la vie du prêt", "C": "À tout moment, sous réserve notamment de l'équivalence des garanties", "D": "Seulement durant la première année"},
+    "choix": {
+      "A": "Uniquement à chaque date anniversaire",
+      "B": "Une seule fois pendant la vie du prêt",
+      "C": "À tout moment, sous réserve notamment de l'équivalence des garanties",
+      "D": "Seulement durant la première année"
+    },
     "bonne_reponse": "C",
     "explication": "La substitution peut être demandée à tout moment. Le prêteur peut toutefois contrôler l'équivalence du niveau de garanties exigé pour le financement.",
-    "pieges": {"A": "La résiliation n'est plus cantonnée à l'échéance annuelle.", "B": "La loi ne limite pas la substitution à une tentative unique.", "D": "La faculté ne s'éteint pas après la première année."},
-    "sources": ["S010"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "La résiliation n'est plus cantonnée à l'échéance annuelle.",
+      "B": "La loi ne limite pas la substitution à une tentative unique.",
+      "D": "La faculté ne s'éteint pas après la première année."
+    },
+    "sources": [
+      "S010"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0010",
@@ -113,11 +239,25 @@
     "sous_domaine": "Prêt in fine",
     "difficulte": "debutant",
     "enonce": "Quelle caractéristique définit principalement un prêt in fine ?",
-    "choix": {"A": "Les intérêts ne sont jamais payés", "B": "Le capital est remboursé en une fois à l'échéance", "C": "Le taux varie obligatoirement chaque mois", "D": "Aucune garantie ne peut être demandée"},
+    "choix": {
+      "A": "Les intérêts ne sont jamais payés",
+      "B": "Le capital est remboursé en une fois à l'échéance",
+      "C": "Le taux varie obligatoirement chaque mois",
+      "D": "Aucune garantie ne peut être demandée"
+    },
     "bonne_reponse": "B",
     "explication": "Dans un prêt in fine, le capital n'est pas amorti progressivement : il est remboursé en une fois au terme, tandis que les intérêts sont généralement servis périodiquement.",
-    "pieges": {"A": "Le prêt in fine génère bien des intérêts.", "C": "Il peut être à taux fixe ou variable selon le contrat.", "D": "Une garantie et un adossement peuvent être exigés."},
-    "sources": ["S008"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Le prêt in fine génère bien des intérêts.",
+      "C": "Il peut être à taux fixe ou variable selon le contrat.",
+      "D": "Une garantie et un adossement peuvent être exigés."
+    },
+    "sources": [
+      "S008"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0011",
@@ -125,11 +265,25 @@
     "sous_domaine": "Prêt relais",
     "difficulte": "intermediaire",
     "enonce": "Quelle est la finalité principale d'un prêt relais ?",
-    "choix": {"A": "Financer définitivement la totalité d'un investissement locatif", "B": "Remplacer l'assurance emprunteur", "C": "Transformer un taux variable en taux fixe", "D": "Avancer temporairement une partie de la valeur d'un bien en attente de sa vente"},
+    "choix": {
+      "A": "Financer définitivement la totalité d'un investissement locatif",
+      "B": "Remplacer l'assurance emprunteur",
+      "C": "Transformer un taux variable en taux fixe",
+      "D": "Avancer temporairement une partie de la valeur d'un bien en attente de sa vente"
+    },
     "bonne_reponse": "D",
     "explication": "Le prêt relais est un financement transitoire destiné à couvrir le décalage entre l'acquisition d'un nouveau bien et la vente d'un bien existant.",
-    "pieges": {"A": "Le prêt relais est temporaire et ne finance pas nécessairement toute l'opération.", "B": "Il s'agit d'un crédit, non d'une assurance.", "C": "Il n'a pas pour fonction de couvrir le risque de taux."},
-    "sources": ["S008"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Le prêt relais est temporaire et ne finance pas nécessairement toute l'opération.",
+      "B": "Il s'agit d'un crédit, non d'une assurance.",
+      "C": "Il n'a pas pour fonction de couvrir le risque de taux."
+    },
+    "sources": [
+      "S008"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0012",
@@ -137,11 +291,25 @@
     "sous_domaine": "Taux nominal et TAEG",
     "difficulte": "intermediaire",
     "enonce": "Quelle distinction entre taux nominal et TAEG est correcte ?",
-    "choix": {"A": "Le taux nominal rémunère le capital prêté, tandis que le TAEG intègre plus largement les coûts obligatoires du crédit", "B": "Le TAEG ne comprend jamais les intérêts", "C": "Le taux nominal inclut toujours les frais de garantie", "D": "Les deux taux sont juridiquement identiques"},
+    "choix": {
+      "A": "Le taux nominal rémunère le capital prêté, tandis que le TAEG intègre plus largement les coûts obligatoires du crédit",
+      "B": "Le TAEG ne comprend jamais les intérêts",
+      "C": "Le taux nominal inclut toujours les frais de garantie",
+      "D": "Les deux taux sont juridiquement identiques"
+    },
     "bonne_reponse": "A",
     "explication": "Le taux nominal sert principalement au calcul des intérêts. Le TAEG vise une mesure plus complète et comparable du coût total obligatoire du financement.",
-    "pieges": {"B": "Les intérêts sont au cœur du TAEG.", "C": "Les frais de garantie ne sont pas incorporés au taux nominal par définition.", "D": "Les deux notions ont des objets distincts."},
-    "sources": ["S008"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "B": "Les intérêts sont au cœur du TAEG.",
+      "C": "Les frais de garantie ne sont pas incorporés au taux nominal par définition.",
+      "D": "Les deux notions ont des objets distincts."
+    },
+    "sources": [
+      "S008"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0013",
@@ -149,11 +317,25 @@
     "sous_domaine": "DPE",
     "difficulte": "avance",
     "enonce": "Quel coefficient de conversion en énergie primaire de l'électricité est utilisé dans le DPE depuis le 1er janvier 2026 ?",
-    "choix": {"A": "2,58", "B": "1,9", "C": "1,0", "D": "3,0"},
+    "choix": {
+      "A": "2,58",
+      "B": "1,9",
+      "C": "1,0",
+      "D": "3,0"
+    },
     "bonne_reponse": "B",
     "explication": "Depuis le 1er janvier 2026, le coefficient de conversion de l'électricité en énergie primaire utilisé pour le DPE est abaissé à 1,9.",
-    "pieges": {"A": "2,58 correspond à un ancien coefficient historique.", "C": "Le coefficient n'est pas ramené à l'unité.", "D": "Un coefficient de 3,0 n'est pas celui du DPE 2026."},
-    "sources": ["S011"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "2,58 correspond à un ancien coefficient historique.",
+      "C": "Le coefficient n'est pas ramené à l'unité.",
+      "D": "Un coefficient de 3,0 n'est pas celui du DPE 2026."
+    },
+    "sources": [
+      "S011"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0014",
@@ -161,11 +343,25 @@
     "sous_domaine": "Décence énergétique",
     "difficulte": "avance",
     "enonce": "Quel calendrier métropolitain d'exclusion progressive des logements les plus énergivores de la location est exact ?",
-    "choix": {"A": "G en 2026, F en 2029, E en 2035", "B": "G en 2024, F en 2026, E en 2030", "C": "G en 2025, F en 2028, E en 2034", "D": "G, F et E simultanément en 2030"},
+    "choix": {
+      "A": "G en 2026, F en 2029, E en 2035",
+      "B": "G en 2024, F en 2026, E en 2030",
+      "C": "G en 2025, F en 2028, E en 2034",
+      "D": "G, F et E simultanément en 2030"
+    },
     "bonne_reponse": "C",
     "explication": "En métropole, la décence énergétique exclut progressivement les logements classés G à compter de 2025, F à compter de 2028 et E à compter de 2034.",
-    "pieges": {"A": "Les trois années sont décalées par rapport au calendrier légal.", "B": "Les échéances sont trop précoces.", "D": "Le dispositif repose précisément sur une entrée en vigueur progressive."},
-    "sources": ["S012"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Les trois années sont décalées par rapport au calendrier légal.",
+      "B": "Les échéances sont trop précoces.",
+      "D": "Le dispositif repose précisément sur une entrée en vigueur progressive."
+    },
+    "sources": [
+      "S012"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0015",
@@ -173,11 +369,25 @@
     "sous_domaine": "Denormandie",
     "difficulte": "intermediaire",
     "enonce": "Quelles durées d'engagement de location sont prévues par le dispositif Denormandie ?",
-    "choix": {"A": "Trois, six ou neuf ans", "B": "Cinq, dix ou quinze ans", "C": "Neuf ans uniquement", "D": "Six, neuf ou douze ans"},
+    "choix": {
+      "A": "Trois, six ou neuf ans",
+      "B": "Cinq, dix ou quinze ans",
+      "C": "Neuf ans uniquement",
+      "D": "Six, neuf ou douze ans"
+    },
     "bonne_reponse": "D",
     "explication": "Le dispositif Denormandie prévoit un engagement de location de six, neuf ou douze ans, avec un avantage fiscal variant selon la durée retenue.",
-    "pieges": {"A": "Trois ans n'est pas une durée initiale du dispositif.", "B": "Ces durées ne correspondent pas au cadre Denormandie.", "C": "Neuf ans est une possibilité, pas l'unique durée."},
-    "sources": ["S013"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Trois ans n'est pas une durée initiale du dispositif.",
+      "B": "Ces durées ne correspondent pas au cadre Denormandie.",
+      "C": "Neuf ans est une possibilité, pas l'unique durée."
+    },
+    "sources": [
+      "S013"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0016",
@@ -185,11 +395,25 @@
     "sous_domaine": "Rendement brut",
     "difficulte": "debutant",
     "enonce": "Quelle formule décrit le rendement locatif brut ?",
-    "choix": {"A": "Loyers annuels bruts rapportés au coût d'acquisition, avant charges et fiscalité", "B": "Loyers nets après impôt rapportés au seul apport personnel", "C": "Plus-value espérée rapportée aux frais de notaire", "D": "Mensualités de crédit rapportées à la valeur locative"},
+    "choix": {
+      "A": "Loyers annuels bruts rapportés au coût d'acquisition, avant charges et fiscalité",
+      "B": "Loyers nets après impôt rapportés au seul apport personnel",
+      "C": "Plus-value espérée rapportée aux frais de notaire",
+      "D": "Mensualités de crédit rapportées à la valeur locative"
+    },
     "bonne_reponse": "A",
     "explication": "Le rendement locatif brut met en rapport les loyers annuels bruts et le coût d'acquisition. Il ne mesure ni les charges, ni la fiscalité, ni le coût complet du financement.",
-    "pieges": {"B": "Cette approche mélange rendement net, fiscalité et effet de levier.", "C": "Une plus-value potentielle n'est pas un loyer.", "D": "Les mensualités décrivent le financement, pas le rendement locatif brut."},
-    "sources": ["S013"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "B": "Cette approche mélange rendement net, fiscalité et effet de levier.",
+      "C": "Une plus-value potentielle n'est pas un loyer.",
+      "D": "Les mensualités décrivent le financement, pas le rendement locatif brut."
+    },
+    "sources": [
+      "S013"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0017",
@@ -197,11 +421,25 @@
     "sous_domaine": "Indivision",
     "difficulte": "intermediaire",
     "enonce": "Quel principe s'applique à l'occupation privative d'un bien indivis ?",
-    "choix": {"A": "Elle est toujours gratuite", "B": "Elle entraîne automatiquement la vente du bien", "C": "Elle peut donner lieu à une indemnité envers l'indivision, sauf convention contraire", "D": "Elle transfère la propriété à l'occupant après un an"},
+    "choix": {
+      "A": "Elle est toujours gratuite",
+      "B": "Elle entraîne automatiquement la vente du bien",
+      "C": "Elle peut donner lieu à une indemnité envers l'indivision, sauf convention contraire",
+      "D": "Elle transfère la propriété à l'occupant après un an"
+    },
     "bonne_reponse": "C",
     "explication": "L'indivisaire qui jouit privativement de la chose indivise est, sauf convention contraire, redevable d'une indemnité envers l'indivision.",
-    "pieges": {"A": "La gratuité n'est pas le principe légal.", "B": "L'occupation ne déclenche pas automatiquement une vente.", "D": "Aucun transfert de propriété ne résulte d'une occupation d'un an."},
-    "sources": ["S014"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "La gratuité n'est pas le principe légal.",
+      "B": "L'occupation ne déclenche pas automatiquement une vente.",
+      "D": "Aucun transfert de propriété ne résulte d'une occupation d'un an."
+    },
+    "sources": [
+      "S014"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0018",
@@ -209,11 +447,25 @@
     "sous_domaine": "Usufruit",
     "difficulte": "debutant",
     "enonce": "Qui perçoit en principe les loyers d'un bien immobilier démembré ?",
-    "choix": {"A": "Le nu-propriétaire", "B": "L'usufruitier", "C": "Le notaire", "D": "Les deux obligatoirement à parts égales"},
+    "choix": {
+      "A": "Le nu-propriétaire",
+      "B": "L'usufruitier",
+      "C": "Le notaire",
+      "D": "Les deux obligatoirement à parts égales"
+    },
     "bonne_reponse": "B",
     "explication": "Les loyers constituent des fruits civils du bien. Le droit de jouissance attaché à l'usufruit permet en principe à l'usufruitier de les percevoir.",
-    "pieges": {"A": "Le nu-propriétaire détient la substance du droit mais pas les fruits courants.", "C": "Le notaire n'est pas bénéficiaire des revenus du bien.", "D": "Un partage égal n'est pas la conséquence automatique du démembrement."},
-    "sources": ["S015"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Le nu-propriétaire détient la substance du droit mais pas les fruits courants.",
+      "C": "Le notaire n'est pas bénéficiaire des revenus du bien.",
+      "D": "Un partage égal n'est pas la conséquence automatique du démembrement."
+    },
+    "sources": [
+      "S015"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0019",
@@ -221,11 +473,25 @@
     "sous_domaine": "Barème du démembrement",
     "difficulte": "avance",
     "enonce": "Quelle valeur fiscale l'article 669 du CGI attribue-t-il à la nue-propriété lorsque l'usufruitier a de 61 ans révolus à 70 ans ?",
-    "choix": {"A": "30 %", "B": "40 %", "C": "50 %", "D": "60 %"},
+    "choix": {
+      "A": "30 %",
+      "B": "40 %",
+      "C": "50 %",
+      "D": "60 %"
+    },
     "bonne_reponse": "D",
     "explication": "Pour un usufruitier âgé de 61 à 70 ans révolus, l'usufruit vaut fiscalement 40 % et la nue-propriété 60 % de la pleine propriété.",
-    "pieges": {"A": "Trente pour cent correspond à une autre tranche du barème.", "B": "Quarante pour cent est ici la valeur de l'usufruit.", "C": "La répartition par moitié correspond à la tranche immédiatement plus jeune."},
-    "sources": ["S016"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Trente pour cent correspond à une autre tranche du barème.",
+      "B": "Quarante pour cent est ici la valeur de l'usufruit.",
+      "C": "La répartition par moitié correspond à la tranche immédiatement plus jeune."
+    },
+    "sources": [
+      "S016"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0020",
@@ -233,11 +499,25 @@
     "sous_domaine": "Régime matrimonial",
     "difficulte": "intermediaire",
     "enonce": "Sous le régime légal de la communauté réduite aux acquêts, quelle qualification reçoit en principe un bien recueilli par succession pendant le mariage ?",
-    "choix": {"A": "Bien propre de l'époux héritier", "B": "Bien commun", "C": "Bien indivis par moitié", "D": "Bien propre du conjoint survivant"},
+    "choix": {
+      "A": "Bien propre de l'époux héritier",
+      "B": "Bien commun",
+      "C": "Bien indivis par moitié",
+      "D": "Bien propre du conjoint survivant"
+    },
     "bonne_reponse": "A",
     "explication": "Les biens reçus par succession ou donation pendant le mariage restent en principe propres à l'époux bénéficiaire sous le régime légal.",
-    "pieges": {"B": "La date d'acquisition pendant le mariage ne suffit pas lorsque le bien est reçu à titre gratuit.", "C": "La succession n'instaure pas automatiquement une indivision entre époux.", "D": "Le conjoint ne devient pas propriétaire du seul fait du mariage."},
-    "sources": ["S017"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "B": "La date d'acquisition pendant le mariage ne suffit pas lorsque le bien est reçu à titre gratuit.",
+      "C": "La succession n'instaure pas automatiquement une indivision entre époux.",
+      "D": "Le conjoint ne devient pas propriétaire du seul fait du mariage."
+    },
+    "sources": [
+      "S017"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0021",
@@ -245,11 +525,25 @@
     "sous_domaine": "Accession immobilière",
     "difficulte": "expert",
     "enonce": "Quelle conséquence produit en principe une construction financée par la communauté sur le terrain propre d'un époux ?",
-    "choix": {"A": "La construction devient un bien commun distinct du terrain", "B": "Le terrain devient automatiquement commun", "C": "L'ensemble reste propre au propriétaire du terrain, sous réserve d'une récompense due à la communauté", "D": "L'ensemble appartient au constructeur"},
+    "choix": {
+      "A": "La construction devient un bien commun distinct du terrain",
+      "B": "Le terrain devient automatiquement commun",
+      "C": "L'ensemble reste propre au propriétaire du terrain, sous réserve d'une récompense due à la communauté",
+      "D": "L'ensemble appartient au constructeur"
+    },
     "bonne_reponse": "C",
     "explication": "Par accession, la construction suit en principe la propriété du sol. Le financement communautaire peut toutefois ouvrir un droit à récompense lors de la liquidation du régime.",
-    "pieges": {"A": "Le bâtiment ne reçoit pas une propriété séparée du sol dans ce schéma.", "B": "Le financement ne modifie pas à lui seul la propriété du terrain.", "D": "La qualité matérielle de constructeur ne détermine pas la propriété."},
-    "sources": ["S018"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Le bâtiment ne reçoit pas une propriété séparée du sol dans ce schéma.",
+      "B": "Le financement ne modifie pas à lui seul la propriété du terrain.",
+      "D": "La qualité matérielle de constructeur ne détermine pas la propriété."
+    },
+    "sources": [
+      "S018"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0022",
@@ -257,11 +551,25 @@
     "sous_domaine": "Pacs",
     "difficulte": "intermediaire",
     "enonce": "Quelle affirmation décrit correctement les droits successoraux légaux du partenaire de Pacs ?",
-    "choix": {"A": "Il reçoit toujours la moitié de la succession", "B": "Il n'est pas héritier légal en l'absence de testament", "C": "Il reçoit automatiquement l'usufruit universel", "D": "Il a les mêmes droits que le conjoint marié"},
+    "choix": {
+      "A": "Il reçoit toujours la moitié de la succession",
+      "B": "Il n'est pas héritier légal en l'absence de testament",
+      "C": "Il reçoit automatiquement l'usufruit universel",
+      "D": "Il a les mêmes droits que le conjoint marié"
+    },
     "bonne_reponse": "B",
     "explication": "Le partenaire de Pacs n'est pas héritier légal. Un testament est nécessaire pour lui transmettre des biens, dans le respect de la réserve héréditaire éventuelle.",
-    "pieges": {"A": "Aucune moitié automatique n'est prévue.", "C": "Un usufruit universel suppose une disposition valable et compatible avec les droits réservataires.", "D": "Le mariage et le Pacs n'emportent pas les mêmes droits successoraux légaux."},
-    "sources": ["S019"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Aucune moitié automatique n'est prévue.",
+      "C": "Un usufruit universel suppose une disposition valable et compatible avec les droits réservataires.",
+      "D": "Le mariage et le Pacs n'emportent pas les mêmes droits successoraux légaux."
+    },
+    "sources": [
+      "S019"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0023",
@@ -269,11 +577,25 @@
     "sous_domaine": "Conjoint survivant",
     "difficulte": "avance",
     "enonce": "En présence d'au moins un enfant non commun, quelle est en principe l'option légale du conjoint survivant sur la succession ?",
-    "choix": {"A": "La totalité en usufruit", "B": "La moitié en pleine propriété", "C": "Un quart en usufruit", "D": "Un quart en pleine propriété"},
+    "choix": {
+      "A": "La totalité en usufruit",
+      "B": "La moitié en pleine propriété",
+      "C": "Un quart en usufruit",
+      "D": "Un quart en pleine propriété"
+    },
     "bonne_reponse": "D",
     "explication": "Lorsque le défunt laisse un ou plusieurs enfants qui ne sont pas tous communs au couple, le conjoint survivant recueille en principe un quart de la succession en pleine propriété.",
-    "pieges": {"A": "L'option pour la totalité en usufruit concerne le cas où tous les enfants sont communs.", "B": "La moitié ne constitue pas la quotité légale de ce cas.", "C": "Le quart légal est attribué en pleine propriété, non en usufruit."},
-    "sources": ["S020"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "L'option pour la totalité en usufruit concerne le cas où tous les enfants sont communs.",
+      "B": "La moitié ne constitue pas la quotité légale de ce cas.",
+      "C": "Le quart légal est attribué en pleine propriété, non en usufruit."
+    },
+    "sources": [
+      "S020"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0024",
@@ -281,11 +603,25 @@
     "sous_domaine": "Donation parent-enfant",
     "difficulte": "intermediaire",
     "enonce": "Quel abattement ordinaire s'applique aux donations d'un même parent à un même enfant, renouvelable en principe tous les quinze ans ?",
-    "choix": {"A": "100 000 euros", "B": "31 865 euros", "C": "80 724 euros", "D": "152 500 euros"},
+    "choix": {
+      "A": "100 000 euros",
+      "B": "31 865 euros",
+      "C": "80 724 euros",
+      "D": "152 500 euros"
+    },
     "bonne_reponse": "A",
     "explication": "L'abattement de droit commun entre un parent et un enfant est de 100 000 euros par donateur et par donataire, renouvelable après quinze ans.",
-    "pieges": {"B": "31 865 euros renvoie notamment au don familial de somme d'argent sous conditions distinctes.", "C": "80 724 euros est l'abattement applicable entre époux ou partenaires de Pacs.", "D": "152 500 euros correspond au régime de l'article 990 I en assurance-vie."},
-    "sources": ["S021"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "B": "31 865 euros renvoie notamment au don familial de somme d'argent sous conditions distinctes.",
+      "C": "80 724 euros est l'abattement applicable entre époux ou partenaires de Pacs.",
+      "D": "152 500 euros correspond au régime de l'article 990 I en assurance-vie."
+    },
+    "sources": [
+      "S021"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0025",
@@ -293,11 +629,25 @@
     "sous_domaine": "Unités de compte",
     "difficulte": "debutant",
     "enonce": "Quel risque caractérise une unité de compte dans un contrat d'assurance-vie ?",
-    "choix": {"A": "Son rendement annuel est fixé par l'État", "B": "Sa valeur en capital n'est pas garantie et peut fluctuer", "C": "Elle ne peut jamais être rachetée", "D": "Elle est intégralement garantie par le FGDR"},
+    "choix": {
+      "A": "Son rendement annuel est fixé par l'État",
+      "B": "Sa valeur en capital n'est pas garantie et peut fluctuer",
+      "C": "Elle ne peut jamais être rachetée",
+      "D": "Elle est intégralement garantie par le FGDR"
+    },
     "bonne_reponse": "B",
     "explication": "L'assureur garantit le nombre d'unités de compte, mais pas leur valeur. Celle-ci évolue selon les actifs sous-jacents et peut donc baisser.",
-    "pieges": {"A": "Le rendement d'une unité de compte dépend du marché ou du support.", "C": "La liquidité dépend du contrat et du support, mais le rachat n'est pas interdit par nature.", "D": "Le FGDR n'est pas une garantie générale de la valeur des unités de compte."},
-    "sources": ["S022"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Le rendement d'une unité de compte dépend du marché ou du support.",
+      "C": "La liquidité dépend du contrat et du support, mais le rachat n'est pas interdit par nature.",
+      "D": "Le FGDR n'est pas une garantie générale de la valeur des unités de compte."
+    },
+    "sources": [
+      "S022"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0026",
@@ -305,11 +655,26 @@
     "sous_domaine": "Rachat partiel",
     "difficulte": "avance",
     "enonce": "Quelle composante d'un rachat partiel d'assurance-vie constitue le produit imposable ?",
-    "choix": {"A": "La totalité de la somme retirée", "B": "La totalité des primes versées depuis l'origine", "C": "La quote-part de gains comprise dans le rachat", "D": "Uniquement les frais du contrat"},
+    "choix": {
+      "A": "La totalité de la somme retirée",
+      "B": "La totalité des primes versées depuis l'origine",
+      "C": "La quote-part de gains comprise dans le rachat",
+      "D": "Uniquement les frais du contrat"
+    },
     "bonne_reponse": "C",
     "explication": "Un rachat partiel comprend une fraction de capital et une fraction de produits. Seule la quote-part de produits ou gains est soumise au régime d'imposition du rachat.",
-    "pieges": {"A": "La part correspondant au remboursement des primes n'est pas un gain.", "B": "Les primes historiques ne deviennent pas toutes imposables au premier rachat.", "D": "Les frais ne constituent pas le produit fiscal du retrait."},
-    "sources": ["S023", "S024"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "La part correspondant au remboursement des primes n'est pas un gain.",
+      "B": "Les primes historiques ne deviennent pas toutes imposables au premier rachat.",
+      "D": "Les frais ne constituent pas le produit fiscal du retrait."
+    },
+    "sources": [
+      "S023",
+      "S024"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0027",
@@ -317,11 +682,25 @@
     "sous_domaine": "Fiscalité des rachats",
     "difficulte": "avance",
     "enonce": "Quels abattements annuels d'impôt sur le revenu concernent les produits de contrats d'assurance-vie de plus de huit ans ?",
-    "choix": {"A": "4 600 euros pour une personne seule et 9 200 euros pour un couple soumis à imposition commune", "B": "10 000 euros pour toute personne", "C": "152 500 euros par bénéficiaire", "D": "30 500 euros par contrat"},
+    "choix": {
+      "A": "4 600 euros pour une personne seule et 9 200 euros pour un couple soumis à imposition commune",
+      "B": "10 000 euros pour toute personne",
+      "C": "152 500 euros par bénéficiaire",
+      "D": "30 500 euros par contrat"
+    },
     "bonne_reponse": "A",
     "explication": "Après huit ans, un abattement annuel s'applique aux produits imposables retirés : 4 600 euros pour une personne seule et 9 200 euros pour un couple imposé en commun.",
-    "pieges": {"B": "Un abattement uniforme de 10 000 euros n'existe pas.", "C": "152 500 euros vise la fiscalité décès de l'article 990 I.", "D": "30 500 euros vise les primes versées après soixante-dix ans au décès."},
-    "sources": ["S024"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "B": "Un abattement uniforme de 10 000 euros n'existe pas.",
+      "C": "152 500 euros vise la fiscalité décès de l'article 990 I.",
+      "D": "30 500 euros vise les primes versées après soixante-dix ans au décès."
+    },
+    "sources": [
+      "S024"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0028",
@@ -329,11 +708,25 @@
     "sous_domaine": "Fiscalité décès",
     "difficulte": "avance",
     "enonce": "Quel critère d'âge détermine principalement l'application de l'article 757 B du CGI à l'assurance-vie ?",
-    "choix": {"A": "L'âge du bénéficiaire au décès", "B": "L'âge du contrat au décès", "C": "L'âge de l'assuré à la souscription", "D": "L'âge de l'assuré au moment du versement des primes"},
+    "choix": {
+      "A": "L'âge du bénéficiaire au décès",
+      "B": "L'âge du contrat au décès",
+      "C": "L'âge de l'assuré à la souscription",
+      "D": "L'âge de l'assuré au moment du versement des primes"
+    },
     "bonne_reponse": "D",
     "explication": "Pour les contrats concernés, l'article 757 B vise les primes versées après le soixante-dixième anniversaire de l'assuré. L'âge à la date du versement est donc déterminant.",
-    "pieges": {"A": "L'âge du bénéficiaire n'est pas le critère de rattachement à l'article 757 B.", "B": "L'ancienneté du contrat ne remplace pas l'âge au versement.", "C": "L'âge à la souscription ne suffit pas lorsque les primes sont versées ultérieurement."},
-    "sources": ["S026"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "L'âge du bénéficiaire n'est pas le critère de rattachement à l'article 757 B.",
+      "B": "L'ancienneté du contrat ne remplace pas l'âge au versement.",
+      "C": "L'âge à la souscription ne suffit pas lorsque les primes sont versées ultérieurement."
+    },
+    "sources": [
+      "S026"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0029",
@@ -341,11 +734,25 @@
     "sous_domaine": "Article 990 I",
     "difficulte": "avance",
     "enonce": "Quel abattement l'article 990 I du CGI prévoit-il en principe pour chaque bénéficiaire sur les capitaux entrant dans son champ ?",
-    "choix": {"A": "30 500 euros", "B": "152 500 euros", "C": "100 000 euros", "D": "4 600 euros"},
+    "choix": {
+      "A": "30 500 euros",
+      "B": "152 500 euros",
+      "C": "100 000 euros",
+      "D": "4 600 euros"
+    },
     "bonne_reponse": "B",
     "explication": "L'article 990 I prévoit en principe un abattement de 152 500 euros par bénéficiaire sur les sommes relevant de ce régime avant application du prélèvement spécifique.",
-    "pieges": {"A": "30 500 euros est l'abattement global associé à l'article 757 B.", "C": "100 000 euros est notamment l'abattement successoral ou de donation en ligne directe.", "D": "4 600 euros concerne les produits retirés après huit ans pour une personne seule."},
-    "sources": ["S025"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "30 500 euros est l'abattement global associé à l'article 757 B.",
+      "C": "100 000 euros est notamment l'abattement successoral ou de donation en ligne directe.",
+      "D": "4 600 euros concerne les produits retirés après huit ans pour une personne seule."
+    },
+    "sources": [
+      "S025"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0030",
@@ -353,11 +760,25 @@
     "sous_domaine": "Article 757 B",
     "difficulte": "expert",
     "enonce": "Quelle assiette relève en principe de l'article 757 B du CGI pour les primes versées après soixante-dix ans ?",
-    "choix": {"A": "La totalité du capital décès, gains compris, sans abattement", "B": "Uniquement les gains capitalisés", "C": "Les primes concernées au-delà d'un abattement global de 30 500 euros, les gains étant hors de cette assiette", "D": "Les primes au-delà de 152 500 euros par bénéficiaire"},
+    "choix": {
+      "A": "La totalité du capital décès, gains compris, sans abattement",
+      "B": "Uniquement les gains capitalisés",
+      "C": "Les primes concernées au-delà d'un abattement global de 30 500 euros, les gains étant hors de cette assiette",
+      "D": "Les primes au-delà de 152 500 euros par bénéficiaire"
+    },
     "bonne_reponse": "C",
     "explication": "L'article 757 B soumet aux droits de mutation les primes versées après soixante-dix ans au-delà d'un abattement global de 30 500 euros. Les produits générés par ces primes ne sont pas compris dans cette assiette.",
-    "pieges": {"A": "Les gains ne sont pas inclus dans l'assiette de l'article 757 B et un abattement existe.", "B": "Le mécanisme vise au contraire les primes concernées.", "D": "152 500 euros appartient au régime de l'article 990 I."},
-    "sources": ["S026"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Les gains ne sont pas inclus dans l'assiette de l'article 757 B et un abattement existe.",
+      "B": "Le mécanisme vise au contraire les primes concernées.",
+      "D": "152 500 euros appartient au régime de l'article 990 I."
+    },
+    "sources": [
+      "S026"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0031",
@@ -365,11 +786,25 @@
     "sous_domaine": "Acceptation bénéficiaire",
     "difficulte": "avance",
     "enonce": "Quel effet principal produit l'acceptation régulière de la clause bénéficiaire sur un rachat ultérieur ?",
-    "choix": {"A": "Le rachat nécessite en principe l'accord du bénéficiaire acceptant", "B": "Le contrat est automatiquement dénoué", "C": "Le bénéficiaire devient immédiatement propriétaire des supports", "D": "Toute modification reste libre sans formalité"},
+    "choix": {
+      "A": "Le rachat nécessite en principe l'accord du bénéficiaire acceptant",
+      "B": "Le contrat est automatiquement dénoué",
+      "C": "Le bénéficiaire devient immédiatement propriétaire des supports",
+      "D": "Toute modification reste libre sans formalité"
+    },
     "bonne_reponse": "A",
     "explication": "Lorsque l'acceptation a été régulièrement formalisée, le souscripteur ne peut en principe effectuer seul un rachat ou une avance ; l'accord du bénéficiaire acceptant est requis.",
-    "pieges": {"B": "L'acceptation ne dénoue pas le contrat du vivant de l'assuré.", "C": "Elle ne transfère pas immédiatement la propriété des actifs du contrat.", "D": "L'acceptation limite précisément certaines facultés unilatérales du souscripteur."},
-    "sources": ["S027"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "B": "L'acceptation ne dénoue pas le contrat du vivant de l'assuré.",
+      "C": "Elle ne transfère pas immédiatement la propriété des actifs du contrat.",
+      "D": "L'acceptation limite précisément certaines facultés unilatérales du souscripteur."
+    },
+    "sources": [
+      "S027"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0032",
@@ -377,11 +812,26 @@
     "sous_domaine": "Arbitrage",
     "difficulte": "intermediaire",
     "enonce": "Quel est en principe l'effet fiscal immédiat d'un arbitrage entre supports au sein d'un même contrat d'assurance-vie ?",
-    "choix": {"A": "Il déclenche toujours l'impôt sur le revenu", "B": "Il remet à zéro l'ancienneté fiscale du contrat", "C": "Il constitue une donation", "D": "Il ne constitue pas, à lui seul, un rachat imposable"},
+    "choix": {
+      "A": "Il déclenche toujours l'impôt sur le revenu",
+      "B": "Il remet à zéro l'ancienneté fiscale du contrat",
+      "C": "Il constitue une donation",
+      "D": "Il ne constitue pas, à lui seul, un rachat imposable"
+    },
     "bonne_reponse": "D",
     "explication": "L'arbitrage modifie la répartition interne du contrat sans sortie de fonds. Il ne constitue donc pas, à lui seul, un fait générateur d'impôt sur le revenu au titre d'un rachat.",
-    "pieges": {"A": "L'imposition du rachat suppose une sortie ou un dénouement taxable.", "B": "L'ancienneté fiscale du contrat n'est pas réinitialisée par un arbitrage.", "C": "Aucun transfert gratuit à un tiers n'est réalisé."},
-    "sources": ["S022", "S024"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "L'imposition du rachat suppose une sortie ou un dénouement taxable.",
+      "B": "L'ancienneté fiscale du contrat n'est pas réinitialisée par un arbitrage.",
+      "C": "Aucun transfert gratuit à un tiers n'est réalisé."
+    },
+    "sources": [
+      "S022",
+      "S024"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0033",
@@ -389,11 +839,25 @@
     "sous_domaine": "PTIA",
     "difficulte": "avance",
     "enonce": "Quelle affirmation décrit correctement la perte totale et irréversible d'autonomie en assurance ?",
-    "choix": {"A": "Elle correspond automatiquement à toute invalidité administrative de 80 %", "B": "Elle est identique à une incapacité temporaire de travail", "C": "Elle dépend de la définition contractuelle, généralement liée à l'impossibilité d'exercer une activité et au besoin d'assistance d'une tierce personne", "D": "Elle ne peut jamais être garantie"},
+    "choix": {
+      "A": "Elle correspond automatiquement à toute invalidité administrative de 80 %",
+      "B": "Elle est identique à une incapacité temporaire de travail",
+      "C": "Elle dépend de la définition contractuelle, généralement liée à l'impossibilité d'exercer une activité et au besoin d'assistance d'une tierce personne",
+      "D": "Elle ne peut jamais être garantie"
+    },
     "bonne_reponse": "C",
     "explication": "La PTIA est une notion contractuelle exigeante. Une reconnaissance administrative d'invalidité ne suffit pas automatiquement ; les critères précis de la notice doivent être vérifiés.",
-    "pieges": {"A": "Un taux administratif ne se confond pas nécessairement avec la définition assurantielle.", "B": "L'incapacité temporaire et la PTIA couvrent des situations différentes.", "D": "La PTIA est couramment couverte en assurance emprunteur et prévoyance."},
-    "sources": ["S028"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Un taux administratif ne se confond pas nécessairement avec la définition assurantielle.",
+      "B": "L'incapacité temporaire et la PTIA couvrent des situations différentes.",
+      "D": "La PTIA est couramment couverte en assurance emprunteur et prévoyance."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0034",
@@ -401,11 +865,25 @@
     "sous_domaine": "Carence et franchise",
     "difficulte": "intermediaire",
     "enonce": "Quelle distinction entre délai de carence et délai de franchise est correcte ?",
-    "choix": {"A": "Les deux notions sont toujours synonymes", "B": "La carence court généralement au début du contrat, tandis que la franchise retarde l'indemnisation après la survenance d'un sinistre", "C": "La franchise précède toujours la souscription", "D": "La carence s'applique uniquement à l'assurance-vie"},
+    "choix": {
+      "A": "Les deux notions sont toujours synonymes",
+      "B": "La carence court généralement au début du contrat, tandis que la franchise retarde l'indemnisation après la survenance d'un sinistre",
+      "C": "La franchise précède toujours la souscription",
+      "D": "La carence s'applique uniquement à l'assurance-vie"
+    },
     "bonne_reponse": "B",
     "explication": "La carence est une période initiale pendant laquelle certains événements ne sont pas couverts. La franchise est une période restant à la charge de l'assuré après le début d'un sinistre garanti.",
-    "pieges": {"A": "Les deux délais interviennent à des moments différents.", "C": "La franchise se rattache au sinistre, non à une période antérieure à la souscription.", "D": "La carence existe dans plusieurs assurances de personnes."},
-    "sources": ["S028"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Les deux délais interviennent à des moments différents.",
+      "C": "La franchise se rattache au sinistre, non à une période antérieure à la souscription.",
+      "D": "La carence existe dans plusieurs assurances de personnes."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0035",
@@ -413,11 +891,25 @@
     "sous_domaine": "Garantie décès",
     "difficulte": "debutant",
     "enonce": "Quelle est la finalité principale d'une garantie décès de prévoyance ?",
-    "choix": {"A": "Verser un capital ou une rente aux bénéficiaires afin de compenser les conséquences financières du décès", "B": "Garantir le rendement d'un portefeuille d'actions", "C": "Rembourser les dépenses de santé courantes", "D": "Financer exclusivement les droits de succession"},
+    "choix": {
+      "A": "Verser un capital ou une rente aux bénéficiaires afin de compenser les conséquences financières du décès",
+      "B": "Garantir le rendement d'un portefeuille d'actions",
+      "C": "Rembourser les dépenses de santé courantes",
+      "D": "Financer exclusivement les droits de succession"
+    },
     "bonne_reponse": "A",
     "explication": "Une garantie décès vise à protéger financièrement les bénéficiaires désignés par le versement d'un capital ou d'une rente selon le contrat.",
-    "pieges": {"B": "La prévoyance décès ne garantit pas un investissement boursier.", "C": "Les soins courants relèvent d'une complémentaire santé.", "D": "Le capital peut avoir plusieurs usages et n'est pas juridiquement réservé aux droits de succession."},
-    "sources": ["S028"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "B": "La prévoyance décès ne garantit pas un investissement boursier.",
+      "C": "Les soins courants relèvent d'une complémentaire santé.",
+      "D": "Le capital peut avoir plusieurs usages et n'est pas juridiquement réservé aux droits de succession."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0036",
@@ -425,11 +917,25 @@
     "sous_domaine": "PEA",
     "difficulte": "intermediaire",
     "enonce": "Quel est le plafond des versements sur un PEA bancaire classique, hors PEA-PME ?",
-    "choix": {"A": "22 950 euros", "B": "75 000 euros", "C": "225 000 euros sans autre condition", "D": "150 000 euros"},
+    "choix": {
+      "A": "22 950 euros",
+      "B": "75 000 euros",
+      "C": "225 000 euros sans autre condition",
+      "D": "150 000 euros"
+    },
     "bonne_reponse": "D",
     "explication": "Le plafond de versements du PEA classique est de 150 000 euros. Les gains et plus-values générés dans le plan ne sont pas des versements et peuvent porter sa valeur au-delà du plafond.",
-    "pieges": {"A": "22 950 euros est le plafond de versements du Livret A.", "B": "75 000 euros n'est pas le plafond du PEA classique.", "C": "225 000 euros renvoie au plafond global articulé avec le PEA-PME, sous conditions."},
-    "sources": ["S029"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "22 950 euros est le plafond de versements du Livret A.",
+      "B": "75 000 euros n'est pas le plafond du PEA classique.",
+      "C": "225 000 euros renvoie au plafond global articulé avec le PEA-PME, sous conditions."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0037",
@@ -437,11 +943,26 @@
     "sous_domaine": "PEA après cinq ans",
     "difficulte": "avance",
     "enonce": "Quel effet produit en principe un retrait partiel effectué sur un PEA de plus de cinq ans ?",
-    "choix": {"A": "Il entraîne toujours la clôture du plan", "B": "Il rend tous les gains imposables au barème", "C": "Il n'entraîne pas la clôture et de nouveaux versements restent possibles dans la limite du plafond", "D": "Il transforme automatiquement le PEA en compte-titres"},
+    "choix": {
+      "A": "Il entraîne toujours la clôture du plan",
+      "B": "Il rend tous les gains imposables au barème",
+      "C": "Il n'entraîne pas la clôture et de nouveaux versements restent possibles dans la limite du plafond",
+      "D": "Il transforme automatiquement le PEA en compte-titres"
+    },
     "bonne_reponse": "C",
     "explication": "Après cinq ans, un retrait partiel n'entraîne plus la clôture du PEA. Les versements ultérieurs restent possibles tant que le plafond applicable n'est pas dépassé.",
-    "pieges": {"A": "La clôture automatique concernait principalement les retraits précoces, sous réserve d'exceptions.", "B": "Les gains bénéficient en principe de l'exonération d'impôt sur le revenu après cinq ans, hors prélèvements sociaux.", "D": "Le plan conserve sa nature juridique."},
-    "sources": ["S029", "S030"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "La clôture automatique concernait principalement les retraits précoces, sous réserve d'exceptions.",
+      "B": "Les gains bénéficient en principe de l'exonération d'impôt sur le revenu après cinq ans, hors prélèvements sociaux.",
+      "D": "Le plan conserve sa nature juridique."
+    },
+    "sources": [
+      "S029",
+      "S030"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0038",
@@ -449,11 +970,25 @@
     "sous_domaine": "PER et résidence principale",
     "difficulte": "avance",
     "enonce": "Quels droits d'un PER ne peuvent pas être débloqués par anticipation pour l'acquisition de la résidence principale ?",
-    "choix": {"A": "Les versements volontaires", "B": "Les droits issus de versements obligatoires", "C": "Les droits issus de l'intéressement", "D": "Les droits issus de la participation"},
+    "choix": {
+      "A": "Les versements volontaires",
+      "B": "Les droits issus de versements obligatoires",
+      "C": "Les droits issus de l'intéressement",
+      "D": "Les droits issus de la participation"
+    },
     "bonne_reponse": "B",
     "explication": "L'acquisition de la résidence principale constitue un cas de déblocage anticipé, sauf pour les sommes provenant de versements obligatoires.",
-    "pieges": {"A": "Les versements volontaires peuvent être mobilisés pour ce motif.", "C": "L'épargne salariale transférée peut en principe être concernée.", "D": "La participation n'est pas exclue par nature de ce cas de déblocage."},
-    "sources": ["S031"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Les versements volontaires peuvent être mobilisés pour ce motif.",
+      "C": "L'épargne salariale transférée peut en principe être concernée.",
+      "D": "La participation n'est pas exclue par nature de ce cas de déblocage."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0039",
@@ -461,11 +996,25 @@
     "sous_domaine": "Fiscalité du PER",
     "difficulte": "intermediaire",
     "enonce": "Quel principe fiscal s'applique aux versements volontaires sur un PER individuel ?",
-    "choix": {"A": "Ils peuvent être déduits du revenu imposable dans les limites applicables, avec une fiscalité de sortie dépendant notamment de cette option", "B": "Ils sont toujours déductibles sans plafond", "C": "Ils ne sont jamais déductibles", "D": "Ils ouvrent automatiquement droit à un crédit d'impôt de 50 %"},
+    "choix": {
+      "A": "Ils peuvent être déduits du revenu imposable dans les limites applicables, avec une fiscalité de sortie dépendant notamment de cette option",
+      "B": "Ils sont toujours déductibles sans plafond",
+      "C": "Ils ne sont jamais déductibles",
+      "D": "Ils ouvrent automatiquement droit à un crédit d'impôt de 50 %"
+    },
     "bonne_reponse": "A",
     "explication": "Le titulaire peut choisir la déduction des versements volontaires dans la limite de son plafond. Ce choix influence le régime fiscal applicable lors de la sortie.",
-    "pieges": {"B": "La déduction est plafonnée et ne peut être présentée comme illimitée.", "C": "Une faculté de déduction existe bien.", "D": "Le mécanisme est une déduction du revenu, pas un crédit d'impôt automatique de 50 %."},
-    "sources": ["S031"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "B": "La déduction est plafonnée et ne peut être présentée comme illimitée.",
+      "C": "Une faculté de déduction existe bien.",
+      "D": "Le mécanisme est une déduction du revenu, pas un crédit d'impôt automatique de 50 %."
+    },
+    "sources": [
+      "S031"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0040",
@@ -473,11 +1022,25 @@
     "sous_domaine": "Certification AMF",
     "difficulte": "avance",
     "enonce": "Quel format correspond à l'examen AMF général présenté par l'AMF en 2026 ?",
-    "choix": {"A": "Cent questions en une heure avec 70 % au total", "B": "Quatre-vingts questions en deux heures avec une note globale unique", "C": "Cent vingt questions en une heure sans seuil par catégorie", "D": "Cent vingt questions en deux heures avec au moins 80 % de bonnes réponses dans les catégories A et C"},
+    "choix": {
+      "A": "Cent questions en une heure avec 70 % au total",
+      "B": "Quatre-vingts questions en deux heures avec une note globale unique",
+      "C": "Cent vingt questions en une heure sans seuil par catégorie",
+      "D": "Cent vingt questions en deux heures avec au moins 80 % de bonnes réponses dans les catégories A et C"
+    },
     "bonne_reponse": "D",
     "explication": "L'examen AMF général comporte 120 questions à traiter en deux heures. La réussite exige au moins 80 % de bonnes réponses dans chacune des catégories A et C.",
-    "pieges": {"A": "Ce format ne correspond pas à l'examen AMF général.", "B": "Le questionnaire ne se limite pas à quatre-vingts questions et le seuil n'est pas seulement global.", "C": "La durée est de deux heures et les deux catégories ont chacune un seuil."},
-    "sources": ["S001"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Ce format ne correspond pas à l'examen AMF général.",
+      "B": "Le questionnaire ne se limite pas à quatre-vingts questions et le seuil n'est pas seulement global.",
+      "C": "La durée est de deux heures et les deux catégories ont chacune un seuil."
+    },
+    "sources": [
+      "S001"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0041",
@@ -485,11 +1048,25 @@
     "sous_domaine": "Obligations",
     "difficulte": "intermediaire",
     "enonce": "Toutes choses égales par ailleurs, quel est l'effet d'une hausse des taux de marché sur le prix d'une obligation à taux fixe déjà émise ?",
-    "choix": {"A": "Son prix augmente nécessairement", "B": "Son prix tend à diminuer", "C": "Son prix devient égal à zéro", "D": "Son prix ne peut jamais varier"},
+    "choix": {
+      "A": "Son prix augmente nécessairement",
+      "B": "Son prix tend à diminuer",
+      "C": "Son prix devient égal à zéro",
+      "D": "Son prix ne peut jamais varier"
+    },
     "bonne_reponse": "B",
     "explication": "Lorsque les taux de marché montent, les coupons fixes d'une obligation ancienne deviennent relativement moins attractifs. Son prix de marché tend donc à baisser.",
-    "pieges": {"A": "La relation habituelle entre taux et prix obligataire est inverse.", "C": "Une hausse de taux n'annule pas mécaniquement toute valeur.", "D": "Une obligation négociable fluctue avant son échéance."},
-    "sources": ["S032"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "La relation habituelle entre taux et prix obligataire est inverse.",
+      "C": "Une hausse de taux n'annule pas mécaniquement toute valeur.",
+      "D": "Une obligation négociable fluctue avant son échéance."
+    },
+    "sources": [
+      "S032"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0042",
@@ -497,11 +1074,25 @@
     "sous_domaine": "ETF et risque de change",
     "difficulte": "intermediaire",
     "enonce": "Quel risque subsiste pour un ETF investi en actifs libellés en devise étrangère lorsqu'aucune couverture de change n'est prévue ?",
-    "choix": {"A": "Aucun, car l'ETF est coté en euros", "B": "Uniquement un risque juridique", "C": "Un risque de change lié à l'évolution de la devise des actifs sous-jacents", "D": "Uniquement un risque de taux français"},
+    "choix": {
+      "A": "Aucun, car l'ETF est coté en euros",
+      "B": "Uniquement un risque juridique",
+      "C": "Un risque de change lié à l'évolution de la devise des actifs sous-jacents",
+      "D": "Uniquement un risque de taux français"
+    },
     "bonne_reponse": "C",
     "explication": "La devise de cotation ne neutralise pas l'exposition économique des actifs sous-jacents. Sans couverture, l'évolution du taux de change peut augmenter ou réduire la performance en euros.",
-    "pieges": {"A": "La monnaie d'affichage du cours ne supprime pas l'exposition aux devises sous-jacentes.", "B": "Le risque principal évoqué est financier, non seulement juridique.", "D": "L'exposition ne se limite pas aux taux d'intérêt français."},
-    "sources": ["S033"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "La monnaie d'affichage du cours ne supprime pas l'exposition aux devises sous-jacentes.",
+      "B": "Le risque principal évoqué est financier, non seulement juridique.",
+      "D": "L'exposition ne se limite pas aux taux d'intérêt français."
+    },
+    "sources": [
+      "S033"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0043",
@@ -509,11 +1100,25 @@
     "sous_domaine": "SCPI",
     "difficulte": "intermediaire",
     "enonce": "Quelle affirmation sur les parts de SCPI est correcte ?",
-    "choix": {"A": "Le capital et la liquidité ne sont pas garantis", "B": "Le retrait est toujours immédiat", "C": "Le rendement est fixé par l'État", "D": "Elles sont assimilées à un dépôt bancaire garanti"},
+    "choix": {
+      "A": "Le capital et la liquidité ne sont pas garantis",
+      "B": "Le retrait est toujours immédiat",
+      "C": "Le rendement est fixé par l'État",
+      "D": "Elles sont assimilées à un dépôt bancaire garanti"
+    },
     "bonne_reponse": "A",
     "explication": "Une SCPI expose à un risque de perte en capital et à un risque de liquidité. Le délai et le prix de cession dépendent notamment de l'état du marché des parts et de l'immobilier.",
-    "pieges": {"B": "La revente peut prendre du temps et dépendre de la demande.", "C": "Les revenus et la valeur ne sont pas administrativement garantis.", "D": "Une part de SCPI est un placement immobilier collectif, non un dépôt bancaire."},
-    "sources": ["S034"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "B": "La revente peut prendre du temps et dépendre de la demande.",
+      "C": "Les revenus et la valeur ne sont pas administrativement garantis.",
+      "D": "Une part de SCPI est un placement immobilier collectif, non un dépôt bancaire."
+    },
+    "sources": [
+      "S034"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0044",
@@ -521,11 +1126,25 @@
     "sous_domaine": "Produits structurés",
     "difficulte": "avance",
     "enonce": "Que signifie généralement une garantie de 100 % du capital à l'échéance sur un produit structuré ?",
-    "choix": {"A": "Aucune perte n'est possible avant l'échéance", "B": "Le rendement est garanti chaque année", "C": "Le produit est garanti par l'État", "D": "La protection vise l'échéance et reste soumise aux conditions contractuelles ainsi qu'au risque de défaillance de l'émetteur ou garant"},
+    "choix": {
+      "A": "Aucune perte n'est possible avant l'échéance",
+      "B": "Le rendement est garanti chaque année",
+      "C": "Le produit est garanti par l'État",
+      "D": "La protection vise l'échéance et reste soumise aux conditions contractuelles ainsi qu'au risque de défaillance de l'émetteur ou garant"
+    },
     "bonne_reponse": "D",
     "explication": "La garantie s'apprécie à la date et selon les conditions prévues. Une cession anticipée peut entraîner une perte et la solvabilité de l'émetteur ou du garant demeure déterminante.",
-    "pieges": {"A": "La valeur de marché peut être inférieure au nominal avant l'échéance.", "B": "Une garantie de capital ne garantit pas nécessairement un rendement.", "C": "L'État n'est pas automatiquement garant du produit."},
-    "sources": ["S035"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "La valeur de marché peut être inférieure au nominal avant l'échéance.",
+      "B": "Une garantie de capital ne garantit pas nécessairement un rendement.",
+      "C": "L'État n'est pas automatiquement garant du produit."
+    },
+    "sources": [
+      "S035"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0045",
@@ -533,11 +1152,26 @@
     "sous_domaine": "Revenus mobiliers",
     "difficulte": "avance",
     "enonce": "Quel taux global de prélèvement forfaitaire unique s'applique en 2026 aux revenus mobiliers ordinaires lorsqu'il combine 12,8 % d'impôt et 18,6 % de prélèvements sociaux ?",
-    "choix": {"A": "30 %", "B": "31,4 %", "C": "34 %", "D": "36,2 %"},
+    "choix": {
+      "A": "30 %",
+      "B": "31,4 %",
+      "C": "34 %",
+      "D": "36,2 %"
+    },
     "bonne_reponse": "B",
     "explication": "En 2026, le taux d'impôt forfaitaire reste de 12,8 % et le taux général des prélèvements sociaux sur les revenus de placement concernés est porté à 18,6 %, soit un total de 31,4 %.",
-    "pieges": {"A": "Trente pour cent correspond au total historique avec des prélèvements sociaux de 17,2 %.", "C": "Trente-quatre pour cent ne résulte pas des deux taux indiqués.", "D": "Trente-six virgule deux pour cent n'est pas le PFU ordinaire 2026."},
-    "sources": ["S036", "S039"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Trente pour cent correspond au total historique avec des prélèvements sociaux de 17,2 %.",
+      "C": "Trente-quatre pour cent ne résulte pas des deux taux indiqués.",
+      "D": "Trente-six virgule deux pour cent n'est pas le PFU ordinaire 2026."
+    },
+    "sources": [
+      "S036",
+      "S039"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0046",
@@ -545,11 +1179,25 @@
     "sous_domaine": "Livret A",
     "difficulte": "intermediaire",
     "enonce": "Que se passe-t-il lorsque la capitalisation des intérêts porte le solde d'un Livret A au-delà de son plafond de versements ?",
-    "choix": {"A": "Le livret est automatiquement clôturé", "B": "Les intérêts excédentaires sont fiscalisés", "C": "Le solde peut dépasser le plafond, mais aucun nouveau versement n'est possible tant que le solde demeure au-dessus", "D": "La banque doit restituer les intérêts"},
+    "choix": {
+      "A": "Le livret est automatiquement clôturé",
+      "B": "Les intérêts excédentaires sont fiscalisés",
+      "C": "Le solde peut dépasser le plafond, mais aucun nouveau versement n'est possible tant que le solde demeure au-dessus",
+      "D": "La banque doit restituer les intérêts"
+    },
     "bonne_reponse": "C",
     "explication": "Le plafond limite les versements, non la capitalisation des intérêts. Les intérêts peuvent donc faire dépasser le plafond sans perdre leur exonération.",
-    "pieges": {"A": "Le dépassement dû aux intérêts ne clôture pas le livret.", "B": "Les intérêts du Livret A restent exonérés.", "D": "Les intérêts acquis sont inscrits au compte et ne sont pas restitués."},
-    "sources": ["S037"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Le dépassement dû aux intérêts ne clôture pas le livret.",
+      "B": "Les intérêts du Livret A restent exonérés.",
+      "D": "Les intérêts acquis sont inscrits au compte et ne sont pas restitués."
+    },
+    "sources": [
+      "S037"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0047",
@@ -557,11 +1205,25 @@
     "sous_domaine": "Adéquation MIF 2",
     "difficulte": "avance",
     "enonce": "Quelles catégories d'informations sont centrales pour évaluer l'adéquation d'une recommandation d'investissement ?",
-    "choix": {"A": "Connaissances et expérience, situation financière et capacité à subir des pertes, objectifs et tolérance au risque, ainsi que préférences de durabilité lorsqu'elles s'appliquent", "B": "Uniquement l'âge et la profession", "C": "Uniquement le montant disponible", "D": "Uniquement la performance passée des produits"},
+    "choix": {
+      "A": "Connaissances et expérience, situation financière et capacité à subir des pertes, objectifs et tolérance au risque, ainsi que préférences de durabilité lorsqu'elles s'appliquent",
+      "B": "Uniquement l'âge et la profession",
+      "C": "Uniquement le montant disponible",
+      "D": "Uniquement la performance passée des produits"
+    },
     "bonne_reponse": "A",
     "explication": "L'évaluation d'adéquation repose sur une connaissance suffisamment complète de l'investisseur. Elle ne peut être réduite à un indicateur unique ou à la seule performance d'un produit.",
-    "pieges": {"B": "L'âge et la profession sont insuffisants pour caractériser le profil.", "C": "Le montant disponible ne décrit ni les objectifs ni la capacité de perte.", "D": "La performance passée n'est pas une information de profil et ne garantit pas la performance future."},
-    "sources": ["S002"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "B": "L'âge et la profession sont insuffisants pour caractériser le profil.",
+      "C": "Le montant disponible ne décrit ni les objectifs ni la capacité de perte.",
+      "D": "La performance passée n'est pas une information de profil et ne garantit pas la performance future."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0048",
@@ -569,11 +1231,25 @@
     "sous_domaine": "Information incomplète",
     "difficulte": "expert",
     "enonce": "Quelle conduite s'impose lorsque les informations indispensables à l'évaluation d'adéquation ne peuvent pas être obtenues dans le cadre d'un conseil en investissement ?",
-    "choix": {"A": "Recommander le produit le moins risqué sans autre analyse", "B": "Utiliser un profil moyen", "C": "Reprendre automatiquement le profil d'un autre membre du foyer", "D": "S'abstenir de formuler la recommandation concernée"},
+    "choix": {
+      "A": "Recommander le produit le moins risqué sans autre analyse",
+      "B": "Utiliser un profil moyen",
+      "C": "Reprendre automatiquement le profil d'un autre membre du foyer",
+      "D": "S'abstenir de formuler la recommandation concernée"
+    },
     "bonne_reponse": "D",
     "explication": "Sans les informations nécessaires, le prestataire ne peut pas établir qu'une recommandation est adéquate. Il doit donc s'abstenir de la fournir dans le cadre du conseil concerné.",
-    "pieges": {"A": "Un produit réputé prudent n'est pas automatiquement adéquat.", "B": "Un profil moyen ne remplace pas la connaissance de l'investisseur.", "C": "Le profil est individuel et ne peut pas être copié sans justification."},
-    "sources": ["S002"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Un produit réputé prudent n'est pas automatiquement adéquat.",
+      "B": "Un profil moyen ne remplace pas la connaissance de l'investisseur.",
+      "C": "Le profil est individuel et ne peut pas être copié sans justification."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0049",
@@ -581,11 +1257,25 @@
     "sous_domaine": "Formation DDA",
     "difficulte": "intermediaire",
     "enonce": "Quelle durée minimale annuelle de formation ou de développement professionnels continus concerne les personnes distribuant des produits d'assurance ?",
-    "choix": {"A": "Cinq heures", "B": "Dix heures", "C": "Quinze heures", "D": "Trente heures"},
+    "choix": {
+      "A": "Cinq heures",
+      "B": "Dix heures",
+      "C": "Quinze heures",
+      "D": "Trente heures"
+    },
     "bonne_reponse": "C",
     "explication": "Le Code des assurances prévoit une durée suffisante de formation continue, qui ne peut être inférieure à quinze heures par an pour les personnes concernées par la distribution d'assurances.",
-    "pieges": {"A": "Cinq heures est inférieur au minimum réglementaire.", "B": "Dix heures ne satisfait pas le seuil annuel.", "D": "Trente heures peut être choisi par un employeur, mais ce n'est pas le minimum légal cité."},
-    "sources": ["S003"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Cinq heures est inférieur au minimum réglementaire.",
+      "B": "Dix heures ne satisfait pas le seuil annuel.",
+      "D": "Trente heures peut être choisi par un employeur, mais ce n'est pas le minimum légal cité."
+    },
+    "sources": [
+      "S003"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0050",
@@ -593,10 +1283,24 @@
     "sous_domaine": "LCB-FT et TRACFIN",
     "difficulte": "avance",
     "enonce": "Quelle règle s'applique à l'existence et au contenu d'une déclaration de soupçon adressée à TRACFIN ?",
-    "choix": {"A": "Ils doivent être communiqués à la personne concernée sur demande", "B": "Ils sont confidentiels et ne doivent pas être révélés à la personne concernée", "C": "Ils doivent être publiés dans le rapport annuel de l'établissement", "D": "Ils peuvent être librement communiqués à tout collaborateur"},
+    "choix": {
+      "A": "Ils doivent être communiqués à la personne concernée sur demande",
+      "B": "Ils sont confidentiels et ne doivent pas être révélés à la personne concernée",
+      "C": "Ils doivent être publiés dans le rapport annuel de l'établissement",
+      "D": "Ils peuvent être librement communiqués à tout collaborateur"
+    },
     "bonne_reponse": "B",
     "explication": "La déclaration de soupçon et ses suites sont couvertes par une stricte confidentialité. Informer la personne concernée risquerait notamment de compromettre les investigations.",
-    "pieges": {"A": "Le déclarant ne doit pas révéler la déclaration à la personne concernée.", "C": "Un rapport public ne reproduit pas les déclarations individuelles.", "D": "La circulation interne est limitée aux personnes habilitées et au besoin d'en connaître."},
-    "sources": ["S038"], "origine": "entrainement_original", "statut": "a_valider", "date_verification": "2026-11-03"
+    "pieges": {
+      "A": "Le déclarant ne doit pas révéler la déclaration à la personne concernée.",
+      "C": "Un rapport public ne reproduit pas les déclarations individuelles.",
+      "D": "La circulation interne est limitée aux personnes habilitées et au besoin d'en connaître."
+    },
+    "sources": [
+      "S038"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   }
 ]

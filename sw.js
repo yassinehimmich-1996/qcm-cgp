@@ -1,4 +1,4 @@
-const CACHE = "qcm-cgp-v2";
+const CACHE = "qcm-cgp-v4";
 const CORE = [
   "./",
   "./index.html",
@@ -11,7 +11,7 @@ const CORE = [
   "./sources/sources.json"
 ];
 
-for (let index = 1; index <= 20; index += 1) {
+for (let index = 1; index <= 22; index += 1) {
   CORE.push(`./questions/lot-${String(index).padStart(3, "0")}.json`);
 }
 

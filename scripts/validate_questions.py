@@ -17,10 +17,10 @@ ID_RE = re.compile(r"^CGP-\d{4}-\d{4}$")
 SOURCE_RE = re.compile(r"^S\d{3}$")
 SCENARIO_RE = re.compile(r"\b(un|une)\s+client(e)?\b|\bM(?:me|onsieur)?\.?\s", re.IGNORECASE)
 CALCULATION_RE = re.compile(r"(?:\d\s*[×x*/+]\s*\d)|(?:combien\s+(?:vaut|représente|reste))", re.IGNORECASE)
-TARGET_QUESTIONS = 1_000
+TARGET_QUESTIONS = 1_100
 TARGET_LOT_SIZE = 50
 ALLOWED_DIFFICULTIES = {"debutant", "intermediaire", "avance", "expert"}
-ALLOWED_STATUSES = {"brouillon", "a_valider", "validee", "a_actualiser", "retiree"}
+ALLOWED_STATUSES = {"verifie_sources_publiques", "a_actualiser", "retiree"}
 
 
 def load_json(path: Path):
@@ -57,6 +57,9 @@ def validate() -> list[str]:
             continue
         if len(doc) != TARGET_LOT_SIZE:
             fail(errors, f"{path.name}: le lot doit contenir {TARGET_LOT_SIZE} questions, {len(doc)} trouvées.")
+        domain_count = len({question.get("domaine") for question in doc})
+        if domain_count < 12:
+            fail(errors, f"{path.name}: répartition insuffisante, seulement {domain_count} domaines.")
         questions.extend((path, question) for question in doc)
 
     ids = [question.get("id") for _, question in questions]
@@ -118,8 +121,9 @@ def validate() -> list[str]:
         fail(errors, "Aucune question trouvée.")
     elif len(questions) != TARGET_QUESTIONS:
         fail(errors, f"La banque doit contenir exactement {TARGET_QUESTIONS} questions, {len(questions)} trouvées.")
-    if len(lot_paths) != TARGET_QUESTIONS // TARGET_LOT_SIZE:
-        fail(errors, f"La banque doit contenir 20 lots, {len(lot_paths)} trouvés.")
+    expected_lots = TARGET_QUESTIONS // TARGET_LOT_SIZE
+    if len(lot_paths) != expected_lots:
+        fail(errors, f"La banque doit contenir {expected_lots} lots, {len(lot_paths)} trouvés.")
     return errors
 
 

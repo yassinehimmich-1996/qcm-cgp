@@ -1,556 +1,634 @@
 [
   {
-    "id": "CGP-2026-0951",
-    "domaine": "Conformité",
-    "sous_domaine": "Connaissance client",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le recueil des connaissances et de l'expérience — sa finalité ?",
+    "id": "CGP-2026-0069",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Assuré",
+    "difficulte": "debutant",
+    "enonce": "Quelle proposition décrit correctement l'assuré concernant sa fonction ?",
     "choix": {
-      "A": "Il garantit une performance positive.",
-      "B": "Il contribue à déterminer si le service ou l'instrument envisagé peut être compris par le client.",
-      "C": "Il sert uniquement à fixer les frais bancaires.",
-      "D": "Il est inutile pour tout conseil."
-    },
-    "bonne_reponse": "B",
-    "explication": "Il contribue à déterminer si le service ou l'instrument envisagé peut être compris par le client. Cette règle constitue le repère théorique à retenir concernant le recueil des connaissances et de l'expérience et sa finalité.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le recueil des connaissances et de l'expérience pour sa finalité.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le recueil des connaissances et de l'expérience pour sa finalité.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le recueil des connaissances et de l'expérience pour sa finalité."
-    },
-    "sources": [
-      "S002"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0952",
-    "domaine": "Conformité",
-    "sous_domaine": "Adéquation",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'évaluation d'adéquation — les informations patrimoniales ?",
-    "choix": {
-      "A": "Elle prend notamment en compte la situation financière, les objectifs, l'horizon, les connaissances et la tolérance au risque.",
-      "B": "Elle dépend seulement de l'âge.",
-      "C": "Elle ignore la capacité à subir des pertes.",
-      "D": "Elle est fondée uniquement sur le produit le plus rentable."
-    },
-    "bonne_reponse": "A",
-    "explication": "Elle prend notamment en compte la situation financière, les objectifs, l'horizon, les connaissances et la tolérance au risque. Cette règle constitue le repère théorique à retenir concernant l'évaluation d'adéquation et les informations patrimoniales.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à l'évaluation d'adéquation pour les informations patrimoniales.",
-      "C": "Cette proposition ne correspond pas au principe applicable à l'évaluation d'adéquation pour les informations patrimoniales.",
-      "D": "Cette proposition ne correspond pas au principe applicable à l'évaluation d'adéquation pour les informations patrimoniales."
-    },
-    "sources": [
-      "S002"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0953",
-    "domaine": "Conformité",
-    "sous_domaine": "Appropriation",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le test d'appropriation — son objet ?",
-    "choix": {
-      "A": "Il garantit l'adéquation globale du conseil.",
-      "B": "Il mesure uniquement le revenu fiscal.",
-      "C": "Il remplace le KYC LCB-FT.",
-      "D": "Il vise à apprécier si le client possède les connaissances et l'expérience nécessaires pour comprendre les risques d'un produit ou service."
+      "A": "Il est toujours l'assureur.",
+      "B": "Il fixe les taux directeurs.",
+      "C": "Il doit obligatoirement être une personne morale.",
+      "D": "Son décès constitue l'événement qui déclenche le dénouement décès du contrat."
     },
     "bonne_reponse": "D",
-    "explication": "Il vise à apprécier si le client possède les connaissances et l'expérience nécessaires pour comprendre les risques d'un produit ou service. Cette règle constitue le repère théorique à retenir concernant le test d'appropriation et son objet.",
+    "explication": "Son décès constitue l'événement qui déclenche le dénouement décès du contrat. Cette règle constitue le repère théorique à retenir concernant l'assuré et sa fonction.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le test d'appropriation pour son objet.",
-      "B": "Cette proposition ne correspond pas au principe applicable à le test d'appropriation pour son objet.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le test d'appropriation pour son objet."
+      "A": "Cette proposition ne correspond pas au principe applicable à l'assuré pour sa fonction.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'assuré pour sa fonction.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'assuré pour sa fonction."
     },
     "sources": [
-      "S002"
+      "S022"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0954",
-    "domaine": "Conformité",
-    "sous_domaine": "Information",
+    "id": "CGP-2026-0626",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Rachat",
     "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une information commerciale sur un instrument financier — sa qualité ?",
+    "enonce": "Dans un QCM portant sur un rachat partiel, quelle réponse est juste au sujet de son incidence sur le contrat ?",
     "choix": {
-      "A": "Elle doit promettre un rendement.",
-      "B": "Elle est dispensée de toute cohérence avec les documents réglementaires.",
-      "C": "Elle doit être claire, exacte et non trompeuse.",
-      "D": "Elle peut dissimuler les risques."
+      "A": "Il entraîne toujours le dénouement total.",
+      "B": "Il supprime automatiquement la clause bénéficiaire.",
+      "C": "Il transforme le contrat en PEA.",
+      "D": "Il retire une partie de l'épargne tout en laissant le contrat subsister."
     },
-    "bonne_reponse": "C",
-    "explication": "Elle doit être claire, exacte et non trompeuse. Cette règle constitue le repère théorique à retenir concernant une information commerciale sur un instrument financier et sa qualité.",
+    "bonne_reponse": "D",
+    "explication": "Il retire une partie de l'épargne tout en laissant le contrat subsister. Cette règle constitue le repère théorique à retenir concernant un rachat partiel et son incidence sur le contrat.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une information commerciale sur un instrument financier pour sa qualité.",
-      "B": "Cette proposition ne correspond pas au principe applicable à une information commerciale sur un instrument financier pour sa qualité.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une information commerciale sur un instrument financier pour sa qualité."
+      "A": "Cette proposition ne correspond pas au principe applicable à un rachat partiel pour son incidence sur le contrat.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un rachat partiel pour son incidence sur le contrat.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un rachat partiel pour son incidence sur le contrat."
     },
     "sources": [
-      "S066"
+      "S023"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0955",
-    "domaine": "Conformité",
-    "sous_domaine": "Coûts et frais",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'information sur les coûts et frais — sa finalité ?",
+    "id": "CGP-2026-0817",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Rachat",
+    "difficulte": "debutant",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un rachat total — son incidence ?",
     "choix": {
-      "A": "Elle remplace la documentation contractuelle.",
-      "B": "Elle permet au client de comprendre l'incidence globale des coûts sur son investissement.",
-      "C": "Elle n'est communiquée qu'en cas de perte.",
-      "D": "Elle exclut les coûts du produit."
+      "A": "Il conserve obligatoirement l'antériorité fiscale pour de futurs versements.",
+      "B": "Il ne porte que sur les gains.",
+      "C": "Il est impossible avant huit ans.",
+      "D": "Il met fin au contrat par retrait de l'intégralité de la valeur de rachat."
     },
-    "bonne_reponse": "B",
-    "explication": "Elle permet au client de comprendre l'incidence globale des coûts sur son investissement. Cette règle constitue le repère théorique à retenir concernant l'information sur les coûts et frais et sa finalité.",
+    "bonne_reponse": "D",
+    "explication": "Il met fin au contrat par retrait de l'intégralité de la valeur de rachat. Cette règle constitue le repère théorique à retenir concernant un rachat total et son incidence.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à l'information sur les coûts et frais pour sa finalité.",
-      "C": "Cette proposition ne correspond pas au principe applicable à l'information sur les coûts et frais pour sa finalité.",
-      "D": "Cette proposition ne correspond pas au principe applicable à l'information sur les coûts et frais pour sa finalité."
+      "A": "Cette proposition ne correspond pas au principe applicable à un rachat total pour son incidence.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un rachat total pour son incidence.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un rachat total pour son incidence."
     },
     "sources": [
-      "S066"
+      "S023"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0956",
-    "domaine": "Conformité",
-    "sous_domaine": "Gouvernance produit",
+    "id": "CGP-2026-0820",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Risque",
     "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le marché cible — sa fonction ?",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la diversification des supports — sa finalité ?",
     "choix": {
-      "A": "Il identifie les catégories de clients auxquelles le produit est compatible et celles pour lesquelles il ne l'est pas.",
-      "B": "Il garantit la vente à tout client.",
-      "C": "Il correspond uniquement au pays de l'émetteur.",
-      "D": "Il remplace l'analyse individuelle d'adéquation."
+      "A": "Elle vise à répartir les risques sans supprimer toute possibilité de perte.",
+      "B": "Elle garantit un rendement positif.",
+      "C": "Elle impose d'investir uniquement en actions.",
+      "D": "Elle rend inutile l'analyse de l'horizon."
     },
     "bonne_reponse": "A",
-    "explication": "Il identifie les catégories de clients auxquelles le produit est compatible et celles pour lesquelles il ne l'est pas. Cette règle constitue le repère théorique à retenir concernant le marché cible et sa fonction.",
+    "explication": "Elle vise à répartir les risques sans supprimer toute possibilité de perte. Cette règle constitue le repère théorique à retenir concernant la diversification des supports et sa finalité.",
     "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à le marché cible pour sa fonction.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le marché cible pour sa fonction.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le marché cible pour sa fonction."
+      "B": "Cette proposition ne correspond pas au principe applicable à la diversification des supports pour sa finalité.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la diversification des supports pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la diversification des supports pour sa finalité."
     },
     "sources": [
-      "S067"
+      "S022"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0957",
-    "domaine": "Conformité",
-    "sous_domaine": "Arbitrage",
+    "id": "CGP-2026-0636",
+    "domaine": "Assurance-vie",
+    "sous_domaine": "Dénouement décès",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur l'article 757 B du CGI, quelle réponse est juste au sujet de son champ principal ?",
+    "choix": {
+      "A": "Il s'applique aux retraits sur un livret A.",
+      "B": "Il vise les primes versées après les soixante-dix ans de l'assuré, selon les conditions et l'abattement prévus.",
+      "C": "Il taxe toute la valeur du contrat sans distinction.",
+      "D": "Il ne concerne que les contrats sans bénéficiaire."
+    },
+    "bonne_reponse": "B",
+    "explication": "Il vise les primes versées après les soixante-dix ans de l'assuré, selon les conditions et l'abattement prévus. Cette règle constitue le repère théorique à retenir concernant l'article 757 B du CGI et son champ principal.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'article 757 B du CGI pour son champ principal.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'article 757 B du CGI pour son champ principal.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'article 757 B du CGI pour son champ principal."
+    },
+    "sources": [
+      "S026"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0139",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Diversification",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement la diversification concernant son effet ?",
+    "choix": {
+      "A": "Elle augmente nécessairement chaque risque individuel.",
+      "B": "Elle réduit la concentration des risques mais n'élimine pas tous les risques de marché.",
+      "C": "Elle garantit un gain.",
+      "D": "Elle impose un actif unique."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle réduit la concentration des risques mais n'élimine pas tous les risques de marché. Cette règle constitue le repère théorique à retenir concernant la diversification et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la diversification pour son effet."
+    },
+    "sources": [
+      "S056"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0707",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Volatilité",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur la volatilité, quelle réponse est juste au sujet de sa signification ?",
+    "choix": {
+      "A": "Elle correspond au coupon certain.",
+      "B": "Elle mesure uniquement les frais de tenue de compte.",
+      "C": "Elle mesure l'amplitude des variations d'un actif autour de son évolution moyenne sur une période.",
+      "D": "Elle garantit le capital."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle mesure l'amplitude des variations d'un actif autour de son évolution moyenne sur une période. Cette règle constitue le repère théorique à retenir concernant la volatilité et sa signification.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la volatilité pour sa signification.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la volatilité pour sa signification.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la volatilité pour sa signification."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0711",
+    "domaine": "Placements financiers",
+    "sous_domaine": "OPC",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur un organisme de placement collectif, quelle réponse est juste au sujet de son principe ?",
+    "choix": {
+      "A": "Il garantit nécessairement le capital.",
+      "B": "Il ne peut détenir aucun titre financier.",
+      "C": "Il regroupe l'épargne de plusieurs investisseurs dans un portefeuille géré selon une stratégie définie.",
+      "D": "Il est toujours un compte bancaire individuel."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il regroupe l'épargne de plusieurs investisseurs dans un portefeuille géré selon une stratégie définie. Cette règle constitue le repère théorique à retenir concernant un organisme de placement collectif et son principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un organisme de placement collectif pour son principe."
+    },
+    "sources": [
+      "S042"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0138",
+    "domaine": "Placements financiers",
+    "sous_domaine": "Liquidité",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement la liquidité d'un placement concernant sa signification ?",
+    "choix": {
+      "A": "Elle mesure la fiscalité.",
+      "B": "Elle est identique à la rentabilité.",
+      "C": "Elle traduit la possibilité de vendre ou récupérer les fonds rapidement sans forte décote.",
+      "D": "Elle désigne toujours une garantie en capital."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle traduit la possibilité de vendre ou récupérer les fonds rapidement sans forte décote. Cette règle constitue le repère théorique à retenir concernant la liquidité d'un placement et sa signification.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la liquidité d'un placement pour sa signification.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la liquidité d'un placement pour sa signification.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la liquidité d'un placement pour sa signification."
+    },
+    "sources": [
+      "S055"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-1018",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Avance fiscale",
+    "difficulte": "intermediaire",
+    "enonce": "Comment est calculée l'avance versée en janvier pour certains crédits et réductions d'impôt récurrents ?",
+    "choix": {
+      "A": "Elle supprime l'obligation de déclarer les dépenses.",
+      "B": "Elle est réservée aux revenus fonciers.",
+      "C": "Elle correspond en principe à 60 % de l'avantage connu au titre de l'année précédente, puis une régularisation intervient.",
+      "D": "Elle correspond toujours à 100 % des dépenses de l'année en cours."
+    },
+    "bonne_reponse": "C",
+    "explication": "L'avance de janvier est fondée sur le dernier avantage fiscal connu. Le solde est calculé après la déclaration des dépenses réelles.",
+    "pieges": {
+      "A": "La déclaration reste nécessaire pour la régularisation.",
+      "B": "Elle concerne notamment emploi à domicile, garde d'enfants ou dons.",
+      "D": "L'avance porte sur une fraction de l'avantage, pas sur toutes les dépenses."
+    },
+    "sources": [
+      "S091"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-1003",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Foyer fiscal",
+    "difficulte": "intermediaire",
+    "enonce": "Quel est le principe d'imposition d'un couple marié ou pacsé soumis à l'impôt sur le revenu ?",
+    "choix": {
+      "A": "Le Pacs n'a jamais d'effet sur le foyer fiscal.",
+      "B": "Le couple forme en principe un foyer fiscal soumis à une imposition commune, sauf cas d'imposition distincte prévus par la loi.",
+      "C": "Chaque membre est toujours imposé séparément.",
+      "D": "L'imposition commune est réservée aux couples ayant des enfants."
+    },
+    "bonne_reponse": "B",
+    "explication": "Le mariage ou le Pacs conduit en principe à une déclaration commune. Des hypothèses légales limitées permettent ou imposent une imposition séparée.",
+    "pieges": {
+      "A": "Le Pacs produit bien des effets en matière d'impôt sur le revenu.",
+      "C": "L'imposition séparée n'est pas le principe.",
+      "D": "La présence d'enfants n'est pas une condition de l'imposition commune."
+    },
+    "sources": [
+      "S121"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-1037",
+    "domaine": "Fiscalité",
+    "sous_domaine": "IFI",
+    "difficulte": "intermediaire",
+    "enonce": "À partir de quel patrimoine immobilier net taxable un foyer entre-t-il dans le champ de l'IFI ?",
+    "choix": {
+      "A": "Dès 800 000 euros sans autre condition.",
+      "B": "Dès 150 000 euros.",
+      "C": "Uniquement au-delà de 10 millions d'euros.",
+      "D": "Lorsque ce patrimoine excède 1,3 million d'euros."
+    },
+    "bonne_reponse": "D",
+    "explication": "Le seuil d'assujettissement est 1,3 million d'euros. Une fois ce seuil franchi, le barème commence toutefois à 800 000 euros.",
+    "pieges": {
+      "A": "800 000 euros est le point de départ du barème, pas le seuil d'entrée.",
+      "B": "150 000 euros ne correspond pas à l'IFI.",
+      "C": "10 millions d'euros correspond à une tranche supérieure, pas au seuil."
+    },
+    "sources": [
+      "S106"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0175",
+    "domaine": "Fiscalité",
+    "sous_domaine": "Moins-values mobilières",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement les moins-values de cession de valeurs mobilières concernant leur imputation ?",
+    "choix": {
+      "A": "Elles n'ont jamais aucun effet fiscal.",
+      "B": "Elles peuvent s'imputer sur les plus-values de même nature selon les règles et délais fiscaux applicables.",
+      "C": "Elles s'imputent toujours sur les salaires.",
+      "D": "Elles sont remboursées intégralement par la banque."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elles peuvent s'imputer sur les plus-values de même nature selon les règles et délais fiscaux applicables. Cette règle constitue le repère théorique à retenir concernant les moins-values de cession de valeurs mobilières et leur imputation.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à les moins-values de cession de valeurs mobilières pour leur imputation.",
+      "C": "Cette proposition ne correspond pas au principe applicable à les moins-values de cession de valeurs mobilières pour leur imputation.",
+      "D": "Cette proposition ne correspond pas au principe applicable à les moins-values de cession de valeurs mobilières pour leur imputation."
+    },
+    "sources": [
+      "S036"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-1086",
+    "domaine": "Retraite",
+    "sous_domaine": "EIG",
+    "difficulte": "intermediaire",
+    "enonce": "Que contient principalement l'estimation indicative globale ?",
+    "choix": {
+      "A": "Uniquement le solde d'un PER individuel.",
+      "B": "La liste des biens immobiliers du foyer.",
+      "C": "Une synthèse des droits acquis et une estimation de pension selon plusieurs âges de départ.",
+      "D": "Une promesse contractuelle de pension minimale."
+    },
+    "bonne_reponse": "C",
+    "explication": "L'EIG complète le relevé de droits par des estimations de pension. Son caractère est informatif et indicatif.",
+    "pieges": {
+      "A": "Le PER est une épargne supplémentaire distincte.",
+      "B": "Le patrimoine immobilier n'est pas l'objet de l'EIG.",
+      "D": "Une estimation n'est pas une garantie contractuelle."
+    },
+    "sources": [
+      "S115"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-1089",
+    "domaine": "Retraite",
+    "sous_domaine": "Demande unique",
+    "difficulte": "intermediaire",
+    "enonce": "Quel est l'intérêt du service en ligne de demande unique de retraite ?",
+    "choix": {
+      "A": "Fusionner juridiquement tous les régimes en une caisse unique.",
+      "B": "Garantir le taux plein sans vérification.",
+      "C": "Supprimer la nécessité de contrôler le relevé de carrière.",
+      "D": "Transmettre une seule demande aux régimes de base et complémentaires concernés."
+    },
+    "bonne_reponse": "D",
+    "explication": "Le service simplifie la démarche et limite les droits oubliés, mais chaque régime conserve ses règles et instruit les droits relevant de sa compétence.",
+    "pieges": {
+      "A": "La demande commune ne fusionne pas les organismes.",
+      "B": "Elle ne modifie pas les conditions de taux plein.",
+      "C": "La vérification préalable de carrière reste recommandée."
+    },
+    "sources": [
+      "S118"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-1079",
+    "domaine": "Retraite",
+    "sous_domaine": "Revenu annuel moyen",
+    "difficulte": "intermediaire",
+    "enonce": "Sur quelle base est en principe déterminé le revenu annuel moyen d'un salarié du régime général ?",
+    "choix": {
+      "A": "Le montant des points Agirc-Arrco uniquement.",
+      "B": "La moyenne des vingt-cinq meilleures années revalorisées, sous réserve des règles particulières.",
+      "C": "Le seul salaire de la dernière année.",
+      "D": "La moyenne de toutes les années sans exception."
+    },
+    "bonne_reponse": "B",
+    "explication": "Le revenu annuel moyen retient en principe les 25 meilleures années de revenus revalorisés. Des adaptations existent notamment pour certains parents à compter de 2026.",
+    "pieges": {
+      "A": "Les points concernent la retraite complémentaire.",
+      "C": "Le dernier salaire n'est pas l'unique référence.",
+      "D": "Les années les plus faibles ne sont pas toutes retenues."
+    },
+    "sources": [
+      "S114"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0109",
+    "domaine": "Transmission",
+    "sous_domaine": "Option successorale",
+    "difficulte": "avance",
+    "enonce": "Quelle proposition décrit correctement l'acceptation à concurrence de l'actif net concernant son effet ?",
+    "choix": {
+      "A": "Elle oblige à payer toutes les dettes sur son patrimoine personnel.",
+      "B": "Elle équivaut à une renonciation pure.",
+      "C": "Elle supprime tous les créanciers.",
+      "D": "Elle limite en principe le paiement des dettes successorales à la valeur des biens recueillis."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle limite en principe le paiement des dettes successorales à la valeur des biens recueillis. Cette règle constitue le repère théorique à retenir concernant l'acceptation à concurrence de l'actif net et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'acceptation à concurrence de l'actif net pour son effet.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'acceptation à concurrence de l'actif net pour son effet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'acceptation à concurrence de l'actif net pour son effet."
+    },
+    "sources": [
+      "S048"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-1072",
+    "domaine": "Transmission",
+    "sous_domaine": "Réserve héréditaire",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle est la quotité disponible ordinaire en présence de deux enfants ?",
+    "choix": {
+      "A": "Un tiers de la succession.",
+      "B": "La moitié de la succession.",
+      "C": "Trois quarts de la succession.",
+      "D": "La totalité de la succession."
+    },
+    "bonne_reponse": "A",
+    "explication": "Avec deux enfants, la réserve globale est de deux tiers et la quotité disponible d'un tiers.",
+    "pieges": {
+      "B": "La moitié correspond à un enfant.",
+      "C": "Trois quarts est la réserve avec trois enfants ou plus, non la quotité disponible.",
+      "D": "Les descendants sont réservataires."
+    },
+    "sources": [
+      "S110"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0489",
+    "domaine": "Transmission",
+    "sous_domaine": "Option successorale",
+    "difficulte": "avance",
+    "enonce": "Quelle affirmation théorique est exacte sur son effet de l'acceptation à concurrence de l'actif net ?",
+    "choix": {
+      "A": "Elle supprime tous les créanciers.",
+      "B": "Elle limite en principe le paiement des dettes successorales à la valeur des biens recueillis.",
+      "C": "Elle oblige à payer toutes les dettes sur son patrimoine personnel.",
+      "D": "Elle équivaut à une renonciation pure."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle limite en principe le paiement des dettes successorales à la valeur des biens recueillis. Cette règle constitue le repère théorique à retenir concernant l'acceptation à concurrence de l'actif net et son effet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'acceptation à concurrence de l'actif net pour son effet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'acceptation à concurrence de l'actif net pour son effet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'acceptation à concurrence de l'actif net pour son effet."
+    },
+    "sources": [
+      "S048"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0151",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "PEA",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement le PEA bancaire classique concernant le plafond de versements ?",
+    "choix": {
+      "A": "Les versements sont sans plafond.",
+      "B": "Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan.",
+      "C": "Le plafond est de 22 950 euros.",
+      "D": "Le plafond est de 12 000 euros."
+    },
+    "bonne_reponse": "B",
+    "explication": "Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan. Cette règle constitue le repère théorique à retenir concernant le PEA bancaire classique et le plafond de versements.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le PEA bancaire classique pour le plafond de versements."
+    },
+    "sources": [
+      "S029"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0160",
+    "domaine": "Enveloppes d'investissement",
+    "sous_domaine": "Contrat de capitalisation",
     "difficulte": "expert",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un arbitrage conseillé sous MIF 2 — l'analyse coûts-avantages ?",
+    "enonce": "Quelle proposition décrit correctement la transmission d'un contrat de capitalisation concernant son principe ?",
     "choix": {
-      "A": "Il est recommandé dès qu'il génère des frais.",
-      "B": "Il peut ignorer les alternatives équivalentes.",
-      "C": "Il est automatiquement adéquat.",
-      "D": "Il doit notamment faire l'objet d'une appréciation du rapport coûts-avantages pour le client selon les exigences applicables."
-    },
-    "bonne_reponse": "D",
-    "explication": "Il doit notamment faire l'objet d'une appréciation du rapport coûts-avantages pour le client selon les exigences applicables. Cette règle constitue le repère théorique à retenir concernant un arbitrage conseillé sous MIF 2 et l'analyse coûts-avantages.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à un arbitrage conseillé sous MIF 2 pour l'analyse coûts-avantages.",
-      "B": "Cette proposition ne correspond pas au principe applicable à un arbitrage conseillé sous MIF 2 pour l'analyse coûts-avantages.",
-      "C": "Cette proposition ne correspond pas au principe applicable à un arbitrage conseillé sous MIF 2 pour l'analyse coûts-avantages."
-    },
-    "sources": [
-      "S068"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0958",
-    "domaine": "Conformité",
-    "sous_domaine": "Durabilité",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les préférences de durabilité — leur recueil ?",
-    "choix": {
-      "A": "Elles sont fixées par le conseiller sans échange.",
-      "B": "Elles ne concernent jamais le conseil financier.",
-      "C": "Elles font partie des informations à prendre en compte dans le conseil en investissement lorsque les règles l'exigent.",
-      "D": "Elles remplacent la tolérance au risque."
-    },
-    "bonne_reponse": "C",
-    "explication": "Elles font partie des informations à prendre en compte dans le conseil en investissement lorsque les règles l'exigent. Cette règle constitue le repère théorique à retenir concernant les préférences de durabilité et leur recueil.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à les préférences de durabilité pour leur recueil.",
-      "B": "Cette proposition ne correspond pas au principe applicable à les préférences de durabilité pour leur recueil.",
-      "D": "Cette proposition ne correspond pas au principe applicable à les préférences de durabilité pour leur recueil."
-    },
-    "sources": [
-      "S068"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0959",
-    "domaine": "Assurance",
-    "sous_domaine": "DDA",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les exigences et besoins du client — leur rôle ?",
-    "choix": {
-      "A": "Ils se résument au prix le plus bas.",
-      "B": "Ils doivent être recueillis afin que le contrat proposé soit cohérent avec la demande et les besoins identifiés.",
-      "C": "Ils peuvent être ignorés si le produit est rentable.",
-      "D": "Ils sont définis uniquement après le sinistre."
-    },
-    "bonne_reponse": "B",
-    "explication": "Ils doivent être recueillis afin que le contrat proposé soit cohérent avec la demande et les besoins identifiés. Cette règle constitue le repère théorique à retenir concernant les exigences et besoins du client et leur rôle.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à les exigences et besoins du client pour leur rôle.",
-      "C": "Cette proposition ne correspond pas au principe applicable à les exigences et besoins du client pour leur rôle.",
-      "D": "Cette proposition ne correspond pas au principe applicable à les exigences et besoins du client pour leur rôle."
-    },
-    "sources": [
-      "S004"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0960",
-    "domaine": "Conformité",
-    "sous_domaine": "Réclamations",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une réclamation écrite — les délais de traitement recommandés ?",
-    "choix": {
-      "A": "Le professionnel accuse réception sous dix jours ouvrables et répond en principe au plus tard sous deux mois.",
-      "B": "Aucun accusé de réception n'est attendu.",
-      "C": "La réponse peut être différée dix ans.",
-      "D": "Le client doit saisir directement un tribunal avant toute réponse."
+      "A": "Le contrat peut faire partie du patrimoine transmis et conserver son enveloppe selon les règles applicables.",
+      "B": "Il disparaît toujours au décès.",
+      "C": "Il est automatiquement versé hors succession à un bénéficiaire.",
+      "D": "Il est incessible dans toutes les situations."
     },
     "bonne_reponse": "A",
-    "explication": "Le professionnel accuse réception sous dix jours ouvrables et répond en principe au plus tard sous deux mois. Cette règle constitue le repère théorique à retenir concernant une réclamation écrite et les délais de traitement recommandés.",
+    "explication": "Le contrat peut faire partie du patrimoine transmis et conserver son enveloppe selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant la transmission d'un contrat de capitalisation et son principe.",
     "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à une réclamation écrite pour les délais de traitement recommandés.",
-      "C": "Cette proposition ne correspond pas au principe applicable à une réclamation écrite pour les délais de traitement recommandés.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une réclamation écrite pour les délais de traitement recommandés."
+      "B": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la transmission d'un contrat de capitalisation pour son principe."
     },
     "sources": [
-      "S069"
+      "S058"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0961",
-    "domaine": "LCB-FT",
-    "sous_domaine": "Vigilance",
+    "id": "CGP-2026-1051",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "PEL",
     "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'identification du client — son moment ?",
+    "enonce": "Quels sont le plafond de versements et le minimum annuel de versements d'un PEL ?",
     "choix": {
-      "A": "Elle n'intervient qu'après la clôture.",
-      "B": "Elle est facultative pour toute banque.",
-      "C": "Elle se limite au nom commercial du produit.",
-      "D": "Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée."
-    },
-    "bonne_reponse": "D",
-    "explication": "Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée. Cette règle constitue le repère théorique à retenir concernant l'identification du client et son moment.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment.",
-      "B": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment.",
-      "C": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment."
-    },
-    "sources": [
-      "S070"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0962",
-    "domaine": "LCB-FT",
-    "sous_domaine": "Bénéficiaire effectif",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le bénéficiaire effectif — sa notion ?",
-    "choix": {
-      "A": "Il est nécessairement une personne morale.",
-      "B": "Il correspond au bénéficiaire d'une carte bancaire.",
-      "C": "Il s'agit de la personne physique qui contrôle en dernier ressort le client ou pour laquelle l'opération est réalisée.",
-      "D": "Il est toujours le conseiller bancaire."
-    },
-    "bonne_reponse": "C",
-    "explication": "Il s'agit de la personne physique qui contrôle en dernier ressort le client ou pour laquelle l'opération est réalisée. Cette règle constitue le repère théorique à retenir concernant le bénéficiaire effectif et sa notion.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le bénéficiaire effectif pour sa notion.",
-      "B": "Cette proposition ne correspond pas au principe applicable à le bénéficiaire effectif pour sa notion.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le bénéficiaire effectif pour sa notion."
-    },
-    "sources": [
-      "S070"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0963",
-    "domaine": "LCB-FT",
-    "sous_domaine": "Vigilance renforcée",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une situation présentant un risque élevé — la vigilance ?",
-    "choix": {
-      "A": "Elle supprime la connaissance client.",
-      "B": "Elle appelle des mesures de vigilance renforcée proportionnées au risque identifié.",
-      "C": "Elle dispense de toute vérification.",
-      "D": "Elle impose d'accepter toutes les opérations."
+      "A": "150 000 euros de plafond et 1 000 euros par an.",
+      "B": "61 200 euros de plafond et 540 euros de versements annuels minimums, hors cas particuliers de phase contractuelle.",
+      "C": "22 950 euros de plafond et aucun minimum.",
+      "D": "15 300 euros de plafond et 75 euros par mois."
     },
     "bonne_reponse": "B",
-    "explication": "Elle appelle des mesures de vigilance renforcée proportionnées au risque identifié. Cette règle constitue le repère théorique à retenir concernant une situation présentant un risque élevé et la vigilance.",
+    "explication": "Le PEL est plafonné à 61 200 euros hors intérêts capitalisés et doit en principe recevoir au moins 540 euros par an.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une situation présentant un risque élevé pour la vigilance.",
-      "C": "Cette proposition ne correspond pas au principe applicable à une situation présentant un risque élevé pour la vigilance.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une situation présentant un risque élevé pour la vigilance."
+      "A": "150 000 euros est le plafond du PEA classique.",
+      "C": "22 950 euros est le plafond du Livret A.",
+      "D": "15 300 euros est le plafond du CEL."
     },
     "sources": [
-      "S070"
+      "S104"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0964",
-    "domaine": "LCB-FT",
-    "sous_domaine": "Déclaration de soupçon",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une déclaration de soupçon à TRACFIN — la preuve d'une infraction ?",
+    "id": "CGP-2026-0317",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "PEL",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de le PEL, quel principe faut-il retenir pour la durée minimale d'épargne ouvrant normalement les droits complets ?",
     "choix": {
-      "A": "Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction.",
-      "B": "Elle exige toujours une condamnation pénale préalable.",
-      "C": "Elle est adressée au client.",
-      "D": "Elle ne concerne jamais les banques."
+      "A": "Il ne peut jamais durer plus d'un an.",
+      "B": "Il est dépourvu de toute durée.",
+      "C": "Le PEL est conçu autour d'une phase d'épargne d'au moins quatre ans pour bénéficier pleinement de sa logique de prêt.",
+      "D": "Il doit être clôturé après un mois."
+    },
+    "bonne_reponse": "C",
+    "explication": "Le PEL est conçu autour d'une phase d'épargne d'au moins quatre ans pour bénéficier pleinement de sa logique de prêt. Cette règle constitue le repère théorique à retenir concernant le PEL et la durée minimale d'épargne ouvrant normalement les droits complets.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le PEL pour la durée minimale d'épargne ouvrant normalement les droits complets.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le PEL pour la durée minimale d'épargne ouvrant normalement les droits complets.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le PEL pour la durée minimale d'épargne ouvrant normalement les droits complets."
+    },
+    "sources": [
+      "S051"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-1052",
+    "domaine": "Épargne bancaire",
+    "sous_domaine": "CEL",
+    "difficulte": "intermediaire",
+    "enonce": "Quels sont le plafond de dépôts et le solde minimal d'un CEL ?",
+    "choix": {
+      "A": "15 300 euros de plafond et 300 euros de solde minimal.",
+      "B": "61 200 euros de plafond et aucun solde minimal.",
+      "C": "22 950 euros de plafond et 10 euros de solde minimal.",
+      "D": "12 000 euros de plafond et 1 500 euros de solde minimal."
     },
     "bonne_reponse": "A",
-    "explication": "Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction. Cette règle constitue le repère théorique à retenir concernant une déclaration de soupçon à TRACFIN et la preuve d'une infraction.",
+    "explication": "Le CEL est plafonné à 15 300 euros hors intérêts. Un retrait est possible si le solde ne descend pas sous 300 euros.",
     "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction.",
-      "C": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une déclaration de soupçon à TRACFIN pour la preuve d'une infraction."
+      "B": "61 200 euros est le plafond du PEL.",
+      "C": "22 950 euros est celui du Livret A.",
+      "D": "12 000 euros est celui du LDDS."
     },
     "sources": [
-      "S038"
+      "S105"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0965",
-    "domaine": "LCB-FT",
-    "sous_domaine": "Confidentialité",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'existence d'une déclaration de soupçon — l'information du client ?",
-    "choix": {
-      "A": "Elle doit être publiée sur internet.",
-      "B": "Elle est remise au client pour signature.",
-      "C": "Elle figure sur chaque relevé de compte.",
-      "D": "Elle est confidentielle et ne doit pas être révélée au client ni aux personnes non autorisées."
-    },
-    "bonne_reponse": "D",
-    "explication": "Elle est confidentielle et ne doit pas être révélée au client ni aux personnes non autorisées. Cette règle constitue le repère théorique à retenir concernant l'existence d'une déclaration de soupçon et l'information du client.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à l'existence d'une déclaration de soupçon pour l'information du client.",
-      "B": "Cette proposition ne correspond pas au principe applicable à l'existence d'une déclaration de soupçon pour l'information du client.",
-      "C": "Cette proposition ne correspond pas au principe applicable à l'existence d'une déclaration de soupçon pour l'information du client."
-    },
-    "sources": [
-      "S038"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0966",
-    "domaine": "RGPD",
-    "sous_domaine": "Minimisation",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le principe de minimisation — sa portée ?",
-    "choix": {
-      "A": "La finalité n'a pas à être définie.",
-      "B": "La conservation doit être illimitée.",
-      "C": "Les données collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire à la finalité.",
-      "D": "Toutes les données disponibles doivent être collectées."
-    },
-    "bonne_reponse": "C",
-    "explication": "Les données collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire à la finalité. Cette règle constitue le repère théorique à retenir concernant le principe de minimisation et sa portée.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée.",
-      "B": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée."
-    },
-    "sources": [
-      "S071"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0967",
-    "domaine": "RGPD",
-    "sous_domaine": "Droits",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le droit d'accès — son objet ?",
-    "choix": {
-      "A": "Il supprime automatiquement le contrat.",
-      "B": "Il permet à la personne d'obtenir des informations sur le traitement et une copie de ses données dans les conditions prévues.",
-      "C": "Il permet d'effacer toute dette bancaire.",
-      "D": "Il donne accès aux données de tous les clients."
-    },
-    "bonne_reponse": "B",
-    "explication": "Il permet à la personne d'obtenir des informations sur le traitement et une copie de ses données dans les conditions prévues. Cette règle constitue le repère théorique à retenir concernant le droit d'accès et son objet.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le droit d'accès pour son objet.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le droit d'accès pour son objet.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le droit d'accès pour son objet."
-    },
-    "sources": [
-      "S071"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0968",
-    "domaine": "RGPD",
-    "sous_domaine": "Prospection",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le droit d'opposition à la prospection — son exercice ?",
-    "choix": {
-      "A": "La personne peut s'opposer à tout moment et sans frais au traitement de ses données à des fins de prospection.",
-      "B": "Il est impossible après la collecte.",
-      "C": "Il impose un paiement au prospect.",
-      "D": "Il ne concerne jamais le profilage lié à la prospection."
-    },
-    "bonne_reponse": "A",
-    "explication": "La personne peut s'opposer à tout moment et sans frais au traitement de ses données à des fins de prospection. Cette règle constitue le repère théorique à retenir concernant le droit d'opposition à la prospection et son exercice.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le droit d'opposition à la prospection pour son exercice."
-    },
-    "sources": [
-      "S071"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0969",
-    "domaine": "RGPD",
-    "sous_domaine": "Conservation",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les données d'un prospect non devenu client — la durée de conservation de prospection ?",
-    "choix": {
-      "A": "Elles doivent être conservées à vie.",
-      "B": "Elles doivent être détruites le jour même.",
-      "C": "Aucune durée ne doit être définie.",
-      "D": "Elles ne devraient en principe pas être conservées au-delà de trois ans après la collecte ou le dernier contact émanant du prospect."
-    },
-    "bonne_reponse": "D",
-    "explication": "Elles ne devraient en principe pas être conservées au-delà de trois ans après la collecte ou le dernier contact émanant du prospect. Cette règle constitue le repère théorique à retenir concernant les données d'un prospect non devenu client et la durée de conservation de prospection.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à les données d'un prospect non devenu client pour la durée de conservation de prospection.",
-      "B": "Cette proposition ne correspond pas au principe applicable à les données d'un prospect non devenu client pour la durée de conservation de prospection.",
-      "C": "Cette proposition ne correspond pas au principe applicable à les données d'un prospect non devenu client pour la durée de conservation de prospection."
-    },
-    "sources": [
-      "S072"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0970",
-    "domaine": "RGPD",
-    "sous_domaine": "Sécurité",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une violation de données personnelles — la gestion ?",
-    "choix": {
-      "A": "Elle ne concerne que les données papier.",
-      "B": "Elle supprime l'obligation de sécurité.",
-      "C": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque.",
-      "D": "Elle doit toujours rester secrète pour l'autorité."
-    },
-    "bonne_reponse": "C",
-    "explication": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque. Cette règle constitue le repère théorique à retenir concernant une violation de données personnelles et la gestion.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion.",
-      "B": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion."
-    },
-    "sources": [
-      "S071"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0971",
-    "domaine": "Banque quotidienne",
-    "sous_domaine": "Compte joint",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un compte joint — la solidarité active ?",
-    "choix": {
-      "A": "Le compte joint ne peut recevoir aucun virement.",
-      "B": "Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable.",
-      "C": "Toutes les opérations exigent toujours deux signatures.",
-      "D": "Un seul cotitulaire est propriétaire de tous les fonds."
-    },
-    "bonne_reponse": "B",
-    "explication": "Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable. Cette règle constitue le repère théorique à retenir concernant un compte joint et la solidarité active.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active.",
-      "C": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active.",
-      "D": "Cette proposition ne correspond pas au principe applicable à un compte joint pour la solidarité active."
-    },
-    "sources": [
-      "S073"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0972",
+    "id": "CGP-2026-0212",
     "domaine": "Banque quotidienne",
     "sous_domaine": "Compte joint",
     "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un incident de chèque sur compte joint — le risque d'interdiction ?",
+    "enonce": "Quelle proposition décrit correctement un incident de chèque sur compte joint concernant le risque d'interdiction ?",
     "choix": {
       "A": "Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables.",
       "B": "Aucun cotitulaire ne peut être concerné.",
@@ -568,34 +646,8 @@
       "S073"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0973",
-    "domaine": "Banque quotidienne",
-    "sous_domaine": "Mobilité bancaire",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le service d'aide à la mobilité bancaire — son coût ?",
-    "choix": {
-      "A": "Il est facturé par la Banque de France.",
-      "B": "Il est réservé aux entreprises cotées.",
-      "C": "Il impose la clôture de tous les livrets.",
-      "D": "Il est gratuit pour le client particulier qui change de compte de paiement dans les conditions prévues."
-    },
-    "bonne_reponse": "D",
-    "explication": "Il est gratuit pour le client particulier qui change de compte de paiement dans les conditions prévues. Cette règle constitue le repère théorique à retenir concernant le service d'aide à la mobilité bancaire et son coût.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le service d'aide à la mobilité bancaire pour son coût.",
-      "B": "Cette proposition ne correspond pas au principe applicable à le service d'aide à la mobilité bancaire pour son coût.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le service d'aide à la mobilité bancaire pour son coût."
-    },
-    "sources": [
-      "S074"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0974",
@@ -620,398 +672,86 @@
       "S075"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0975",
-    "domaine": "Banque quotidienne",
-    "sous_domaine": "Garantie des dépôts",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les titres financiers conservés en compte-titres — leur propriété ?",
+    "id": "CGP-2026-0831",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "Offre de prêt",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'offre de crédit immobilier — le délai de réflexion ?",
     "choix": {
-      "A": "Ils disparaissent automatiquement en cas de faillite.",
-      "B": "Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées.",
-      "C": "Ils deviennent la propriété de la banque.",
-      "D": "Ils sont garantis comme un Livret A contre toute baisse."
+      "A": "Elle ne comporte aucun délai protecteur.",
+      "B": "Elle ne peut être acceptée qu'après le délai légal de réflexion de dix jours.",
+      "C": "Elle doit être acceptée le jour de sa réception.",
+      "D": "Elle ouvre un délai de rétractation de quarante-cinq jours."
     },
     "bonne_reponse": "B",
-    "explication": "Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées. Cette règle constitue le repère théorique à retenir concernant les titres financiers conservés en compte-titres et leur propriété.",
+    "explication": "Elle ne peut être acceptée qu'après le délai légal de réflexion de dix jours. Cette règle constitue le repère théorique à retenir concernant l'offre de crédit immobilier et le délai de réflexion.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à les titres financiers conservés en compte-titres pour leur propriété.",
-      "C": "Cette proposition ne correspond pas au principe applicable à les titres financiers conservés en compte-titres pour leur propriété.",
-      "D": "Cette proposition ne correspond pas au principe applicable à les titres financiers conservés en compte-titres pour leur propriété."
+      "A": "Cette proposition ne correspond pas au principe applicable à l'offre de crédit immobilier pour le délai de réflexion.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'offre de crédit immobilier pour le délai de réflexion.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'offre de crédit immobilier pour le délai de réflexion."
     },
     "sources": [
-      "S053"
+      "S006"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0976",
-    "domaine": "Banque quotidienne",
-    "sous_domaine": "Fraude",
+    "id": "CGP-2026-0072",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "Normes HCSF",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement le taux d'effort concernant le plafond de principe ?",
+    "choix": {
+      "A": "Le plafond de principe est de 35 %, assurance emprunteur comprise, sous réserve de la flexibilité admise.",
+      "B": "Le plafond est toujours de 50 %.",
+      "C": "L'assurance emprunteur est exclue du calcul.",
+      "D": "Aucun plafond de principe n'existe."
+    },
+    "bonne_reponse": "A",
+    "explication": "Le plafond de principe est de 35 %, assurance emprunteur comprise, sous réserve de la flexibilité admise. Cette règle constitue le repère théorique à retenir concernant le taux d'effort et le plafond de principe.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le taux d'effort pour le plafond de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le taux d'effort pour le plafond de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le taux d'effort pour le plafond de principe."
+    },
+    "sources": [
+      "S005"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0267",
+    "domaine": "Crédit immobilier",
+    "sous_domaine": "Amortissement",
     "difficulte": "debutant",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour les codes d'authentification bancaire — leur confidentialité ?",
+    "enonce": "À propos de un prêt amortissable, quel principe faut-il retenir pour son fonctionnement ?",
     "choix": {
-      "A": "Ils ne doivent pas être communiqués à un prétendu conseiller sollicitant leur transmission.",
-      "B": "Ils doivent être publiés pour sécuriser le compte.",
-      "C": "La banque les demande toujours par téléphone.",
-      "D": "Ils peuvent être partagés librement avec tout tiers."
+      "A": "Chaque échéance comprend en principe une part d'intérêts et une part de remboursement du capital.",
+      "B": "Le capital est toujours remboursé uniquement au terme.",
+      "C": "Aucun intérêt n'est dû.",
+      "D": "La mensualité ne peut jamais varier contractuellement."
     },
     "bonne_reponse": "A",
-    "explication": "Ils ne doivent pas être communiqués à un prétendu conseiller sollicitant leur transmission. Cette règle constitue le repère théorique à retenir concernant les codes d'authentification bancaire et leur confidentialité.",
+    "explication": "Chaque échéance comprend en principe une part d'intérêts et une part de remboursement du capital. Cette règle constitue le repère théorique à retenir concernant un prêt amortissable et son fonctionnement.",
     "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à les codes d'authentification bancaire pour leur confidentialité.",
-      "C": "Cette proposition ne correspond pas au principe applicable à les codes d'authentification bancaire pour leur confidentialité.",
-      "D": "Cette proposition ne correspond pas au principe applicable à les codes d'authentification bancaire pour leur confidentialité."
+      "B": "Cette proposition ne correspond pas au principe applicable à un prêt amortissable pour son fonctionnement.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un prêt amortissable pour son fonctionnement.",
+      "D": "Cette proposition ne correspond pas au principe applicable à un prêt amortissable pour son fonctionnement."
     },
     "sources": [
-      "S076"
+      "S008"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0977",
-    "domaine": "Banque quotidienne",
-    "sous_domaine": "Fraude",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une opération par carte non autorisée — la réaction ?",
-    "choix": {
-      "A": "Il doit attendre la clôture annuelle.",
-      "B": "Il doit communiquer son code secret au fraudeur.",
-      "C": "Aucune contestation n'est possible.",
-      "D": "Le titulaire doit faire opposition et signaler rapidement l'opération à sa banque selon la procédure applicable."
-    },
-    "bonne_reponse": "D",
-    "explication": "Le titulaire doit faire opposition et signaler rapidement l'opération à sa banque selon la procédure applicable. Cette règle constitue le repère théorique à retenir concernant une opération par carte non autorisée et la réaction.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une opération par carte non autorisée pour la réaction.",
-      "B": "Cette proposition ne correspond pas au principe applicable à une opération par carte non autorisée pour la réaction.",
-      "C": "Cette proposition ne correspond pas au principe applicable à une opération par carte non autorisée pour la réaction."
-    },
-    "sources": [
-      "S076"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0978",
-    "domaine": "Banque quotidienne",
-    "sous_domaine": "Clôture",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la clôture d'un compte par la banque — le préavis ?",
-    "choix": {
-      "A": "Elle exige l'accord de tous les créanciers.",
-      "B": "Elle transforme le compte en PEA.",
-      "C": "Elle doit en principe respecter le préavis contractuel ou légal, sauf situations permettant une clôture sans préavis.",
-      "D": "Elle est toujours impossible."
-    },
-    "bonne_reponse": "C",
-    "explication": "Elle doit en principe respecter le préavis contractuel ou légal, sauf situations permettant une clôture sans préavis. Cette règle constitue le repère théorique à retenir concernant la clôture d'un compte par la banque et le préavis.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à la clôture d'un compte par la banque pour le préavis.",
-      "B": "Cette proposition ne correspond pas au principe applicable à la clôture d'un compte par la banque pour le préavis.",
-      "D": "Cette proposition ne correspond pas au principe applicable à la clôture d'un compte par la banque pour le préavis."
-    },
-    "sources": [
-      "S077"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0979",
-    "domaine": "Banque quotidienne",
-    "sous_domaine": "Surendettement",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le dépôt d'un dossier de surendettement — l'inscription au FICP ?",
-    "choix": {
-      "A": "Il interdit le maintien d'un compte bancaire.",
-      "B": "Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables.",
-      "C": "Il entraîne automatiquement l'inscription de tout le voisinage.",
-      "D": "Il garantit l'effacement immédiat de toutes les dettes."
-    },
-    "bonne_reponse": "B",
-    "explication": "Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables. Cette règle constitue le repère théorique à retenir concernant le dépôt d'un dossier de surendettement et l'inscription au FICP.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le dépôt d'un dossier de surendettement pour l'inscription au FICP."
-    },
-    "sources": [
-      "S078"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0980",
-    "domaine": "Banque quotidienne",
-    "sous_domaine": "Fragilité financière",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'offre spécifique clientèle fragile — sa finalité ?",
-    "choix": {
-      "A": "Elle vise à fournir des services bancaires adaptés et à limiter certains frais pour les clients éligibles.",
-      "B": "Elle garantit un découvert illimité.",
-      "C": "Elle supprime toute tarification bancaire.",
-      "D": "Elle est réservée aux sociétés de gestion."
-    },
-    "bonne_reponse": "A",
-    "explication": "Elle vise à fournir des services bancaires adaptés et à limiter certains frais pour les clients éligibles. Cette règle constitue le repère théorique à retenir concernant l'offre spécifique clientèle fragile et sa finalité.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à l'offre spécifique clientèle fragile pour sa finalité.",
-      "C": "Cette proposition ne correspond pas au principe applicable à l'offre spécifique clientèle fragile pour sa finalité.",
-      "D": "Cette proposition ne correspond pas au principe applicable à l'offre spécifique clientèle fragile pour sa finalité."
-    },
-    "sources": [
-      "S079"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0981",
-    "domaine": "Économie et marchés",
-    "sous_domaine": "Inflation",
-    "difficulte": "debutant",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'inflation — sa définition ?",
-    "choix": {
-      "A": "Elle désigne une baisse générale des prix.",
-      "B": "Elle correspond uniquement à la hausse d'une action.",
-      "C": "Elle garantit un rendement réel positif.",
-      "D": "Elle correspond à une hausse générale et durable du niveau des prix, réduisant le pouvoir d'achat de la monnaie."
-    },
-    "bonne_reponse": "D",
-    "explication": "Elle correspond à une hausse générale et durable du niveau des prix, réduisant le pouvoir d'achat de la monnaie. Cette règle constitue le repère théorique à retenir concernant l'inflation et sa définition.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à l'inflation pour sa définition.",
-      "B": "Cette proposition ne correspond pas au principe applicable à l'inflation pour sa définition.",
-      "C": "Cette proposition ne correspond pas au principe applicable à l'inflation pour sa définition."
-    },
-    "sources": [
-      "S080"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0982",
-    "domaine": "Économie et marchés",
-    "sous_domaine": "Taux directeurs",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une hausse des taux directeurs — son effet général ?",
-    "choix": {
-      "A": "Elle garantit la hausse des actions.",
-      "B": "Elle supprime l'inflation instantanément.",
-      "C": "Elle tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire.",
-      "D": "Elle rend tous les crédits gratuits."
-    },
-    "bonne_reponse": "C",
-    "explication": "Elle tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire. Cette règle constitue le repère théorique à retenir concernant une hausse des taux directeurs et son effet général.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une hausse des taux directeurs pour son effet général.",
-      "B": "Cette proposition ne correspond pas au principe applicable à une hausse des taux directeurs pour son effet général.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une hausse des taux directeurs pour son effet général."
-    },
-    "sources": [
-      "S081"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0983",
-    "domaine": "Économie et marchés",
-    "sous_domaine": "Obligations",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la relation entre taux et cours obligataire — son sens général ?",
-    "choix": {
-      "A": "La hausse des taux transforme les obligations en actions.",
-      "B": "Lorsque les taux de marché montent, le prix des obligations à taux fixe existantes tend à baisser.",
-      "C": "Taux et prix montent toujours ensemble.",
-      "D": "Les taux n'ont aucun effet sur les obligations."
-    },
-    "bonne_reponse": "B",
-    "explication": "Lorsque les taux de marché montent, le prix des obligations à taux fixe existantes tend à baisser. Cette règle constitue le repère théorique à retenir concernant la relation entre taux et cours obligataire et son sens général.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à la relation entre taux et cours obligataire pour son sens général.",
-      "C": "Cette proposition ne correspond pas au principe applicable à la relation entre taux et cours obligataire pour son sens général.",
-      "D": "Cette proposition ne correspond pas au principe applicable à la relation entre taux et cours obligataire pour son sens général."
-    },
-    "sources": [
-      "S032"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0984",
-    "domaine": "Économie et marchés",
-    "sous_domaine": "Rendement réel",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le rendement réel — sa définition ?",
-    "choix": {
-      "A": "Il correspond au rendement nominal corrigé de l'effet de l'inflation.",
-      "B": "Il est toujours égal au rendement nominal.",
-      "C": "Il mesure uniquement les frais.",
-      "D": "Il ne peut jamais être négatif."
-    },
-    "bonne_reponse": "A",
-    "explication": "Il correspond au rendement nominal corrigé de l'effet de l'inflation. Cette règle constitue le repère théorique à retenir concernant le rendement réel et sa définition.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à le rendement réel pour sa définition.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le rendement réel pour sa définition.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le rendement réel pour sa définition."
-    },
-    "sources": [
-      "S080"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0985",
-    "domaine": "Économie et marchés",
-    "sous_domaine": "Courbe des taux",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une courbe des taux — sa représentation ?",
-    "choix": {
-      "A": "Elle représente uniquement le cours d'une action.",
-      "B": "Elle mesure la fiscalité des livrets.",
-      "C": "Elle garantit le taux futur.",
-      "D": "Elle représente les rendements d'instruments comparables selon leurs différentes maturités."
-    },
-    "bonne_reponse": "D",
-    "explication": "Elle représente les rendements d'instruments comparables selon leurs différentes maturités. Cette règle constitue le repère théorique à retenir concernant une courbe des taux et sa représentation.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une courbe des taux pour sa représentation.",
-      "B": "Cette proposition ne correspond pas au principe applicable à une courbe des taux pour sa représentation.",
-      "C": "Cette proposition ne correspond pas au principe applicable à une courbe des taux pour sa représentation."
-    },
-    "sources": [
-      "S081"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0986",
-    "domaine": "Économie et marchés",
-    "sous_domaine": "Capitalisation",
-    "difficulte": "debutant",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la capitalisation des intérêts — son effet ?",
-    "choix": {
-      "A": "Le capital diminue mécaniquement.",
-      "B": "La durée n'a aucun effet.",
-      "C": "Les intérêts produits s'ajoutent au capital et peuvent eux-mêmes produire des intérêts.",
-      "D": "Les intérêts sont définitivement perdus."
-    },
-    "bonne_reponse": "C",
-    "explication": "Les intérêts produits s'ajoutent au capital et peuvent eux-mêmes produire des intérêts. Cette règle constitue le repère théorique à retenir concernant la capitalisation des intérêts et son effet.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à la capitalisation des intérêts pour son effet.",
-      "B": "Cette proposition ne correspond pas au principe applicable à la capitalisation des intérêts pour son effet.",
-      "D": "Cette proposition ne correspond pas au principe applicable à la capitalisation des intérêts pour son effet."
-    },
-    "sources": [
-      "S082"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0987",
-    "domaine": "Économie et marchés",
-    "sous_domaine": "Risque de marché",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le risque de marché — sa définition ?",
-    "choix": {
-      "A": "Il garantit une liquidité parfaite.",
-      "B": "Il correspond au risque de perte lié aux variations des prix, taux, devises ou autres facteurs de marché.",
-      "C": "Il correspond uniquement à une fraude interne.",
-      "D": "Il est inexistant pour les actifs cotés."
-    },
-    "bonne_reponse": "B",
-    "explication": "Il correspond au risque de perte lié aux variations des prix, taux, devises ou autres facteurs de marché. Cette règle constitue le repère théorique à retenir concernant le risque de marché et sa définition.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à le risque de marché pour sa définition.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le risque de marché pour sa définition.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le risque de marché pour sa définition."
-    },
-    "sources": [
-      "S055"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0988",
-    "domaine": "Économie et marchés",
-    "sous_domaine": "Risque de change",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour le risque de change — sa définition ?",
-    "choix": {
-      "A": "Il résulte de la variation du taux de conversion entre la devise de l'investissement et la devise de référence.",
-      "B": "Il est identique au risque décès.",
-      "C": "Il ne concerne jamais les placements étrangers.",
-      "D": "Il garantit une plus-value."
-    },
-    "bonne_reponse": "A",
-    "explication": "Il résulte de la variation du taux de conversion entre la devise de l'investissement et la devise de référence. Cette règle constitue le repère théorique à retenir concernant le risque de change et sa définition.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à le risque de change pour sa définition.",
-      "C": "Cette proposition ne correspond pas au principe applicable à le risque de change pour sa définition.",
-      "D": "Cette proposition ne correspond pas au principe applicable à le risque de change pour sa définition."
-    },
-    "sources": [
-      "S033"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0989",
-    "domaine": "Économie et marchés",
-    "sous_domaine": "Corrélation",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la corrélation entre deux actifs — son interprétation ?",
-    "choix": {
-      "A": "Elle garantit des performances identiques.",
-      "B": "Elle est toujours égale à un.",
-      "C": "Elle supprime le risque spécifique.",
-      "D": "Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité."
-    },
-    "bonne_reponse": "D",
-    "explication": "Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité. Cette règle constitue le repère théorique à retenir concernant la corrélation entre deux actifs et son interprétation.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à la corrélation entre deux actifs pour son interprétation.",
-      "B": "Cette proposition ne correspond pas au principe applicable à la corrélation entre deux actifs pour son interprétation.",
-      "C": "Cette proposition ne correspond pas au principe applicable à la corrélation entre deux actifs pour son interprétation."
-    },
-    "sources": [
-      "S056"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
     "id": "CGP-2026-0990",
@@ -1036,267 +776,527 @@
       "S080"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0991",
-    "domaine": "Relation commerciale",
-    "sous_domaine": "Découverte",
+    "id": "CGP-2026-0418",
+    "domaine": "Économie et marchés",
+    "sous_domaine": "Risque de change",
     "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la découverte patrimoniale — sa finalité ?",
+    "enonce": "À propos de le risque de change, quel principe faut-il retenir pour sa définition ?",
     "choix": {
-      "A": "Elle remplace toute obligation réglementaire.",
-      "B": "Elle vise à comprendre de manière structurée la situation, les objectifs, les contraintes et les priorités avant toute recommandation.",
-      "C": "Elle sert uniquement à vendre le produit le plus rémunérateur.",
-      "D": "Elle peut ignorer les engagements existants."
+      "A": "Il garantit une plus-value.",
+      "B": "Il résulte de la variation du taux de conversion entre la devise de l'investissement et la devise de référence.",
+      "C": "Il est identique au risque décès.",
+      "D": "Il ne concerne jamais les placements étrangers."
     },
     "bonne_reponse": "B",
-    "explication": "Elle vise à comprendre de manière structurée la situation, les objectifs, les contraintes et les priorités avant toute recommandation. Cette règle constitue le repère théorique à retenir concernant la découverte patrimoniale et sa finalité.",
+    "explication": "Il résulte de la variation du taux de conversion entre la devise de l'investissement et la devise de référence. Cette règle constitue le repère théorique à retenir concernant le risque de change et sa définition.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à la découverte patrimoniale pour sa finalité.",
-      "C": "Cette proposition ne correspond pas au principe applicable à la découverte patrimoniale pour sa finalité.",
-      "D": "Cette proposition ne correspond pas au principe applicable à la découverte patrimoniale pour sa finalité."
+      "A": "Cette proposition ne correspond pas au principe applicable à le risque de change pour sa définition.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le risque de change pour sa définition.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le risque de change pour sa définition."
     },
     "sources": [
-      "S002"
+      "S033"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0992",
-    "domaine": "Relation commerciale",
-    "sous_domaine": "Argumentation",
+    "id": "CGP-2026-1022",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Régime réel foncier",
     "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une recommandation patrimoniale — sa justification ?",
+    "enonce": "Quelle est la durée minimale d'engagement attachée à l'option pour le régime réel lorsque le micro-foncier serait applicable ?",
     "choix": {
-      "A": "Elle doit relier les caractéristiques du produit aux besoins et contraintes identifiés, en exposant aussi les risques.",
-      "B": "Elle doit présenter uniquement les avantages.",
-      "C": "Elle peut reposer sur le rendement passé seul.",
-      "D": "Elle n'a pas à être compréhensible."
+      "A": "Cinq ans incompressibles.",
+      "B": "Aucune durée n'est attachée à l'option.",
+      "C": "Trois ans.",
+      "D": "Un mois."
     },
-    "bonne_reponse": "A",
-    "explication": "Elle doit relier les caractéristiques du produit aux besoins et contraintes identifiés, en exposant aussi les risques. Cette règle constitue le repère théorique à retenir concernant une recommandation patrimoniale et sa justification.",
+    "bonne_reponse": "C",
+    "explication": "L'option pour le régime réel est globale et engage en principe le contribuable pendant trois ans.",
     "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à une recommandation patrimoniale pour sa justification.",
-      "C": "Cette proposition ne correspond pas au principe applicable à une recommandation patrimoniale pour sa justification.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une recommandation patrimoniale pour sa justification."
+      "A": "La durée de principe est trois ans, non cinq.",
+      "B": "L'option produit bien un engagement minimal.",
+      "D": "Un mois ne correspond pas à une option fiscale immobilière."
     },
     "sources": [
-      "S002"
+      "S093"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0993",
-    "domaine": "Relation commerciale",
-    "sous_domaine": "Conflits d'intérêts",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour un conflit d'intérêts — sa gestion ?",
+    "id": "CGP-2026-1021",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Micro-foncier",
+    "difficulte": "debutant",
+    "enonce": "Quel abattement forfaitaire s'applique au revenu brut sous le micro-foncier ?",
     "choix": {
-      "A": "Il doit être dissimulé au client.",
-      "B": "Il rend toute vente automatiquement licite.",
-      "C": "Il ne peut jamais exister dans une banque.",
-      "D": "Il doit être identifié, prévenu ou géré, et faire l'objet d'une information lorsque les mesures prises ne suffisent pas."
+      "A": "10 %.",
+      "B": "50 %.",
+      "C": "71 %.",
+      "D": "30 %."
     },
     "bonne_reponse": "D",
-    "explication": "Il doit être identifié, prévenu ou géré, et faire l'objet d'une information lorsque les mesures prises ne suffisent pas. Cette règle constitue le repère théorique à retenir concernant un conflit d'intérêts et sa gestion.",
+    "explication": "Le micro-foncier impose 70 % des recettes brutes après un abattement représentatif de charges de 30 %. Les charges réelles ne sont pas déduites en plus.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à un conflit d'intérêts pour sa gestion.",
-      "B": "Cette proposition ne correspond pas au principe applicable à un conflit d'intérêts pour sa gestion.",
-      "C": "Cette proposition ne correspond pas au principe applicable à un conflit d'intérêts pour sa gestion."
+      "A": "10 % n'est pas l'abattement du micro-foncier.",
+      "B": "50 % se rencontre dans certains micro-BIC.",
+      "C": "71 % concerne certains régimes de meublé classé, non la location nue."
+    },
+    "sources": [
+      "S093"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0376",
+    "domaine": "Immobilier locatif",
+    "sous_domaine": "Location meublée",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de un bail meublé de résidence principale, quel principe faut-il retenir pour sa durée de principe ?",
+    "choix": {
+      "A": "La durée minimale est toujours de neuf ans.",
+      "B": "Il est nécessairement viager.",
+      "C": "Il ne peut jamais être renouvelé.",
+      "D": "La durée de principe est d'un an, avec un régime spécifique notamment pour l'étudiant."
+    },
+    "bonne_reponse": "D",
+    "explication": "La durée de principe est d'un an, avec un régime spécifique notamment pour l'étudiant. Cette règle constitue le repère théorique à retenir concernant un bail meublé de résidence principale et sa durée de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à un bail meublé de résidence principale pour sa durée de principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à un bail meublé de résidence principale pour sa durée de principe.",
+      "C": "Cette proposition ne correspond pas au principe applicable à un bail meublé de résidence principale pour sa durée de principe."
+    },
+    "sources": [
+      "S063"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0762",
+    "domaine": "Conformité",
+    "sous_domaine": "Adéquation",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur l'évaluation d'adéquation, quelle réponse est juste au sujet de les informations patrimoniales ?",
+    "choix": {
+      "A": "Elle dépend seulement de l'âge.",
+      "B": "Elle ignore la capacité à subir des pertes.",
+      "C": "Elle est fondée uniquement sur le produit le plus rentable.",
+      "D": "Elle prend notamment en compte la situation financière, les objectifs, l'horizon, les connaissances et la tolérance au risque."
+    },
+    "bonne_reponse": "D",
+    "explication": "Elle prend notamment en compte la situation financière, les objectifs, l'horizon, les connaissances et la tolérance au risque. Cette règle constitue le repère théorique à retenir concernant l'évaluation d'adéquation et les informations patrimoniales.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'évaluation d'adéquation pour les informations patrimoniales.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'évaluation d'adéquation pour les informations patrimoniales.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'évaluation d'adéquation pour les informations patrimoniales."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0381",
+    "domaine": "Conformité",
+    "sous_domaine": "Connaissance client",
+    "difficulte": "intermediaire",
+    "enonce": "À propos de le recueil des connaissances et de l'expérience, quel principe faut-il retenir pour sa finalité ?",
+    "choix": {
+      "A": "Il est inutile pour tout conseil.",
+      "B": "Il garantit une performance positive.",
+      "C": "Il contribue à déterminer si le service ou l'instrument envisagé peut être compris par le client.",
+      "D": "Il sert uniquement à fixer les frais bancaires."
+    },
+    "bonne_reponse": "C",
+    "explication": "Il contribue à déterminer si le service ou l'instrument envisagé peut être compris par le client. Cette règle constitue le repère théorique à retenir concernant le recueil des connaissances et de l'expérience et sa finalité.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le recueil des connaissances et de l'expérience pour sa finalité.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le recueil des connaissances et de l'expérience pour sa finalité.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le recueil des connaissances et de l'expérience pour sa finalité."
+    },
+    "sources": [
+      "S002"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0114",
+    "domaine": "Prévoyance",
+    "sous_domaine": "Exclusions",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement une exclusion de garantie concernant sa portée ?",
+    "choix": {
+      "A": "Elle est sans effet juridique.",
+      "B": "Elle remplace la clause bénéficiaire.",
+      "C": "Elle délimite un risque non couvert et doit être examinée avec les conditions du contrat.",
+      "D": "Elle augmente automatiquement toutes les prestations."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle délimite un risque non couvert et doit être examinée avec les conditions du contrat. Cette règle constitue le repère théorique à retenir concernant une exclusion de garantie et sa portée.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une exclusion de garantie pour sa portée.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une exclusion de garantie pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une exclusion de garantie pour sa portée."
+    },
+    "sources": [
+      "S028"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-1102",
+    "domaine": "Relation commerciale",
+    "sous_domaine": "Traçabilité du conseil",
+    "difficulte": "avance",
+    "enonce": "Quelle est la finalité principale de la traçabilité d'une recommandation patrimoniale ?",
+    "choix": {
+      "A": "Garantir le rendement futur du produit.",
+      "B": "Permettre de masquer les solutions alternatives.",
+      "C": "Démontrer le lien entre les informations recueillies, les besoins identifiés, la solution proposée, ses risques et ses coûts.",
+      "D": "Remplacer le recueil de connaissance client."
+    },
+    "bonne_reponse": "C",
+    "explication": "Une recommandation traçable expose le raisonnement et les informations déterminantes. Elle favorise la compréhension du client et le contrôle de l'adéquation.",
+    "pieges": {
+      "A": "Aucun écrit ne garantit une performance de marché.",
+      "B": "Les alternatives pertinentes et les conflits doivent être traités avec loyauté.",
+      "D": "La preuve du conseil complète, sans remplacer, le recueil d'informations."
     },
     "sources": [
       "S083"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0994",
-    "domaine": "Relation commerciale",
-    "sous_domaine": "Déontologie",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'intérêt du client — sa place ?",
-    "choix": {
-      "A": "Il se confond avec l'intérêt de l'émetteur.",
-      "B": "Il dispense de vérifier les risques.",
-      "C": "Il doit guider la recommandation dans le respect des règles professionnelles et de l'adéquation.",
-      "D": "Il est secondaire par rapport au volume de vente."
-    },
-    "bonne_reponse": "C",
-    "explication": "Il doit guider la recommandation dans le respect des règles professionnelles et de l'adéquation. Cette règle constitue le repère théorique à retenir concernant l'intérêt du client et sa place.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à l'intérêt du client pour sa place.",
-      "B": "Cette proposition ne correspond pas au principe applicable à l'intérêt du client pour sa place.",
-      "D": "Cette proposition ne correspond pas au principe applicable à l'intérêt du client pour sa place."
-    },
-    "sources": [
-      "S002"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0995",
-    "domaine": "Relation commerciale",
-    "sous_domaine": "Traçabilité",
+    "id": "CGP-2026-0099",
+    "domaine": "Régimes matrimoniaux",
+    "sous_domaine": "Changement de régime",
     "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la traçabilité du conseil — son utilité ?",
+    "enonce": "Quelle proposition décrit correctement le changement de régime matrimonial concernant l'intervention du notaire ?",
     "choix": {
-      "A": "Elle ne concerne que les opérations refusées.",
-      "B": "Elle permet de démontrer les informations recueillies, l'analyse réalisée et les motifs de la recommandation.",
-      "C": "Elle consiste à supprimer les justificatifs.",
-      "D": "Elle rend inutile toute mise à jour."
+      "A": "Il relève uniquement de la banque.",
+      "B": "Il nécessite une convention établie par un notaire et l'information des personnes prévues par la loi.",
+      "C": "Il se réalise par simple accord oral.",
+      "D": "Il est toujours interdit après le mariage."
     },
     "bonne_reponse": "B",
-    "explication": "Elle permet de démontrer les informations recueillies, l'analyse réalisée et les motifs de la recommandation. Cette règle constitue le repère théorique à retenir concernant la traçabilité du conseil et son utilité.",
+    "explication": "Il nécessite une convention établie par un notaire et l'information des personnes prévues par la loi. Cette règle constitue le repère théorique à retenir concernant le changement de régime matrimonial et l'intervention du notaire.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à la traçabilité du conseil pour son utilité.",
-      "C": "Cette proposition ne correspond pas au principe applicable à la traçabilité du conseil pour son utilité.",
-      "D": "Cette proposition ne correspond pas au principe applicable à la traçabilité du conseil pour son utilité."
+      "A": "Cette proposition ne correspond pas au principe applicable à le changement de régime matrimonial pour l'intervention du notaire.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le changement de régime matrimonial pour l'intervention du notaire.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le changement de régime matrimonial pour l'intervention du notaire."
     },
     "sources": [
-      "S004"
+      "S046"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   },
   {
-    "id": "CGP-2026-0996",
+    "id": "CGP-2026-0478",
+    "domaine": "Régimes matrimoniaux",
+    "sous_domaine": "Séparation de biens",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur la propriété de le régime de séparation de biens ?",
+    "choix": {
+      "A": "Chaque époux reste en principe propriétaire de ses biens personnels, sous réserve des acquisitions indivises et des règles de preuve.",
+      "B": "Tous les biens deviennent communs.",
+      "C": "Aucun achat à deux n'est possible.",
+      "D": "Le mariage est dépourvu de tout effet patrimonial."
+    },
+    "bonne_reponse": "A",
+    "explication": "Chaque époux reste en principe propriétaire de ses biens personnels, sous réserve des acquisitions indivises et des règles de preuve. Cette règle constitue le repère théorique à retenir concernant le régime de séparation de biens et la propriété.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le régime de séparation de biens pour la propriété.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le régime de séparation de biens pour la propriété.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le régime de séparation de biens pour la propriété."
+    },
+    "sources": [
+      "S045"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0093",
+    "domaine": "Droit civil",
+    "sous_domaine": "Démembrement",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle proposition décrit correctement l'extinction de l'usufruit viager concernant la réunion des droits ?",
+    "choix": {
+      "A": "Le bien devient automatiquement propriété de l'État.",
+      "B": "Le nu-propriétaire perd tous ses droits.",
+      "C": "Le bien doit toujours être vendu.",
+      "D": "Au décès de l'usufruitier, l'usufruit s'éteint et la pleine propriété se reconstitue en principe chez le nu-propriétaire."
+    },
+    "bonne_reponse": "D",
+    "explication": "Au décès de l'usufruitier, l'usufruit s'éteint et la pleine propriété se reconstitue en principe chez le nu-propriétaire. Cette règle constitue le repère théorique à retenir concernant l'extinction de l'usufruit viager et la réunion des droits.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'extinction de l'usufruit viager pour la réunion des droits.",
+      "B": "Cette proposition ne correspond pas au principe applicable à l'extinction de l'usufruit viager pour la réunion des droits.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'extinction de l'usufruit viager pour la réunion des droits."
+    },
+    "sources": [
+      "S015"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0688",
+    "domaine": "Assurance",
+    "sous_domaine": "Formation",
+    "difficulte": "intermediaire",
+    "enonce": "Dans un QCM portant sur la formation continue DDA, quelle réponse est juste au sujet de sa durée annuelle minimale ?",
+    "choix": {
+      "A": "Elle est facultative pour tous les distributeurs.",
+      "B": "La durée minimale est de quinze heures par an pour les personnes concernées par la distribution d'assurances.",
+      "C": "Elle est d'une heure tous les dix ans.",
+      "D": "Elle n'existe que pour les actuaires."
+    },
+    "bonne_reponse": "B",
+    "explication": "La durée minimale est de quinze heures par an pour les personnes concernées par la distribution d'assurances. Cette règle constitue le repère théorique à retenir concernant la formation continue DDA et sa durée annuelle minimale.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la formation continue DDA pour sa durée annuelle minimale.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la formation continue DDA pour sa durée annuelle minimale.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la formation continue DDA pour sa durée annuelle minimale."
+    },
+    "sources": [
+      "S003"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0087",
+    "domaine": "Assurance emprunteur",
+    "sous_domaine": "Garanties",
+    "difficulte": "debutant",
+    "enonce": "Quelle proposition décrit correctement la garantie décès concernant son objet ?",
+    "choix": {
+      "A": "Elle couvre automatiquement toute perte d'emploi.",
+      "B": "Elle prévoit, dans les limites du contrat, la prise en charge du capital assuré en cas de décès.",
+      "C": "Elle rembourse les loyers impayés.",
+      "D": "Elle garantit la valeur de revente du bien."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle prévoit, dans les limites du contrat, la prise en charge du capital assuré en cas de décès. Cette règle constitue le repère théorique à retenir concernant la garantie décès et son objet.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à la garantie décès pour son objet.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la garantie décès pour son objet.",
+      "D": "Cette proposition ne correspond pas au principe applicable à la garantie décès pour son objet."
+    },
+    "sources": [
+      "S010"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0581",
+    "domaine": "LCB-FT",
+    "sous_domaine": "Vigilance",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur son moment de l'identification du client ?",
+    "choix": {
+      "A": "Elle se limite au nom commercial du produit.",
+      "B": "Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée.",
+      "C": "Elle n'intervient qu'après la clôture.",
+      "D": "Elle est facultative pour toute banque."
+    },
+    "bonne_reponse": "B",
+    "explication": "Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée. Cette règle constitue le repère théorique à retenir concernant l'identification du client et son moment.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment.",
+      "C": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment.",
+      "D": "Cette proposition ne correspond pas au principe applicable à l'identification du client pour son moment."
+    },
+    "sources": [
+      "S070"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0586",
+    "domaine": "RGPD",
+    "sous_domaine": "Minimisation",
+    "difficulte": "intermediaire",
+    "enonce": "Quelle affirmation théorique est exacte sur sa portée de le principe de minimisation ?",
+    "choix": {
+      "A": "Les données collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire à la finalité.",
+      "B": "Toutes les données disponibles doivent être collectées.",
+      "C": "La finalité n'a pas à être définie.",
+      "D": "La conservation doit être illimitée."
+    },
+    "bonne_reponse": "A",
+    "explication": "Les données collectées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire à la finalité. Cette règle constitue le repère théorique à retenir concernant le principe de minimisation et sa portée.",
+    "pieges": {
+      "B": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le principe de minimisation pour sa portée."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0970",
+    "domaine": "RGPD",
+    "sous_domaine": "Sécurité",
+    "difficulte": "avance",
+    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une violation de données personnelles — la gestion ?",
+    "choix": {
+      "A": "Elle ne concerne que les données papier.",
+      "B": "Elle supprime l'obligation de sécurité.",
+      "C": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque.",
+      "D": "Elle doit toujours rester secrète pour l'autorité."
+    },
+    "bonne_reponse": "C",
+    "explication": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque. Cette règle constitue le repère théorique à retenir concernant une violation de données personnelles et la gestion.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion.",
+      "B": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion.",
+      "D": "Cette proposition ne correspond pas au principe applicable à une violation de données personnelles pour la gestion."
+    },
+    "sources": [
+      "S071"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0806",
     "domaine": "International",
     "sous_domaine": "Résidence fiscale",
     "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la résidence fiscale — sa détermination ?",
+    "enonce": "Dans un QCM portant sur la résidence fiscale, quelle réponse est juste au sujet de sa détermination ?",
     "choix": {
-      "A": "Elle dépend des critères des droits internes et, en cas de conflit, des conventions fiscales applicables.",
-      "B": "Elle dépend uniquement de la nationalité.",
-      "C": "Elle est choisie librement chaque mois.",
-      "D": "Elle correspond toujours au pays de naissance."
-    },
-    "bonne_reponse": "A",
-    "explication": "Elle dépend des critères des droits internes et, en cas de conflit, des conventions fiscales applicables. Cette règle constitue le repère théorique à retenir concernant la résidence fiscale et sa détermination.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à la résidence fiscale pour sa détermination.",
-      "C": "Cette proposition ne correspond pas au principe applicable à la résidence fiscale pour sa détermination.",
-      "D": "Cette proposition ne correspond pas au principe applicable à la résidence fiscale pour sa détermination."
-    },
-    "sources": [
-      "S084"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0997",
-    "domaine": "International",
-    "sous_domaine": "CRS",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour l'échange automatique d'informations CRS — sa finalité ?",
-    "choix": {
-      "A": "Il garantit l'absence d'impôt.",
-      "B": "Il concerne uniquement les paiements en espèces.",
-      "C": "Il remplace toutes les conventions fiscales.",
-      "D": "Il organise la collecte et la transmission d'informations sur certains comptes financiers entre juridictions participantes."
+      "A": "Elle dépend uniquement de la nationalité.",
+      "B": "Elle est choisie librement chaque mois.",
+      "C": "Elle correspond toujours au pays de naissance.",
+      "D": "Elle dépend des critères des droits internes et, en cas de conflit, des conventions fiscales applicables."
     },
     "bonne_reponse": "D",
-    "explication": "Il organise la collecte et la transmission d'informations sur certains comptes financiers entre juridictions participantes. Cette règle constitue le repère théorique à retenir concernant l'échange automatique d'informations CRS et sa finalité.",
+    "explication": "Elle dépend des critères des droits internes et, en cas de conflit, des conventions fiscales applicables. Cette règle constitue le repère théorique à retenir concernant la résidence fiscale et sa détermination.",
     "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à l'échange automatique d'informations CRS pour sa finalité.",
-      "B": "Cette proposition ne correspond pas au principe applicable à l'échange automatique d'informations CRS pour sa finalité.",
-      "C": "Cette proposition ne correspond pas au principe applicable à l'échange automatique d'informations CRS pour sa finalité."
-    },
-    "sources": [
-      "S085"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0998",
-    "domaine": "International",
-    "sous_domaine": "Auto-certification",
-    "difficulte": "intermediaire",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour une auto-certification fiscale — son objet ?",
-    "choix": {
-      "A": "Elle remplace toute pièce d'identité.",
-      "B": "Elle autorise à choisir une résidence sans critère.",
-      "C": "Elle permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux.",
-      "D": "Elle vaut conseil fiscal personnalisé de la banque."
-    },
-    "bonne_reponse": "C",
-    "explication": "Elle permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux. Cette règle constitue le repère théorique à retenir concernant une auto-certification fiscale et son objet.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à une auto-certification fiscale pour son objet.",
-      "B": "Cette proposition ne correspond pas au principe applicable à une auto-certification fiscale pour son objet.",
-      "D": "Cette proposition ne correspond pas au principe applicable à une auto-certification fiscale pour son objet."
-    },
-    "sources": [
-      "S085"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-0999",
-    "domaine": "International",
-    "sous_domaine": "FATCA",
-    "difficulte": "avance",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour FATCA — son objectif ?",
-    "choix": {
-      "A": "Il supprime les obligations CRS.",
-      "B": "Le dispositif vise l'identification et la déclaration de certains comptes liés à des contribuables américains selon l'accord applicable.",
-      "C": "Il concerne uniquement les résidents français sans lien américain.",
-      "D": "Il est un produit d'assurance-vie."
-    },
-    "bonne_reponse": "B",
-    "explication": "Le dispositif vise l'identification et la déclaration de certains comptes liés à des contribuables américains selon l'accord applicable. Cette règle constitue le repère théorique à retenir concernant FATCA et son objectif.",
-    "pieges": {
-      "A": "Cette proposition ne correspond pas au principe applicable à FATCA pour son objectif.",
-      "C": "Cette proposition ne correspond pas au principe applicable à FATCA pour son objectif.",
-      "D": "Cette proposition ne correspond pas au principe applicable à FATCA pour son objectif."
-    },
-    "sources": [
-      "S086"
-    ],
-    "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
-  },
-  {
-    "id": "CGP-2026-1000",
-    "domaine": "International",
-    "sous_domaine": "Non-résidents",
-    "difficulte": "expert",
-    "enonce": "Quelle formulation est juridiquement ou techniquement correcte pour la fiscalité d'un non-résident — l'analyse ?",
-    "choix": {
-      "A": "Elle dépend de la nature du revenu, du droit français, du droit local et de la convention fiscale éventuellement applicable.",
-      "B": "Elle est identique dans tous les pays.",
-      "C": "Elle dépend uniquement de la devise du compte.",
-      "D": "Elle peut être déterminée sans connaître la résidence fiscale."
-    },
-    "bonne_reponse": "A",
-    "explication": "Elle dépend de la nature du revenu, du droit français, du droit local et de la convention fiscale éventuellement applicable. Cette règle constitue le repère théorique à retenir concernant la fiscalité d'un non-résident et l'analyse.",
-    "pieges": {
-      "B": "Cette proposition ne correspond pas au principe applicable à la fiscalité d'un non-résident pour l'analyse.",
-      "C": "Cette proposition ne correspond pas au principe applicable à la fiscalité d'un non-résident pour l'analyse.",
-      "D": "Cette proposition ne correspond pas au principe applicable à la fiscalité d'un non-résident pour l'analyse."
+      "A": "Cette proposition ne correspond pas au principe applicable à la résidence fiscale pour sa détermination.",
+      "B": "Cette proposition ne correspond pas au principe applicable à la résidence fiscale pour sa détermination.",
+      "C": "Cette proposition ne correspond pas au principe applicable à la résidence fiscale pour sa détermination."
     },
     "sources": [
       "S084"
     ],
     "origine": "entrainement_original",
-    "statut": "a_valider",
-    "date_verification": "2026-11-04"
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0651",
+    "domaine": "Crédit à la consommation",
+    "sous_domaine": "Rétractation",
+    "difficulte": "debutant",
+    "enonce": "Dans un QCM portant sur le crédit à la consommation, quelle réponse est juste au sujet de le délai de rétractation de principe ?",
+    "choix": {
+      "A": "Aucun délai n'existe.",
+      "B": "Le délai est de trois mois ouvrés.",
+      "C": "Le délai de rétractation est de quatorze jours calendaires à compter de l'acceptation.",
+      "D": "Le délai est toujours de deux jours."
+    },
+    "bonne_reponse": "C",
+    "explication": "Le délai de rétractation est de quatorze jours calendaires à compter de l'acceptation. Cette règle constitue le repère théorique à retenir concernant le crédit à la consommation et le délai de rétractation de principe.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le crédit à la consommation pour le délai de rétractation de principe.",
+      "B": "Cette proposition ne correspond pas au principe applicable à le crédit à la consommation pour le délai de rétractation de principe.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le crédit à la consommation pour le délai de rétractation de principe."
+    },
+    "sources": [
+      "S007"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-0752",
+    "domaine": "Immobilier",
+    "sous_domaine": "DPE",
+    "difficulte": "avance",
+    "enonce": "Dans un QCM portant sur le coefficient d'énergie primaire de l'électricité en 2026, quelle réponse est juste au sujet de sa valeur ?",
+    "choix": {
+      "A": "Il est de 0,1.",
+      "B": "Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9.",
+      "C": "Il est de 10.",
+      "D": "Il est supprimé."
+    },
+    "bonne_reponse": "B",
+    "explication": "Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9. Cette règle constitue le repère théorique à retenir concernant le coefficient d'énergie primaire de l'électricité en 2026 et sa valeur.",
+    "pieges": {
+      "A": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur.",
+      "C": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur.",
+      "D": "Cette proposition ne correspond pas au principe applicable à le coefficient d'énergie primaire de l'électricité en 2026 pour sa valeur."
+    },
+    "sources": [
+      "S011"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
+  },
+  {
+    "id": "CGP-2026-1032",
+    "domaine": "Fiscalité immobilière",
+    "sous_domaine": "Plus-value immobilière",
+    "difficulte": "intermediaire",
+    "enonce": "Quel taux d'impôt sur le revenu s'applique en principe à une plus-value immobilière imposable d'un particulier ?",
+    "choix": {
+      "A": "19 %.",
+      "B": "12,8 %.",
+      "C": "30 %.",
+      "D": "45 % sur la totalité."
+    },
+    "bonne_reponse": "A",
+    "explication": "La plus-value immobilière imposable est soumise au taux proportionnel de 19 %, auquel s'ajoutent les prélèvements sociaux et, le cas échéant, une surtaxe sur les plus-values élevées.",
+    "pieges": {
+      "B": "12,8 % est notamment le taux d'IR du PFU mobilier.",
+      "C": "30 % n'est pas le taux d'IR immobilier.",
+      "D": "Le barème progressif ne s'applique pas ainsi à la plus-value immobilière."
+    },
+    "sources": [
+      "S097"
+    ],
+    "origine": "entrainement_original",
+    "statut": "verifie_sources_publiques",
+    "date_verification": "2026-11-05"
   }
 ]

@@ -17,15 +17,13 @@ Chaque question doit :
 
 ## Statuts
 
-- `brouillon` : rédaction incomplète ;
-- `a_valider` : prête pour une double revue ;
-- `validee` : fond et forme validés ;
-- `a_actualiser` : règle susceptible d'avoir changé ;
+- `verifie_sources_publiques` : règle rapprochée d'une source institutionnelle datée ;
+- `a_actualiser` : source ou règle devenue incertaine, question exclue jusqu'à nouvelle revue ;
 - `retiree` : question conservée dans l'historique mais exclue des examens.
 
 ## Revue obligatoire
 
-Une question ne passe à `validee` qu'après :
+Une question ne passe à `verifie_sources_publiques` qu'après :
 
 - vérification de la règle dans la source primaire ou institutionnelle ;
 - vérification de la date d'entrée en vigueur ;

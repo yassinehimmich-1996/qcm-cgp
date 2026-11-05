@@ -41,7 +41,7 @@
       "uniqueItems": true
     },
     "origine": {"enum": ["entrainement_original"]},
-    "statut": {"enum": ["brouillon", "a_valider", "validee", "a_actualiser", "retiree"]},
+    "statut": {"enum": ["verifie_sources_publiques", "a_actualiser", "retiree"]},
     "date_verification": {"type": "string", "format": "date"}
   }
 }

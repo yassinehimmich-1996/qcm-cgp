@@ -1121,6 +1121,544 @@
         "États-Unis",
         "déclaration"
       ]
+    },
+    {
+      "id": "S087",
+      "nom": "Loi de finances 2026 : barème de l'impôt sur le revenu",
+      "organisme": "Ministère de l'Économie",
+      "url": "https://www.economie.gouv.fr/particuliers/impots-et-fiscalite/gerer-mon-impot-sur-le-revenu/loi-de-finances-2026-ce-qui-change-pour-les-particuliers",
+      "date_document": "2026-02-20",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "impôt sur le revenu",
+        "barème 2026",
+        "tranches"
+      ]
+    },
+    {
+      "id": "S088",
+      "nom": "Changer son taux de prélèvement à la source",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F35894",
+      "date_document": "2025-01-01",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "prélèvement à la source",
+        "taux individualisé",
+        "taux neutre",
+        "modulation"
+      ]
+    },
+    {
+      "id": "S089",
+      "nom": "Déduction, réduction et crédit d'impôt : différences",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F823",
+      "date_document": "2026-04-15",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "déduction",
+        "réduction d'impôt",
+        "crédit d'impôt"
+      ]
+    },
+    {
+      "id": "S090",
+      "nom": "Plafonnement global des niches fiscales",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31179",
+      "date_document": "2026-01-01",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "niches fiscales",
+        "plafond 10000 euros",
+        "plafond 18000 euros"
+      ]
+    },
+    {
+      "id": "S091",
+      "nom": "Réductions et crédits d'impôt : avance de 60 %",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35936",
+      "date_document": "2026-01-01",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "avance fiscale",
+        "réductions",
+        "crédits d'impôt"
+      ]
+    },
+    {
+      "id": "S092",
+      "nom": "Réduction d'impôt Pinel",
+      "organisme": "Ministère de l'Économie",
+      "url": "https://www.economie.gouv.fr/particuliers/gerer-mon-argent/beneficier-daides-et-de-reductions-dimpots/investissement-locatif-tout-savoir-sur-la-reduction-dimpot-pinel",
+      "date_document": "2026-03-11",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "Pinel",
+        "location nue",
+        "fin du dispositif",
+        "engagement"
+      ]
+    },
+    {
+      "id": "S093",
+      "nom": "Location non meublée et revenus fonciers",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F1991",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "location nue",
+        "micro-foncier",
+        "régime réel"
+      ]
+    },
+    {
+      "id": "S094",
+      "nom": "Déficit foncier",
+      "organisme": "Ministère de l'Économie",
+      "url": "https://www.economie.gouv.fr/particuliers/gerer-mon-argent/investir-et-epargner/impot-sur-le-revenu-tout-savoir-sur-le-deficit-foncier",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "déficit foncier",
+        "imputation",
+        "intérêts d'emprunt"
+      ]
+    },
+    {
+      "id": "S095",
+      "nom": "Location meublée : règles fiscales",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F32744",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "location meublée",
+        "LMNP",
+        "LMP",
+        "BIC"
+      ]
+    },
+    {
+      "id": "S096",
+      "nom": "Cotisations sociales du loueur en meublé",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F34102",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "location meublée",
+        "cotisations sociales",
+        "prélèvements sociaux"
+      ]
+    },
+    {
+      "id": "S097",
+      "nom": "Plus-value immobilière",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/particulier/questions/je-vends-mon-bien-immobilier-vais-je-payer-de-la-plus-value-immobiliere",
+      "date_document": "2026-07-07",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "plus-value immobilière",
+        "résidence principale",
+        "durée de détention"
+      ]
+    },
+    {
+      "id": "S098",
+      "nom": "Déclaration et fiscalité d'une SCI",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/professionnel/questions/comment-declarer-les-resultats-de-ma-sci",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "SCI",
+        "impôt sur le revenu",
+        "impôt sur les sociétés"
+      ]
+    },
+    {
+      "id": "S099",
+      "nom": "Société civile immobilière",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/particulier/societe-civile-immobiliere",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "SCI",
+        "revenus fonciers",
+        "déficit foncier"
+      ]
+    },
+    {
+      "id": "S100",
+      "nom": "Plus-values sur les biens meubles",
+      "organisme": "BOFiP-Impôts",
+      "url": "https://bofip.impots.gouv.fr/bofip/3788-PGP.html/identifiant=BOI-RPPM-PVBMC-10-20140121",
+      "date_document": "2014-01-21",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "biens meubles",
+        "plus-value",
+        "exonération"
+      ]
+    },
+    {
+      "id": "S101",
+      "nom": "Revenus mobiliers et prélèvements sociaux en 2026",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/particulier/les-revenus-mobiliers",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "revenus mobiliers",
+        "prélèvements sociaux",
+        "PFU"
+      ]
+    },
+    {
+      "id": "S102",
+      "nom": "Assurance-vie et PEA",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/particulier/lassurance-vie-et-le-pea-0",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "PEA",
+        "retraits",
+        "prélèvements sociaux",
+        "plafonds"
+      ]
+    },
+    {
+      "id": "S103",
+      "nom": "Fiscalité des PER",
+      "organisme": "BOFiP-Impôts",
+      "url": "https://bofip.impots.gouv.fr/bofip/14911-PGP.html/identifiant=BOI-ANNX-000513-20260810",
+      "date_document": "2026-08-10",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "PER",
+        "fiscalité",
+        "sortie en capital",
+        "sortie en rente"
+      ]
+    },
+    {
+      "id": "S104",
+      "nom": "Plan épargne logement",
+      "organisme": "Ministère de l'Économie",
+      "url": "https://www.economie.gouv.fr/particuliers/gerer-mon-argent/gerer-mon-budget-et-mon-epargne/plan-epargne-logement-pel-comment-ca-marche",
+      "date_document": "2026-01-09",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "PEL",
+        "taux",
+        "plafond",
+        "versements"
+      ]
+    },
+    {
+      "id": "S105",
+      "nom": "Compte épargne logement",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16136",
+      "date_document": "2026-08-01",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "CEL",
+        "taux",
+        "plafond",
+        "disponibilité"
+      ]
+    },
+    {
+      "id": "S106",
+      "nom": "Calcul de l'IFI",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/particulier/calcul-de-lifi",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "IFI",
+        "seuil",
+        "barème",
+        "décote"
+      ]
+    },
+    {
+      "id": "S107",
+      "nom": "Passif déductible de l'IFI",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/particulier/questions/que-puis-je-deduire-au-niveau-du-passif-de-limpot-sur-la-fortune-immobiliere",
+      "date_document": "2026-04-01",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "IFI",
+        "dettes",
+        "résidence principale"
+      ]
+    },
+    {
+      "id": "S108",
+      "nom": "Dons manuels et dons familiaux de sommes d'argent",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/particulier/don-manuel",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "don manuel",
+        "don familial",
+        "déclaration"
+      ]
+    },
+    {
+      "id": "S109",
+      "nom": "Barème fiscal de l'usufruit et de la nue-propriété",
+      "organisme": "BOFiP-Impôts",
+      "url": "https://bofip.impots.gouv.fr/bofip/2323-PGP.html/identifiant=BOI-ENR-DMTG-10-40-10-50-20130527",
+      "date_document": "2013-05-27",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "usufruit",
+        "nue-propriété",
+        "barème fiscal"
+      ]
+    },
+    {
+      "id": "S110",
+      "nom": "Règles successorales et réserve héréditaire",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F2529",
+      "date_document": "2026-06-16",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "succession",
+        "conjoint survivant",
+        "réserve héréditaire"
+      ]
+    },
+    {
+      "id": "S111",
+      "nom": "Paiement des droits de succession",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/particulier/questions/comment-puis-je-payer-les-droits-de-succession",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "droits de succession",
+        "paiement différé",
+        "paiement fractionné"
+      ]
+    },
+    {
+      "id": "S112",
+      "nom": "Contrat de mariage et régimes matrimoniaux",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F948",
+      "date_document": "2026-01-27",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "régimes matrimoniaux",
+        "communauté",
+        "séparation",
+        "participation aux acquêts"
+      ]
+    },
+    {
+      "id": "S113",
+      "nom": "Âge de départ et durée d'assurance retraite",
+      "organisme": "L'Assurance retraite",
+      "url": "https://www.lassuranceretraite.fr/portail-info/home/actif/age-depart/age-depart-retraite.html",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "retraite",
+        "âge légal",
+        "trimestres",
+        "taux plein"
+      ]
+    },
+    {
+      "id": "S114",
+      "nom": "Calcul de la retraite de base",
+      "organisme": "L'Assurance retraite",
+      "url": "https://www.lassuranceretraite.fr/portail-info/portail-info/home/actif/montant-retraite/montant-retraite.html",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "retraite de base",
+        "revenu annuel moyen",
+        "taux",
+        "durée d'assurance"
+      ]
+    },
+    {
+      "id": "S115",
+      "nom": "Droit à l'information retraite",
+      "organisme": "Info Retraite",
+      "url": "https://www.info-retraite.fr/portail-info/sites/PortailInformationnel/home/le-droit-a-linformation-retrai-1.html",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "RIS",
+        "EIG",
+        "entretien information retraite",
+        "compte retraite"
+      ]
+    },
+    {
+      "id": "S116",
+      "nom": "Réversion Agirc-Arrco",
+      "organisme": "Agirc-Arrco",
+      "url": "https://www.agirc-arrco.fr/categorie_expert/reversions/",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "Agirc-Arrco",
+        "réversion",
+        "points",
+        "conditions"
+      ]
+    },
+    {
+      "id": "S117",
+      "nom": "Pension de réversion de l'Assurance retraite",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F13104",
+      "date_document": "2025-01-01",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "réversion",
+        "régime général",
+        "ressources",
+        "mariage"
+      ]
+    },
+    {
+      "id": "S118",
+      "nom": "Demande de retraite",
+      "organisme": "Info Retraite",
+      "url": "https://www.info-retraite.fr/portail-info/sites/PortailInformationnel/home/mes-droits-a-la-retraite/age-et-montant-de-ma-retraite/depart-a-la-retraite/demande-de-retraite.html",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "liquidation",
+        "demande de retraite",
+        "date d'effet"
+      ]
+    },
+    {
+      "id": "S119",
+      "nom": "Plus-values de cession de parts de SCI",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/particulier/questions/je-cede-les-parts-que-je-possede-dans-une-societe-civile-immobiliere-imposee",
+      "date_document": "2026-07-06",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "SCI",
+        "plus-value",
+        "parts sociales"
+      ]
+    },
+    {
+      "id": "S120",
+      "nom": "Calcul et paiement des droits de donation",
+      "organisme": "impots.gouv.fr",
+      "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "donation",
+        "abattements",
+        "paiement des droits"
+      ]
+    },
+    {
+      "id": "S121",
+      "nom": "Déclaration de revenus d'un couple marié ou pacsé",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F2705",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "foyer fiscal",
+        "mariage",
+        "Pacs",
+        "imposition commune"
+      ]
+    },
+    {
+      "id": "S122",
+      "nom": "Prélèvement à la source",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F34009",
+      "date_document": "2025-04-10",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "prélèvement à la source",
+        "acomptes",
+        "retenue"
+      ]
+    },
+    {
+      "id": "S123",
+      "nom": "Effets patrimoniaux du Pacs",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F1026",
+      "date_document": "2024-06-21",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "Pacs",
+        "séparation des patrimoines",
+        "indivision"
+      ]
+    },
+    {
+      "id": "S124",
+      "nom": "Retraite de base et complémentaire des professions libérales",
+      "organisme": "CNAVPL",
+      "url": "https://www.cnavpl.fr/les-regimes/regime-de-base/",
+      "date_document": "date de mise à jour non indiquée",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "professions libérales",
+        "retraite de base",
+        "sections professionnelles",
+        "points"
+      ]
+    },
+    {
+      "id": "S125",
+      "nom": "Retraite complémentaire des travailleurs indépendants",
+      "organisme": "L'Assurance retraite",
+      "url": "https://www.lassuranceretraite.fr/portail-info/hors-menu/annexe/travailleurs-independants/retraite-complementaire.html",
+      "date_document": "2026-11-02",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "artisans",
+        "commerçants",
+        "retraite complémentaire",
+        "points"
+      ]
+    },
+    {
+      "id": "S126",
+      "nom": "Droits du conjoint et du partenaire survivant sur le logement",
+      "organisme": "Service-Public.fr",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1725",
+      "date_document": "2026-01-27",
+      "date_consultation": "2026-11-05",
+      "sujets": [
+        "conjoint survivant",
+        "partenaire de Pacs",
+        "droit temporaire au logement",
+        "droit viager au logement"
+      ]
     }
   ]
 }

@@ -2,6 +2,18 @@ const DATA_VERSION = 1;
 const STORAGE_KEY = "qcm-cgp-progress-v1";
 const EXAM_SECONDS = 60 * 60;
 const letters = ["A", "B", "C", "D"];
+const EXAM_BLUEPRINT = [
+  { count: 12, domains: ["Fiscalité"] },
+  { count: 10, domains: ["Immobilier", "Immobilier locatif", "Fiscalité immobilière", "Placements immobiliers"] },
+  { count: 12, domains: ["Placements financiers", "Épargne bancaire", "Économie et marchés"] },
+  { count: 16, domains: ["Assurance-vie", "Enveloppes d'investissement", "Épargne salariale"] },
+  { count: 14, domains: ["Transmission", "Droit civil", "Régimes matrimoniaux"] },
+  { count: 10, domains: ["Retraite"] },
+  { count: 8, domains: ["Conformité", "LCB-FT", "RGPD", "Relation commerciale", "Réglementation"] },
+  { count: 8, domains: ["Crédit immobilier", "Crédit à la consommation", "Crédit", "Assurance emprunteur"] },
+  { count: 5, domains: ["Prévoyance", "Assurance"] },
+  { count: 5, domains: ["Banque quotidienne", "International"] }
+];
 
 const $ = (selector) => document.querySelector(selector);
 const $$ = (selector) => [...document.querySelectorAll(selector)];
@@ -14,7 +26,6 @@ const screens = {
 
 let questions = [];
 let sources = new Map();
-let deferredInstallPrompt = null;
 let timerId = null;
 let confirmCallback = null;
 
@@ -60,6 +71,24 @@ function sample(values, count, preferUnseen = true) {
   return [...unseen, ...seen].slice(0, count);
 }
 
+function sampleBalancedExam(values) {
+  const selected = [];
+  const selectedIds = new Set();
+  for (const block of EXAM_BLUEPRINT) {
+    const pool = values.filter((question) => block.domains.includes(question.domaine) && !selectedIds.has(question.id));
+    for (const question of sample(pool, block.count, false)) {
+      selected.push(question);
+      selectedIds.add(question.id);
+    }
+  }
+
+  if (selected.length < 100) {
+    const remainder = values.filter((question) => !selectedIds.has(question.id));
+    selected.push(...sample(remainder, 100 - selected.length, false));
+  }
+  return shuffle(selected);
+}
+
 function formatTime(totalSeconds) {
   const seconds = Math.max(0, Math.floor(totalSeconds));
   return `${String(Math.floor(seconds / 60)).padStart(2, "0")}:${String(seconds % 60).padStart(2, "0")}`;
@@ -74,28 +103,20 @@ function showScreen(name) {
   const inQuiz = name === "quiz";
   $("#bottomNav").classList.toggle("hidden", inQuiz);
   $("#backButton").classList.toggle("hidden", !inQuiz);
-  $("#bookmarkButton").hidden = !inQuiz;
-  $("#installButton").hidden = inQuiz || (!deferredInstallPrompt && !isIosInstallable());
   $$("#bottomNav [data-screen]").forEach((item) => item.classList.toggle("active", item.dataset.screen === name));
   window.scrollTo({ top: 0, behavior: "instant" });
 }
 
 function updateDashboard() {
-  const answerEntries = Object.values(progress.answers);
-  const seen = answerEntries.length;
-  const attempts = answerEntries.reduce((sum, item) => sum + item.attempts, 0);
-  const correct = answerEntries.reduce((sum, item) => sum + item.correct, 0);
-  const rate = attempts ? Math.round((correct / attempts) * 100) : null;
-  const mastery = Math.min(100, Math.round((seen / Math.max(questions.length, 1)) * 100));
+  const errorCount = progress.errors.length;
+  $("#reviewErrorCount").textContent = errorCount
+    ? `${errorCount} question${errorCount > 1 ? "s" : ""} à revoir`
+    : "Aucune erreur enregistrée";
+}
 
-  $("#seenCount").textContent = seen.toLocaleString("fr-FR");
-  $("#correctRate").textContent = rate === null ? "—" : `${rate} %`;
-  $("#streakCount").textContent = progress.bestStreak || 0;
-  $("#masteryPercent").textContent = `${mastery} %`;
-  $("#masteryBar").style.width = `${mastery}%`;
-  $("#errorCount").textContent = `${progress.errors.length} à revoir`;
-  $("#bookmarkCount").textContent = `${progress.bookmarks.length} enregistrée${progress.bookmarks.length > 1 ? "s" : ""}`;
-  $("#domainCount").textContent = `${new Set(questions.map((q) => q.domaine)).size} domaines`;
+function openReview() {
+  updateDashboard();
+  $("#reviewDialog").showModal();
 }
 
 function openThemes() {
@@ -128,10 +149,7 @@ function startSession(mode, options = {}) {
   let label = "Session rapide";
   let feedback = true;
 
-  if (mode === "series") {
-    count = 50;
-    label = "Série complète";
-  } else if (mode === "exam") {
+  if (mode === "exam") {
     count = 100;
     label = "Examen blanc";
     feedback = false;
@@ -143,10 +161,6 @@ function startSession(mode, options = {}) {
     pool = questions.filter((q) => progress.errors.includes(q.id));
     count = Math.min(20, pool.length);
     label = "Mes erreurs";
-  } else if (mode === "bookmarks") {
-    pool = questions.filter((q) => progress.bookmarks.includes(q.id));
-    count = Math.min(20, pool.length);
-    label = "Mes favoris";
   } else if (mode === "custom") {
     pool = options.questions || [];
     count = pool.length;
@@ -162,7 +176,11 @@ function startSession(mode, options = {}) {
     mode,
     label,
     feedback,
-    questions: mode === "custom" ? [...pool] : sample(pool, count, mode !== "exam"),
+    questions: mode === "custom"
+      ? [...pool]
+      : mode === "exam"
+        ? sampleBalancedExam(pool)
+        : sample(pool, count, true),
     index: 0,
     responses: [],
     selected: null,
@@ -201,9 +219,6 @@ function renderQuestion() {
   $("#validateButton").disabled = true;
   $("#nextButton").classList.add("hidden");
   $("#skipButton").classList.remove("hidden");
-  $("#bookmarkButton").classList.toggle("active", progress.bookmarks.includes(question.id));
-  $("#bookmarkButton").setAttribute("aria-label", progress.bookmarks.includes(question.id) ? "Retirer des favoris" : "Ajouter aux favoris");
-
   $("#answers").innerHTML = letters.map((letter) => `<button class="answer" type="button" data-answer="${letter}">
     <span class="letter">${letter}</span><span class="answer-copy">${escapeHtml(question.choix[letter])}</span><span class="answer-state" aria-hidden="true"></span>
   </button>`).join("");
@@ -368,22 +383,6 @@ function finishSession(timedOut = false) {
   updateDashboard();
 }
 
-function toggleBookmark() {
-  const question = currentQuestion();
-  if (!question) return;
-  const bookmarks = new Set(progress.bookmarks);
-  if (bookmarks.has(question.id)) {
-    bookmarks.delete(question.id);
-    showToast("Question retirée des favoris.");
-  } else {
-    bookmarks.add(question.id);
-    showToast("Question ajoutée aux favoris.");
-  }
-  progress.bookmarks = [...bookmarks];
-  saveProgress();
-  $("#bookmarkButton").classList.toggle("active", bookmarks.has(question.id));
-}
-
 function renderStats() {
   const entries = Object.values(progress.answers);
   const attempts = entries.reduce((sum, item) => sum + item.attempts, 0);
@@ -431,23 +430,6 @@ function showToast(message) {
   toastTimeout = setTimeout(() => toast.classList.remove("show"), 2600);
 }
 
-function isIosInstallable() {
-  const ios = /iphone|ipad|ipod/i.test(navigator.userAgent);
-  const standalone = window.matchMedia("(display-mode: standalone)").matches || navigator.standalone;
-  return ios && !standalone;
-}
-
-async function installApp() {
-  if (deferredInstallPrompt) {
-    deferredInstallPrompt.prompt();
-    await deferredInstallPrompt.userChoice;
-    deferredInstallPrompt = null;
-    $("#installButton").hidden = true;
-  } else if (isIosInstallable()) {
-    showToast("Sur iPhone : Partager, puis « Sur l’écran d’accueil ».");
-  }
-}
-
 function bindEvents() {
   $("#answers").addEventListener("click", (event) => {
     const answer = event.target.closest("[data-answer]");
@@ -457,13 +439,16 @@ function bindEvents() {
   $("#nextButton").addEventListener("click", goNext);
   $("#skipButton").addEventListener("click", skipQuestion);
   $("#backButton").addEventListener("click", quitQuiz);
-  $("#bookmarkButton").addEventListener("click", toggleBookmark);
-  $("#installButton").addEventListener("click", installApp);
 
   $$('[data-mode]').forEach((button) => button.addEventListener("click", () => {
     const mode = button.dataset.mode;
     if (mode === "theme") return openThemes();
     startSession(mode);
+  }));
+  $$('[data-open-review]').forEach((button) => button.addEventListener("click", openReview));
+  $$('[data-review-mode]').forEach((button) => button.addEventListener("click", () => {
+    $("#reviewDialog").close();
+    startSession(button.dataset.reviewMode);
   }));
   $$('[data-open-theme]').forEach((button) => button.addEventListener("click", openThemes));
   $("#themeSearch").addEventListener("input", (event) => renderThemeList(event.target.value));
@@ -481,7 +466,7 @@ function bindEvents() {
   });
   $("#resetProgressButton").addEventListener("click", () => showConfirm(
     "Réinitialiser la progression ?",
-    "Cette action effacera tes scores, erreurs et favoris enregistrés sur cet appareil.",
+    "Cette action effacera tes scores et tes erreurs enregistrés sur cet appareil.",
     () => { progress = emptyProgress(); saveProgress(); updateDashboard(); renderStats(); showToast("Progression réinitialisée."); }
   ));
   $("#confirmDialog").addEventListener("close", (event) => {
@@ -489,11 +474,6 @@ function bindEvents() {
     confirmCallback = null;
   });
   window.addEventListener("hashchange", route);
-  window.addEventListener("beforeinstallprompt", (event) => {
-    event.preventDefault();
-    deferredInstallPrompt = event;
-    $("#installButton").hidden = false;
-  });
 }
 
 function route() {
@@ -514,7 +494,7 @@ function route() {
 
 async function init() {
   try {
-    const lotUrls = Array.from({ length: 20 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json`);
+    const lotUrls = Array.from({ length: 22 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json`);
     const [lotResponses, sourceResponse] = await Promise.all([
       Promise.all(lotUrls.map((url) => fetch(url))),
       fetch("sources/sources.json")
@@ -526,7 +506,6 @@ async function init() {
     bindEvents();
     updateDashboard();
     route();
-    if (isIosInstallable()) $("#installButton").hidden = false;
   } catch (error) {
     console.error(error);
     $("#main").innerHTML = `<section class="screen"><h1>Impossible de charger le QCM</h1><p>Vérifie ta connexion puis recharge la page.</p></section>`;
