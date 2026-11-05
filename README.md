@@ -21,12 +21,14 @@ Ce projet est indépendant. Il ne constitue ni un examen officiel, ni une banque
 
 ## État du projet
 
-- 1 100 questions théoriques réparties en 22 lots de 50, chacun brassé sur au moins 12 domaines ;
+- 800 questions théoriques réparties en 16 lots de 50, chacun brassé sur au moins 23 domaines ;
 - 292 notions-mères publiques, complétées par 91 questions ciblées de niveau professionnel ;
 - 28 domaines présents dans la banque ;
 - 146 références publiques cataloguées ;
-- 452 questions à réponse unique, 356 questions à réponses multiples et 292 vrai/faux ;
-- aucun niveau débutant : 217 questions intermédiaires, 447 avancées et 436 expertes ;
+- 440 questions à réponse unique, 256 questions à réponses multiples et 104 vrai/faux ;
+- 32 questions multiples comportent trois bonnes réponses et 224 en comportent deux ;
+- aucun niveau débutant : 180 questions intermédiaires, 229 avancées et 391 expertes ;
+- 77,5 % de la banque est classée avancée ou experte ;
 - aucun cas client ni calcul ;
 - statut éditorial des questions : `verifie_sources_publiques` ;
 - dernière revue documentaire et validation technique : 5 novembre 2026.
@@ -35,7 +37,7 @@ Le statut `verifie_sources_publiques` indique que la règle a été rapprochée 
 
 ## Modes d'entraînement
 
-- révision de l’intégralité des 1 100 questions avec correction immédiate ;
+- révision de l’intégralité des 800 questions avec correction immédiate ;
 - examen blanc stratifié de 100 questions en 60 minutes, sans correction avant la fin ;
 - révision par domaine ou des erreurs enregistrées ;
 - suivi local du taux de réussite et des questions vues ;
@@ -46,7 +48,7 @@ Le statut `verifie_sources_publiques` indique que la règle a été rapprochée 
 ```text
 index.html                         Application QCM mobile
 assets/                            Interface, logique et icônes PWA
-questions/lot-001..022.json        Questions et corrigés structurés
+questions/lot-001..016.json        Questions et corrigés structurés
 data/knowledge-seeds.mjs           Notions théoriques servant à la génération
 data/coverage-seeds.mjs            Compléments de couverture vérifiés en 2026
 data/test-level-seeds.mjs          Renforcements de niveau test professionnel
@@ -54,6 +56,7 @@ data/capture-gap-seeds.mjs         Compléments publics issus de l'audit des cap
 sources/sources.json               Catalogue des références publiques
 schema/question.schema.json        Contrat de données
 scripts/validate_questions.py      Contrôles automatiques
+scripts/audit_quality.py           Rapport d'équilibre et de qualité formelle
 scripts/generate_training_bank.mjs Génération reproductible des lots
 docs/referentiel.md                Répartition pédagogique
 CONTRIBUTING.md                    Processus de contribution et de revue
@@ -65,7 +68,13 @@ CONTRIBUTING.md                    Processus de contribution et de revue
 npm run check
 ```
 
-Le validateur contrôle notamment le total de 1 100 questions, les lots de 50, les identifiants, les doublons complets, les choix A-B ou A-D, la cohérence des réponses uniques, multiples ou vrai/faux, les sources, les dates, le niveau de difficulté et l'absence de scénarios ou de calculs manifestes.
+Le validateur contrôle notamment le total de 800 questions, les lots de 50, les identifiants, les doublons complets, les choix A-B ou A-D, la cohérence des réponses uniques, multiples ou vrai/faux, les sources, les dates, le niveau de difficulté et l'absence de scénarios ou de calculs manifestes.
+
+Le rapport d'audit reproductible s'obtient avec :
+
+```bash
+npm run audit
+```
 
 Pour prévisualiser l'application en local :
 

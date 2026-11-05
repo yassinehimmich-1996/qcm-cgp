@@ -18,8 +18,10 @@ SOURCE_RE = re.compile(r"^S\d{3}$")
 SCENARIO_RE = re.compile(r"\b(un|une)\s+client(e)?\b|\bM(?:me|onsieur)?\.?\s", re.IGNORECASE)
 CALCULATION_RE = re.compile(r"(?:\d\s*[×x*/+]\s*\d)|(?:combien\s+(?:vaut|représente|reste))", re.IGNORECASE)
 ARTIFICIAL_RE = re.compile(r"^(analyse croisée|contrôle de précision|sélection raisonnée|rapprochement réglementaire|synthèse transversale)\b", re.IGNORECASE)
-TARGET_QUESTIONS = 1_100
+TARGET_QUESTIONS = 800
 TARGET_LOT_SIZE = 50
+TARGET_TYPES = {"unique": 440, "multiple": 256, "vrai_faux": 104}
+TARGET_THREE_ANSWER_MULTIPLE = 32
 ALLOWED_DIFFICULTIES = {"intermediaire", "avance", "expert"}
 ALLOWED_TYPES = {"unique", "multiple", "vrai_faux"}
 ALLOWED_STATUSES = {"verifie_sources_publiques", "a_actualiser", "retiree"}
@@ -161,13 +163,18 @@ def validate() -> list[str]:
     elif len(questions) != TARGET_QUESTIONS:
         fail(errors, f"La banque doit contenir exactement {TARGET_QUESTIONS} questions, {len(questions)} trouvées.")
     type_counts = Counter(question.get("type_question") for _, question in questions)
-    if type_counts["multiple"] < 300:
-        fail(errors, f"La banque doit conserver au moins 300 questions à réponses multiples, {type_counts['multiple']} trouvées.")
-    if type_counts["vrai_faux"] < 250:
-        fail(errors, f"La banque doit conserver au moins 250 questions vrai/faux, {type_counts['vrai_faux']} trouvées.")
+    for question_type, expected in TARGET_TYPES.items():
+        if type_counts[question_type] != expected:
+            fail(errors, f"Quota {question_type} incorrect : {type_counts[question_type]} trouvées pour {expected} attendues.")
+    three_answer_count = sum(
+        question.get("type_question") == "multiple" and len(question.get("bonnes_reponses", [])) == 3
+        for _, question in questions
+    )
+    if three_answer_count != TARGET_THREE_ANSWER_MULTIPLE:
+        fail(errors, f"Le quota de questions multiples à trois bonnes réponses doit être {TARGET_THREE_ANSWER_MULTIPLE}, {three_answer_count} trouvées.")
     advanced_count = sum(question.get("difficulte") in {"avance", "expert"} for _, question in questions)
-    if advanced_count < 850:
-        fail(errors, f"Au moins 850 questions doivent être avancées ou expertes, {advanced_count} trouvées.")
+    if advanced_count < 600:
+        fail(errors, f"Au moins 600 questions doivent être avancées ou expertes, {advanced_count} trouvées.")
     expected_lots = TARGET_QUESTIONS // TARGET_LOT_SIZE
     if len(lot_paths) != expected_lots:
         fail(errors, f"La banque doit contenir {expected_lots} lots, {len(lot_paths)} trouvés.")

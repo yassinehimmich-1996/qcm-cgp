@@ -1,42 +1,42 @@
 # Référentiel éditorial et répartition pédagogique
 
-La pondération ci-dessous est une hypothèse pédagogique de travail. Elle ne constitue pas une pondération officielle d'un examen ou d'un employeur. La banque publiée couvre 1 100 questions, mais sa répartition exacte suit les notions théoriques disponibles et évoluera avec la revue éditoriale.
+La pondération ci-dessous est une hypothèse pédagogique de travail. Elle ne constitue pas une pondération officielle d'un examen ou d'un employeur. La banque contient 800 questions. La répartition des formats est calibrée sur l'échantillon de correction observé, et non sur une grille officielle.
 
 | Domaine | Questions cibles | Priorité |
 |---|---:|---|
-| Assurance-vie | 110 | Très élevée |
-| Droit civil et transmission | 120 | Très élevée |
-| Crédit immobilier | 100 | Très élevée |
-| Crédit à la consommation | 40 | Élevée |
-| Prévoyance et assurances | 70 | Très élevée |
-| Épargne bancaire | 40 | Élevée |
-| Instruments financiers et allocation | 80 | Très élevée |
-| PEA, compte-titres et capitalisation | 55 | Très élevée |
-| Retraite, PER et épargne salariale | 85 | Très élevée |
-| Fiscalité générale et placements | 100 | Très élevée |
-| Immobilier locatif et rénovation | 75 | Élevée |
-| Conformité et protection du client | 90 | Très élevée |
-| Banque quotidienne et vulnérabilité | 30 | Moyenne |
-| Économie, marchés et notions de rendement | 25 | Élevée |
-| Conseil et relation commerciale | 35 | Élevée |
-| International et non-résidents | 25 | Élevée |
-| Pratiques et offres d'établissement documentées publiquement | 20 | Conditionnelle |
-| **Total** | **1 100** | |
+| Assurance-vie | 47 | Très élevée |
+| Droit civil, transmission et régimes matrimoniaux | 101 | Très élevée |
+| Crédit immobilier | 67 | Très élevée |
+| Crédit à la consommation | 11 | Élevée |
+| Prévoyance et assurances | 49 | Très élevée |
+| Épargne bancaire | 31 | Élevée |
+| Instruments financiers, immobilier papier et marchés | 73 | Très élevée |
+| Enveloppes d'investissement | 32 | Très élevée |
+| Retraite, PER et épargne salariale | 78 | Très élevée |
+| Fiscalité générale et internationale | 96 | Très élevée |
+| Immobilier, fiscalité immobilière et location | 99 | Très élevée |
+| Conformité, LCB-FT, RGPD et réglementation | 61 | Très élevée |
+| Banque quotidienne | 32 | Moyenne |
+| Conseil et relation commerciale | 19 | Élevée |
+| Crédit général | 4 | Élevée |
+| **Total** | **800** | |
 
 ## Répartition des difficultés
 
 - débutant : 0 question ;
-- intermédiaire : 217 questions ;
-- avancé : 447 questions ;
-- expert : 436 questions.
+- intermédiaire : 180 questions ;
+- avancé : 229 questions ;
+- expert : 391 questions.
+
+Les niveaux avancé et expert représentent 77,5 % de la banque. Les questions intermédiaires sont conservées lorsque le test de référence comporte lui-même des contrôles de socle ou lorsqu'une notion fondamentale doit être reconnue rapidement.
 
 ## Format des réponses
 
-- réponse unique : 452 questions ;
-- réponses multiples : 356 questions ;
-- vrai/faux : 292 questions ;
-- deux réponses exactes : 348 questions multiples ;
-- trois réponses exactes : 8 questions multiples.
+- réponse unique : 440 questions, soit 55 % ;
+- réponses multiples : 256 questions, soit 32 % ;
+- vrai/faux : 104 questions, soit 13 % ;
+- deux réponses exactes : 224 questions multiples ;
+- trois réponses exactes : 32 questions multiples.
 
 Les positions correctes restent brassées sur l'ensemble de la banque. L'interface indique avant chaque question s'il s'agit d'un vrai/faux, d'une réponse unique ou de plusieurs réponses attendues.
 

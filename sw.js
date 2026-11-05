@@ -1,9 +1,10 @@
-const CACHE = "qcm-cgp-v9";
+const CACHE_PREFIX = "qcm-cgp-";
+const CACHE = `${CACHE_PREFIX}v11-final`;
 const CORE = [
   "./",
   "./index.html",
-  "./assets/styles.css?v=9",
-  "./assets/app.js?v=9",
+  "./assets/styles.css?v=11-final",
+  "./assets/app.js?v=11-final",
   "./assets/icon.svg",
   "./assets/icon-180.png",
   "./assets/icon-512.png",
@@ -11,8 +12,8 @@ const CORE = [
   "./sources/sources.json"
 ];
 
-for (let index = 1; index <= 22; index += 1) {
-  CORE.push(`./questions/lot-${String(index).padStart(3, "0")}.json`);
+for (let index = 1; index <= 16; index += 1) {
+  CORE.push(`./questions/lot-${String(index).padStart(3, "0")}.json?v=11-final`);
 }
 
 self.addEventListener("install", (event) => {
@@ -20,16 +21,22 @@ self.addEventListener("install", (event) => {
 });
 
 self.addEventListener("activate", (event) => {
-  event.waitUntil(caches.keys().then((keys) => Promise.all(keys.filter((key) => key !== CACHE).map((key) => caches.delete(key)))).then(() => self.clients.claim()));
+  event.waitUntil(
+    caches.keys()
+      .then((keys) => Promise.all(keys.filter((key) => key.startsWith(CACHE_PREFIX) && key !== CACHE).map((key) => caches.delete(key))))
+      .then(() => self.clients.claim())
+  );
 });
 
 self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
   event.respondWith(
-    caches.match(event.request).then((cached) => cached || fetch(event.request).then((response) => {
-      const copy = response.clone();
-      caches.open(CACHE).then((cache) => cache.put(event.request, copy));
+    fetch(event.request, { cache: "no-store" }).then((response) => {
+      if (response.ok) {
+        const copy = response.clone();
+        caches.open(CACHE).then((cache) => cache.put(event.request, copy));
+      }
       return response;
-    }).catch(() => caches.match("./index.html")))
+    }).catch(() => caches.match(event.request).then((cached) => cached || caches.match("./index.html")))
   );
 });

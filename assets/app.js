@@ -1,17 +1,17 @@
 const DATA_VERSION = 3;
-const STORAGE_KEY = "qcm-cgp-progress-v3";
+const STORAGE_KEY = "qcm-cgp-progress-v4";
 const EXAM_SECONDS = 60 * 60;
 const EXAM_BLUEPRINT = [
-  { count: 12, domains: ["Fiscalité"] },
-  { count: 10, domains: ["Immobilier", "Immobilier locatif", "Fiscalité immobilière", "Placements immobiliers"] },
-  { count: 12, domains: ["Placements financiers", "Épargne bancaire", "Économie et marchés"] },
-  { count: 16, domains: ["Assurance-vie", "Enveloppes d'investissement", "Épargne salariale"] },
-  { count: 14, domains: ["Transmission", "Droit civil", "Régimes matrimoniaux"] },
-  { count: 10, domains: ["Retraite"] },
-  { count: 8, domains: ["Conformité", "LCB-FT", "RGPD", "Relation commerciale", "Réglementation"] },
-  { count: 8, domains: ["Crédit immobilier", "Crédit à la consommation", "Crédit", "Assurance emprunteur"] },
-  { count: 5, domains: ["Prévoyance", "Assurance"] },
-  { count: 5, domains: ["Banque quotidienne", "International"] }
+  { domains: ["Fiscalité"], types: { unique: 7, multiple: 4, vrai_faux: 1 } },
+  { domains: ["Immobilier", "Immobilier locatif", "Fiscalité immobilière", "Placements immobiliers"], types: { unique: 5, multiple: 3, vrai_faux: 2 } },
+  { domains: ["Placements financiers", "Épargne bancaire", "Économie et marchés"], types: { unique: 7, multiple: 4, vrai_faux: 1 } },
+  { domains: ["Assurance-vie", "Enveloppes d'investissement", "Épargne salariale"], types: { unique: 9, multiple: 5, vrai_faux: 2 } },
+  { domains: ["Transmission", "Droit civil", "Régimes matrimoniaux"], types: { unique: 8, multiple: 4, vrai_faux: 2 } },
+  { domains: ["Retraite"], types: { unique: 5, multiple: 3, vrai_faux: 2 } },
+  { domains: ["Conformité", "LCB-FT", "RGPD", "Relation commerciale", "Réglementation"], types: { unique: 4, multiple: 3, vrai_faux: 1 } },
+  { domains: ["Crédit immobilier", "Crédit à la consommation", "Crédit", "Assurance emprunteur"], types: { unique: 4, multiple: 3, vrai_faux: 1 } },
+  { domains: ["Prévoyance", "Assurance"], types: { unique: 3, multiple: 1, vrai_faux: 1 } },
+  { domains: ["Banque quotidienne", "International"], types: { unique: 3, multiple: 2, vrai_faux: 0 } }
 ];
 
 const $ = (selector) => document.querySelector(selector);
@@ -74,16 +74,25 @@ function sampleBalancedExam(values) {
   const selected = [];
   const selectedIds = new Set();
   for (const block of EXAM_BLUEPRINT) {
-    const pool = values.filter((question) => block.domains.includes(question.domaine) && !selectedIds.has(question.id));
-    for (const question of sample(pool, block.count, false)) {
-      selected.push(question);
-      selectedIds.add(question.id);
+    for (const [type, count] of Object.entries(block.types)) {
+      const pool = values.filter((question) => block.domains.includes(question.domaine)
+        && question.type_question === type
+        && !selectedIds.has(question.id));
+      for (const question of sample(pool, count, false)) {
+        selected.push(question);
+        selectedIds.add(question.id);
+      }
     }
   }
 
   if (selected.length < 100) {
     const remainder = values.filter((question) => !selectedIds.has(question.id));
     selected.push(...sample(remainder, 100 - selected.length, false));
+  }
+  const expectedTypes = { unique: 55, multiple: 32, vrai_faux: 13 };
+  for (const [type, expected] of Object.entries(expectedTypes)) {
+    const actual = selected.filter((question) => question.type_question === type).length;
+    if (actual !== expected) throw new Error(`Examen incomplet pour le format ${type} : ${actual}/${expected}.`);
   }
   return shuffle(selected);
 }
@@ -522,7 +531,7 @@ function route() {
 
 async function init() {
   try {
-    const lotUrls = Array.from({ length: 22 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json`);
+    const lotUrls = Array.from({ length: 16 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json?v=11-final`);
     const [lotResponses, sourceResponse] = await Promise.all([
       Promise.all(lotUrls.map((url) => fetch(url))),
       fetch("sources/sources.json")
@@ -540,7 +549,16 @@ async function init() {
   }
 
   if ("serviceWorker" in navigator && location.protocol !== "file:") {
-    navigator.serviceWorker.register("sw.js?v=9").catch((error) => console.warn("Service worker non enregistré", error));
+    const hadController = Boolean(navigator.serviceWorker.controller);
+    let reloading = false;
+    navigator.serviceWorker.addEventListener("controllerchange", () => {
+      if (!hadController || reloading) return;
+      reloading = true;
+      location.reload();
+    });
+    navigator.serviceWorker.register("sw.js?v=11-final", { updateViaCache: "none" })
+      .then((registration) => registration.update())
+      .catch((error) => console.warn("Service worker non enregistré", error));
   }
 }
 

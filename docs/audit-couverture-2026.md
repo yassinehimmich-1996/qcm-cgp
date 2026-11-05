@@ -28,11 +28,24 @@ Les questions sont des créations originales. Les règles citées sont rattaché
 
 ## Répartition dans la banque et les examens
 
-- Les 102 questions de renforcement issues de la grille thématique du document sont réparties dans l'ensemble des 22 lots, et non concentrées dans les deux derniers lots.
-- Chaque lot de 50 contient au moins 12 domaines distincts.
+- Les 102 questions de renforcement issues de la grille thématique du document sont réparties dans l'ensemble des 16 lots, et non concentrées dans les derniers lots.
+- Chaque lot de 50 contient entre 23 et 24 domaines distincts.
 - L'examen blanc de 100 questions utilise une sélection stratifiée : fiscalité, immobilier, épargne financière, enveloppes, transmission, retraite, conformité, crédit, prévoyance, banque quotidienne et international.
-- La banque comprend 356 questions à réponses multiples et 292 vrai/faux. Pour une question multiple, l'application exige toutes les réponses exactes, sans réponse supplémentaire, pour attribuer le point.
+- La banque comprend 440 questions à choix unique, 256 questions à réponses multiples et 104 vrai/faux. Pour une question multiple, l'application exige toutes les réponses exactes, sans réponse supplémentaire, pour attribuer le point.
+- Parmi les questions multiples, 224 comportent deux bonnes réponses et 32 en comportent trois.
+- Chaque lot contient 27 ou 28 questions uniques, 15 à 17 questions multiples et 6 ou 7 vrai/faux.
+- Chaque examen blanc de 100 questions contient exactement 55 questions uniques, 32 questions multiples et 13 vrai/faux, en plus de la stratification thématique.
+- Les positions des bonnes réponses uniques et les valeurs Vrai/Faux sont brassées ; les vrai/faux se répartissent exactement en 52 vrais et 52 faux.
 - Cette répartition est une construction pédagogique. Elle ne prétend pas reproduire la pondération d'une évaluation interne.
+
+## Audit qualitatif final
+
+- La banque a été réduite de 1 100 à 800 questions afin de supprimer les variantes de remplissage, notamment les formulations inversées insuffisamment contextualisées.
+- Les 292 notions-mères et les 91 renforcements professionnels restent représentés ; la réduction porte sur les variantes, pas sur les chapitres.
+- 620 questions, soit 77,5 %, sont classées avancées ou expertes ; aucun item n'est classé débutant.
+- Les questions d'association ont été contextualisées afin qu'un nombre, un taux ou une date ne soit jamais proposé sans la notion à laquelle il se rapporte.
+- Les formulations absolues restent utilisées avec parcimonie comme pièges plausibles, mais elles ne constituent pas l'unique mécanisme de difficulté.
+- Les libellés récurrents sont alternés et les positions de réponse sont équilibrées pour limiter l'apprentissage de motifs de forme.
 
 ## Contrôle détaillé
 
