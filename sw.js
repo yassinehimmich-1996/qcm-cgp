@@ -1,20 +1,19 @@
 const CACHE_PREFIX = "qcm-cgp-";
-const CACHE = `${CACHE_PREFIX}v14-fiches-thematiques`;
+const CACHE = `${CACHE_PREFIX}v16-questions-only`;
 const CORE = [
   "./",
   "./index.html",
-  "./assets/styles.css?v=14-fiches-thematiques",
-  "./assets/app.js?v=14-fiches-thematiques",
+  "./assets/styles.css?v=16-questions-only",
+  "./assets/app.js?v=16-questions-only",
   "./assets/icon.svg",
   "./assets/icon-180.png",
   "./assets/icon-512.png",
   "./manifest.webmanifest",
-  "./sources/sources.json",
-  "./fiches/fiches.json?v=14-fiches-thematiques"
+  "./sources/sources.json"
 ];
 
 for (let index = 1; index <= 16; index += 1) {
-  CORE.push(`./questions/lot-${String(index).padStart(3, "0")}.json?v=14-fiches-thematiques`);
+  CORE.push(`./questions/lot-${String(index).padStart(3, "0")}.json?v=16-questions-only`);
 }
 
 self.addEventListener("install", (event) => {
