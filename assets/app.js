@@ -520,6 +520,7 @@ function bindEvents() {
     startSession(mode);
   }));
   $$('[data-open-review]').forEach((button) => button.addEventListener("click", openReview));
+  $$('[data-open-sheets]').forEach((button) => button.addEventListener("click", () => { location.hash = "themes"; }));
   $$('[data-review-mode]').forEach((button) => button.addEventListener("click", () => {
     $("#reviewDialog").close();
     startSession(button.dataset.reviewMode);
@@ -588,11 +589,11 @@ function route() {
 
 async function init() {
   try {
-    const lotUrls = Array.from({ length: 16 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json?v=14-fiches-thematiques`);
+    const lotUrls = Array.from({ length: 16 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json?v=15-acces-fiches`);
     const [lotResponses, sourceResponse, sheetsResponse] = await Promise.all([
       Promise.all(lotUrls.map((url) => fetch(url))),
       fetch("sources/sources.json"),
-      fetch("fiches/fiches.json?v=14-fiches-thematiques")
+      fetch("fiches/fiches.json?v=15-acces-fiches")
     ]);
     if (lotResponses.some((response) => !response.ok) || !sourceResponse.ok || !sheetsResponse.ok) throw new Error("Données indisponibles");
     questions = (await Promise.all(lotResponses.map((response) => response.json()))).flat();
@@ -615,7 +616,7 @@ async function init() {
       reloading = true;
       location.reload();
     });
-    navigator.serviceWorker.register("sw.js?v=14-fiches-thematiques", { updateViaCache: "none" })
+    navigator.serviceWorker.register("sw.js?v=15-acces-fiches", { updateViaCache: "none" })
       .then((registration) => registration.update())
       .catch((error) => console.warn("Service worker non enregistré", error));
   }

@@ -56,10 +56,11 @@ main { width: 100%; }
 .home-intro { max-width: 560px; }
 .home-intro h1 { margin: 0; font-size: 30px; line-height: 1.1; letter-spacing: -.02em; }
 .home-intro p { margin: 8px 0 0; color: var(--muted); font-size: 13px; }
-.home-actions { width: 100%; max-width: 560px; flex: 1; display: grid; grid-template-columns: minmax(0, 1fr); grid-template-rows: repeat(2, minmax(170px, 1fr)); gap: 12px; }
+.home-actions { width: 100%; max-width: 560px; flex: 1; display: grid; grid-template-columns: minmax(0, 1fr); grid-template-rows: repeat(3, minmax(145px, 1fr)); gap: 12px; }
 .home-action { position: relative; min-width: 0; min-height: 0; padding: 20px; display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; gap: 18px; border: 1px solid var(--line); border-radius: 20px; background: var(--paper); text-align: left; cursor: pointer; }
 .home-action:active { transform: scale(.985); }
 .home-action.questions-action { color: white; border-color: var(--green-900); background: var(--green-900); }
+.home-action.sheets-action { border-color: #bfd4ce; background: var(--green-100); }
 .home-action-icon { width: 46px; height: 46px; display: grid; place-items: center; border-radius: 13px; color: var(--green-700); background: var(--green-100); }
 .questions-action .home-action-icon { color: white; background: rgba(255,255,255,.12); }
 .home-action-icon svg { width: 23px; height: 23px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
@@ -269,8 +270,8 @@ dialog::backdrop { background: rgba(6,39,34,.56); backdrop-filter: blur(3px); }
   .topbar { padding-left: 28px; padding-right: 28px; }
   .screen { padding-left: 28px; padding-right: 28px; }
   .home-screen { padding-top: 48px; }
-  .home-actions { flex: 0 0 auto; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: none; }
-  .home-action { min-height: 250px; }
+  .home-actions { max-width: 760px; flex: 0 0 auto; grid-template-columns: repeat(3, minmax(0, 1fr)); grid-template-rows: none; }
+  .home-action { min-height: 230px; }
   .quiz-actions { left: 50%; width: min(760px, 100%); transform: translateX(-50%); border: 1px solid rgba(16,42,38,.08); border-bottom: 0; border-radius: 22px 22px 0 0; }
   .bottom-nav { left: 50%; width: min(760px, 100%); transform: translateX(-50%); border-left: 1px solid rgba(16,42,38,.08); border-right: 1px solid rgba(16,42,38,.08); }
   .sheet { margin-left: auto; margin-right: auto; }
