@@ -18,14 +18,12 @@ const $ = (selector) => document.querySelector(selector);
 const $$ = (selector) => [...document.querySelectorAll(selector)];
 const screens = {
   home: $("#homeScreen"),
-  themes: $("#themesScreen"),
   quiz: $("#quizScreen"),
   results: $("#resultsScreen"),
   stats: $("#statsScreen")
 };
 
 let questions = [];
-let studySheets = [];
 let sources = new Map();
 let timerId = null;
 let confirmCallback = null;
@@ -137,61 +135,6 @@ function updateDashboard() {
 function openReview() {
   updateDashboard();
   $("#reviewDialog").showModal();
-}
-
-function openThemes() {
-  renderThemeList();
-  $("#themeDialog").showModal();
-  setTimeout(() => $("#themeSearch").focus(), 120);
-}
-
-function renderStudySheets(filter = "") {
-  const normalized = filter.trim().toLocaleLowerCase("fr");
-  const filtered = studySheets
-    .filter((sheet) => JSON.stringify(sheet).toLocaleLowerCase("fr").includes(normalized))
-    .sort((a, b) => a.domaine.localeCompare(b.domaine, "fr"));
-  $("#sheetCount").textContent = `${filtered.length} fiche${filtered.length > 1 ? "s" : ""} thématique${filtered.length > 1 ? "s" : ""}`;
-  $("#studySheetList").innerHTML = filtered.map((sheet) => `<button class="study-sheet-card" type="button" data-sheet-id="${escapeHtml(sheet.id)}">
-    <span><span class="sheet-domain">${escapeHtml(sheet.priorite)} · ${escapeHtml(sheet.temps)}</span><strong>${escapeHtml(sheet.titre)}</strong><small>${sheet.sections.length} sous-notions · ${sheet.question_count} questions dans la banque</small><em>${escapeHtml(sheet.accroche)}</em></span><span>→</span>
-  </button>`).join("") || `<p>Aucune fiche trouvée.</p>`;
-}
-
-function openStudySheet(id) {
-  const sheet = studySheets.find((item) => item.id === id);
-  if (!sheet) return;
-  $("#studySheetMeta").textContent = `${sheet.domaine} · ${sheet.priorite} · ${sheet.temps}`;
-  $("#studySheetTitle").textContent = sheet.titre;
-  $("#studySheetHook").textContent = sheet.accroche;
-  $("#studySheetMemo").textContent = sheet.memo;
-  $("#studySheetSummary").innerHTML = sheet.resume.map((item) => `<li>${escapeHtml(item)}</li>`).join("");
-  $("#studySheetTopicMap").innerHTML = sheet.sections.map((section) => `<button type="button" data-topic-target="${escapeHtml(section.id)}">${escapeHtml(section.titre)}</button>`).join("");
-  $("#studySheetSections").innerHTML = sheet.sections.map((section, index) => `<details class="topic-accordion" id="${escapeHtml(section.id)}"${index === 0 ? " open" : ""}>
-    <summary><span><small>Sous-notion ${index + 1}/${sheet.sections.length}</small><strong>${escapeHtml(section.titre)}</strong></span><span aria-hidden="true">+</span></summary>
-    <div class="topic-content">
-      <section><h4>À comprendre</h4><ul>${section.points.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul></section>
-      <section class="topic-reperes"><h4>Repères clés</h4>${section.reperes.map((item) => `<div><strong>${escapeHtml(item.terme)}</strong><p>${escapeHtml(item.definition)}</p></div>`).join("")}</section>
-      <section class="topic-traps"><h4>Pièges du QCM</h4><ul>${section.pieges.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul></section>
-      <section><h4>Je me teste</h4><div class="flash-list">${section.questions.map((item) => `<details><summary>${escapeHtml(item.question)}</summary><p>${escapeHtml(item.reponse)}</p></details>`).join("")}</div></section>
-      <div class="topic-sources">${section.sources.map((id) => sources.get(id)).filter(Boolean).map((source) => `<a href="${escapeHtml(source.url)}" target="_blank" rel="noopener">${escapeHtml(source.organisme)} ↗</a>`).join("")}</div>
-    </div>
-  </details>`).join("");
-  $("#studySheetSources").innerHTML = sheet.sources.map((id) => sources.get(id)).filter(Boolean).map((source) => `<a href="${escapeHtml(source.url)}" target="_blank" rel="noopener">${escapeHtml(source.organisme)} · ${escapeHtml(source.nom)} ↗</a>`).join("");
-  $("#studySheetQuizButton").dataset.domain = sheet.domaine;
-  $("#studySheetDialog").showModal();
-}
-
-function renderThemeList(filter = "") {
-  const normalized = filter.trim().toLocaleLowerCase("fr");
-  const domains = [...new Set(questions.map((q) => q.domaine))]
-    .filter((domain) => domain.toLocaleLowerCase("fr").includes(normalized))
-    .sort((a, b) => a.localeCompare(b, "fr"));
-  $("#themeList").innerHTML = domains.map((domain) => {
-    const all = questions.filter((q) => q.domaine === domain);
-    const seen = all.filter((q) => progress.answers[q.id]).length;
-    return `<button class="theme-option" type="button" data-domain="${escapeHtml(domain)}">
-      <span><strong>${escapeHtml(domain)}</strong><small>${all.length} questions · ${seen} déjà vues</small></span><span>→</span>
-    </button>`;
-  }).join("") || `<p>Aucun thème trouvé.</p>`;
 }
 
 function escapeHtml(value) {
@@ -515,41 +458,13 @@ function bindEvents() {
   $("#backButton").addEventListener("click", quitQuiz);
 
   $$('[data-mode]').forEach((button) => button.addEventListener("click", () => {
-    const mode = button.dataset.mode;
-    if (mode === "theme") return openThemes();
-    startSession(mode);
+    startSession(button.dataset.mode);
   }));
   $$('[data-open-review]').forEach((button) => button.addEventListener("click", openReview));
-  $$('[data-open-sheets]').forEach((button) => button.addEventListener("click", () => { location.hash = "themes"; }));
   $$('[data-review-mode]').forEach((button) => button.addEventListener("click", () => {
     $("#reviewDialog").close();
     startSession(button.dataset.reviewMode);
   }));
-  $$('[data-open-theme]').forEach((button) => button.addEventListener("click", openThemes));
-  $("#sheetSearch").addEventListener("input", (event) => renderStudySheets(event.target.value));
-  $("#studySheetList").addEventListener("click", (event) => {
-    const button = event.target.closest("[data-sheet-id]");
-    if (button) openStudySheet(button.dataset.sheetId);
-  });
-  $("#studySheetTopicMap").addEventListener("click", (event) => {
-    const button = event.target.closest("[data-topic-target]");
-    if (!button) return;
-    const section = document.getElementById(button.dataset.topicTarget);
-    if (!section) return;
-    section.open = true;
-    section.scrollIntoView({ behavior: "smooth", block: "start" });
-  });
-  $("#studySheetQuizButton").addEventListener("click", (event) => {
-    $("#studySheetDialog").close();
-    startSession("theme", { domain: event.currentTarget.dataset.domain });
-  });
-  $("#themeSearch").addEventListener("input", (event) => renderThemeList(event.target.value));
-  $("#themeList").addEventListener("click", (event) => {
-    const button = event.target.closest("[data-domain]");
-    if (!button) return;
-    $("#themeDialog").close();
-    startSession("theme", { domain: button.dataset.domain });
-  });
   $("#homeButton").addEventListener("click", () => { location.hash = "home"; });
   $("#retryErrorsButton").addEventListener("click", (event) => {
     const ids = JSON.parse(event.currentTarget.dataset.ids || "[]");
@@ -578,9 +493,6 @@ function route() {
   if (routeName === "stats") {
     renderStats();
     showScreen("stats");
-  } else if (routeName === "themes") {
-    renderStudySheets($("#sheetSearch").value);
-    showScreen("themes");
   } else {
     updateDashboard();
     showScreen("home");
@@ -589,15 +501,13 @@ function route() {
 
 async function init() {
   try {
-    const lotUrls = Array.from({ length: 16 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json?v=15-acces-fiches`);
-    const [lotResponses, sourceResponse, sheetsResponse] = await Promise.all([
+    const lotUrls = Array.from({ length: 16 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json?v=16-questions-only`);
+    const [lotResponses, sourceResponse] = await Promise.all([
       Promise.all(lotUrls.map((url) => fetch(url))),
-      fetch("sources/sources.json"),
-      fetch("fiches/fiches.json?v=15-acces-fiches")
+      fetch("sources/sources.json")
     ]);
-    if (lotResponses.some((response) => !response.ok) || !sourceResponse.ok || !sheetsResponse.ok) throw new Error("Données indisponibles");
+    if (lotResponses.some((response) => !response.ok) || !sourceResponse.ok) throw new Error("Données indisponibles");
     questions = (await Promise.all(lotResponses.map((response) => response.json()))).flat();
-    studySheets = await sheetsResponse.json();
     const sourceDocument = await sourceResponse.json();
     sources = new Map(sourceDocument.sources.map((source) => [source.id, source]));
     bindEvents();
@@ -616,7 +526,7 @@ async function init() {
       reloading = true;
       location.reload();
     });
-    navigator.serviceWorker.register("sw.js?v=15-acces-fiches", { updateViaCache: "none" })
+    navigator.serviceWorker.register("sw.js?v=16-questions-only", { updateViaCache: "none" })
       .then((registration) => registration.update())
       .catch((error) => console.warn("Service worker non enregistré", error));
   }
