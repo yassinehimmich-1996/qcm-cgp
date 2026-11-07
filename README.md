@@ -22,6 +22,7 @@ Ce projet est indépendant. Il ne constitue ni un examen officiel, ni une banque
 ## État du projet
 
 - 800 questions théoriques réparties en 16 lots de 50, chacun brassé sur au moins 23 domaines ;
+- 28 fiches thématiques complètes couvrant 284 sous-notions, sourcées et reliées aux QCM correspondants ;
 - 292 notions-mères publiques, complétées par 91 questions ciblées de niveau professionnel ;
 - 28 domaines présents dans la banque ;
 - 146 références publiques cataloguées ;
@@ -40,6 +41,7 @@ Le statut `verifie_sources_publiques` indique que la règle a été rapprochée 
 - révision de l’intégralité des 800 questions avec correction immédiate ;
 - examen blanc stratifié de 100 questions en 60 minutes, sans correction avant la fin ;
 - révision par domaine ou des erreurs enregistrées ;
+- fiches thématiques avec sommaire visuel, sous-notions repliables, repères, pièges et auto-vérification ;
 - suivi local du taux de réussite et des questions vues ;
 - fonctionnement installable et hors connexion après le premier chargement.
 
@@ -49,6 +51,7 @@ Le statut `verifie_sources_publiques` indique que la règle a été rapprochée 
 index.html                         Application QCM mobile
 assets/                            Interface, logique et icônes PWA
 questions/lot-001..016.json        Questions et corrigés structurés
+fiches/fiches.json                 Fiches de révision express sourcées
 data/knowledge-seeds.mjs           Notions théoriques servant à la génération
 data/coverage-seeds.mjs            Compléments de couverture vérifiés en 2026
 data/test-level-seeds.mjs          Renforcements de niveau test professionnel
@@ -56,6 +59,8 @@ data/capture-gap-seeds.mjs         Compléments publics issus de l'audit des cap
 sources/sources.json               Catalogue des références publiques
 schema/question.schema.json        Contrat de données
 scripts/validate_questions.py      Contrôles automatiques
+scripts/validate_sheets.py         Contrôle des fiches et de leurs références
+scripts/generate_study_sheets.mjs  Génération reproductible de la bibliothèque de fiches
 scripts/audit_quality.py           Rapport d'équilibre et de qualité formelle
 scripts/generate_training_bank.mjs Génération reproductible des lots
 docs/referentiel.md                Répartition pédagogique
