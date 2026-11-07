@@ -12,7 +12,7 @@
     <link rel="manifest" href="manifest.webmanifest">
     <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="assets/icon-180.png">
-    <link rel="stylesheet" href="assets/styles.css?v=14-fiches-thematiques">
+    <link rel="stylesheet" href="assets/styles.css?v=16-questions-only">
     <title>QCM CGP France</title>
   </head>
   <body>
@@ -52,18 +52,6 @@
               <span class="home-arrow" aria-hidden="true">→</span>
             </button>
           </div>
-        </section>
-
-        <section class="screen themes-screen hidden" id="themesScreen" aria-labelledby="themesTitle">
-          <span class="eyebrow muted">Révision express</span>
-          <h1 id="themesTitle">Fiches par thème</h1>
-          <p class="screen-intro">Les règles à connaître, les distinctions et les pièges qui font perdre des points.</p>
-          <button class="theme-quiz-launch" type="button" data-open-theme>
-            <span><strong>Lancer un QCM par thème</strong><small>20 questions ciblées avec correction immédiate</small></span><span>→</span>
-          </button>
-          <label class="search-box sheet-search"><span aria-hidden="true">⌕</span><input id="sheetSearch" type="search" placeholder="Rechercher un thème ou une notion…" autocomplete="off"></label>
-          <div class="sheet-count" id="sheetCount"></div>
-          <div class="study-sheet-list" id="studySheetList"></div>
         </section>
 
         <section class="screen quiz-screen hidden" id="quizScreen" aria-live="polite">
@@ -126,7 +114,6 @@
 
       <nav class="bottom-nav" id="bottomNav" aria-label="Navigation principale">
         <a href="#home" class="active" data-screen="home"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m3 11 9-8 9 8v9H7v-6h10v6"/></svg><span>Accueil</span></a>
-        <a href="#themes" data-screen="themes"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 6h16M4 12h10M4 18h13"/></svg><span>Thèmes</span></a>
         <a href="#stats" data-screen="stats"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 20V10m7 10V4m7 16v-7"/></svg><span>Progrès</span></a>
       </nav>
     </div>
@@ -142,29 +129,6 @@
       </form>
     </dialog>
 
-    <dialog class="sheet" id="themeDialog">
-      <form method="dialog">
-        <div class="sheet-handle"></div>
-        <div class="sheet-heading"><div><span class="eyebrow muted">Révision ciblée</span><h2>Choisir un thème</h2></div><button class="icon-button" value="cancel" aria-label="Fermer" type="submit">×</button></div>
-        <label class="search-box"><span aria-hidden="true">⌕</span><input id="themeSearch" type="search" placeholder="Rechercher un domaine…" autocomplete="off"></label>
-        <div class="theme-list" id="themeList"></div>
-      </form>
-    </dialog>
-
-    <dialog class="sheet study-sheet-dialog" id="studySheetDialog">
-      <form method="dialog">
-        <div class="sheet-handle"></div>
-        <div class="sheet-heading"><div><span class="eyebrow muted" id="studySheetMeta">Fiche express</span><h2 id="studySheetTitle">Titre de la fiche</h2></div><button class="icon-button" value="cancel" aria-label="Fermer" type="submit">×</button></div>
-        <p class="study-sheet-hook" id="studySheetHook"></p>
-        <section class="memory-card"><small>À retenir en 10 secondes</small><strong id="studySheetMemo"></strong></section>
-        <section class="study-block"><h3>Vue d’ensemble</h3><ul id="studySheetSummary"></ul></section>
-        <section class="topic-map"><h3>Carte des sous-notions</h3><p>Touche une notion pour ouvrir directement sa synthèse.</p><div id="studySheetTopicMap"></div></section>
-        <section class="topic-library"><h3>Toutes les sous-notions</h3><div id="studySheetSections"></div></section>
-        <section class="study-sources"><h3>Sources officielles</h3><div id="studySheetSources"></div></section>
-        <button class="primary-button sheet-quiz-button" id="studySheetQuizButton" type="button">M’entraîner sur ce thème</button>
-      </form>
-    </dialog>
-
     <dialog class="confirm-dialog" id="confirmDialog">
       <form method="dialog">
         <h2 id="confirmTitle">Quitter cette série ?</h2>
@@ -175,6 +139,6 @@
 
     <div class="toast" id="toast" role="status" aria-live="polite"></div>
     <noscript>Cette application nécessite JavaScript pour fonctionner.</noscript>
-    <script type="module" src="assets/app.js?v=14-fiches-thematiques"></script>
+    <script type="module" src="assets/app.js?v=16-questions-only"></script>
   </body>
 </html>
