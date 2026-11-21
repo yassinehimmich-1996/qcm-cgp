@@ -2,16 +2,16 @@ const DATA_VERSION = 3;
 const STORAGE_KEY = "qcm-cgp-progress-v4";
 const EXAM_SECONDS = 60 * 60;
 const EXAM_BLUEPRINT = [
-  { domains: ["Fiscalité"], types: { unique: 7, multiple: 4, vrai_faux: 1 } },
-  { domains: ["Immobilier", "Immobilier locatif", "Fiscalité immobilière", "Placements immobiliers"], types: { unique: 5, multiple: 3, vrai_faux: 2 } },
-  { domains: ["Placements financiers", "Épargne bancaire", "Économie et marchés"], types: { unique: 7, multiple: 4, vrai_faux: 1 } },
-  { domains: ["Assurance-vie", "Enveloppes d'investissement", "Épargne salariale"], types: { unique: 9, multiple: 5, vrai_faux: 2 } },
-  { domains: ["Transmission", "Droit civil", "Régimes matrimoniaux"], types: { unique: 8, multiple: 4, vrai_faux: 2 } },
-  { domains: ["Retraite"], types: { unique: 5, multiple: 3, vrai_faux: 2 } },
-  { domains: ["Conformité", "LCB-FT", "RGPD", "Relation commerciale", "Réglementation"], types: { unique: 4, multiple: 3, vrai_faux: 1 } },
-  { domains: ["Crédit immobilier", "Crédit à la consommation", "Crédit", "Assurance emprunteur"], types: { unique: 4, multiple: 3, vrai_faux: 1 } },
-  { domains: ["Prévoyance", "Assurance"], types: { unique: 3, multiple: 1, vrai_faux: 1 } },
-  { domains: ["Banque quotidienne", "International"], types: { unique: 3, multiple: 2, vrai_faux: 0 } }
+  { domains: ["Fiscalité"], types: { unique: 6, multiple: 3, vrai_faux: 1 } },
+  { domains: ["Immobilier", "Immobilier locatif", "Fiscalité immobilière", "Placements immobiliers"], types: { unique: 4, multiple: 2, vrai_faux: 1 } },
+  { domains: ["Placements financiers", "Épargne bancaire", "Économie et marchés", "Allocation et portefeuille", "Risques patrimoniaux", "Diagnostic patrimonial"], types: { unique: 8, multiple: 5, vrai_faux: 2 } },
+  { domains: ["Assurance-vie", "Contrat de capitalisation", "Enveloppes d'investissement", "Épargne salariale"], types: { unique: 7, multiple: 4, vrai_faux: 1 } },
+  { domains: ["Transmission", "Droit civil", "Régimes matrimoniaux", "Ingénierie patrimoniale", "Clientèle vulnérable"], types: { unique: 7, multiple: 4, vrai_faux: 2 } },
+  { domains: ["Retraite"], types: { unique: 4, multiple: 2, vrai_faux: 1 } },
+  { domains: ["Conformité", "LCB-FT", "RGPD", "Relation commerciale", "Réglementation", "Gouvernance et qualité professionnelle", "Digital et intelligence artificielle", "Finance durable"], types: { unique: 7, multiple: 5, vrai_faux: 2 } },
+  { domains: ["Crédit immobilier", "Crédit à la consommation", "Crédit", "Assurance emprunteur"], types: { unique: 6, multiple: 3, vrai_faux: 1 } },
+  { domains: ["Prévoyance", "Assurance", "Santé et dépendance", "Assurances de biens et responsabilité"], types: { unique: 3, multiple: 2, vrai_faux: 1 } },
+  { domains: ["Banque quotidienne", "International", "Patrimoine professionnel", "Actifs réels et philanthropie"], types: { unique: 3, multiple: 2, vrai_faux: 1 } }
 ];
 
 const $ = (selector) => document.querySelector(selector);
@@ -78,7 +78,15 @@ function sampleBalancedExam(values) {
       const pool = values.filter((question) => block.domains.includes(question.domaine)
         && question.type_question === type
         && !selectedIds.has(question.id));
-      for (const question of sample(pool, count, false)) {
+      const byDomain = shuffle([...new Set(pool.map((question) => question.domaine))]);
+      const queues = byDomain.map((domain) => shuffle(pool.filter((question) => question.domaine === domain)));
+      const picks = [];
+      while (picks.length < count && queues.some((queue) => queue.length)) {
+        for (const queue of queues) {
+          if (queue.length && picks.length < count) picks.push(queue.pop());
+        }
+      }
+      for (const question of picks) {
         selected.push(question);
         selectedIds.add(question.id);
       }
@@ -501,13 +509,18 @@ function route() {
 
 async function init() {
   try {
-    const lotUrls = Array.from({ length: 16 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json?v=16-questions-only`);
+    const lotUrls = Array.from({ length: 16 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json?v=18-couverture-25-domaines`);
     const [lotResponses, sourceResponse] = await Promise.all([
       Promise.all(lotUrls.map((url) => fetch(url))),
       fetch("sources/sources.json")
     ]);
     if (lotResponses.some((response) => !response.ok) || !sourceResponse.ok) throw new Error("Données indisponibles");
     questions = (await Promise.all(lotResponses.map((response) => response.json()))).flat();
+    const activeIds = new Set(questions.map((question) => question.id));
+    progress.answers = Object.fromEntries(Object.entries(progress.answers).filter(([id]) => activeIds.has(id)));
+    progress.errors = progress.errors.filter((id) => activeIds.has(id));
+    progress.bookmarks = progress.bookmarks.filter((id) => activeIds.has(id));
+    saveProgress();
     const sourceDocument = await sourceResponse.json();
     sources = new Map(sourceDocument.sources.map((source) => [source.id, source]));
     bindEvents();
@@ -526,7 +539,7 @@ async function init() {
       reloading = true;
       location.reload();
     });
-    navigator.serviceWorker.register("sw.js?v=16-questions-only", { updateViaCache: "none" })
+    navigator.serviceWorker.register("sw.js?v=18-couverture-25-domaines", { updateViaCache: "none" })
       .then((registration) => registration.update())
       .catch((error) => console.warn("Service worker non enregistré", error));
   }
