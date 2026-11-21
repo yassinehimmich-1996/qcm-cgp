@@ -62,7 +62,7 @@ scripts/validate_questions.py      Contrôles automatiques
 scripts/validate_sheets.py         Contrôle des fiches et de leurs références
 scripts/generate_study_sheets.mjs  Génération reproductible de la bibliothèque de fiches
 scripts/audit_quality.py           Rapport d'équilibre et de qualité formelle
-scripts/generate_training_bank.mjs Génération reproductible des lots
+scripts/generate_training_bank.mjs Génération reproductible des lots et des 150 remplacements de couverture
 docs/referentiel.md                Répartition pédagogique
 CONTRIBUTING.md                    Processus de contribution et de revue
 ```
