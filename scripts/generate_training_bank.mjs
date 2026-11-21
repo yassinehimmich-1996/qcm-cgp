@@ -431,3 +431,5 @@ for (const [type, expected] of Object.entries(TARGET_TYPES)) {
 const threeAnswerCount = balanced.filter((question) => question.type_question === "multiple" && question.bonnes_reponses.length === 3).length;
 if (threeAnswerCount !== TARGET_THREE_ANSWER_MULTIPLE) throw new Error(`Quota multiple à trois réponses inattendu : ${threeAnswerCount}/${TARGET_THREE_ANSWER_MULTIPLE}.`);
 console.log(`Banque générée : ${balanced.length} questions (${Object.entries(typeCounts).map(([type, count]) => `${count} ${type}`).join(", ")}), ${LOT_COUNT} lots.`);
+await import('./register_coverage_sources.mjs');
+await import('./apply_coverage_upgrade.mjs');

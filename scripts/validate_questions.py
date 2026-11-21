@@ -26,6 +26,11 @@ ALLOWED_DIFFICULTIES = {"intermediaire", "avance", "expert"}
 ALLOWED_TYPES = {"unique", "multiple", "vrai_faux"}
 ALLOWED_STATUSES = {"verifie_sources_publiques", "a_actualiser", "retiree"}
 ALLOWED_DOMAINS = {
+    "Diagnostic patrimonial", "Allocation et portefeuille", "Risques patrimoniaux",
+    "Finance durable", "Patrimoine professionnel", "Digital et intelligence artificielle",
+    "Clientèle vulnérable", "Santé et dépendance", "Assurances de biens et responsabilité",
+    "Actifs réels et philanthropie", "Gouvernance et qualité professionnelle",
+    "Ingénierie patrimoniale", "Contrat de capitalisation",
     "Assurance", "Assurance emprunteur", "Assurance-vie", "Banque quotidienne",
     "Conformité", "Crédit", "Crédit immobilier", "Crédit à la consommation",
     "Droit civil", "Enveloppes d'investissement", "Fiscalité",
