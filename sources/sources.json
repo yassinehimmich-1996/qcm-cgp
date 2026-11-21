@@ -1667,7 +1667,12 @@
       "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046107057",
       "date_document": "2022-07-18",
       "date_consultation": "2026-11-05",
-      "sujets": ["IOBSP", "crédit immobilier", "information précontractuelle", "solvabilité"]
+      "sujets": [
+        "IOBSP",
+        "crédit immobilier",
+        "information précontractuelle",
+        "solvabilité"
+      ]
     },
     {
       "id": "S128",
@@ -1676,7 +1681,12 @@
       "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072026/LEGISCTA000021722326/",
       "date_document": "2026-11-05",
       "date_consultation": "2026-11-05",
-      "sujets": ["ACPR", "sanctions", "agrément", "radiation"]
+      "sujets": [
+        "ACPR",
+        "sanctions",
+        "agrément",
+        "radiation"
+      ]
     },
     {
       "id": "S129",
@@ -1685,7 +1695,13 @@
       "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/credit-immobilier-lisez-attentivement-les-documents-remis",
       "date_document": "2026-01-21",
       "date_consultation": "2026-11-05",
-      "sujets": ["FISE", "TAEG", "frais", "garanties", "évaluation immobilière"]
+      "sujets": [
+        "FISE",
+        "TAEG",
+        "frais",
+        "garanties",
+        "évaluation immobilière"
+      ]
     },
     {
       "id": "S130",
@@ -1694,7 +1710,12 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F37190",
       "date_document": "2025-10-01",
       "date_consultation": "2026-11-05",
-      "sujets": ["avant-contrat", "délai de rétractation", "acte authentique", "notaire"]
+      "sujets": [
+        "avant-contrat",
+        "délai de rétractation",
+        "acte authentique",
+        "notaire"
+      ]
     },
     {
       "id": "S131",
@@ -1703,7 +1724,11 @@
       "url": "https://www.anil.org/documentation-experte/analyses-juridiques-jurisprudence/jurisprudence/jurisprudence-2014/legalite-de-la-decision-de-preempter-en-presence-dune-declaration-dintention-daliener-incomplete-ou-erronee/",
       "date_document": "2014-02-12",
       "date_consultation": "2026-11-05",
-      "sujets": ["préemption", "DIA", "délai de deux mois"]
+      "sujets": [
+        "préemption",
+        "DIA",
+        "délai de deux mois"
+      ]
     },
     {
       "id": "S132",
@@ -1712,7 +1737,12 @@
       "url": "https://www.anil.org/votre-besoin/acheter/types-dachat/logement-existant",
       "date_document": "date de mise à jour non indiquée",
       "date_consultation": "2026-11-05",
-      "sujets": ["avant-contrat", "compromis", "conditions suspensives", "dépôt de garantie"]
+      "sujets": [
+        "avant-contrat",
+        "compromis",
+        "conditions suspensives",
+        "dépôt de garantie"
+      ]
     },
     {
       "id": "S133",
@@ -1721,7 +1751,12 @@
       "url": "https://www.banque-france.fr/fr/a-votre-service/particuliers/dossier-surendettement",
       "date_document": "2026-01-01",
       "date_consultation": "2026-11-05",
-      "sujets": ["surendettement", "obligations", "interdictions", "recevabilité"]
+      "sujets": [
+        "surendettement",
+        "obligations",
+        "interdictions",
+        "recevabilité"
+      ]
     },
     {
       "id": "S134",
@@ -1730,7 +1765,12 @@
       "url": "https://www.banque-france.fr/fr/foire-aux-questions-dossier-de-surendettement",
       "date_document": "2026-10-01",
       "date_consultation": "2026-11-05",
-      "sujets": ["surendettement", "délais", "recevabilité", "FICP"]
+      "sujets": [
+        "surendettement",
+        "délais",
+        "recevabilité",
+        "FICP"
+      ]
     },
     {
       "id": "S135",
@@ -1739,7 +1779,12 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F37110",
       "date_document": "2025-01-01",
       "date_consultation": "2026-11-05",
-      "sujets": ["audit énergétique", "DPE", "passoire thermique", "coût des travaux"]
+      "sujets": [
+        "audit énergétique",
+        "DPE",
+        "passoire thermique",
+        "coût des travaux"
+      ]
     },
     {
       "id": "S136",
@@ -1748,7 +1793,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F34997",
       "date_document": "2024-12-01",
       "date_consultation": "2026-11-05",
-      "sujets": ["caution", "hypothèque", "garantie de prêt"]
+      "sujets": [
+        "caution",
+        "hypothèque",
+        "garantie de prêt"
+      ]
     },
     {
       "id": "S137",
@@ -1757,7 +1806,12 @@
       "url": "https://www.economie.gouv.fr/particuliers/emprunter-et-sassurer/rembourser-son-credit-immobilier-avant-le-terme-comment-ca",
       "date_document": "2025-09-01",
       "date_consultation": "2026-11-05",
-      "sujets": ["remboursement anticipé", "IRA", "plafond", "seuil de 10 %"]
+      "sujets": [
+        "remboursement anticipé",
+        "IRA",
+        "plafond",
+        "seuil de 10 %"
+      ]
     },
     {
       "id": "S138",
@@ -1766,7 +1820,11 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F787",
       "date_document": "2025-01-01",
       "date_consultation": "2026-11-05",
-      "sujets": ["hypothèque", "mainlevée", "publicité foncière"]
+      "sujets": [
+        "hypothèque",
+        "mainlevée",
+        "publicité foncière"
+      ]
     },
     {
       "id": "S139",
@@ -1775,7 +1833,11 @@
       "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428859/",
       "date_document": "1804-03-21",
       "date_consultation": "2026-11-05",
-      "sujets": ["propriété", "jouissance", "disposition"]
+      "sujets": [
+        "propriété",
+        "jouissance",
+        "disposition"
+      ]
     },
     {
       "id": "S140",
@@ -1784,7 +1846,12 @@
       "url": "https://bofip.impots.gouv.fr/bofip/2696-PGP.html/identifiant=BOI-ENR-DMTG-20-30-10-20210406",
       "date_document": "2021-04-06",
       "date_consultation": "2026-11-05",
-      "sujets": ["donation", "nue-propriété", "usufruit", "article 669 du CGI"]
+      "sujets": [
+        "donation",
+        "nue-propriété",
+        "usufruit",
+        "article 669 du CGI"
+      ]
     },
     {
       "id": "S141",
@@ -1793,7 +1860,12 @@
       "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques-et-les-faq/lagent-immobilier-les-regles-qui-encadrent-la-profession",
       "date_document": "date de mise à jour non indiquée",
       "date_consultation": "2026-11-05",
-      "sujets": ["mandat immobilier", "mandat simple", "mandat exclusif", "rémunération"]
+      "sujets": [
+        "mandat immobilier",
+        "mandat simple",
+        "mandat exclusif",
+        "rémunération"
+      ]
     },
     {
       "id": "S142",
@@ -1802,7 +1874,12 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F2961",
       "date_document": "date de mise à jour non indiquée",
       "date_consultation": "2026-11-05",
-      "sujets": ["VEFA", "paiements échelonnés", "délai de réflexion", "acte de vente"]
+      "sujets": [
+        "VEFA",
+        "paiements échelonnés",
+        "délai de réflexion",
+        "acte de vente"
+      ]
     },
     {
       "id": "S143",
@@ -1811,7 +1888,12 @@
       "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/le-contrat-de-construction-de-maison-individuelle-ccmi-offre-une",
       "date_document": "date de mise à jour non indiquée",
       "date_consultation": "2026-11-05",
-      "sujets": ["CCMI", "construction", "garantie de livraison", "mentions obligatoires"]
+      "sujets": [
+        "CCMI",
+        "construction",
+        "garantie de livraison",
+        "mentions obligatoires"
+      ]
     },
     {
       "id": "S144",
@@ -1820,7 +1902,12 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F548",
       "date_document": "date de mise à jour non indiquée",
       "date_consultation": "2026-11-05",
-      "sujets": ["co-emprunteur", "solidarité", "désolidarisation", "séparation"]
+      "sujets": [
+        "co-emprunteur",
+        "solidarité",
+        "désolidarisation",
+        "séparation"
+      ]
     },
     {
       "id": "S145",
@@ -1829,7 +1916,12 @@
       "url": "https://www.economie.gouv.fr/particuliers/gerer-mon-argent/gerer-mon-budget-et-mon-epargne/credit-immobilier-comment-le-renegocier-ou-le-faire-racheter",
       "date_document": "2026-02-17",
       "date_consultation": "2026-11-05",
-      "sujets": ["renégociation", "rachat de crédit", "avenant", "délai de réflexion"]
+      "sujets": [
+        "renégociation",
+        "rachat de crédit",
+        "avenant",
+        "délai de réflexion"
+      ]
     },
     {
       "id": "S146",
@@ -1838,7 +1930,299 @@
       "url": "https://www.service-public.fr/particuliers/vosdroits/F188",
       "date_document": "date de mise à jour non indiquée",
       "date_consultation": "2026-11-05",
-      "sujets": ["condition suspensive", "refus de prêt", "délai", "avant-contrat"]
+      "sujets": [
+        "condition suspensive",
+        "refus de prêt",
+        "délai",
+        "avant-contrat"
+      ]
+    },
+    {
+      "id": "S147",
+      "nom": "Taxonomie et SFDR : exprimer ses préférences",
+      "organisme": "AMF",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/finance-durable/faire-un-placement-durable/finance-durable-bien-comprendre-la-taxonomie-et-le-reglement-sfdr-pour-exprimer-vos-preferences",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Finance durable",
+        "SFDR",
+        "taxonomie"
+      ]
+    },
+    {
+      "id": "S148",
+      "nom": "Transmission de sociétés : dispositif Dutreil",
+      "organisme": "DGFiP – BOFiP",
+      "url": "https://bofip.impots.gouv.fr/bofip/6509-PGP.html/identifiant=BOI-ENR-DMTG-10-20-40-10-20260810",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Dutreil",
+        "activité",
+        "holding animatrice",
+        "conservation"
+      ]
+    },
+    {
+      "id": "S149",
+      "nom": "Suis-je non-résident fiscal ?",
+      "organisme": "DGFiP",
+      "url": "https://www.impots.gouv.fr/particulier/suis-je-bien-non-resident",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Résidence",
+        "conventions fiscales"
+      ]
+    },
+    {
+      "id": "S150",
+      "nom": "IA : comment être en conformité avec le RGPD ?",
+      "organisme": "CNIL",
+      "url": "https://www.cnil.fr/fr/intelligence-artificielle/ia-comment-etre-en-conformite-avec-le-rgpd",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "IA",
+        "minimisation",
+        "données"
+      ]
+    },
+    {
+      "id": "S151",
+      "nom": "Curatelle d’une personne majeure",
+      "organisme": "Service Public",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2094",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Capacité",
+        "assistance",
+        "actes"
+      ]
+    },
+    {
+      "id": "S152",
+      "nom": "Ticket modérateur, forfait et franchises",
+      "organisme": "Service Public",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F165",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Santé",
+        "remboursement",
+        "reste à charge"
+      ]
+    },
+    {
+      "id": "S153",
+      "nom": "Responsabilité civile habitation",
+      "organisme": "Service Public",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2123",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "MRH",
+        "tiers",
+        "dommages"
+      ]
+    },
+    {
+      "id": "S154",
+      "nom": "Placements atypiques : prudence",
+      "organisme": "AMF",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/proteger-son-epargne/placements-atypiques/placements-atypiques-des-investissements-considerer-avec-prudence",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Actifs réels",
+        "liquidité",
+        "frais"
+      ]
+    },
+    {
+      "id": "S155",
+      "nom": "Comprendre les obligations avant d’investir",
+      "organisme": "AMF",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/actions-obligations/obligations/comprendre-les-obligations-avant-dinvestir",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Taux",
+        "crédit",
+        "change"
+      ]
+    },
+    {
+      "id": "S156",
+      "nom": "Finance durable : les labels ne suffisent pas",
+      "organisme": "AMF",
+      "url": "https://www.amf-france.org/fr/espace-epargnants/comprendre-les-produits-financiers/finance-durable/finance-durable-les-labels-ne-suffisent-pas-pour-bien-investir",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Labels",
+        "risques",
+        "adéquation"
+      ]
+    },
+    {
+      "id": "S157",
+      "nom": "Finance responsable",
+      "organisme": "Banque de France",
+      "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/finance-responsable",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "ESG",
+        "durabilité"
+      ]
+    },
+    {
+      "id": "S158",
+      "nom": "RGPD : droits, article 22",
+      "organisme": "CNIL",
+      "url": "https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Décisions automatisées",
+        "supervision"
+      ]
+    },
+    {
+      "id": "S159",
+      "nom": "Article L132-4-1 du Code des assurances",
+      "organisme": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310472/",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Assurance-vie",
+        "protection",
+        "conflits"
+      ]
+    },
+    {
+      "id": "S160",
+      "nom": "Mandat de protection future",
+      "organisme": "Service Public",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16670",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Mandat",
+        "activation",
+        "capacité"
+      ]
+    },
+    {
+      "id": "S161",
+      "nom": "Assurance dépendance",
+      "organisme": "Ministère de l’Économie",
+      "url": "https://www.economie.gouv.fr/particuliers/gerer-mon-argent/gerer-mon-budget-et-mon-epargne/etes-vous-le-beneficiaire-dun-contrat-dassurance-dependance",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Autonomie",
+        "définitions contractuelles"
+      ]
+    },
+    {
+      "id": "S162",
+      "nom": "Article L113-1 du Code des assurances",
+      "organisme": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791984/",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Exclusions formelles et limitées"
+      ]
+    },
+    {
+      "id": "S163",
+      "nom": "Garantie protection juridique",
+      "organisme": "Service Public",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3049",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Avocat",
+        "plafonds",
+        "exclusions"
+      ]
+    },
+    {
+      "id": "S164",
+      "nom": "Dons aux organismes d’intérêt général",
+      "organisme": "Service Public",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F426",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Philanthropie",
+        "conditions fiscales"
+      ]
+    },
+    {
+      "id": "S165",
+      "nom": "Article 1434 du Code civil",
+      "organisme": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006439640/",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Emploi et remploi"
+      ]
+    },
+    {
+      "id": "S166",
+      "nom": "Usufruit : articles 578 à 624 du Code civil",
+      "organisme": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006136246/",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Quasi-usufruit",
+        "restitution"
+      ]
+    },
+    {
+      "id": "S167",
+      "nom": "Déblocage anticipé de l’épargne salariale",
+      "organisme": "Service Public",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31622",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "PEE",
+        "PER",
+        "conditions"
+      ]
+    },
+    {
+      "id": "S168",
+      "nom": "Observatoire des produits d’épargne financière 2026",
+      "organisme": "Banque de France",
+      "url": "https://www.banque-france.fr/system/files/2026-11/OPEF2026.pdf",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Capitalisation",
+        "transmission"
+      ]
+    },
+    {
+      "id": "S169",
+      "nom": "Article L121-1 du Code des assurances",
+      "organisme": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792236/",
+      "date_document": "Version officielle consultée le 21 novembre 2026",
+      "date_consultation": "2026-11-21",
+      "sujets": [
+        "Principe indemnitaire"
+      ]
     }
   ]
 }
