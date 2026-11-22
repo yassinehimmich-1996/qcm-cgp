@@ -433,3 +433,6 @@ if (threeAnswerCount !== TARGET_THREE_ANSWER_MULTIPLE) throw new Error(`Quota mu
 console.log(`Banque générée : ${balanced.length} questions (${Object.entries(typeCounts).map(([type, count]) => `${count} ${type}`).join(", ")}), ${LOT_COUNT} lots.`);
 await import('./register_coverage_sources.mjs');
 await import('./apply_coverage_upgrade.mjs');
+
+await import('./clarify_wording.mjs');
+await import('./finaliser_questions.mjs');
