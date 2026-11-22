@@ -20,6 +20,7 @@ const screens = {
   home: $("#homeScreen"),
   quiz: $("#quizScreen"),
   results: $("#resultsScreen"),
+  themes: $("#themesScreen"),
   stats: $("#statsScreen")
 };
 
@@ -163,7 +164,7 @@ function startSession(mode, options = {}) {
     feedback = false;
   } else if (mode === "theme") {
     pool = questions.filter((q) => q.domaine === options.domain);
-    count = Math.min(20, pool.length);
+    count = pool.length;
     label = options.domain;
   } else if (mode === "errors") {
     pool = questions.filter((q) => progress.errors.includes(q.id));
@@ -300,15 +301,15 @@ function renderFeedback(question, correct) {
   const wrongTraps = Object.entries(question.pieges)
     .map(([letter, text]) => `<p><strong>${letter}.</strong> ${escapeHtml(text)}</p>`).join("");
   $("#trapText").innerHTML = wrongTraps;
-  const source = sources.get(question.sources[0]);
-  const sourceLink = $("#sourceLink");
-  if (source) {
-    sourceLink.href = source.url;
-    sourceLink.innerHTML = `${escapeHtml(source.organisme)} · ${escapeHtml(source.nom)} <span>↗</span>`;
-    sourceLink.classList.remove("hidden");
-  } else {
-    sourceLink.classList.add("hidden");
-  }
+  const links = question.sources.map(id => sources.get(id)).filter(Boolean).map(source => {
+    const link = document.createElement("a");
+    link.href = source.url;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.textContent = source.organisme + " · " + source.nom + " ↗";
+    return link;
+  });
+  $("#sourceLinks").replaceChildren(...links);
 }
 
 function recordAnswer(question, correct) {
@@ -456,6 +457,16 @@ function showToast(message) {
 }
 
 function bindEvents() {
+  const counts = new Map();
+  for (const q of questions) counts.set(q.domaine, (counts.get(q.domaine) || 0) + 1);
+  for (const domain of [...counts.keys()].sort((a,b) => a.localeCompare(b, "fr"))) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "theme-option";
+    button.textContent = domain + " · " + counts.get(domain) + " questions";
+    button.addEventListener("click", () => startSession("theme", {domain}));
+    $("#themeList").append(button);
+  }
   $("#answers").addEventListener("click", (event) => {
     const answer = event.target.closest("[data-answer]");
     if (answer) selectAnswer(answer.dataset.answer);
@@ -498,7 +509,9 @@ function route() {
     quitQuiz();
     return;
   }
-  if (routeName === "stats") {
+  if (routeName === "themes") {
+    showScreen("themes");
+  } else if (routeName === "stats") {
     renderStats();
     showScreen("stats");
   } else {
@@ -509,7 +522,7 @@ function route() {
 
 async function init() {
   try {
-    const lotUrls = Array.from({ length: 16 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json?v=18-couverture-25-domaines`);
+    const lotUrls = Array.from({ length: 16 }, (_, index) => `questions/lot-${String(index + 1).padStart(3, "0")}.json?v=19-revision-editoriale`);
     const [lotResponses, sourceResponse] = await Promise.all([
       Promise.all(lotUrls.map((url) => fetch(url))),
       fetch("sources/sources.json")
@@ -539,7 +552,7 @@ async function init() {
       reloading = true;
       location.reload();
     });
-    navigator.serviceWorker.register("sw.js?v=18-couverture-25-domaines", { updateViaCache: "none" })
+    navigator.serviceWorker.register("sw.js?v=19-revision-editoriale", { updateViaCache: "none" })
       .then((registration) => registration.update())
       .catch((error) => console.warn("Service worker non enregistré", error));
   }
