@@ -1,0 +1,223 @@
+1|Un contrat souscrit auprès d’un assureur.|Un compte de dépôt dont la banque délègue la gestion à un assureur.
+2|L’assureur garantit le capital selon les conditions du contrat.|La société de gestion garantit la valeur de chaque titre détenu par le fonds.
+3|La valeur des unités fluctue avec les supports.|La garantie porte sur le prix de souscription de chaque unité jusqu’au rachat.
+4|Il change la répartition de l’épargne entre supports.|Il verse au souscripteur la valeur du support vendu avant un nouveau versement.
+5|Le souscripteur choisit quand verser, dans les limites du contrat.|Le souscripteur doit fixer dès l’adhésion les dates et les montants des versements libres.
+6|Le contrat subsiste après le retrait.|Le solde est transféré sur un nouveau contrat dont l’ancienneté repart de zéro.
+8|En principe, l’impôt sur le revenu intervient au rachat.|Les gains inscrits en compte entrent chaque année dans le revenu imposable du souscripteur.
+9|Ils diminuent le montant investi.|Ils sont prélevés sur les seuls gains lors du premier arbitrage.
+10|Répartir les risques entre plusieurs supports.|Compenser toute baisse d’un support par une hausse équivalente des autres.
+11|La part de gains comprise dans le rachat.|Les seuls gains des supports vendus pour financer matériellement le retrait.
+12|Un abattement annuel peut s’appliquer aux gains retirés.|Chaque contrat de plus de huit ans ouvre droit à un abattement annuel distinct.
+13|Les bénéficiaires doivent pouvoir être identifiés au dénouement.|La clause doit indiquer les nom et prénom de chaque bénéficiaire dès la souscription.
+14|Un rachat requiert en principe l’accord du bénéficiaire acceptant.|L’accord du bénéficiaire acceptant est requis pour un rachat total mais jamais pour un rachat partiel.
+15|Principalement les primes versées avant les 70 ans de l’assuré.|Principalement les primes des contrats ouverts avant les 70 ans de l’assuré, même versées après.
+16|Les primes concernées versées après les 70 ans de l’assuré.|Le capital décès entier dès lors que l’assuré avait dépassé 70 ans à la date du décès.
+17|Ils sont en principe exclus de cette assiette.|Ils y entrent pour la fraction correspondant aux primes qui dépassent l’abattement.
+18|Il conclut le contrat et en exerce les droits.|Il reçoit le capital au décès du seul fait qu’il signe le bulletin de souscription.
+19|Son décès déclenche le dénouement décès.|Son décès déclenche un transfert automatique du contrat aux héritiers du souscripteur.
+20|Elle doit convenir aux objectifs, à l’horizon et au profil de risque.|Une expérience en actions suffit à établir l’adéquation, quelle que soit la capacité de perte.
+21|Après dix jours de réflexion révolus.|Dès réception si l’emprunteur bénéficie ensuite de dix jours pour se rétracter.
+22|35 % en principe, assurance emprunteur comprise.|35 % hors assurance, les cotisations étant prises en compte uniquement dans le reste à vivre.
+23|25 ans en principe, avec des différés encadrés.|27 ans de remboursement du capital auxquels peut s’ajouter le différé de construction.
+24|La banque conserve sa décision d’octroi.|La banque ne peut refuser le dossier que si l’une des deux limites du HCSF est dépassée.
+25|Comparer le coût annuel global du crédit.|Comparer la charge annuelle d’intérêts en excluant les garanties exigées pour le prêt.
+26|Les droits liés à l’acquisition sont exclus comme tels.|Les droits de mutation doivent être inclus lorsque le prêt finance la totalité de l’achat.
+27|L’échéance amortit du capital et paie des intérêts.|Les premières échéances paient uniquement les intérêts jusqu’à épuisement de leur montant total.
+28|En une fois, au terme du prêt.|En fractions égales pendant le prêt, les intérêts étant payables au terme.
+29|Avancer des fonds en attendant la vente d’un bien.|Financer durablement le bien conservé en transformant sa valeur estimée en apport définitif.
+30|Un prêt réglementé qui complète le financement.|Une subvention publique déduite du prix et dispensant le ménage de rembourser le montant reçu.
+31|Quatorze jours calendaires à compter de l’acceptation.|Quatorze jours ouvrés à compter de la première mise à disposition des fonds.
+32|Informer sur le crédit avant l’engagement.|Présenter après acceptation les conditions définitives et le coût des garanties choisies.
+33|Apprécier la capacité de remboursement.|Vérifier si les garanties couvrent la créance indépendamment des ressources de l’emprunteur.
+34|Les remboursements reconstituent le disponible contractuel.|Chaque remboursement réduit définitivement le plafond de crédit accordé à l’origine.
+35|À tout moment, sous réserve de garanties équivalentes.|Uniquement à la date anniversaire lorsque le contrat proposé présente des garanties équivalentes.
+36|Encours assuré au plus égal au plafond légal et fin du prêt avant 60 ans.|Montant de chaque prêt sous le plafond légal et souscription avant le soixantième anniversaire.
+37|Le paiement du capital assuré en cas de décès couvert.|Le versement aux héritiers d’un capital égal à la valeur du bien au jour du sinistre.
+38|La fraction du capital assurée pour chaque emprunteur.|La fraction du prix de vente revenant à chaque emprunteur en fonction de son apport initial.
+39|À partir des critères de garantie exigés par le prêteur.|En comparant les taux de cotisation après ajustement pour la durée restante du financement.
+40|Au calcul des intérêts du prêt.|À la comparaison du coût annuel du crédit après intégration des garanties obligatoires.
+41|Utiliser le bien et en percevoir les fruits en conservant sa substance.|Percevoir les fruits et vendre seul la pleine propriété si le produit de vente est réinvesti.
+42|Elle permet de céder la nue-propriété grevée de l’usufruit.|Elle permet de vendre la pleine propriété sans accord si l’acquéreur indemnise l’usufruitier.
+43|La pleine propriété revient en principe au nu-propriétaire.|Les héritiers de l’usufruitier recueillent l’usufruit jusqu’au décès du nu-propriétaire.
+44|Une indemnité est due à l’indivision, sauf convention contraire.|Une indemnité est due uniquement si les indivisaires ont signé un bail avant l’occupation.
+45|L’unanimité en principe, sauf dérogation légale.|La majorité des deux tiers des droits suffit pour vendre librement tout immeuble indivis.
+46|Un bien propre en principe.|Un bien commun si la succession est ouverte après la célébration du mariage.
+47|Ils entrent en principe en communauté.|Ils restent propres si l’employeur les verse sur un compte au seul nom du salarié.
+48|Chacun conserve ses biens personnels.|Tout bien acquis pendant le mariage appartient aux deux époux à proportion de leurs revenus.
+49|Un acte notarié et l’information prévue par la loi.|Un accord sous signature privée devient suffisant après information des enfants majeurs.
+50|Elle suit le terrain, sous réserve d’une éventuelle récompense.|La maison devient commune si les revenus du couple ont financé la majorité des travaux.
+51|Une part de la succession leur est réservée.|Seuls les enfants mineurs au jour du décès bénéficient d’une part minimale de la succession.
+52|La fraction dont on peut disposer librement.|La fraction dont les héritiers réservataires ne peuvent être privés par une libéralité.
+53|En principe, un quart en pleine propriété.|Au choix, l’usufruit de la totalité ou le quart en pleine propriété malgré l’enfant non commun.
+54|Le Pacs seul ne confère aucun droit héréditaire.|Le partenaire survivant hérite comme un époux dès la deuxième année du pacte.
+55|Le concubinage seul ne confère aucun droit héréditaire.|Une résidence commune continue suffit à ouvrir des droits identiques à ceux du partenaire marié.
+56|Un transfert entre vifs qui dessaisit le donateur.|Une attribution révocable à volonté dont le transfert de propriété intervient au décès.
+57|Après expiration du délai de rappel fiscal.|Dès le changement d’année civile, quelles que soient les donations déjà consenties.
+58|Donner et répartir les biens de son vivant.|Fixer la répartition future tout en conservant jusqu’au décès la pleine propriété de tous les biens.
+59|Les dettes sont en principe limitées à la valeur recueillie.|L’héritier peut choisir les dettes qu’il accepte, indépendamment de la valeur des biens reçus.
+60|Ils restent indivis jusqu’au partage.|Chaque héritier devient seul propriétaire d’un bien déterminé dès l’ouverture de la succession.
+61|Une impossibilité temporaire de travailler, définie au contrat.|Une réduction durable de la capacité de gain constatée après consolidation de l’état de santé.
+62|Une réduction durable de la capacité de travail ou de gain.|Une interruption provisoire d’activité qui prend fin dès la consolidation de l’état de santé.
+63|Verser le capital prévu aux bénéficiaires du décès couvert.|Rembourser les dépenses réellement supportées par les bénéficiaires dans la limite du capital.
+64|Elle écarte un risque défini du champ de la garantie.|Elle fixe le délai au terme duquel un sinistre couvert commence à être indemnisé.
+65|Une part du sinistre ou une période reste à charge.|Une période suivant l’adhésion pendant laquelle la garantie n’a pas encore pris effet.
+66|Il diffère la couverture après la souscription.|Il court à compter de chaque sinistre déjà couvert et réduit sa durée d’indemnisation.
+67|Documenter les besoins et les motifs du conseil.|Documenter uniquement le choix final dès lors que le client a signé la notice d’information.
+68|Au moins quinze heures par an.|Quinze heures à répartir librement sur trois années de distribution consécutives.
+69|Suivre les modalités et délais contractuels applicables.|Attendre de connaître le montant définitif du dommage avant de le déclarer à l’assureur.
+70|Le prix de la couverture.|La somme restant à la charge de l’assuré après application des garanties.
+71|22 950 € hors intérêts capitalisés pour un particulier.|22 950 € intérêts inclus, avec retrait obligatoire de l’excédent chaque fin d’année.
+72|Exonération d’IR et de prélèvements sociaux.|Exonération d’impôt sur le revenu avec prélèvements sociaux à la capitalisation annuelle.
+73|12 000 € hors intérêts capitalisés.|12 000 € intérêts compris, le surplus devant être transféré vers un compte ordinaire.
+74|Domicile fiscal en France et condition de revenus.|Domicile fiscal en France et plafond calculé sur l’encours des autres livrets du foyer.
+75|De 12 à 25 ans, sous conditions.|De 16 à 25 ans avec maintien possible jusqu’au premier emploi stable.
+76|Un seul plan par personne.|Un plan dans chaque établissement si la somme des versements respecte le plafond réglementaire.
+77|Quatre ans en principe.|Trois ans, même pour bénéficier de l’intégralité des droits à prêt prévus par le plan.
+78|La sortie anticipée peut réduire la rémunération.|Le retrait anticipé conserve de droit le taux initial pour toute la durée effectivement courue.
+79|En principe, 100 000 € par déposant et établissement.|100 000 € pour chaque compte individuel, même si plusieurs sont ouverts dans la même banque.
+80|Des dates de valeur déterminées par quinzaine.|Un calcul au jour le jour suivi d’un simple affichage des intérêts par quinzaine.
+81|Une part du capital de l’entreprise.|Une créance sur l’entreprise remboursable avant ses créanciers ordinaires.
+82|Une distribution décidée par la société.|Une créance annuelle acquise à l’actionnaire dès que la société dégage un bénéfice.
+83|Un titre de créance sur l’émetteur.|Un titre de propriété donnant accès au résultat distribuable et au vote en assemblée.
+84|Son cours tend à baisser, toutes choses égales par ailleurs.|Son cours tend à monter, car les nouvelles émissions offrent désormais un coupon plus élevé.
+85|La défaillance de l’émetteur.|La baisse du cours liée à la hausse des taux sans détérioration de la solvabilité de l’émetteur.
+86|Il ne garantit pas le rendement futur.|Il fixe le rendement minimal attendu si l’investisseur conserve l’actif pendant le même horizon.
+87|La dispersion des variations de valeur.|La perte maximale certaine sur la période correspondant à l’horizon de placement.
+88|Céder rapidement avec une décote limitée.|Conserver le capital à l’échéance même en l’absence d’acheteur sur le marché secondaire.
+89|Elle réduit le risque de concentration.|Elle neutralise le risque de marché dès que le portefeuille contient plusieurs secteurs.
+90|Tenir compte de la durée recommandée et du risque supportable.|Retenir la durée de détention passée du meilleur support comme horizon individuel du client.
+91|Un portefeuille collectif géré selon une stratégie définie.|Un regroupement de comptes dont chaque porteur choisit personnellement tous les titres.
+92|Une société à capital variable qui émet des actions.|Une copropriété sans personnalité morale dans laquelle l’investisseur acquiert des parts.
+93|Une copropriété sans personnalité morale.|Une société dont les investisseurs deviennent actionnaires à chaque souscription de parts.
+94|Suivre la performance de l’indice selon sa stratégie.|Préserver la valeur de souscription en cas de baisse de l’indice grâce à la cotation continue.
+95|La devise peut modifier le rendement en euros.|La cotation de la part en euros suffit à couvrir les fluctuations des devises des actifs détenus.
+96|Elle dépend de la formule et des sous-jacents.|Elle dépend du dernier coupon annoncé même si les conditions de la formule ne sont plus remplies.
+97|Elle dépend du contrat et de la solvabilité de l’émetteur.|Elle protège à tout moment la valeur de revente à hauteur du montant annoncé à l’échéance.
+98|Ni le capital ni le rendement ne sont garantis.|Le capital est protégé dès lors que la société détient des immeubles dans plusieurs régions.
+99|Elle dépend des mécanismes de retrait ou d’un acheteur.|La société de gestion doit racheter les parts au dernier prix publié dès réception de l’ordre.
+100|Des recettes locatives, des charges et de la gestion.|Du seul taux de distribution annoncé lors de la souscription, fixé pour toute la détention.
+101|150 000 € de versements, hors gains.|150 000 € de valeur totale, en intégrant les gains accumulés sur le plan.
+102|Le domicile fiscal en France est requis à l’ouverture.|La nationalité française suffit à l’ouverture quelle que soit la résidence fiscale.
+103|Le plan peut subsister et recevoir de nouveaux versements.|Le plan subsiste mais le premier retrait interdit définitivement tout nouveau versement.
+104|Exonération possible d’IR, prélèvements sociaux applicables.|Exonération d’impôt et de prélèvements sociaux pour tout gain réalisé après cinq ans.
+105|Des titres européens et des fonds répondant aux critères du PEA.|Toute action étrangère dès lors que son achat est réglé en euros auprès d’une banque française.
+106|Un large éventail de titres accessibles au titulaire.|Seulement les titres admis dans un PEA, avec une limite de versement distincte.
+107|Aucun plafond général de versements.|Un plafond par titulaire identique à celui du PEA, tous établissements confondus.
+108|Les revenus et plus-values suivent leur régime fiscal respectif.|L’imposition est différée jusqu’au retrait des espèces hors du compte-titres.
+109|Une capitalisation qui peut se poursuivre après le décès du titulaire.|Un contrat dont le capital revient à un bénéficiaire désigné par dénouement automatique au décès.
+110|Il peut être transmis dans la succession.|Il se dénoue au décès avec paiement du capital selon une clause bénéficiaire hors succession.
+111|Constituer une épargne destinée à la retraite.|Constituer une épargne disponible au premier retrait après cinq années de détention.
+112|Une déduction du revenu dans le plafond disponible.|Une réduction directe de l’impôt dû égale au montant des versements volontaires.
+113|C’est une option à apprécier à l’entrée et à la sortie.|C’est un choix qui modifie la fiscalité de l’entrée mais laisse identique celle de la sortie.
+114|Un déblocage anticipé, sauf pour les droits issus des versements obligatoires.|Un déblocage de tous les compartiments, y compris les cotisations obligatoires dès lors que le logement est la résidence principale.
+115|Une sortie dans les cas de déblocage prévus par la loi.|Une sortie à tout moment si le titulaire établit simplement que sa trésorerie a diminué.
+116|Capital, rente ou combinaison selon les droits concernés.|Rente pour tous les versements, le capital étant réservé à l’acquisition de la résidence principale.
+117|Une rente en principe, sous réserve d’exceptions.|Un libre choix entre capital et rente dans les mêmes conditions que les versements volontaires.
+118|Elle réduit progressivement le risque à l’approche du terme.|Elle augmente progressivement l’exposition aux actions pour compenser la baisse de la durée restante.
+119|Cinq ans en principe, sauf déblocage anticipé.|Cinq ans à compter de l’ouverture du plan pour tous les versements ultérieurs.
+120|Un complément de l’employeur dans les limites du plan.|Une fraction du salaire prélevée sur la paie puis affectée par défaut au fonds de l’entreprise.
+121|Impôt sur le revenu et prélèvements sociaux.|Impôt sur le revenu seul, les prélèvements sociaux étant dus uniquement sur option pour le barème.
+122|Elle couvre l’ensemble des revenus et gains éligibles de l’année.|Elle peut être exercée séparément pour chaque compte selon les frais supportés par le titulaire.
+123|Les revenus de capitaux mobiliers.|Les plus-values mobilières, même lorsque la distribution intervient sans cession du titre.
+124|L’écart positif entre prix de cession et coût fiscal d’acquisition.|Le seul écart entre le cours de clôture de l’année et le prix d’acquisition, même sans vente.
+125|Sur des plus-values de même nature, sous conditions.|Sur les dividendes versés par la société dont les titres ont été cédés à perte.
+126|Le patrimoine immobilier net taxable au-delà du seuil légal.|Le patrimoine immobilier brut, les dettes étant prises en compte après calcul du montant d’impôt.
+127|Les dettes éligibles se rapportant aux actifs imposables.|L’ensemble des dettes privées du foyer à proportion du poids de l’immobilier dans son patrimoine.
+128|La fraction immobilière imposable, sous réserve des exclusions.|La valeur totale des titres dès qu’un immeuble apparaît directement ou indirectement à l’actif.
+129|Le régime dépend du produit, du gain et de la date.|Le même taux pour tout gain patrimonial dès lors que le contribuable est domicilié en France.
+130|En principe, les revenus fonciers.|Les bénéfices industriels et commerciaux dès que le bailleur perçoit un loyer chaque mois.
+131|Les performances énergétique et climatique du logement.|Le montant en euros de la prochaine facture de l’occupant, d’après ses consommations personnelles.
+132|1,9 pour l’électricité en 2026.|2,3 pour l’électricité dans les diagnostics établis au cours de l’année 2026.
+133|Il ne satisfait plus au critère de décence selon le calendrier applicable.|Il reste considéré comme décent si le locataire a pris connaissance de l’étiquette avant de signer.
+134|G en 2025, F en 2028 et E en 2034.|G en 2025, puis F et E simultanément au renouvellement des baux à partir de 2028.
+135|Trois ans en principe.|Un an renouvelable si le propriétaire est une personne physique et le logement loué vide.
+136|Un an en principe, avec un régime étudiant particulier.|Trois ans sauf si le locataire signe une attestation de mobilité professionnelle.
+137|Loyers bruts rapportés au coût d’acquisition.|Loyers après déduction de la fiscalité rapportés au seul apport personnel du propriétaire.
+138|Elle diminue les recettes et peut réduire le rendement.|Elle réduit la valeur comptable du bien sans incidence sur le rendement réellement encaissé.
+139|Six ou neuf ans initialement, jusqu’à douze avec prorogation.|Neuf ans au minimum dès l’origine, avec une prorogation obligatoire de trois ans en cas de travaux.
+140|Les dépenses communes selon les règles de répartition.|Les seules dépenses dont chaque copropriétaire peut démontrer qu’il a personnellement bénéficié.
+141|Apprécier la compréhension du service ou de l’instrument.|Mesurer directement la capacité financière à subir des pertes à partir du nombre d’ordres passés.
+142|L’expérience, les objectifs, la situation et le risque supportable.|La tolérance déclarée au risque, qui dispense d’apprécier la capacité réelle à subir des pertes.
+143|Vérifier la compréhension des risques au regard de l’expérience.|Vérifier que le produit répond aux objectifs patrimoniaux sur la seule base de l’horizon déclaré.
+145|Comprendre l’effet cumulé des coûts sur le placement.|Identifier uniquement les frais facturés séparément sur le relevé bancaire du souscripteur.
+146|Les catégories de clients compatibles ou incompatibles avec le produit.|La liste nominative des clients à solliciter selon les objectifs commerciaux du distributeur.
+147|Évaluer les coûts et les avantages du changement pour le client.|Comparer les performances historiques en écartant les coûts déjà annoncés dans les documents du produit.
+148|Elles entrent dans le recueil d’adéquation lorsqu’il s’applique.|Elles remplacent l’analyse de la capacité de perte dès qu’un produit porte un label de durabilité.
+149|Les recueillir pour proposer un contrat cohérent.|Les déduire du seul produit demandé si le client connaît déjà le montant de la cotisation.
+150|En principe, accusé sous dix jours ouvrables et réponse sous deux mois.|Accusé sous dix jours calendaires puis réponse sous deux mois à compter de la date de cet accusé.
+151|Avant la relation en principe, puis par actualisation.|Uniquement à l’ouverture si le client conserve les mêmes produits pendant toute la relation.
+152|La personne physique qui contrôle en dernier ressort ou pour qui on agit.|La première société interposée détenant une participation majoritaire dans le capital du client.
+153|Des mesures de vigilance renforcées, proportionnées au risque.|La clôture de droit des comptes de la personne et de ses proches dès l’identification du statut.
+154|Un soupçon étayé peut suffire.|Le professionnel doit disposer d’une condamnation ou d’une preuve définitive de l’infraction.
+155|La déclaration doit rester confidentielle.|La banque doit informer le client après transmission pour lui permettre de contester le signalement.
+156|Limiter la collecte au nécessaire pour la finalité poursuivie.|Collecter les informations susceptibles de servir à toute opération commerciale ultérieure.
+157|Accéder aux informations et obtenir une copie de ses données.|Obtenir systématiquement l’original de chaque document interne dans lequel la personne est citée.
+158|S’y opposer à tout moment, gratuitement.|S’y opposer uniquement lors de la collecte, sauf changement substantiel de situation personnelle.
+159|En principe, trois ans depuis la collecte ou le dernier contact du prospect.|Trois ans à compter du dernier envoi de la banque, même si le prospect n’a donné aucune suite.
+160|Documenter la violation et notifier selon le risque.|Avertir la CNIL seulement après la preuve d’une utilisation frauduleuse des données divulguées.
+161|Chaque cotitulaire peut en principe agir seul.|Chaque opération de débit suppose la double signature, sauf mandat notarié donné à l’autre.
+162|Elle peut toucher chacun des cotitulaires.|Elle touche exclusivement le signataire du chèque, même sans désignation préalable de responsable.
+163|Le service légal de mobilité est gratuit pour le particulier.|Sa gratuité est conditionnée au transfert de tous les contrats d’épargne vers la banque d’arrivée.
+164|Faire désigner une banque par la Banque de France après un refus.|Obliger la première banque sollicitée à ouvrir le compte dans l’agence choisie par le demandeur.
+165|Le client reste propriétaire des titres.|Ils entrent dans le patrimoine de la banque et sont remboursés comme des dépôts à vue.
+166|Les garder confidentiels, y compris face à un prétendu conseiller.|Les transmettre oralement au conseiller si le numéro affiché correspond à celui de l’agence.
+167|Faire opposition et signaler rapidement l’opération.|Attendre que la banque identifie le commerçant avant de faire opposition sur le moyen de paiement.
+168|Un préavis s’applique en principe, sauf exception.|Une clôture motivée par la banque dispense dans tous les cas de respecter un délai de préavis.
+169|L’inscription au FICP pendant la procédure.|L’effacement des incidents déjà enregistrés au FICP dès la réception du dossier par la commission.
+170|Des services adaptés et un plafonnement de certains frais.|Une autorisation de découvert obligatoire destinée à financer les dépenses courantes du titulaire.
+171|Une hausse générale et durable des prix.|Une hausse du seul prix des actifs financiers qui réduit le rendement réel des placements.
+172|Renchérir le crédit et freiner la demande en principe.|Réduire le coût des nouveaux emprunts à taux fixe grâce à une hausse de la rémunération de l’épargne.
+173|À taux fixe, le prix tend à baisser quand les taux montent.|Le prix reste stable sur le marché secondaire puisque le coupon contractuel demeure inchangé.
+174|Le rendement nominal corrigé de l’inflation.|Le rendement nominal après impôts et frais, quelle que soit l’évolution du niveau général des prix.
+175|Les rendements par échéance d’instruments comparables.|L’évolution historique du taux d’un même instrument depuis la date de sa première émission.
+176|Les intérêts capitalisés produisent eux-mêmes des intérêts.|Le même intérêt est versé chaque année sur le seul capital initial et conservé hors du placement.
+177|Les pertes liées aux variations des facteurs de marché.|Les seules pertes dues au défaut de paiement de la contrepartie au moment du règlement.
+178|La variation du cours de change entre deux devises.|La variation du taux directeur dans le pays de placement quand les deux montants sont en euros.
+179|Le degré de variation conjointe de deux actifs.|La mesure de l’effet causal d’une hausse du premier actif sur la valeur future du second.
+180|Une contraction significative de l’activité économique.|Une simple décélération de la croissance dès que son rythme devient inférieur à celui du trimestre précédent.
+181|Comprendre situation, contraintes et objectifs avant de conseiller.|Choisir une enveloppe selon l’âge, puis recueillir seulement les éléments qui confirment ce choix.
+182|Relier avantages et risques aux besoins identifiés.|Présenter le rendement espéré du produit et réserver les limites à la notice remise après signature.
+183|L’identifier et le gérer, puis informer si les mesures sont insuffisantes.|Le signaler au client dès l’origine dispense de prendre des mesures de prévention ou de gestion.
+184|L’intérêt du client guide une recommandation adaptée.|Le respect du marché cible suffit à établir que la recommandation individuelle sert cet intérêt.
+185|Retracer les faits recueillis et les motifs du conseil.|Conserver le bulletin signé suffit à démontrer l’adéquation du conseil aux besoins du client.
+186|Les droits internes et, en cas de conflit, la convention applicable.|La nationalité figurant sur le passeport détermine à elle seule la résidence fiscale conventionnelle.
+187|L’échange d’informations sur des comptes entre juridictions participantes.|Le calcul d’un impôt mondial unique par la banque où le contribuable détient ses principaux avoirs.
+188|Déclarer ses résidences fiscales et ses identifiants fiscaux.|Choisir l’État d’imposition des revenus du compte en fonction de la monnaie de tenue de compte.
+189|Identifier certains comptes liés à des contribuables américains.|Transmettre aux États-Unis tous les comptes libellés en dollars sans considération du titulaire.
+190|Les droits internes et la convention applicable à la catégorie de revenu.|La nationalité du payeur établit à elle seule quel État peut imposer les sommes versées.
+191|Les revenus mondiaux, sous réserve des conventions.|Les revenus encaissés en France, quel que soit le lieu de résidence du contribuable.
+192|Foyer ou séjour principal, activité principale ou centre des intérêts économiques.|Séjour principal et activité professionnelle principale en France, ces deux conditions devant être simultanément réunies.
+193|Une imposition commune, sauf exception légale.|Des déclarations distinctes en cas de séparation de biens même lorsque les époux vivent ensemble.
+194|Diviser le revenu imposable par le nombre de parts avant le barème.|Diviser l’impôt déjà calculé au barème par le nombre de personnes présentes au foyer.
+195|Le taux marginal est celui de la dernière tranche atteinte.|Le taux marginal rapporte l’impôt au revenu total, après les réductions et crédits d’impôt.
+197|Un taux individualisé, sans modifier l’impôt total du couple.|Deux impositions distinctes qui permettent à chacun d’appliquer son propre quotient familial.
+198|Un taux non personnalisé, avec complément éventuel versé au fisc.|Le taux moyen du foyer, complété par l’employeur si le prélèvement est inférieur à l’impôt dû.
+201|Non, la déclaration annuelle permet de régulariser l’impôt.|Oui, sauf en cas de changement de situation familiale déclaré après la dernière paie.
+202|Elle réduit la base imposable.|Elle réduit directement le montant d’impôt après application du barème progressif.
+204|L’excédent peut être remboursé.|L’excédent est perdu dès lors que le foyer n’est redevable d’aucun impôt sur le revenu.
+206|Certains investissements outre-mer et des souscriptions SOFICA.|Les investissements locatifs ordinaires sur simple prolongation de l’engagement initial.
+207|Non, les dons d’intérêt général concernés en sont exclus.|Oui, dès que le montant des dons dépasse le plafond annuel de déductibilité du revenu.
+208|En principe 60 % de l’avantage précédent, puis régularisation.|60 % des dépenses prévisionnelles de l’année en cours, sans recalcul après déclaration.
+209|Les engagements antérieurs peuvent continuer à produire leurs effets.|Les investissements achevés avant la fermeture perdent aussi leur avantage dès l’année suivante.
+210|Sous conditions, jusqu’à 15 000 € de recettes foncières brutes.|Sous conditions, jusqu’à 15 000 € de revenu foncier net après déduction des travaux et intérêts.
+213|Celle issue des charges déductibles autres que les intérêts.|Celle provenant en priorité des intérêts d’emprunt, puis des autres charges si le plafond le permet.
+215|En principe, jusqu’à fin décembre de la troisième année suivante.|Jusqu’au troisième anniversaire de la facture de travaux ayant créé le déficit imputable.
+216|Les bénéfices industriels et commerciaux.|Les revenus fonciers lorsque le logement constitue la résidence principale du locataire.
+218|Plus de 23 000 € et plus que les autres revenus d’activité retenus du foyer.|Plus de 23 000 € ou plus que les autres revenus d’activité retenus du foyer, un seul critère étant suffisant.
+221|La vente de la résidence principale, sous conditions.|La vente de tout logement détenu depuis cinq ans et précédemment occupé par son propriétaire.
+223|22 ans pour l’IR, 30 ans pour les prélèvements sociaux.|30 ans pour l’impôt sur le revenu, avec exonération des prélèvements sociaux dès la 22e année.
+224|Sa quote-part de résultat en revenus fonciers.|Les sommes effectivement distribuées en revenus de capitaux mobiliers après approbation des comptes.
+225|Les revenus de capitaux mobiliers.|Les revenus fonciers au prorata des loyers figurant dans le résultat de la société soumise à l’IS.
+227|Au-delà de 1,3 million d’euros.|Dès 800 000 euros de patrimoine immobilier net, première tranche du barème de l’IFI.
+229|Exister au 1er janvier, incomber au foyer et financer un actif taxable éligible.|Exister à la date de déclaration et être garantie par un immeuble, même si elle finance des dépenses privées.
+231|5 000 € au plus par cession.|5 000 € au plus de plus-value, même si le prix de vente dépasse ce montant.
+233|Tous les revenus et gains de l’année entrant dans son champ.|Uniquement les revenus des comptes pour lesquels le contribuable a demandé la dispense d’acompte.
+235|Le premier versement.|La signature de la convention d’ouverture même si le compte espèces reste à zéro.
+237|Exonération d’IR, prélèvements sociaux applicables.|Exonération intégrale du gain si le retrait intervient après le cinquième anniversaire du plan.
+238|225 000 € ensemble, dont 150 000 € au plus sur le PEA classique.|225 000 € sur chacun des deux plans à condition que les versements proviennent de la même personne.
+244|Versements volontaires, épargne salariale et cotisations obligatoires.|Capital garanti, unités de compte et rente viagère, selon le support retenu à l’adhésion.
+245|Réduire progressivement le risque à l’approche de la retraite.|Conserver une allocation constante jusqu’à la liquidation afin de lisser les variations de marché.
+250|31 865 € tous les quinze ans.|31 865 € tous les dix ans, indépendamment de la date des donations consenties par ailleurs.
+251|Oui, si les conditions des deux dispositifs sont réunies.|Seulement si le donataire renonce à utiliser l’abattement familial sur la donation suivante.
+252|Donateur de moins de 80 ans et donataire majeur ou émancipé.|Donateur de 80 ans au plus et donataire âgé de 16 ans au moins, même sans émancipation.

@@ -8,8 +8,8 @@
     "choix": {
       "A": "Elle correspond toujours à 100 % des dépenses de l'année en cours.",
       "B": "Elle supprime l'obligation de déclarer les dépenses.",
-      "C": "Elle est réservée aux revenus fonciers.",
-      "D": "Elle correspond en principe à 60 % de l'avantage connu au titre de l'année précédente, puis une régularisation intervient."
+      "C": "60 % des dépenses prévisionnelles de l’année en cours, sans recalcul après déclaration.",
+      "D": "En principe 60 % de l’avantage précédent, puis régularisation."
     },
     "bonnes_reponses": [
       "D"
@@ -18,7 +18,7 @@
     "pieges": {
       "A": "L'avance porte sur une fraction de l'avantage, pas sur toutes les dépenses.",
       "B": "La déclaration reste nécessaire pour la régularisation.",
-      "C": "Elle concerne notamment emploi à domicile, garde d'enfants ou dons."
+      "C": "L'avance de janvier est fondée sur le dernier avantage fiscal connu. Le solde est calculé après la déclaration des dépenses réelles."
     },
     "sources": [
       "S091"
@@ -62,19 +62,19 @@
     "sous_domaine": "IFI",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant les dettes déductibles de l'IFI et leur principe, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant les dettes déductibles de l'IFI (leur principe) ?",
     "choix": {
-      "A": "Aucune dette ne peut jamais être déduite.",
+      "A": "L’ensemble des dettes privées du foyer à proportion du poids de l’immobilier dans son patrimoine.",
       "B": "Les dettes sont ajoutées à l'actif taxable.",
-      "C": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles.",
+      "C": "Les dettes éligibles se rapportant aux actifs imposables.",
       "D": "Toutes les dettes personnelles sont automatiquement déductibles."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles.",
     "pieges": {
-      "A": "Cette réponse attribue à les dettes déductibles de l'IFI un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "A": "Seules certaines dettes afférentes aux actifs imposables et répondant aux conditions légales sont déductibles.",
       "B": "Cette réponse attribue à les dettes déductibles de l'IFI un effet ou une condition qui ne correspond pas à la règle exacte.",
       "D": "Cette réponse attribue à les dettes déductibles de l'IFI un effet ou une condition qui ne correspond pas à la règle exacte."
     },
@@ -91,20 +91,20 @@
     "sous_domaine": "IFI",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant l'impôt sur la fortune immobilière et son assiette générale, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant l'impôt sur la fortune immobilière (son assiette générale) ?",
     "choix": {
       "A": "Il porte sur tous les livrets réglementés.",
-      "B": "Il taxe uniquement les salaires.",
+      "B": "Le patrimoine immobilier brut, les dettes étant prises en compte après calcul du montant d’impôt.",
       "C": "Il remplace l'impôt sur le revenu.",
-      "D": "Il vise le patrimoine immobilier net taxable des foyers dépassant le seuil légal."
+      "D": "Le patrimoine immobilier net taxable au-delà du seuil légal."
     },
     "bonnes_reponses": [
       "D"
     ],
-    "explication": "Il vise le patrimoine immobilier net taxable des foyers dépassant le seuil légal. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Il vise le patrimoine immobilier net taxable des foyers dépassant le seuil légal.",
     "pieges": {
       "A": "Cette réponse attribue à l'impôt sur la fortune immobilière un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "B": "Cette réponse attribue à l'impôt sur la fortune immobilière un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Il vise le patrimoine immobilier net taxable des foyers dépassant le seuil légal.",
       "C": "Cette réponse attribue à l'impôt sur la fortune immobilière un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -149,7 +149,7 @@
     "sous_domaine": "Date d'effet",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « Quelle règle générale s'applique à la date d'effet choisie pour une retraite du régime général  » : Elle est fixée au premier jour d'un mois et ne peut précéder la demande ni l'ouverture du droit.",
+    "enonce": "Règle applicable à la date d'effet choisie pour une retraite du régime général : Elle est fixée au premier jour d'un mois et ne peut précéder la demande ni l'ouverture du droit.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -206,9 +206,9 @@
     "enonce": "Quelles conditions d'âge accompagnent l'exonération de 31 865 euros des dons familiaux de sommes d'argent ?",
     "choix": {
       "A": "Le donateur doit avoir plus de 80 ans et le bénéficiaire moins de 18 ans.",
-      "B": "Aucune condition d'âge n'existe.",
+      "B": "Donateur de 80 ans au plus et donataire âgé de 16 ans au moins, même sans émancipation.",
       "C": "Seul le bénéficiaire doit avoir plus de 70 ans.",
-      "D": "Le donateur doit avoir moins de 80 ans et le bénéficiaire être majeur ou mineur émancipé."
+      "D": "Donateur de moins de 80 ans et donataire majeur ou émancipé."
     },
     "bonnes_reponses": [
       "D"
@@ -216,7 +216,7 @@
     "explication": "L'exonération spécifique du don familial de somme d'argent suppose notamment un donateur de moins de 80 ans et un donataire majeur ou émancipé.",
     "pieges": {
       "A": "Les conditions sont inversées.",
-      "B": "Le texte fixe bien des conditions d'âge.",
+      "B": "L'exonération spécifique du don familial de somme d'argent suppose notamment un donateur de moins de 80 ans et un donataire majeur ou émancipé.",
       "C": "L'âge de 70 ans n'est pas le critère."
     },
     "sources": [
@@ -232,20 +232,20 @@
     "sous_domaine": "Donation",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant une donation et son caractère, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant une donation (son caractère) ?",
     "choix": {
       "A": "Elle ne peut porter sur aucun bien immobilier.",
-      "B": "Il s'agit d'une transmission entre vifs qui dessaisit le donateur dans les conditions de l'acte.",
-      "C": "Elle ne produit effet qu'au décès.",
+      "B": "Un transfert entre vifs qui dessaisit le donateur.",
+      "C": "Une attribution révocable à volonté dont le transfert de propriété intervient au décès.",
       "D": "Elle est toujours révocable librement."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "Il s'agit d'une transmission entre vifs qui dessaisit le donateur dans les conditions de l'acte. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Il s'agit d'une transmission entre vifs qui dessaisit le donateur dans les conditions de l'acte.",
     "pieges": {
       "A": "Cette réponse attribue à une donation un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "C": "Cette réponse attribue à une donation un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Il s'agit d'une transmission entre vifs qui dessaisit le donateur dans les conditions de l'acte.",
       "D": "Cette réponse attribue à une donation un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -290,7 +290,7 @@
     "sous_domaine": "TAEG",
     "difficulte": "avance",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « le TAEG — sa finalité » : Il permet d'apprécier et de comparer le coût global obligatoire du crédit sur une base annuelle.",
+    "enonce": "Le TAEG permet d'apprécier et de comparer le coût global obligatoire du crédit sur une base annuelle.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -315,21 +315,21 @@
     "sous_domaine": "TAEG / TAEG",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « TAEG », lesquelles sont exactes ?",
+    "enonce": "TAEG et TAEG — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« le TAEG — sa finalité » : Il permet d'apprécier et de comparer le coût global obligatoire du crédit sur une base annuelle.",
-      "B": "« les droits de mutation — leur inclusion dans le TAEG » : Ils ne constituent pas, par nature, un coût nécessaire à l'obtention du crédit et n'entrent pas comme tels dans le TAEG.",
-      "C": "« le TAEG — sa finalité » : Il exclut tous les frais nécessaires à l'obtention du prêt.",
-      "D": "« les droits de mutation — leur inclusion dans le TAEG » : Ils sont toujours assimilés aux intérêts."
+      "A": "Le TAEG permet d'apprécier et de comparer le coût global obligatoire du crédit sur une base annuelle.",
+      "B": "Les droits de mutation ne constituent pas, par nature, un coût nécessaire à l'obtention du crédit et n'entrent pas comme tels dans le TAEG.",
+      "C": "Le TAEG exclut tous les frais nécessaires à l'obtention du prêt.",
+      "D": "Les droits de mutation sont toujours assimilés aux intérêts."
     },
     "bonnes_reponses": [
       "A",
       "B"
     ],
-    "explication": "Les règles à retenir sont : « le TAEG — sa finalité » : Il permet d'apprécier et de comparer le coût global obligatoire du crédit sur une base annuelle. « les droits de mutation — leur inclusion dans le TAEG » : Ils ne constituent pas, par nature, un coût nécessaire à l'obtention du crédit et n'entrent pas comme tels dans le TAEG.",
+    "explication": "Le TAEG permet d'apprécier et de comparer le coût global obligatoire du crédit sur une base annuelle. Les droits de mutation ne constituent pas, par nature, un coût nécessaire à l'obtention du crédit et n'entrent pas comme tels dans le TAEG.",
     "pieges": {
-      "C": "Cette association est inexacte. Pour « le TAEG — sa finalité », la règle exacte est : Il permet d'apprécier et de comparer le coût global obligatoire du crédit sur une base annuelle.",
-      "D": "Cette association est inexacte. Pour « les droits de mutation — leur inclusion dans le TAEG », la règle exacte est : Ils ne constituent pas, par nature, un coût nécessaire à l'obtention du crédit et n'entrent pas comme tels dans le TAEG."
+      "C": "Il permet d'apprécier et de comparer le coût global obligatoire du crédit sur une base annuelle.",
+      "D": "Ils ne constituent pas, par nature, un coût nécessaire à l'obtention du crédit et n'entrent pas comme tels dans le TAEG."
     },
     "sources": [
       "S008"
@@ -344,20 +344,20 @@
     "sous_domaine": "Conseil",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant la recommandation d'une unité de compte et l'adéquation, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant la recommandation d'une unité de compte (l'adéquation) ?",
     "choix": {
       "A": "Elle est adéquate dès lors que le produit est commercialisé par la banque.",
-      "B": "Elle doit être cohérente avec les objectifs, l'horizon, la situation et la tolérance au risque recueillis.",
-      "C": "Elle dépend uniquement du rendement passé.",
+      "B": "Elle doit convenir aux objectifs, à l’horizon et au profil de risque.",
+      "C": "Une expérience en actions suffit à établir l’adéquation, quelle que soit la capacité de perte.",
       "D": "Elle peut ignorer la capacité à subir des pertes."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "Elle doit être cohérente avec les objectifs, l'horizon, la situation et la tolérance au risque recueillis. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle doit être cohérente avec les objectifs, l'horizon, la situation et la tolérance au risque recueillis.",
     "pieges": {
       "A": "Cette réponse attribue à la recommandation d'une unité de compte un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "C": "Cette réponse attribue à la recommandation d'une unité de compte un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Elle doit être cohérente avec les objectifs, l'horizon, la situation et la tolérance au risque recueillis.",
       "D": "Cette réponse attribue à la recommandation d'une unité de compte un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -373,21 +373,21 @@
     "sous_domaine": "Supports",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant le fonds en euros et la garantie en capital, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant le fonds en euros (la garantie en capital) ?",
     "choix": {
       "A": "La valeur varie exactement comme un indice actions.",
       "B": "Le souscripteur supporte toujours une perte illimitée.",
-      "C": "Aucune garantie ne peut exister en assurance-vie.",
-      "D": "La garantie en capital est portée par l'assureur, sous réserve des frais et des conditions contractuelles."
+      "C": "La société de gestion garantit la valeur de chaque titre détenu par le fonds.",
+      "D": "L’assureur garantit le capital selon les conditions du contrat."
     },
     "bonnes_reponses": [
       "D"
     ],
-    "explication": "La garantie en capital est portée par l'assureur, sous réserve des frais et des conditions contractuelles. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "La garantie en capital est portée par l'assureur, sous réserve des frais et des conditions contractuelles.",
     "pieges": {
       "A": "Cette réponse attribue à le fonds en euros un effet ou une condition qui ne correspond pas à la règle exacte.",
       "B": "Cette réponse attribue à le fonds en euros un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "C": "Cette réponse attribue à le fonds en euros un effet ou une condition qui ne correspond pas à la règle exacte."
+      "C": "La garantie en capital est portée par l'assureur, sous réserve des frais et des conditions contractuelles."
     },
     "sources": [
       "S022"
@@ -402,20 +402,20 @@
     "sous_domaine": "Souscription",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant le souscripteur et son rôle, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant le souscripteur (son rôle) ?",
     "choix": {
       "A": "Il est obligatoirement le bénéficiaire au décès.",
-      "B": "Il est toujours distinct de l'assuré.",
+      "B": "Il reçoit le capital au décès du seul fait qu’il signe le bulletin de souscription.",
       "C": "Il ne peut jamais modifier la clause bénéficiaire.",
-      "D": "Il conclut le contrat, effectue les versements et exerce les droits prévus au contrat."
+      "D": "Il conclut le contrat et en exerce les droits."
     },
     "bonnes_reponses": [
       "D"
     ],
-    "explication": "Il conclut le contrat, effectue les versements et exerce les droits prévus au contrat. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Il conclut le contrat, effectue les versements et exerce les droits prévus au contrat.",
     "pieges": {
       "A": "Cette réponse attribue à le souscripteur un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "B": "Cette réponse attribue à le souscripteur un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Il conclut le contrat, effectue les versements et exerce les droits prévus au contrat.",
       "C": "Cette réponse attribue à le souscripteur un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -460,21 +460,21 @@
     "sous_domaine": "DPE / DPE",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « DPE », lesquelles sont exactes ?",
+    "enonce": "DPE et DPE — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« le diagnostic de performance énergétique — sa fonction » : Il mesure uniquement la surface habitable.",
-      "B": "« le coefficient d'énergie primaire de l'électricité en 2026 — sa valeur » : Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9.",
-      "C": "« le diagnostic de performance énergétique — sa fonction » : Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire.",
-      "D": "« le coefficient d'énergie primaire de l'électricité en 2026 — sa valeur » : Il est de 10."
+      "A": "Le diagnostic de performance énergétique mesure uniquement la surface habitable.",
+      "B": "Le coefficient d'énergie primaire de l'électricité en 2026 : Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9.",
+      "C": "Le diagnostic de performance énergétique classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire.",
+      "D": "Le coefficient d'énergie primaire de l'électricité en 2026 est de 10."
     },
     "bonnes_reponses": [
       "B",
       "C"
     ],
-    "explication": "Les règles à retenir sont : « le coefficient d'énergie primaire de l'électricité en 2026 — sa valeur » : Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9. « le diagnostic de performance énergétique — sa fonction » : Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire.",
+    "explication": "Le coefficient d'énergie primaire de l'électricité en 2026 : Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9. Le diagnostic de performance énergétique classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « le diagnostic de performance énergétique — sa fonction », la règle exacte est : Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire.",
-      "D": "Cette association est inexacte. Pour « le coefficient d'énergie primaire de l'électricité en 2026 — sa valeur », la règle exacte est : Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9."
+      "A": "Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire.",
+      "D": "Depuis le 1er janvier 2026, le coefficient utilisé pour l'électricité dans le DPE est de 1,9."
     },
     "sources": [
       "S011"
@@ -489,21 +489,21 @@
     "sous_domaine": "Denormandie / Déficit foncier",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Denormandie » et « Déficit foncier », lesquelles sont exactes ?",
+    "enonce": "Denormandie et Déficit foncier — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« le dispositif Denormandie — les durées d'engagement » : Il impose uniquement trois mois.",
-      "B": "« Quelle fraction du déficit foncier peut s'imputer sur le revenu global dans la limite ordinaire de 10 700 euros  » : La fraction provenant exclusivement des intérêts d'emprunt.",
-      "C": "« le dispositif Denormandie — les durées d'engagement » : Il prévoit des engagements de location de six, neuf ou douze ans selon les conditions applicables.",
-      "D": "« Quelle fraction du déficit foncier peut s'imputer sur le revenu global dans la limite ordinaire de 10 700 euros  » : La fraction provenant de charges déductibles autres que les intérêts d'emprunt."
+      "A": "Le dispositif Denormandie impose uniquement trois mois.",
+      "B": "Fraction du déficit foncier imputable sur le revenu global dans la limite ordinaire de 10 700 euros : La fraction provenant exclusivement des intérêts d'emprunt.",
+      "C": "Le dispositif Denormandie prévoit des engagements de location de six, neuf ou douze ans selon les conditions applicables.",
+      "D": "Fraction du déficit foncier imputable sur le revenu global dans la limite ordinaire de 10 700 euros : La fraction provenant de charges déductibles autres que les intérêts d'emprunt."
     },
     "bonnes_reponses": [
       "C",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « le dispositif Denormandie — les durées d'engagement » : Il prévoit des engagements de location de six, neuf ou douze ans selon les conditions applicables. « Quelle fraction du déficit foncier peut s'imputer sur le revenu global dans la limite ordinaire de 10 700 euros  » : La fraction provenant de charges déductibles autres que les intérêts d'emprunt.",
+    "explication": "Le dispositif Denormandie prévoit des engagements de location de six, neuf ou douze ans selon les conditions applicables. Fraction du déficit foncier imputable sur le revenu global dans la limite ordinaire de 10 700 euros : La fraction provenant de charges déductibles autres que les intérêts d'emprunt.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « le dispositif Denormandie — les durées d'engagement », la règle exacte est : Il prévoit des engagements de location de six, neuf ou douze ans selon les conditions applicables.",
-      "B": "Cette association est inexacte. Pour « Quelle fraction du déficit foncier peut s'imputer sur le revenu global dans la limite ordinaire de 10 700 euros  », la règle exacte est : La fraction provenant de charges déductibles autres que les intérêts d'emprunt."
+      "A": "Il prévoit des engagements de location de six, neuf ou douze ans selon les conditions applicables.",
+      "B": "La fraction provenant de charges déductibles autres que les intérêts d'emprunt."
     },
     "sources": [
       "S013",
@@ -548,7 +548,7 @@
     "sous_domaine": "Produits structurés",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « la protection du capital à l'échéance — sa portée » : Elle rend l'émetteur sans importance.",
+    "enonce": "La protection du capital à l'échéance rend l'émetteur sans importance.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -573,20 +573,20 @@
     "sous_domaine": "Actions",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant une action et le droit représenté, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant une action (le droit représenté) ?",
     "choix": {
-      "A": "Elle représente une fraction du capital d'une société et expose notamment au risque de perte en capital.",
+      "A": "Une part du capital de l’entreprise.",
       "B": "Elle constitue toujours une créance remboursable à date fixe.",
-      "C": "Elle est un dépôt garanti par l'État.",
+      "C": "Une créance sur l’entreprise remboursable avant ses créanciers ordinaires.",
       "D": "Elle verse obligatoirement un intérêt fixe."
     },
     "bonnes_reponses": [
       "A"
     ],
-    "explication": "Elle représente une fraction du capital d'une société et expose notamment au risque de perte en capital. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle représente une fraction du capital d'une société et expose notamment au risque de perte en capital.",
     "pieges": {
       "B": "Cette réponse attribue à une action un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "C": "Cette réponse attribue à une action un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Elle représente une fraction du capital d'une société et expose notamment au risque de perte en capital.",
       "D": "Cette réponse attribue à une action un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -602,19 +602,19 @@
     "sous_domaine": "Droit au compte",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant la procédure de droit au compte et sa finalité, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant la procédure de droit au compte (sa finalité) ?",
     "choix": {
-      "A": "Elle est réservée aux banques.",
-      "B": "Elle permet à une personne dépourvue de compte et confrontée à un refus de demander la désignation d'un établissement par la Banque de France.",
+      "A": "Obliger la première banque sollicitée à ouvrir le compte dans l’agence choisie par le demandeur.",
+      "B": "Faire désigner une banque par la Banque de France après un refus.",
       "C": "Elle garantit un crédit immobilier.",
       "D": "Elle supprime tout contrôle d'identité."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "Elle permet à une personne dépourvue de compte et confrontée à un refus de demander la désignation d'un établissement par la Banque de France. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle permet à une personne dépourvue de compte et confrontée à un refus de demander la désignation d'un établissement par la Banque de France.",
     "pieges": {
-      "A": "Cette réponse attribue à la procédure de droit au compte un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "A": "Elle permet à une personne dépourvue de compte et confrontée à un refus de demander la désignation d'un établissement par la Banque de France.",
       "C": "Cette réponse attribue à la procédure de droit au compte un effet ou une condition qui ne correspond pas à la règle exacte.",
       "D": "Cette réponse attribue à la procédure de droit au compte un effet ou une condition qui ne correspond pas à la règle exacte."
     },
@@ -660,21 +660,21 @@
     "sous_domaine": "PEA / PEA",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « PEA », lesquelles sont exactes ?",
+    "enonce": "PEA et PEA — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« le PEA bancaire classique — le plafond de versements » : Le plafond est de 22 950 euros.",
-      "B": "« les gains d'un PEA après cinq ans — l'impôt sur le revenu » : Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables.",
-      "C": "« le PEA bancaire classique — le plafond de versements » : Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan.",
-      "D": "« les gains d'un PEA après cinq ans — l'impôt sur le revenu » : Ils sont toujours soumis au barème sans exonération."
+      "A": "Le plafond est de 22 950 euros.",
+      "B": "Les gains d'un PEA après cinq ans peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables.",
+      "C": "Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan.",
+      "D": "Les gains d'un PEA après cinq ans sont toujours soumis au barème sans exonération."
     },
     "bonnes_reponses": [
       "B",
       "C"
     ],
-    "explication": "Les règles à retenir sont : « les gains d'un PEA après cinq ans — l'impôt sur le revenu » : Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables. « le PEA bancaire classique — le plafond de versements » : Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan.",
+    "explication": "Les gains d'un PEA après cinq ans peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables. Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « le PEA bancaire classique — le plafond de versements », la règle exacte est : Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan.",
-      "D": "Cette association est inexacte. Pour « les gains d'un PEA après cinq ans — l'impôt sur le revenu », la règle exacte est : Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables."
+      "A": "Le plafond de versements est de 150 000 euros, hors gains réalisés dans le plan.",
+      "D": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables."
     },
     "sources": [
       "S030",
@@ -693,9 +693,9 @@
     "enonce": "Quel plafond global de versements s'applique au cumul d'un PEA classique et d'un PEA-PME pour une même personne ?",
     "choix": {
       "A": "Aucun plafond de versements.",
-      "B": "225 000 euros, sans que les versements du PEA classique puissent dépasser 150 000 euros.",
+      "B": "225 000 € ensemble, dont 150 000 € au plus sur le PEA classique.",
       "C": "150 000 euros sur chacun, soit 300 000 euros sans plafond global.",
-      "D": "20 000 euros au total."
+      "D": "225 000 € sur chacun des deux plans à condition que les versements proviennent de la même personne."
     },
     "bonnes_reponses": [
       "B"
@@ -704,7 +704,7 @@
     "pieges": {
       "A": "Les PEA sont des enveloppes plafonnées.",
       "C": "Les plafonds ne s'additionnent pas librement jusqu'à 300 000 euros.",
-      "D": "20 000 euros est le plafond du PEA Jeunes."
+      "D": "Le cumul des deux enveloppes est plafonné à 225 000 euros. Le sous-plafond du PEA classique reste fixé à 150 000 euros."
     },
     "sources": [
       "S102"
@@ -719,19 +719,19 @@
     "sous_domaine": "Intérêts",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant la règle des quinzaines et son application, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant la règle des quinzaines (son application) ?",
     "choix": {
-      "A": "Elle interdit les retraits.",
-      "B": "Certains livrets réglementés calculent les intérêts par quinzaine selon les dates de versement et de retrait.",
+      "A": "Un calcul au jour le jour suivi d’un simple affichage des intérêts par quinzaine.",
+      "B": "Des dates de valeur déterminées par quinzaine.",
       "C": "Tous les placements financiers sont valorisés uniquement une fois par an.",
       "D": "Elle s'applique au cours des actions."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "Certains livrets réglementés calculent les intérêts par quinzaine selon les dates de versement et de retrait. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Certains livrets réglementés calculent les intérêts par quinzaine selon les dates de versement et de retrait.",
     "pieges": {
-      "A": "Cette réponse attribue à la règle des quinzaines un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "A": "Certains livrets réglementés calculent les intérêts par quinzaine selon les dates de versement et de retrait.",
       "C": "Cette réponse attribue à la règle des quinzaines un effet ou une condition qui ne correspond pas à la règle exacte.",
       "D": "Cette réponse attribue à la règle des quinzaines un effet ou une condition qui ne correspond pas à la règle exacte."
     },
@@ -748,21 +748,21 @@
     "sous_domaine": "Cycle économique",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant une récession et sa définition usuelle, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant une récession (sa définition usuelle) ?",
     "choix": {
       "A": "Elle est décidée par une banque commerciale.",
-      "B": "Elle désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs.",
+      "B": "Une contraction significative de l’activité économique.",
       "C": "Elle correspond à une inflation nulle uniquement.",
-      "D": "Elle garantit la hausse de tous les actifs."
+      "D": "Une simple décélération de la croissance dès que son rythme devient inférieur à celui du trimestre précédent."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "Elle désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs.",
     "pieges": {
       "A": "Cette réponse attribue à une récession un effet ou une condition qui ne correspond pas à la règle exacte.",
       "C": "Cette réponse attribue à une récession un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "D": "Cette réponse attribue à une récession un effet ou une condition qui ne correspond pas à la règle exacte."
+      "D": "Elle désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs."
     },
     "sources": [
       "S080"
@@ -777,7 +777,7 @@
     "sous_domaine": "Corrélation",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « la corrélation entre deux actifs — son interprétation » : Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité.",
+    "enonce": "La corrélation entre deux actifs mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -802,20 +802,20 @@
     "sous_domaine": "Coûts et frais",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant l'information sur les coûts et frais et sa finalité, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant l'information sur les coûts et frais (sa finalité) ?",
     "choix": {
-      "A": "Elle permet au client de comprendre l'incidence globale des coûts sur son investissement.",
+      "A": "Comprendre l’effet cumulé des coûts sur le placement.",
       "B": "Elle n'est communiquée qu'en cas de perte.",
-      "C": "Elle exclut les coûts du produit.",
+      "C": "Identifier uniquement les frais facturés séparément sur le relevé bancaire du souscripteur.",
       "D": "Elle remplace la documentation contractuelle."
     },
     "bonnes_reponses": [
       "A"
     ],
-    "explication": "Elle permet au client de comprendre l'incidence globale des coûts sur son investissement. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle permet au client de comprendre l'incidence globale des coûts sur son investissement.",
     "pieges": {
       "B": "Cette réponse attribue à l'information sur les coûts et frais un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "C": "Cette réponse attribue à l'information sur les coûts et frais un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Elle permet au client de comprendre l'incidence globale des coûts sur son investissement.",
       "D": "Cette réponse attribue à l'information sur les coûts et frais un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -831,21 +831,21 @@
     "sous_domaine": "Auto-certification / FATCA",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Auto-certification » et « FATCA », lesquelles sont exactes ?",
+    "enonce": "Auto-certification et FATCA — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« FATCA — son objectif » : Il concerne uniquement les résidents français sans lien américain.",
-      "B": "« une auto-certification fiscale — son objet » : Elle permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux.",
-      "C": "« FATCA — son objectif » : Le dispositif vise l'identification et la déclaration de certains comptes liés à des contribuables américains selon l'accord applicable.",
-      "D": "« une auto-certification fiscale — son objet » : Elle vaut conseil fiscal personnalisé de la banque."
+      "A": "FATCA concerne uniquement les résidents français sans lien américain.",
+      "B": "Une auto-certification fiscale permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux.",
+      "C": "FATCA : Le dispositif vise l'identification et la déclaration de certains comptes liés à des contribuables américains selon l'accord applicable.",
+      "D": "Une auto-certification fiscale vaut conseil fiscal personnalisé de la banque."
     },
     "bonnes_reponses": [
       "B",
       "C"
     ],
-    "explication": "Les règles à retenir sont : « une auto-certification fiscale — son objet » : Elle permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux. « FATCA — son objectif » : Le dispositif vise l'identification et la déclaration de certains comptes liés à des contribuables américains selon l'accord applicable.",
+    "explication": "Une auto-certification fiscale permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux. FATCA : Le dispositif vise l'identification et la déclaration de certains comptes liés à des contribuables américains selon l'accord applicable.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « FATCA — son objectif », la règle exacte est : Le dispositif vise l'identification et la déclaration de certains comptes liés à des contribuables américains selon l'accord applicable.",
-      "D": "Cette association est inexacte. Pour « une auto-certification fiscale — son objet », la règle exacte est : Elle permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux."
+      "A": "Le dispositif vise l'identification et la déclaration de certains comptes liés à des contribuables américains selon l'accord applicable.",
+      "D": "Elle permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux."
     },
     "sources": [
       "S085",
@@ -861,21 +861,21 @@
     "sous_domaine": "Participation aux acquêts / Communauté légale",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Participation aux acquêts » et « Communauté légale », lesquelles sont exactes ?",
+    "enonce": "Participation aux acquêts et Communauté légale — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« Comment fonctionne le régime de participation aux acquêts  » : Comme une indivision forcée sur tous les biens propres.",
-      "B": "« les revenus professionnels des époux — leur qualification de principe » : Ils sont placés automatiquement en indivision successorale.",
-      "C": "« Comment fonctionne le régime de participation aux acquêts  » : Comme une séparation de biens pendant le mariage, avec partage de l'enrichissement à la dissolution selon les règles du régime.",
-      "D": "« les revenus professionnels des époux — leur qualification de principe » : Ils alimentent en principe la communauté pendant le mariage."
+      "A": "Fonctionnement du régime de participation aux acquêts : Comme une indivision forcée sur tous les biens propres.",
+      "B": "Les revenus professionnels des époux sont placés automatiquement en indivision successorale.",
+      "C": "Fonctionnement du régime de participation aux acquêts : Comme une séparation de biens pendant le mariage, avec partage de l'enrichissement à la dissolution selon les règles du régime.",
+      "D": "Les revenus professionnels des époux alimentent en principe la communauté pendant le mariage."
     },
     "bonnes_reponses": [
       "C",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « Comment fonctionne le régime de participation aux acquêts  » : Comme une séparation de biens pendant le mariage, avec partage de l'enrichissement à la dissolution selon les règles du régime. « les revenus professionnels des époux — leur qualification de principe » : Ils alimentent en principe la communauté pendant le mariage.",
+    "explication": "Fonctionnement du régime de participation aux acquêts : Comme une séparation de biens pendant le mariage, avec partage de l'enrichissement à la dissolution selon les règles du régime. Les revenus professionnels des époux alimentent en principe la communauté pendant le mariage.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « Comment fonctionne le régime de participation aux acquêts  », la règle exacte est : Comme une séparation de biens pendant le mariage, avec partage de l'enrichissement à la dissolution selon les règles du régime.",
-      "B": "Cette association est inexacte. Pour « les revenus professionnels des époux — leur qualification de principe », la règle exacte est : Ils alimentent en principe la communauté pendant le mariage."
+      "A": "Comme une séparation de biens pendant le mariage, avec partage de l'enrichissement à la dissolution selon les règles du régime.",
+      "B": "Ils alimentent en principe la communauté pendant le mariage."
     },
     "sources": [
       "S112",
@@ -891,7 +891,7 @@
     "sous_domaine": "Accessions",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « une construction financée par la communauté sur le terrain propre d'un époux — la propriété du bien » : Par accession, la construction appartient en principe au propriétaire du terrain, avec une éventuelle récompense à la communauté.",
+    "enonce": "Une construction financée par la communauté sur le terrain propre d'un époux : Par accession, la construction appartient en principe au propriétaire du terrain, avec une éventuelle récompense à la communauté.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -945,19 +945,19 @@
     "sous_domaine": "Garanties",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant la garantie décès et son objet, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant la garantie décès (son objet) ?",
     "choix": {
-      "A": "Elle prévoit, dans les limites du contrat, la prise en charge du capital assuré en cas de décès.",
-      "B": "Elle rembourse les loyers impayés.",
+      "A": "Le paiement du capital assuré en cas de décès couvert.",
+      "B": "Le versement aux héritiers d’un capital égal à la valeur du bien au jour du sinistre.",
       "C": "Elle garantit la valeur de revente du bien.",
       "D": "Elle couvre automatiquement toute perte d'emploi."
     },
     "bonnes_reponses": [
       "A"
     ],
-    "explication": "Elle prévoit, dans les limites du contrat, la prise en charge du capital assuré en cas de décès. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle prévoit, dans les limites du contrat, la prise en charge du capital assuré en cas de décès.",
     "pieges": {
-      "B": "Cette réponse attribue à la garantie décès un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Elle prévoit, dans les limites du contrat, la prise en charge du capital assuré en cas de décès.",
       "C": "Cette réponse attribue à la garantie décès un effet ou une condition qui ne correspond pas à la règle exacte.",
       "D": "Cette réponse attribue à la garantie décès un effet ou une condition qui ne correspond pas à la règle exacte."
     },
@@ -974,7 +974,7 @@
     "sous_domaine": "Indivision",
     "difficulte": "avance",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « l'occupation privative d'un bien indivis — l'indemnité » : Elle transfère la pleine propriété après un an.",
+    "enonce": "L'occupation privative d'un bien indivis transfère la pleine propriété après un an.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -999,21 +999,21 @@
     "sous_domaine": "Décès / Carence",
     "difficulte": "avance",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Décès » et « Carence », lesquelles sont exactes ?",
+    "enonce": "Décès et Carence — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« un capital décès — sa finalité » : Il rembourse uniquement les frais bancaires.",
-      "B": "« un délai de carence — sa fonction » : Il intervient uniquement après chaque sinistre.",
-      "C": "« un capital décès — sa finalité » : Il vise à fournir aux bénéficiaires un capital prévu au contrat lors du décès couvert.",
-      "D": "« un délai de carence — sa fonction » : Il retarde la prise d'effet de certaines garanties après la souscription, selon le contrat."
+      "A": "Un capital décès rembourse uniquement les frais bancaires.",
+      "B": "Un délai de carence intervient uniquement après chaque sinistre.",
+      "C": "Un capital décès vise à fournir aux bénéficiaires un capital prévu au contrat lors du décès couvert.",
+      "D": "Un délai de carence retarde la prise d'effet de certaines garanties après la souscription, selon le contrat."
     },
     "bonnes_reponses": [
       "C",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « un capital décès — sa finalité » : Il vise à fournir aux bénéficiaires un capital prévu au contrat lors du décès couvert. « un délai de carence — sa fonction » : Il retarde la prise d'effet de certaines garanties après la souscription, selon le contrat.",
+    "explication": "Un capital décès vise à fournir aux bénéficiaires un capital prévu au contrat lors du décès couvert. Un délai de carence retarde la prise d'effet de certaines garanties après la souscription, selon le contrat.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « un capital décès — sa finalité », la règle exacte est : Il vise à fournir aux bénéficiaires un capital prévu au contrat lors du décès couvert.",
-      "B": "Cette association est inexacte. Pour « un délai de carence — sa fonction », la règle exacte est : Il retarde la prise d'effet de certaines garanties après la souscription, selon le contrat."
+      "A": "Il vise à fournir aux bénéficiaires un capital prévu au contrat lors du décès couvert.",
+      "B": "Il retarde la prise d'effet de certaines garanties après la souscription, selon le contrat."
     },
     "sources": [
       "S028"
@@ -1057,21 +1057,21 @@
     "sous_domaine": "Déclaration de soupçon / Vigilance",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Déclaration de soupçon » et « Vigilance », lesquelles sont exactes ?",
+    "enonce": "Déclaration de soupçon et Vigilance — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« l'identification du client — son moment » : Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée.",
-      "B": "« une déclaration de soupçon à TRACFIN — la preuve d'une infraction » : Elle ne concerne jamais les banques.",
-      "C": "« l'identification du client — son moment » : Elle est facultative pour toute banque.",
-      "D": "« une déclaration de soupçon à TRACFIN — la preuve d'une infraction » : Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction."
+      "A": "L'identification du client intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée.",
+      "B": "Une déclaration de soupçon à TRACFIN ne concerne jamais les banques.",
+      "C": "L'identification du client est facultative pour toute banque.",
+      "D": "Une déclaration de soupçon à TRACFIN peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction."
     },
     "bonnes_reponses": [
       "A",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « une déclaration de soupçon à TRACFIN — la preuve d'une infraction » : Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction. « l'identification du client — son moment » : Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée.",
+    "explication": "L'identification du client intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée. Une déclaration de soupçon à TRACFIN peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction.",
     "pieges": {
-      "B": "Cette association est inexacte. Pour « une déclaration de soupçon à TRACFIN — la preuve d'une infraction », la règle exacte est : Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction.",
-      "C": "Cette association est inexacte. Pour « l'identification du client — son moment », la règle exacte est : Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée."
+      "B": "Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction.",
+      "C": "Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée."
     },
     "sources": [
       "S038",
@@ -1087,19 +1087,19 @@
     "sous_domaine": "Sécurité",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant une violation de données personnelles et la gestion, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant une violation de données personnelles (la gestion) ?",
     "choix": {
-      "A": "Elle supprime l'obligation de sécurité.",
-      "B": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque.",
+      "A": "Avertir la CNIL seulement après la preuve d’une utilisation frauduleuse des données divulguées.",
+      "B": "Documenter la violation et notifier selon le risque.",
       "C": "Elle doit toujours rester secrète pour l'autorité.",
       "D": "Elle ne concerne que les données papier."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque.",
     "pieges": {
-      "A": "Cette réponse attribue à une violation de données personnelles un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "A": "Elle doit être documentée et peut devoir être notifiée à la CNIL et aux personnes selon le niveau de risque.",
       "C": "Cette réponse attribue à une violation de données personnelles un effet ou une condition qui ne correspond pas à la règle exacte.",
       "D": "Cette réponse attribue à une violation de données personnelles un effet ou une condition qui ne correspond pas à la règle exacte."
     },
@@ -1134,9 +1134,9 @@
       "S167"
     ],
     "pieges": {
-      "B": "Proposition écartée : « Le versement volontaire sur PEE se déduit du revenu global comme un versement déductible sur PER. » Le plan et l'origine du versement déterminent la fiscalité. Un avantage sur les gains ou sur l'abondement n'est pas une déduction du versement personnel.",
-      "C": "Proposition écartée : « L'exonération des gains du PEE entraîne la déduction du versement personnel initial. » Le plan et l'origine du versement déterminent la fiscalité. Un avantage sur les gains ou sur l'abondement n'est pas une déduction du versement personnel.",
-      "D": "Proposition écartée : « L'abondement transforme le versement personnel sur PEE en charge déductible du revenu global. » Le plan et l'origine du versement déterminent la fiscalité. Un avantage sur les gains ou sur l'abondement n'est pas une déduction du versement personnel."
+      "B": "Proposition écartée : Le versement volontaire sur PEE se déduit du revenu global comme un versement déductible sur PER. Le plan et l'origine du versement déterminent la fiscalité. Un avantage sur les gains ou sur l'abondement n'est pas une déduction du versement personnel.",
+      "C": "Proposition écartée : L'exonération des gains du PEE entraîne la déduction du versement personnel initial. Le plan et l'origine du versement déterminent la fiscalité. Un avantage sur les gains ou sur l'abondement n'est pas une déduction du versement personnel.",
+      "D": "Proposition écartée : L'abondement transforme le versement personnel sur PEE en charge déductible du revenu global. Le plan et l'origine du versement déterminent la fiscalité. Un avantage sur les gains ou sur l'abondement n'est pas une déduction du versement personnel."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1147,20 +1147,20 @@
     "sous_domaine": "Devoir de conseil",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant le devoir de conseil en assurance et sa traçabilité, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant le devoir de conseil en assurance (sa traçabilité) ?",
     "choix": {
       "A": "La situation du client peut être ignorée.",
-      "B": "Il prend fin avant la souscription.",
-      "C": "La recommandation et ses motifs doivent être cohérents avec les exigences et besoins recueillis et correctement documentés.",
+      "B": "Documenter uniquement le choix final dès lors que le client a signé la notice d’information.",
+      "C": "Documenter les besoins et les motifs du conseil.",
       "D": "Il suffit de remettre une publicité."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "La recommandation et ses motifs doivent être cohérents avec les exigences et besoins recueillis et correctement documentés. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "La recommandation et ses motifs doivent être cohérents avec les exigences et besoins recueillis et correctement documentés.",
     "pieges": {
       "A": "Cette réponse attribue à le devoir de conseil en assurance un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "B": "Cette réponse attribue à le devoir de conseil en assurance un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "La recommandation et ses motifs doivent être cohérents avec les exigences et besoins recueillis et correctement documentés.",
       "D": "Cette réponse attribue à le devoir de conseil en assurance un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -1194,9 +1194,9 @@
       "S083"
     ],
     "pieges": {
-      "A": "Proposition écartée : « Un actif juridiquement disponible est liquide dès qu'une valorisation mensuelle est publiée. » Un droit de sortie ne garantit pas un acheteur ni un prix. Examiner séparément blocage contractuel, délai pratique et coût d'une cession.",
-      "B": "Proposition écartée : « Un actif est liquide dès lors qu'un retrait est juridiquement autorisé, même sans acheteur. » Un droit de sortie ne garantit pas un acheteur ni un prix. Examiner séparément blocage contractuel, délai pratique et coût d'une cession.",
-      "D": "Proposition écartée : « La liquidité mesure le droit contractuel de retrait ; la disponibilité mesure la décote de vente. » Un droit de sortie ne garantit pas un acheteur ni un prix. Examiner séparément blocage contractuel, délai pratique et coût d'une cession."
+      "A": "Proposition écartée : Un actif juridiquement disponible est liquide dès qu'une valorisation mensuelle est publiée. Un droit de sortie ne garantit pas un acheteur ni un prix. Examiner séparément blocage contractuel, délai pratique et coût d'une cession.",
+      "B": "Proposition écartée : Un actif est liquide dès lors qu'un retrait est juridiquement autorisé, même sans acheteur. Un droit de sortie ne garantit pas un acheteur ni un prix. Examiner séparément blocage contractuel, délai pratique et coût d'une cession.",
+      "D": "Proposition écartée : La liquidité mesure le droit contractuel de retrait ; la disponibilité mesure la décote de vente. Un droit de sortie ne garantit pas un acheteur ni un prix. Examiner séparément blocage contractuel, délai pratique et coût d'une cession."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1227,8 +1227,8 @@
       "S068"
     ],
     "pieges": {
-      "A": "Proposition écartée : « Le nombre de lettres de leur dénomination. » Une surperformance peut rémunérer un risque supplémentaire ou refléter une période favorable. L'analyse compare des univers cohérents et des performances après frais.",
-      "B": "Proposition écartée : « Une garantie publique attachée à toute performance publiée. » Une surperformance peut rémunérer un risque supplémentaire ou refléter une période favorable. L'analyse compare des univers cohérents et des performances après frais."
+      "A": "Proposition écartée : Le nombre de lettres de leur dénomination. Une surperformance peut rémunérer un risque supplémentaire ou refléter une période favorable. L'analyse compare des univers cohérents et des performances après frais.",
+      "B": "Proposition écartée : Une garantie publique attachée à toute performance publiée. Une surperformance peut rémunérer un risque supplémentaire ou refléter une période favorable. L'analyse compare des univers cohérents et des performances après frais."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1257,9 +1257,9 @@
       "S157"
     ],
     "pieges": {
-      "A": "Proposition écartée : « Une absence de risque de perte liée au contrôle du référentiel. » Un label renseigne sur une démarche et ses critères. Il ne remplace ni l'analyse financière ni le contrôle de l'adéquation au profil.",
-      "B": "Proposition écartée : « Une équivalence intégrale entre tous les labels quant aux exclusions et aux méthodes. » Un label renseigne sur une démarche et ses critères. Il ne remplace ni l'analyse financière ni le contrôle de l'adéquation au profil.",
-      "D": "Proposition écartée : « L'adéquation financière du fonds à tout investisseur exprimant une préférence durable. » Un label renseigne sur une démarche et ses critères. Il ne remplace ni l'analyse financière ni le contrôle de l'adéquation au profil."
+      "A": "Proposition écartée : Une absence de risque de perte liée au contrôle du référentiel. Un label renseigne sur une démarche et ses critères. Il ne remplace ni l'analyse financière ni le contrôle de l'adéquation au profil.",
+      "B": "Proposition écartée : Une équivalence intégrale entre tous les labels quant aux exclusions et aux méthodes. Un label renseigne sur une démarche et ses critères. Il ne remplace ni l'analyse financière ni le contrôle de l'adéquation au profil.",
+      "D": "Proposition écartée : L'adéquation financière du fonds à tout investisseur exprimant une préférence durable. Un label renseigne sur une démarche et ses critères. Il ne remplace ni l'analyse financière ni le contrôle de l'adéquation au profil."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1288,9 +1288,9 @@
       "S158"
     ],
     "pieges": {
-      "B": "Proposition écartée : « Retenir la réponse la plus détaillée. » Une IA peut produire une réponse convaincante mais fausse ou périmée. Il faut contrôler le texte officiel et les conditions : l'outil n'assume pas la responsabilité du conseil.",
-      "C": "Proposition écartée : « Retenir toute réponse contenant une référence d'article. » Une IA peut produire une réponse convaincante mais fausse ou périmée. Il faut contrôler le texte officiel et les conditions : l'outil n'assume pas la responsabilité du conseil.",
-      "D": "Proposition écartée : « Confondre fluidité du texte et exactitude. » Une IA peut produire une réponse convaincante mais fausse ou périmée. Il faut contrôler le texte officiel et les conditions : l'outil n'assume pas la responsabilité du conseil."
+      "B": "Proposition écartée : Retenir la réponse la plus détaillée. Une IA peut produire une réponse convaincante mais fausse ou périmée. Il faut contrôler le texte officiel et les conditions : l'outil n'assume pas la responsabilité du conseil.",
+      "C": "Proposition écartée : Retenir toute réponse contenant une référence d'article. Une IA peut produire une réponse convaincante mais fausse ou périmée. Il faut contrôler le texte officiel et les conditions : l'outil n'assume pas la responsabilité du conseil.",
+      "D": "Proposition écartée : Confondre fluidité du texte et exactitude. Une IA peut produire une réponse convaincante mais fausse ou périmée. Il faut contrôler le texte officiel et les conditions : l'outil n'assume pas la responsabilité du conseil."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1320,8 +1320,8 @@
       "S160"
     ],
     "pieges": {
-      "C": "Proposition écartée : « Le seul lien familial du demandeur. » La protection s'apprécie acte par acte. Jugement, habilitation et éventuelle autorisation déterminent les pouvoirs ; les accès techniques ne prouvent pas une capacité juridique.",
-      "D": "Proposition écartée : « La seule possession de ses identifiants bancaires. » La protection s'apprécie acte par acte. Jugement, habilitation et éventuelle autorisation déterminent les pouvoirs ; les accès techniques ne prouvent pas une capacité juridique."
+      "C": "Proposition écartée : Le seul lien familial du demandeur. La protection s'apprécie acte par acte. Jugement, habilitation et éventuelle autorisation déterminent les pouvoirs ; les accès techniques ne prouvent pas une capacité juridique.",
+      "D": "Proposition écartée : La seule possession de ses identifiants bancaires. La protection s'apprécie acte par acte. Jugement, habilitation et éventuelle autorisation déterminent les pouvoirs ; les accès techniques ne prouvent pas une capacité juridique."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1351,9 +1351,9 @@
       "S169"
     ],
     "pieges": {
-      "B": "Proposition écartée : « Le libre choix permet d'écarter les plafonds d'honoraires prévus à la garantie. » Le libre choix n'abolit pas plafonds, exclusions ou modalités de prise en charge. L'assuré choisit son défenseur mais doit examiner le financement prévu au contrat.",
-      "C": "Proposition écartée : « Le choix d'un avocat proposé par l'assureur est obligatoire si celui-ci règle les honoraires. » Le libre choix n'abolit pas plafonds, exclusions ou modalités de prise en charge. L'assuré choisit son défenseur mais doit examiner le financement prévu au contrat.",
-      "D": "Proposition écartée : « La prise en charge des honoraires emporte prise en charge des sanctions pécuniaires. » Le libre choix n'abolit pas plafonds, exclusions ou modalités de prise en charge. L'assuré choisit son défenseur mais doit examiner le financement prévu au contrat."
+      "B": "Proposition écartée : Le libre choix permet d'écarter les plafonds d'honoraires prévus à la garantie. Le libre choix n'abolit pas plafonds, exclusions ou modalités de prise en charge. L'assuré choisit son défenseur mais doit examiner le financement prévu au contrat.",
+      "C": "Proposition écartée : Le choix d'un avocat proposé par l'assureur est obligatoire si celui-ci règle les honoraires. Le libre choix n'abolit pas plafonds, exclusions ou modalités de prise en charge. L'assuré choisit son défenseur mais doit examiner le financement prévu au contrat.",
+      "D": "Proposition écartée : La prise en charge des honoraires emporte prise en charge des sanctions pécuniaires. Le libre choix n'abolit pas plafonds, exclusions ou modalités de prise en charge. L'assuré choisit son défenseur mais doit examiner le financement prévu au contrat."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1382,8 +1382,8 @@
       "S164"
     ],
     "pieges": {
-      "C": "Proposition écartée : « Une promesse de rendement sans document. » Il faut comprendre ce que l'on possède réellement et comment récupérer des fonds. Propriété directe, parts et créance sur un opérateur n'exposent pas aux mêmes risques.",
-      "D": "Proposition écartée : « Une comparaison limitée aux avantages fiscaux. » Il faut comprendre ce que l'on possède réellement et comment récupérer des fonds. Propriété directe, parts et créance sur un opérateur n'exposent pas aux mêmes risques."
+      "C": "Proposition écartée : Une promesse de rendement sans document. Il faut comprendre ce que l'on possède réellement et comment récupérer des fonds. Propriété directe, parts et créance sur un opérateur n'exposent pas aux mêmes risques.",
+      "D": "Proposition écartée : Une comparaison limitée aux avantages fiscaux. Il faut comprendre ce que l'on possède réellement et comment récupérer des fonds. Propriété directe, parts et créance sur un opérateur n'exposent pas aux mêmes risques."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1415,9 +1415,9 @@
       "S166"
     ],
     "pieges": {
-      "B": "Proposition écartée : « Elle garantit les revenus locatifs. » Le véhicule juridique ne change pas la nature économique de l'immobilier. Statuts, dettes, fiscalité et cessibilité doivent être analysés, sans attribuer de vertu automatique à la société.",
-      "C": "Proposition écartée : « Elle rend les parts aussi liquides qu'un livret. » Le véhicule juridique ne change pas la nature économique de l'immobilier. Statuts, dettes, fiscalité et cessibilité doivent être analysés, sans attribuer de vertu automatique à la société.",
-      "D": "Proposition écartée : « Elle exonère toute succession portant sur les parts. » Le véhicule juridique ne change pas la nature économique de l'immobilier. Statuts, dettes, fiscalité et cessibilité doivent être analysés, sans attribuer de vertu automatique à la société."
+      "B": "Proposition écartée : Elle garantit les revenus locatifs. Le véhicule juridique ne change pas la nature économique de l'immobilier. Statuts, dettes, fiscalité et cessibilité doivent être analysés, sans attribuer de vertu automatique à la société.",
+      "C": "Proposition écartée : Elle rend les parts aussi liquides qu'un livret. Le véhicule juridique ne change pas la nature économique de l'immobilier. Statuts, dettes, fiscalité et cessibilité doivent être analysés, sans attribuer de vertu automatique à la société.",
+      "D": "Proposition écartée : Elle exonère toute succession portant sur les parts. Le véhicule juridique ne change pas la nature économique de l'immobilier. Statuts, dettes, fiscalité et cessibilité doivent être analysés, sans attribuer de vertu automatique à la société."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1428,20 +1428,20 @@
     "sous_domaine": "SCPI",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant les parts de SCPI et la liquidité, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant les parts de SCPI (la liquidité) ?",
     "choix": {
       "A": "Elles sont remboursées à vue par la Banque de France.",
-      "B": "Elles ne peuvent jamais être cédées.",
-      "C": "La revente peut prendre du temps et dépend de l'existence d'une contrepartie ou des modalités du fonds.",
+      "B": "La société de gestion doit racheter les parts au dernier prix publié dès réception de l’ordre.",
+      "C": "Elle dépend des mécanismes de retrait ou d’un acheteur.",
       "D": "La liquidité est instantanée et garantie."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "La revente peut prendre du temps et dépend de l'existence d'une contrepartie ou des modalités du fonds. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "La revente peut prendre du temps et dépend de l'existence d'une contrepartie ou des modalités du fonds.",
     "pieges": {
       "A": "Cette réponse attribue à les parts de SCPI un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "B": "Cette réponse attribue à les parts de SCPI un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "La revente peut prendre du temps et dépend de l'existence d'une contrepartie ou des modalités du fonds.",
       "D": "Cette réponse attribue à les parts de SCPI un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [

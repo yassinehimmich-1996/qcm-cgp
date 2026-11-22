@@ -6,7 +6,7 @@ Banque collaborative de questions théoriques destinée à la préparation aux c
 
 **[Ouvrir le QCM CGP](https://yassinehimmich-1996.github.io/qcm-cgp/)**
 
-L'application est conçue en priorité pour iPhone. Elle peut être ajoutée à l'écran d'accueil depuis le menu **Partager**, puis **Sur l'écran d'accueil**. La progression, les erreurs et les favoris restent enregistrés localement sur l'appareil.
+L'application est conçue en priorité pour iPhone. Elle peut être ajoutée à l'écran d'accueil depuis le menu **Partager**, puis **Sur l'écran d'accueil**. La progression, et les erreurs restent enregistrés localement sur l'appareil.
 
 ## Périmètre
 
@@ -19,53 +19,13 @@ L'application est conçue en priorité pour iPhone. Elle peut être ajoutée à 
 
 Ce projet est indépendant. Il ne constitue ni un examen officiel, ni une banque de questions BNP Paribas, AMF ou ACPR, ni un conseil juridique, fiscal ou financier.
 
-## État du projet
+## Banque et entraînement
 
-- 800 questions théoriques réparties en 16 lots de 50, chacun brassé sur au moins 23 domaines ;
-- 28 fiches thématiques complètes couvrant 284 sous-notions, sourcées et reliées aux QCM correspondants ;
-- 292 notions-mères publiques, complétées par 91 questions ciblées de niveau professionnel ;
-- 28 domaines présents dans la banque ;
-- 146 références publiques cataloguées ;
-- 440 questions à réponse unique, 256 questions à réponses multiples et 104 vrai/faux ;
-- 32 questions multiples comportent trois bonnes réponses et 224 en comportent deux ;
-- aucun niveau débutant : 180 questions intermédiaires, 229 avancées et 391 expertes ;
-- 77,5 % de la banque est classée avancée ou experte ;
-- aucun cas client ni calcul ;
-- statut éditorial des questions : `verifie_sources_publiques` ;
-- dernière revue documentaire et validation technique : 5 novembre 2026.
+800 questions classées dans 41 thèmes. Les 440 questions à choix unique, 256 à choix multiple et 104 vrai/faux sont réparties en 16 lots de 50. Chaque examen tire 100 questions en 60 minutes et diffère la correction jusqu’à la fin. Le mode révision donne la correction immédiatement. Le menu Thèmes permet de parcourir un domaine entier.
 
-Le statut `verifie_sources_publiques` indique que la règle a été rapprochée d'une source institutionnelle identifiée et datée. Une veille reste nécessaire pour les règles fiscales, sociales et réglementaires susceptibles d'évoluer.
+Les réponses et les erreurs sont conservées sur cet appareil. Les quotas et les niveaux de difficulté sont des choix pédagogiques.
 
-## Modes d'entraînement
-
-- révision de l’intégralité des 800 questions avec correction immédiate ;
-- examen blanc stratifié de 100 questions en 60 minutes, sans correction avant la fin ;
-- révision par domaine ou des erreurs enregistrées ;
-- fiches thématiques avec sommaire visuel, sous-notions repliables, repères, pièges et auto-vérification ;
-- suivi local du taux de réussite et des questions vues ;
-- fonctionnement installable et hors connexion après le premier chargement.
-
-## Structure
-
-```text
-index.html                         Application QCM mobile
-assets/                            Interface, logique et icônes PWA
-questions/lot-001..016.json        Questions et corrigés structurés
-fiches/fiches.json                 Fiches de révision express sourcées
-data/knowledge-seeds.mjs           Notions théoriques servant à la génération
-data/coverage-seeds.mjs            Compléments de couverture vérifiés en 2026
-data/test-level-seeds.mjs          Renforcements de niveau test professionnel
-data/capture-gap-seeds.mjs         Compléments publics issus de l'audit des captures
-sources/sources.json               Catalogue des références publiques
-schema/question.schema.json        Contrat de données
-scripts/validate_questions.py      Contrôles automatiques
-scripts/validate_sheets.py         Contrôle des fiches et de leurs références
-scripts/generate_study_sheets.mjs  Génération reproductible de la bibliothèque de fiches
-scripts/audit_quality.py           Rapport d'équilibre et de qualité formelle
-scripts/generate_training_bank.mjs Génération reproductible des lots et des 150 remplacements de couverture
-docs/referentiel.md                Répartition pédagogique
-CONTRIBUTING.md                    Processus de contribution et de revue
-```
+Pour reconstruire les lots depuis les données éditoriales, exécuter `node scripts/generate_training_bank.mjs`. Les propositions retravaillées se trouvent dans `data/reponses-revues.txt`. Les références figurent dans `sources/sources.json`.
 
 ## Vérifier la banque et l'application
 

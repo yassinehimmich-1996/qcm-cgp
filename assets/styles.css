@@ -176,7 +176,7 @@ main { width: 100%; }
 .stat-domain header span { color: var(--muted); }
 .danger-link { display: block; margin: 30px auto 0; padding: 12px; border: 0; color: var(--error); background: transparent; text-decoration: underline; cursor: pointer; }
 
-.bottom-nav { position: fixed; z-index: 24; left: 0; right: 0; bottom: 0; height: calc(74px + var(--safe-bottom)); padding: 8px max(18px, env(safe-area-inset-right)) var(--safe-bottom) max(18px, env(safe-area-inset-left)); display: grid; grid-template-columns: repeat(2, 1fr); background: rgba(255,253,249,.94); border-top: 1px solid rgba(16,42,38,.08); backdrop-filter: blur(18px); -webkit-backdrop-filter: blur(18px); }
+.bottom-nav { position: fixed; z-index: 24; left: 0; right: 0; bottom: 0; height: calc(74px + var(--safe-bottom)); padding: 8px max(18px, env(safe-area-inset-right)) var(--safe-bottom) max(18px, env(safe-area-inset-left)); display: grid; grid-template-columns: repeat(3, 1fr); background: rgba(255,253,249,.94); border-top: 1px solid rgba(16,42,38,.08); backdrop-filter: blur(18px); -webkit-backdrop-filter: blur(18px); }
 .bottom-nav a, .bottom-nav button { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; border: 0; color: #7b8884; background: transparent; text-decoration: none; font-size: 9px; font-weight: 600; cursor: pointer; }
 .bottom-nav svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
 .bottom-nav .active { color: var(--green-700); }
@@ -283,3 +283,5 @@ dialog::backdrop { background: rgba(6,39,34,.56); backdrop-filter: blur(3px); }
 @media (display-mode: standalone) {
   .topbar { background: rgba(244,240,232,.96); }
 }
+
+#sourceLinks a { display: block; margin-top: .5rem; }

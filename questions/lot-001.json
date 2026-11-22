@@ -4,21 +4,21 @@
     "sous_domaine": "Modulation du PAS / IFI",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Modulation du PAS » et « IFI », lesquelles sont exactes ?",
+    "enonce": "Quelles règles concernent la modulation du prélèvement à la source et la résidence principale détenue directement pour l’IFI ?",
     "choix": {
-      "A": "« Quelle condition permet en principe de demander une baisse du taux de prélèvement à la source  » : La modulation à la baisse est interdite.",
-      "B": "« Quel abattement s'applique en principe à la valeur vénale de la résidence principale pour l'IFI  » : Aucun abattement.",
-      "C": "« Quelle condition permet en principe de demander une baisse du taux de prélèvement à la source  » : L'écart estimé entre le prélèvement modulé et le prélèvement actuel doit dépasser 5 %.",
-      "D": "« Quel abattement s'applique en principe à la valeur vénale de la résidence principale pour l'IFI  » : 30 %."
+      "A": "Une baisse de revenu autorise seulement une modulation à compter de l’année suivante.",
+      "B": "La résidence principale est intégralement exonérée d’IFI.",
+      "C": "La modulation à la baisse suppose un écart de prélèvement supérieur à 5 %.",
+      "D": "Un abattement de 30 % s’applique à la valeur vénale de la résidence principale."
     },
     "bonnes_reponses": [
       "C",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « Quelle condition permet en principe de demander une baisse du taux de prélèvement à la source  » : L'écart estimé entre le prélèvement modulé et le prélèvement actuel doit dépasser 5 %. « Quel abattement s'applique en principe à la valeur vénale de la résidence principale pour l'IFI  » : 30 %.",
+    "explication": "Pour la modulation, on compare le prélèvement estimé avec celui dû sans modification. Pour l’IFI, on applique l’abattement à la valeur vénale du logement occupé comme résidence principale.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « Quelle condition permet en principe de demander une baisse du taux de prélèvement à la source  », la règle exacte est : L'écart estimé entre le prélèvement modulé et le prélèvement actuel doit dépasser 5 %.",
-      "B": "Cette association est inexacte. Pour « Quel abattement s'applique en principe à la valeur vénale de la résidence principale pour l'IFI  », la règle exacte est : 30 %."
+      "A": "Le contribuable peut demander une modulation en cours d’année si les conditions sont réunies.",
+      "B": "L’abattement réduit la base imposable. Il ne constitue pas une exonération totale."
     },
     "sources": [
       "S088",
@@ -67,8 +67,8 @@
     "choix": {
       "A": "L'imposition commune est réservée aux couples ayant des enfants.",
       "B": "Le Pacs n'a jamais d'effet sur le foyer fiscal.",
-      "C": "Le couple forme en principe un foyer fiscal soumis à une imposition commune, sauf cas d'imposition distincte prévus par la loi.",
-      "D": "Chaque membre est toujours imposé séparément."
+      "C": "Une imposition commune, sauf exception légale.",
+      "D": "Des déclarations distinctes en cas de séparation de biens même lorsque les époux vivent ensemble."
     },
     "bonnes_reponses": [
       "C"
@@ -77,7 +77,7 @@
     "pieges": {
       "A": "La présence d'enfants n'est pas une condition de l'imposition commune.",
       "B": "Le Pacs produit bien des effets en matière d'impôt sur le revenu.",
-      "D": "L'imposition séparée n'est pas le principe."
+      "D": "Le mariage ou le Pacs conduit en principe à une déclaration commune. Des hypothèses légales limitées permettent ou imposent une imposition séparée."
     },
     "sources": [
       "S121"
@@ -92,21 +92,21 @@
     "sous_domaine": "Réduction d'impôt / CSG déductible",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Réduction d'impôt » et « CSG déductible », lesquelles sont exactes ?",
+    "enonce": "Réduction d'impôt et CSG déductible — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« Que devient en principe la fraction d'une réduction d'impôt qui excède l'impôt dû, hors dispositif particulier de report  » : Elle se transforme automatiquement en crédit d'impôt.",
-      "B": "« En cas d'option pour le barème progressif sur des revenus mobiliers soumis au taux social ordinaire 2026, quelle fraction de CSG peut en principe être déductible du revenu global  » : 10,6 % en totalité.",
-      "C": "« Que devient en principe la fraction d'une réduction d'impôt qui excède l'impôt dû, hors dispositif particulier de report  » : Elle n'est pas remboursée.",
-      "D": "« En cas d'option pour le barème progressif sur des revenus mobiliers soumis au taux social ordinaire 2026, quelle fraction de CSG peut en principe être déductible du revenu global  » : 6,8 %."
+      "A": "La fraction d'une réduction d'impôt qui excède l'impôt dû, hors dispositif particulier de report se transforme automatiquement en crédit d'impôt.",
+      "B": "Fraction de CSG déductible du revenu global en cas d’option pour le barème progressif sur des revenus mobiliers soumis au taux social ordinaire 2026 : 10,6 % en totalité.",
+      "C": "La fraction d'une réduction d'impôt qui excède l'impôt dû, hors dispositif particulier de report n'est pas remboursée.",
+      "D": "Fraction de CSG déductible du revenu global en cas d’option pour le barème progressif sur des revenus mobiliers soumis au taux social ordinaire 2026 : 6,8 %."
     },
     "bonnes_reponses": [
       "C",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « Que devient en principe la fraction d'une réduction d'impôt qui excède l'impôt dû, hors dispositif particulier de report  » : Elle n'est pas remboursée. « En cas d'option pour le barème progressif sur des revenus mobiliers soumis au taux social ordinaire 2026, quelle fraction de CSG peut en principe être déductible du revenu global  » : 6,8 %.",
+    "explication": "La fraction d'une réduction d'impôt qui excède l'impôt dû, hors dispositif particulier de report n'est pas remboursée. Fraction de CSG déductible du revenu global en cas d’option pour le barème progressif sur des revenus mobiliers soumis au taux social ordinaire 2026 : 6,8 %.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « Que devient en principe la fraction d'une réduction d'impôt qui excède l'impôt dû, hors dispositif particulier de report  », la règle exacte est : Elle n'est pas remboursée.",
-      "B": "Cette association est inexacte. Pour « En cas d'option pour le barème progressif sur des revenus mobiliers soumis au taux social ordinaire 2026, quelle fraction de CSG peut en principe être déductible du revenu global  », la règle exacte est : 6,8 %."
+      "A": "Elle n'est pas remboursée.",
+      "B": "6,8 %."
     },
     "sources": [
       "S089",
@@ -180,21 +180,21 @@
     "sous_domaine": "PER",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant les accidents de la vie prévus par la loi et le déblocage anticipé, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant les accidents de la vie prévus par la loi (le déblocage anticipé) ?",
     "choix": {
       "A": "Ils autorisent un retrait mensuel libre sans condition.",
       "B": "Ils concernent uniquement le Livret A.",
-      "C": "Ils peuvent permettre une sortie anticipée avant la retraite dans les cas limitativement prévus.",
-      "D": "Ils n'ont jamais d'effet."
+      "C": "Une sortie dans les cas de déblocage prévus par la loi.",
+      "D": "Une sortie à tout moment si le titulaire établit simplement que sa trésorerie a diminué."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "Ils peuvent permettre une sortie anticipée avant la retraite dans les cas limitativement prévus. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Ils peuvent permettre une sortie anticipée avant la retraite dans les cas limitativement prévus.",
     "pieges": {
       "A": "Cette réponse attribue à les accidents de la vie prévus par la loi un effet ou une condition qui ne correspond pas à la règle exacte.",
       "B": "Cette réponse attribue à les accidents de la vie prévus par la loi un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "D": "Cette réponse attribue à les accidents de la vie prévus par la loi un effet ou une condition qui ne correspond pas à la règle exacte."
+      "D": "Ils peuvent permettre une sortie anticipée avant la retraite dans les cas limitativement prévus."
     },
     "sources": [
       "S031"
@@ -211,8 +211,8 @@
     "type_question": "unique",
     "enonce": "Quel abattement personnel s'applique en principe à une donation d'un grand-parent à un petit-enfant ?",
     "choix": {
-      "A": "Aucun abattement.",
-      "B": "31 865 euros tous les quinze ans.",
+      "A": "31 865 € tous les dix ans, indépendamment de la date des donations consenties par ailleurs.",
+      "B": "31 865 € tous les quinze ans.",
       "C": "100 000 euros tous les ans.",
       "D": "7 967 euros tous les cinq ans."
     },
@@ -221,7 +221,7 @@
     ],
     "explication": "Un grand-parent peut consentir à chaque petit-enfant une donation bénéficiant d'un abattement de 31 865 euros renouvelable tous les quinze ans.",
     "pieges": {
-      "A": "Un abattement existe bien.",
+      "A": "Un grand-parent peut consentir à chaque petit-enfant une donation bénéficiant d'un abattement de 31 865 euros renouvelable tous les quinze ans.",
       "C": "100 000 euros est l'abattement parent-enfant et la période est quinze ans.",
       "D": "7 967 euros correspond à l'abattement neveu-nièce."
     },
@@ -267,20 +267,20 @@
     "sous_domaine": "Réserve héréditaire",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant les descendants et leur protection, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant les descendants (leur protection) ?",
     "choix": {
       "A": "Ils ne sont héritiers qu'avec un testament.",
-      "B": "Leur réserve est toujours nulle.",
-      "C": "Les enfants sont héritiers réservataires et ne peuvent être privés de la réserve prévue par la loi.",
+      "B": "Seuls les enfants mineurs au jour du décès bénéficient d’une part minimale de la succession.",
+      "C": "Une part de la succession leur est réservée.",
       "D": "Ils peuvent toujours être totalement déshérités."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "Les enfants sont héritiers réservataires et ne peuvent être privés de la réserve prévue par la loi. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Les enfants sont héritiers réservataires et ne peuvent être privés de la réserve prévue par la loi.",
     "pieges": {
       "A": "Cette réponse attribue à les descendants un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "B": "Cette réponse attribue à les descendants un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Les enfants sont héritiers réservataires et ne peuvent être privés de la réserve prévue par la loi.",
       "D": "Cette réponse attribue à les descendants un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -296,21 +296,21 @@
     "sous_domaine": "Prêt in fine",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant un prêt in fine et le remboursement du capital, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant un prêt in fine (le remboursement du capital) ?",
     "choix": {
       "A": "Aucune garantie ne peut être demandée.",
-      "B": "Le capital est remboursé en une fois à l'échéance, selon le contrat.",
+      "B": "En une fois, au terme du prêt.",
       "C": "Le capital est amorti intégralement dès la première mensualité.",
-      "D": "Les intérêts sont interdits."
+      "D": "En fractions égales pendant le prêt, les intérêts étant payables au terme."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "Le capital est remboursé en une fois à l'échéance, selon le contrat. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Le capital est remboursé en une fois à l'échéance, selon le contrat.",
     "pieges": {
       "A": "Cette réponse attribue à un prêt in fine un effet ou une condition qui ne correspond pas à la règle exacte.",
       "C": "Cette réponse attribue à un prêt in fine un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "D": "Cette réponse attribue à un prêt in fine un effet ou une condition qui ne correspond pas à la règle exacte."
+      "D": "Le capital est remboursé en une fois à l'échéance, selon le contrat."
     },
     "sources": [
       "S008"
@@ -354,21 +354,21 @@
     "sous_domaine": "Dénouement décès / Dénouement décès",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Dénouement décès », lesquelles sont exactes ?",
+    "enonce": "Dénouement décès et Dénouement décès — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« les gains attachés aux primes relevant de l'article 757 B — leur traitement successoral » : Les produits attachés à ces primes sont en principe hors de l'assiette des droits de mutation prévue par cet article.",
-      "B": "« l'article 757 B du CGI — son champ principal » : Il vise les primes versées après les soixante-dix ans de l'assuré, selon les conditions et l'abattement prévus.",
-      "C": "« les gains attachés aux primes relevant de l'article 757 B — leur traitement successoral » : Ils sont toujours taxés deux fois.",
-      "D": "« l'article 757 B du CGI — son champ principal » : Il taxe toute la valeur du contrat sans distinction."
+      "A": "Les produits attachés à ces primes sont en principe hors de l'assiette des droits de mutation prévue par cet article.",
+      "B": "L'article 757 B du CGI vise les primes versées après les soixante-dix ans de l'assuré, selon les conditions et l'abattement prévus.",
+      "C": "Les gains attachés aux primes relevant de l'article 757 B sont toujours taxés deux fois.",
+      "D": "L'article 757 B du CGI taxe toute la valeur du contrat sans distinction."
     },
     "bonnes_reponses": [
       "A",
       "B"
     ],
-    "explication": "Les règles à retenir sont : « les gains attachés aux primes relevant de l'article 757 B — leur traitement successoral » : Les produits attachés à ces primes sont en principe hors de l'assiette des droits de mutation prévue par cet article. « l'article 757 B du CGI — son champ principal » : Il vise les primes versées après les soixante-dix ans de l'assuré, selon les conditions et l'abattement prévus.",
+    "explication": "Les produits attachés à ces primes sont en principe hors de l'assiette des droits de mutation prévue par cet article. L'article 757 B du CGI vise les primes versées après les soixante-dix ans de l'assuré, selon les conditions et l'abattement prévus.",
     "pieges": {
-      "C": "Cette association est inexacte. Pour « les gains attachés aux primes relevant de l'article 757 B — leur traitement successoral », la règle exacte est : Les produits attachés à ces primes sont en principe hors de l'assiette des droits de mutation prévue par cet article.",
-      "D": "Cette association est inexacte. Pour « l'article 757 B du CGI — son champ principal », la règle exacte est : Il vise les primes versées après les soixante-dix ans de l'assuré, selon les conditions et l'abattement prévus."
+      "C": "Les produits attachés à ces primes sont en principe hors de l'assiette des droits de mutation prévue par cet article.",
+      "D": "Il vise les primes versées après les soixante-dix ans de l'assuré, selon les conditions et l'abattement prévus."
     },
     "sources": [
       "S026"
@@ -383,21 +383,21 @@
     "sous_domaine": "Risque / Souscription",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Risque » et « Souscription », lesquelles sont exactes ?",
+    "enonce": "Risque et Souscription — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« le souscripteur — son rôle » : Il conclut le contrat, effectue les versements et exerce les droits prévus au contrat.",
-      "B": "« la diversification des supports — sa finalité » : Elle rend inutile l'analyse de l'horizon.",
-      "C": "« le souscripteur — son rôle » : Il ne peut jamais modifier la clause bénéficiaire.",
-      "D": "« la diversification des supports — sa finalité » : Elle vise à répartir les risques sans supprimer toute possibilité de perte."
+      "A": "Le souscripteur conclut le contrat, effectue les versements et exerce les droits prévus au contrat.",
+      "B": "La diversification des supports rend inutile l'analyse de l'horizon.",
+      "C": "Le souscripteur ne peut jamais modifier la clause bénéficiaire.",
+      "D": "La diversification des supports vise à répartir les risques sans supprimer toute possibilité de perte."
     },
     "bonnes_reponses": [
       "A",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « la diversification des supports — sa finalité » : Elle vise à répartir les risques sans supprimer toute possibilité de perte. « le souscripteur — son rôle » : Il conclut le contrat, effectue les versements et exerce les droits prévus au contrat.",
+    "explication": "Le souscripteur conclut le contrat, effectue les versements et exerce les droits prévus au contrat. La diversification des supports vise à répartir les risques sans supprimer toute possibilité de perte.",
     "pieges": {
-      "B": "Cette association est inexacte. Pour « la diversification des supports — sa finalité », la règle exacte est : Elle vise à répartir les risques sans supprimer toute possibilité de perte.",
-      "C": "Cette association est inexacte. Pour « le souscripteur — son rôle », la règle exacte est : Il conclut le contrat, effectue les versements et exerce les droits prévus au contrat."
+      "B": "Elle vise à répartir les risques sans supprimer toute possibilité de perte.",
+      "C": "Il conclut le contrat, effectue les versements et exerce les droits prévus au contrat."
     },
     "sources": [
       "S022"
@@ -412,7 +412,7 @@
     "sous_domaine": "Dénouement décès",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « l'article 757 B du CGI — son champ principal » : Il taxe toute la valeur du contrat sans distinction.",
+    "enonce": "L'article 757 B du CGI taxe toute la valeur du contrat sans distinction.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -466,7 +466,7 @@
     "sous_domaine": "SCI à l'IR",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « Comment un associé personne physique d'une SCI non soumise à l'impôt sur les sociétés déclare-t-il en principe les loyers nus  » : Comme un salaire versé par la SCI.",
+    "enonce": "Déclaration des loyers nus par un associé personne physique d'une SCI non soumise à l'impôt sur les sociétés : Comme un salaire versé par la SCI.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -494,9 +494,9 @@
     "enonce": "Quand le régime micro-foncier peut-il en principe s'appliquer aux locations nues ?",
     "choix": {
       "A": "Uniquement si le propriétaire est une société soumise à l'IS.",
-      "B": "Lorsque les conditions sont remplies et que les recettes foncières brutes annuelles n'excèdent pas 15 000 euros.",
+      "B": "Sous conditions, jusqu’à 15 000 € de recettes foncières brutes.",
       "C": "Dès que les recettes dépassent 77 700 euros.",
-      "D": "Uniquement si le logement est meublé."
+      "D": "Sous conditions, jusqu’à 15 000 € de revenu foncier net après déduction des travaux et intérêts."
     },
     "bonnes_reponses": [
       "B"
@@ -505,7 +505,7 @@
     "pieges": {
       "A": "Une SCI à l'IS n'est pas dans le micro-foncier du particulier.",
       "C": "77 700 euros est un repère lié à d'autres régimes.",
-      "D": "La location meublée relève des BIC."
+      "D": "Le micro-foncier concerne certaines locations nues sous un seuil de 15 000 euros de recettes brutes et applique un abattement forfaitaire."
     },
     "sources": [
       "S093"
@@ -549,21 +549,21 @@
     "sous_domaine": "Obligations",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant la hausse des taux de marché et son effet général sur une obligation à taux fixe existante, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant la hausse des taux de marché (son effet général sur une obligation à taux fixe existante) ?",
     "choix": {
       "A": "Elle transforme l'obligation en action.",
-      "B": "Elle tend à faire baisser le cours de l'obligation à taux fixe, toutes choses égales par ailleurs.",
+      "B": "Son cours tend à baisser, toutes choses égales par ailleurs.",
       "C": "Elle fait toujours monter son cours.",
-      "D": "Elle supprime le risque émetteur."
+      "D": "Son cours tend à monter, car les nouvelles émissions offrent désormais un coupon plus élevé."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "Elle tend à faire baisser le cours de l'obligation à taux fixe, toutes choses égales par ailleurs. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle tend à faire baisser le cours de l'obligation à taux fixe, toutes choses égales par ailleurs.",
     "pieges": {
       "A": "Cette réponse attribue à la hausse des taux de marché un effet ou une condition qui ne correspond pas à la règle exacte.",
       "C": "Cette réponse attribue à la hausse des taux de marché un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "D": "Cette réponse attribue à la hausse des taux de marché un effet ou une condition qui ne correspond pas à la règle exacte."
+      "D": "Elle tend à faire baisser le cours de l'obligation à taux fixe, toutes choses égales par ailleurs."
     },
     "sources": [
       "S032"
@@ -578,19 +578,19 @@
     "sous_domaine": "ETF",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant un ETF exposé en devise étrangère et le risque de change, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant un ETF exposé en devise étrangère (le risque de change) ?",
     "choix": {
-      "A": "La devise garantit le capital.",
+      "A": "La cotation de la part en euros suffit à couvrir les fluctuations des devises des actifs détenus.",
       "B": "Le risque de change remplace tous les autres risques.",
-      "C": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert.",
+      "C": "La devise peut modifier le rendement en euros.",
       "D": "Le change n'a jamais aucun effet."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert.",
     "pieges": {
-      "A": "Cette réponse attribue à un ETF exposé en devise étrangère un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "A": "La performance en euros peut être affectée par l'évolution de la devise si le risque n'est pas couvert.",
       "B": "Cette réponse attribue à un ETF exposé en devise étrangère un effet ou une condition qui ne correspond pas à la règle exacte.",
       "D": "Cette réponse attribue à un ETF exposé en devise étrangère un effet ou une condition qui ne correspond pas à la règle exacte."
     },
@@ -636,21 +636,21 @@
     "sous_domaine": "Compte joint / Compte joint / Surendettement",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Compte joint » et « Surendettement », lesquelles sont exactes ?",
+    "enonce": "Compte joint et Compte joint et Surendettement — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« un compte joint — la solidarité active » : Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable.",
-      "B": "« le dépôt d'un dossier de surendettement — l'inscription au FICP » : Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables.",
-      "C": "« un incident de chèque sur compte joint — le risque d'interdiction » : Seul le bénéficiaire du chèque est interdit bancaire.",
-      "D": "« un incident de chèque sur compte joint — le risque d'interdiction » : Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables."
+      "A": "Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable.",
+      "B": "Le dépôt d'un dossier de surendettement entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables.",
+      "C": "Un incident de chèque sur compte joint : Seul le bénéficiaire du chèque est interdit bancaire.",
+      "D": "Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables."
     },
     "bonnes_reponses": [
       "A",
       "B",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « un incident de chèque sur compte joint — le risque d'interdiction » : Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables. « un compte joint — la solidarité active » : Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable. « le dépôt d'un dossier de surendettement — l'inscription au FICP » : Il entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables.",
+    "explication": "Chaque cotitulaire peut en principe faire fonctionner seul le compte, sauf stipulation ou opposition applicable. Le dépôt d'un dossier de surendettement entraîne l'inscription du déposant au FICP pendant la procédure selon les règles applicables. Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables.",
     "pieges": {
-      "C": "Cette association est inexacte. Pour « un incident de chèque sur compte joint — le risque d'interdiction », la règle exacte est : Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables."
+      "C": "Sans désignation préalable d'un responsable, l'interdiction peut affecter chacun des cotitulaires selon les règles applicables."
     },
     "sources": [
       "S073",
@@ -695,19 +695,19 @@
     "sous_domaine": "PEA",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant les gains d'un PEA après cinq ans et l'impôt sur le revenu, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant les gains d'un PEA après cinq ans (l'impôt sur le revenu) ?",
     "choix": {
-      "A": "Ils deviennent des revenus fonciers.",
-      "B": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables.",
+      "A": "Exonération d’impôt et de prélèvements sociaux pour tout gain réalisé après cinq ans.",
+      "B": "Exonération possible d’IR, prélèvements sociaux applicables.",
       "C": "Ils sont toujours exonérés de tous prélèvements.",
       "D": "Ils sont toujours soumis au barème sans exonération."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables.",
     "pieges": {
-      "A": "Cette réponse attribue à les gains d'un PEA après cinq ans un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "A": "Ils peuvent être exonérés d'impôt sur le revenu lors du retrait, tout en restant soumis aux prélèvements sociaux applicables.",
       "C": "Cette réponse attribue à les gains d'un PEA après cinq ans un effet ou une condition qui ne correspond pas à la règle exacte.",
       "D": "Cette réponse attribue à les gains d'un PEA après cinq ans un effet ou une condition qui ne correspond pas à la règle exacte."
     },
@@ -724,21 +724,21 @@
     "sous_domaine": "Livret A / Livret A",
     "difficulte": "avance",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Livret A », lesquelles sont exactes ?",
+    "enonce": "Quelles règles s’appliquent au Livret A d’un particulier ?",
     "choix": {
-      "A": "« le Livret A — son plafond de versements pour un particulier » : Aucun plafond n'existe.",
-      "B": "« les intérêts du Livret A — leur fiscalité » : Ils sont taxés comme des salaires.",
-      "C": "« le Livret A — son plafond de versements pour un particulier » : Le plafond réglementaire des versements est de 22 950 euros, hors capitalisation des intérêts.",
-      "D": "« les intérêts du Livret A — leur fiscalité » : Ils sont exonérés d'impôt sur le revenu et de prélèvements sociaux."
+      "A": "Le montant des versements est illimité.",
+      "B": "Les intérêts du Livret A sont taxés comme des salaires.",
+      "C": "Le plafond de versements est de 22 950 €, hors intérêts capitalisés.",
+      "D": "Les intérêts du Livret A sont exonérés d'impôt sur le revenu et de prélèvements sociaux."
     },
     "bonnes_reponses": [
       "C",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « le Livret A — son plafond de versements pour un particulier » : Le plafond réglementaire des versements est de 22 950 euros, hors capitalisation des intérêts. « les intérêts du Livret A — leur fiscalité » : Ils sont exonérés d'impôt sur le revenu et de prélèvements sociaux.",
+    "explication": "Le plafond limite les versements. La capitalisation des intérêts peut porter le solde au-delà de 22 950 €. Ces intérêts sont exonérés d’impôt sur le revenu et de prélèvements sociaux.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « le Livret A — son plafond de versements pour un particulier », la règle exacte est : Le plafond réglementaire des versements est de 22 950 euros, hors capitalisation des intérêts.",
-      "B": "Cette association est inexacte. Pour « les intérêts du Livret A — leur fiscalité », la règle exacte est : Ils sont exonérés d'impôt sur le revenu et de prélèvements sociaux."
+      "A": "Le plafond réglementaire des versements est de 22 950 euros, hors capitalisation des intérêts.",
+      "B": "Ils sont exonérés d'impôt sur le revenu et de prélèvements sociaux."
     },
     "sources": [
       "S037"
@@ -753,21 +753,21 @@
     "sous_domaine": "Obligations / Cycle économique",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Obligations » et « Cycle économique », lesquelles sont exactes ?",
+    "enonce": "Obligations et Cycle économique — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« la relation entre taux et cours obligataire — son sens général » : Lorsque les taux de marché montent, le prix des obligations à taux fixe existantes tend à baisser.",
-      "B": "« une récession — sa définition usuelle » : Elle désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs.",
-      "C": "« la relation entre taux et cours obligataire — son sens général » : Les taux n'ont aucun effet sur les obligations.",
-      "D": "« une récession — sa définition usuelle » : Elle est décidée par une banque commerciale."
+      "A": "Lorsque les taux de marché montent, le prix des obligations à taux fixe existantes tend à baisser.",
+      "B": "Une récession désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs.",
+      "C": "La relation entre taux et cours obligataire : Les taux n'ont aucun effet sur les obligations.",
+      "D": "Une récession est décidée par une banque commerciale."
     },
     "bonnes_reponses": [
       "A",
       "B"
     ],
-    "explication": "Les règles à retenir sont : « la relation entre taux et cours obligataire — son sens général » : Lorsque les taux de marché montent, le prix des obligations à taux fixe existantes tend à baisser. « une récession — sa définition usuelle » : Elle désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs.",
+    "explication": "Lorsque les taux de marché montent, le prix des obligations à taux fixe existantes tend à baisser. Une récession désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs.",
     "pieges": {
-      "C": "Cette association est inexacte. Pour « la relation entre taux et cours obligataire — son sens général », la règle exacte est : Lorsque les taux de marché montent, le prix des obligations à taux fixe existantes tend à baisser.",
-      "D": "Cette association est inexacte. Pour « une récession — sa définition usuelle », la règle exacte est : Elle désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs."
+      "C": "Lorsque les taux de marché montent, le prix des obligations à taux fixe existantes tend à baisser.",
+      "D": "Elle désigne une contraction significative de l'activité économique, appréciée par plusieurs indicateurs."
     },
     "sources": [
       "S032",
@@ -783,17 +783,17 @@
     "sous_domaine": "Corrélation — distinctions",
     "difficulte": "expert",
     "type_question": "unique",
-    "enonce": "Quel énoncé associe incorrectement la notion et la règle ?",
+    "enonce": "Corrélation — distinctions — quelle affirmation est incorrecte ?",
     "choix": {
-      "A": "« l'inflation — sa définition » : Elle correspond à une hausse générale et durable du niveau des prix, réduisant le pouvoir d'achat de la monnaie.",
-      "B": "« le risque de marché — sa définition » : Il correspond au risque de perte lié aux variations des prix, taux, devises ou autres facteurs de marché.",
-      "C": "« la corrélation entre deux actifs — son interprétation » : Elle supprime le risque spécifique.",
-      "D": "« le rendement réel — sa définition » : Il correspond au rendement nominal corrigé de l'effet de l'inflation."
+      "A": "L'inflation correspond à une hausse générale et durable du niveau des prix, réduisant le pouvoir d'achat de la monnaie.",
+      "B": "Le risque de marché correspond au risque de perte lié aux variations des prix, taux, devises ou autres facteurs de marché.",
+      "C": "La corrélation entre deux actifs supprime le risque spécifique.",
+      "D": "Le rendement réel correspond au rendement nominal corrigé de l'effet de l'inflation."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "L'association à écarter est inexacte. Pour « la corrélation entre deux actifs — son interprétation », la règle correcte est : Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité.",
+    "explication": "Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité.",
     "pieges": {
       "A": "Cette association est exacte : Elle correspond à une hausse générale et durable du niveau des prix, réduisant le pouvoir d'achat de la monnaie.",
       "B": "Cette association est exacte : Il correspond au risque de perte lié aux variations des prix, taux, devises ou autres facteurs de marché.",
@@ -843,21 +843,21 @@
     "sous_domaine": "CRS / Auto-certification",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « CRS » et « Auto-certification », lesquelles sont exactes ?",
+    "enonce": "CRS et Auto-certification — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« l'échange automatique d'informations CRS — sa finalité » : Il remplace toutes les conventions fiscales.",
-      "B": "« une auto-certification fiscale — son objet » : Elle vaut conseil fiscal personnalisé de la banque.",
-      "C": "« l'échange automatique d'informations CRS — sa finalité » : Il organise la collecte et la transmission d'informations sur certains comptes financiers entre juridictions participantes.",
-      "D": "« une auto-certification fiscale — son objet » : Elle permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux."
+      "A": "L'échange automatique d'informations CRS remplace toutes les conventions fiscales.",
+      "B": "Une auto-certification fiscale vaut conseil fiscal personnalisé de la banque.",
+      "C": "L'échange automatique d'informations CRS organise la collecte et la transmission d'informations sur certains comptes financiers entre juridictions participantes.",
+      "D": "Une auto-certification fiscale permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux."
     },
     "bonnes_reponses": [
       "C",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « l'échange automatique d'informations CRS — sa finalité » : Il organise la collecte et la transmission d'informations sur certains comptes financiers entre juridictions participantes. « une auto-certification fiscale — son objet » : Elle permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux.",
+    "explication": "L'échange automatique d'informations CRS organise la collecte et la transmission d'informations sur certains comptes financiers entre juridictions participantes. Une auto-certification fiscale permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « l'échange automatique d'informations CRS — sa finalité », la règle exacte est : Il organise la collecte et la transmission d'informations sur certains comptes financiers entre juridictions participantes.",
-      "B": "Cette association est inexacte. Pour « une auto-certification fiscale — son objet », la règle exacte est : Elle permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux."
+      "A": "Il organise la collecte et la transmission d'informations sur certains comptes financiers entre juridictions participantes.",
+      "B": "Elle permet au client de déclarer notamment ses juridictions de résidence fiscale et ses identifiants fiscaux."
     },
     "sources": [
       "S085"
@@ -894,7 +894,7 @@
       "S086"
     ],
     "pieges": {
-      "C": "Proposition écartée : « Devise du placement et taux légal d'imposition comme notions identiques. » Chaque qualification répond à un objet différent. Le lieu du compte ou la devise ne suffit pas à déterminer la source d'un revenu ou l'État compétent."
+      "C": "Proposition écartée : Devise du placement et taux légal d'imposition comme notions identiques. Chaque qualification répond à un objet différent. Le lieu du compte ou la devise ne suffit pas à déterminer la source d'un revenu ou l'État compétent."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -905,21 +905,21 @@
     "sous_domaine": "Changement de régime / Communauté légale",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Changement de régime » et « Communauté légale », lesquelles sont exactes ?",
+    "enonce": "Changement de régime et Communauté légale — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« le changement de régime matrimonial — l'intervention du notaire » : Il nécessite une convention établie par un notaire et l'information des personnes prévues par la loi.",
-      "B": "« les revenus professionnels des époux — leur qualification de principe » : Ils alimentent en principe la communauté pendant le mariage.",
-      "C": "« le changement de régime matrimonial — l'intervention du notaire » : Il relève uniquement de la banque.",
-      "D": "« les revenus professionnels des époux — leur qualification de principe » : Ils sont placés automatiquement en indivision successorale."
+      "A": "Le changement de régime matrimonial nécessite une convention établie par un notaire et l'information des personnes prévues par la loi.",
+      "B": "Les revenus professionnels des époux alimentent en principe la communauté pendant le mariage.",
+      "C": "Le changement de régime matrimonial relève uniquement de la banque.",
+      "D": "Les revenus professionnels des époux sont placés automatiquement en indivision successorale."
     },
     "bonnes_reponses": [
       "A",
       "B"
     ],
-    "explication": "Les règles à retenir sont : « le changement de régime matrimonial — l'intervention du notaire » : Il nécessite une convention établie par un notaire et l'information des personnes prévues par la loi. « les revenus professionnels des époux — leur qualification de principe » : Ils alimentent en principe la communauté pendant le mariage.",
+    "explication": "Le changement de régime matrimonial nécessite une convention établie par un notaire et l'information des personnes prévues par la loi. Les revenus professionnels des époux alimentent en principe la communauté pendant le mariage.",
     "pieges": {
-      "C": "Cette association est inexacte. Pour « le changement de régime matrimonial — l'intervention du notaire », la règle exacte est : Il nécessite une convention établie par un notaire et l'information des personnes prévues par la loi.",
-      "D": "Cette association est inexacte. Pour « les revenus professionnels des époux — leur qualification de principe », la règle exacte est : Ils alimentent en principe la communauté pendant le mariage."
+      "C": "Il nécessite une convention établie par un notaire et l'information des personnes prévues par la loi.",
+      "D": "Ils alimentent en principe la communauté pendant le mariage."
     },
     "sources": [
       "S046",
@@ -964,21 +964,21 @@
     "sous_domaine": "Quotité / Substitution / Équivalence",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Quotité », « Substitution » et « Équivalence », lesquelles sont exactes ?",
+    "enonce": "Quotité et Substitution et Équivalence — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« l'assurance emprunteur immobilière — le changement de contrat » : Elle peut être substituée à tout moment, sous réserve notamment de l'équivalence des garanties exigées.",
-      "B": "« l'équivalence des garanties — son appréciation » : Elle se vérifie au regard des critères exigés par le prêteur pour le financement concerné.",
-      "C": "« la quotité assurée — sa signification » : Elle fixe le prix de vente du logement.",
-      "D": "« la quotité assurée — sa signification » : Elle représente la part du capital couverte sur la tête de chaque assuré."
+      "A": "L'assurance emprunteur immobilière peut être substituée à tout moment, sous réserve notamment de l'équivalence des garanties exigées.",
+      "B": "L'équivalence des garanties se vérifie au regard des critères exigés par le prêteur pour le financement concerné.",
+      "C": "La quotité assurée fixe le prix de vente du logement.",
+      "D": "La quotité assurée représente la part du capital couverte sur la tête de chaque assuré."
     },
     "bonnes_reponses": [
       "A",
       "B",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « la quotité assurée — sa signification » : Elle représente la part du capital couverte sur la tête de chaque assuré. « l'assurance emprunteur immobilière — le changement de contrat » : Elle peut être substituée à tout moment, sous réserve notamment de l'équivalence des garanties exigées. « l'équivalence des garanties — son appréciation » : Elle se vérifie au regard des critères exigés par le prêteur pour le financement concerné.",
+    "explication": "L'assurance emprunteur immobilière peut être substituée à tout moment, sous réserve notamment de l'équivalence des garanties exigées. L'équivalence des garanties se vérifie au regard des critères exigés par le prêteur pour le financement concerné. La quotité assurée représente la part du capital couverte sur la tête de chaque assuré.",
     "pieges": {
-      "C": "Cette association est inexacte. Pour « la quotité assurée — sa signification », la règle exacte est : Elle représente la part du capital couverte sur la tête de chaque assuré."
+      "C": "Elle représente la part du capital couverte sur la tête de chaque assuré."
     },
     "sources": [
       "S010"
@@ -993,17 +993,17 @@
     "sous_domaine": "Démembrement — distinctions",
     "difficulte": "expert",
     "type_question": "unique",
-    "enonce": "Une seule des associations suivantes comporte une règle inexacte. Laquelle ?",
+    "enonce": "Démembrement — distinctions — quelle affirmation est incorrecte ?",
     "choix": {
-      "A": "« la vente d'un bien indivis — la règle de décision » : Les actes de disposition les plus importants requièrent en principe l'unanimité, sous réserve des dérogations légales.",
-      "B": "« Quel régime patrimonial s'applique par défaut aux partenaires de Pacs pour les biens acquis personnellement  » : La séparation des patrimoines, sauf option conventionnelle pour l'indivision de certains biens.",
-      "C": "« l'extinction de l'usufruit viager — la réunion des droits » : Le nu-propriétaire perd tous ses droits.",
-      "D": "« l'occupation privative d'un bien indivis — l'indemnité » : Elle peut donner lieu à une indemnité envers l'indivision, sauf convention contraire."
+      "A": "Les actes de disposition les plus importants requièrent en principe l'unanimité, sous réserve des dérogations légales.",
+      "B": "Régime patrimonial applicable par défaut aux partenaires de Pacs pour les biens acquis personnellement : La séparation des patrimoines, sauf option conventionnelle pour l'indivision de certains biens.",
+      "C": "L'extinction de l'usufruit viager : Le nu-propriétaire perd tous ses droits.",
+      "D": "L'occupation privative d'un bien indivis peut donner lieu à une indemnité envers l'indivision, sauf convention contraire."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "L'association à écarter est inexacte. Pour « l'extinction de l'usufruit viager — la réunion des droits », la règle correcte est : Au décès de l'usufruitier, l'usufruit s'éteint et la pleine propriété se reconstitue en principe chez le nu-propriétaire.",
+    "explication": "Au décès de l'usufruitier, l'usufruit s'éteint et la pleine propriété se reconstitue en principe chez le nu-propriétaire.",
     "pieges": {
       "A": "Cette association est exacte : Les actes de disposition les plus importants requièrent en principe l'unanimité, sous réserve des dérogations légales.",
       "B": "Cette association est exacte : La séparation des patrimoines, sauf option conventionnelle pour l'indivision de certains biens.",
@@ -1054,21 +1054,21 @@
     "sous_domaine": "Exclusions",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant une exclusion de garantie et sa portée, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant une exclusion de garantie (sa portée) ?",
     "choix": {
       "A": "Elle remplace la clause bénéficiaire.",
-      "B": "Elle délimite un risque non couvert et doit être examinée avec les conditions du contrat.",
+      "B": "Elle écarte un risque défini du champ de la garantie.",
       "C": "Elle augmente automatiquement toutes les prestations.",
-      "D": "Elle est sans effet juridique."
+      "D": "Elle fixe le délai au terme duquel un sinistre couvert commence à être indemnisé."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "Elle délimite un risque non couvert et doit être examinée avec les conditions du contrat. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle délimite un risque non couvert et doit être examinée avec les conditions du contrat.",
     "pieges": {
       "A": "Cette réponse attribue à une exclusion de garantie un effet ou une condition qui ne correspond pas à la règle exacte.",
       "C": "Cette réponse attribue à une exclusion de garantie un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "D": "Cette réponse attribue à une exclusion de garantie un effet ou une condition qui ne correspond pas à la règle exacte."
+      "D": "Elle délimite un risque non couvert et doit être examinée avec les conditions du contrat."
     },
     "sources": [
       "S028"
@@ -1085,8 +1085,8 @@
     "type_question": "unique",
     "enonce": "Après quelle durée une plus-value immobilière est-elle totalement exonérée d'impôt sur le revenu et de prélèvements sociaux ?",
     "choix": {
-      "A": "Après vingt-deux ans pour l'impôt sur le revenu et trente ans pour les prélèvements sociaux.",
-      "B": "Après cinq ans pour les deux impositions.",
+      "A": "22 ans pour l’IR, 30 ans pour les prélèvements sociaux.",
+      "B": "30 ans pour l’impôt sur le revenu, avec exonération des prélèvements sociaux dès la 22e année.",
       "C": "Après huit ans pour l'impôt et dix ans pour les prélèvements.",
       "D": "Après trente ans pour l'impôt et vingt-deux ans pour les prélèvements."
     },
@@ -1095,7 +1095,7 @@
     ],
     "explication": "Les abattements pour durée de détention suivent deux rythmes distincts : exonération d'IR après 22 ans et de prélèvements sociaux après 30 ans.",
     "pieges": {
-      "B": "Cinq ans marque le début des abattements, non l'exonération totale.",
+      "B": "Les abattements pour durée de détention suivent deux rythmes distincts : exonération d'IR après 22 ans et de prélèvements sociaux après 30 ans.",
       "C": "Ces durées ne sont pas celles du régime immobilier.",
       "D": "Les deux durées sont inversées."
     },
@@ -1141,19 +1141,19 @@
     "sous_domaine": "Abondement",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant l'abondement de l'employeur et sa nature, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant l'abondement de l'employeur (sa nature) ?",
     "choix": {
-      "A": "Il est versé uniquement à l'État.",
-      "B": "Il complète l'épargne du salarié dans les limites et conditions du dispositif.",
+      "A": "Une fraction du salaire prélevée sur la paie puis affectée par défaut au fonds de l’entreprise.",
+      "B": "Un complément de l’employeur dans les limites du plan.",
       "C": "Il constitue un crédit remboursable à la banque.",
       "D": "Il remplace le salaire obligatoire."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "Il complète l'épargne du salarié dans les limites et conditions du dispositif. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Il complète l'épargne du salarié dans les limites et conditions du dispositif.",
     "pieges": {
-      "A": "Cette réponse attribue à l'abondement de l'employeur un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "A": "Il complète l'épargne du salarié dans les limites et conditions du dispositif.",
       "C": "Cette réponse attribue à l'abondement de l'employeur un effet ou une condition qui ne correspond pas à la règle exacte.",
       "D": "Cette réponse attribue à l'abondement de l'employeur un effet ou une condition qui ne correspond pas à la règle exacte."
     },
@@ -1170,21 +1170,21 @@
     "sous_domaine": "Formation",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant la formation continue DDA et sa durée annuelle minimale, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant la formation continue DDA (sa durée annuelle minimale) ?",
     "choix": {
       "A": "Elle est facultative pour tous les distributeurs.",
-      "B": "La durée minimale est de quinze heures par an pour les personnes concernées par la distribution d'assurances.",
+      "B": "Au moins quinze heures par an.",
       "C": "Elle est d'une heure tous les dix ans.",
-      "D": "Elle n'existe que pour les actuaires."
+      "D": "Quinze heures à répartir librement sur trois années de distribution consécutives."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "La durée minimale est de quinze heures par an pour les personnes concernées par la distribution d'assurances. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "La durée minimale est de quinze heures par an pour les personnes concernées par la distribution d'assurances.",
     "pieges": {
       "A": "Cette réponse attribue à la formation continue DDA un effet ou une condition qui ne correspond pas à la règle exacte.",
       "C": "Cette réponse attribue à la formation continue DDA un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "D": "Cette réponse attribue à la formation continue DDA un effet ou une condition qui ne correspond pas à la règle exacte."
+      "D": "La durée minimale est de quinze heures par an pour les personnes concernées par la distribution d'assurances."
     },
     "sources": [
       "S003"
@@ -1199,17 +1199,17 @@
     "sous_domaine": "Crédit renouvelable — distinctions",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Quel rapprochement entre une notion et sa règle est erroné ?",
+    "enonce": "Crédit renouvelable — distinctions — quelle affirmation est incorrecte ?",
     "choix": {
-      "A": "« l'évaluation de solvabilité — son objet » : Elle vise à apprécier la capacité de l'emprunteur à respecter ses obligations de remboursement.",
-      "B": "« le crédit à la consommation — le délai de rétractation de principe » : Le délai de rétractation est de quatorze jours calendaires à compter de l'acceptation.",
-      "C": "« la fiche précontractuelle — sa fonction » : Elle présente les caractéristiques essentielles du crédit avant l'engagement.",
-      "D": "« le crédit renouvelable — sa réserve » : Le taux est nécessairement nul."
+      "A": "L'évaluation de solvabilité vise à apprécier la capacité de l'emprunteur à respecter ses obligations de remboursement.",
+      "B": "Le crédit à la consommation : Le délai de rétractation est de quatorze jours calendaires à compter de l'acceptation.",
+      "C": "La fiche précontractuelle présente les caractéristiques essentielles du crédit avant l'engagement.",
+      "D": "Le crédit renouvelable : Le taux est nécessairement nul."
     },
     "bonnes_reponses": [
       "D"
     ],
-    "explication": "L'association à écarter est inexacte. Pour « le crédit renouvelable — sa réserve », la règle correcte est : La réserve disponible se reconstitue au fur et à mesure des remboursements, dans les limites contractuelles.",
+    "explication": "La réserve disponible se reconstitue au fur et à mesure des remboursements, dans les limites contractuelles.",
     "pieges": {
       "A": "Cette association est exacte : Elle vise à apprécier la capacité de l'emprunteur à respecter ses obligations de remboursement.",
       "B": "Cette association est exacte : Le délai de rétractation est de quatorze jours calendaires à compter de l'acceptation.",
@@ -1247,9 +1247,9 @@
       "S068"
     ],
     "pieges": {
-      "A": "Proposition écartée : « La performance moyenne après frais suffit à fixer un retrait soutenable indépendamment des dates. » Avec des sorties, le nombre de parts cédées dépend du prix. Le rendement moyen seul ne décrit donc pas la soutenabilité des retraits.",
-      "C": "Proposition écartée : « À rendement moyen identique, les retraits réguliers neutralisent l'ordre des performances. » Avec des sorties, le nombre de parts cédées dépend du prix. Le rendement moyen seul ne décrit donc pas la soutenabilité des retraits.",
-      "D": "Proposition écartée : « Le risque de séquence concerne les versements seuls et disparaît lors de retraits. » Avec des sorties, le nombre de parts cédées dépend du prix. Le rendement moyen seul ne décrit donc pas la soutenabilité des retraits."
+      "A": "Proposition écartée : La performance moyenne après frais suffit à fixer un retrait soutenable indépendamment des dates. Avec des sorties, le nombre de parts cédées dépend du prix. Le rendement moyen seul ne décrit donc pas la soutenabilité des retraits.",
+      "C": "Proposition écartée : À rendement moyen identique, les retraits réguliers neutralisent l'ordre des performances. Avec des sorties, le nombre de parts cédées dépend du prix. Le rendement moyen seul ne décrit donc pas la soutenabilité des retraits.",
+      "D": "Proposition écartée : Le risque de séquence concerne les versements seuls et disparaît lors de retraits. Avec des sorties, le nombre de parts cédées dépend du prix. Le rendement moyen seul ne décrit donc pas la soutenabilité des retraits."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1278,9 +1278,9 @@
       "S157"
     ],
     "pieges": {
-      "A": "Proposition écartée : « Le produit bénéficie d'une certification publique de sa performance financière future. » Un objectif durable concerne la stratégie d'investissement. Il faut encore étudier les actifs, risques et documents ; la catégorie réglementaire ne garantit ni capital ni rendement.",
-      "C": "Proposition écartée : « Le produit promeut seulement des caractéristiques sans objectif d'investissement durable. » Un objectif durable concerne la stratégie d'investissement. Il faut encore étudier les actifs, risques et documents ; la catégorie réglementaire ne garantit ni capital ni rendement.",
-      "D": "Proposition écartée : « Le produit détient nécessairement exclusivement des activités alignées sur la taxonomie. » Un objectif durable concerne la stratégie d'investissement. Il faut encore étudier les actifs, risques et documents ; la catégorie réglementaire ne garantit ni capital ni rendement."
+      "A": "Proposition écartée : Le produit bénéficie d'une certification publique de sa performance financière future. Un objectif durable concerne la stratégie d'investissement. Il faut encore étudier les actifs, risques et documents ; la catégorie réglementaire ne garantit ni capital ni rendement.",
+      "C": "Proposition écartée : Le produit promeut seulement des caractéristiques sans objectif d'investissement durable. Un objectif durable concerne la stratégie d'investissement. Il faut encore étudier les actifs, risques et documents ; la catégorie réglementaire ne garantit ni capital ni rendement.",
+      "D": "Proposition écartée : Le produit détient nécessairement exclusivement des activités alignées sur la taxonomie. Un objectif durable concerne la stratégie d'investissement. Il faut encore étudier les actifs, risques et documents ; la catégorie réglementaire ne garantit ni capital ni rendement."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1309,8 +1309,8 @@
       "S068"
     ],
     "pieges": {
-      "A": "Proposition écartée : « L'absence de cotation comme preuve d'interdiction de céder. » Les statuts et pactes peuvent organiser l'entrée d'un acquéreur et les priorités de rachat. L'absence de cotation crée une difficulté de liquidité, pas une interdiction générale de vendre.",
-      "D": "Proposition écartée : « La seule présence d'un compte courant bancaire. » Les statuts et pactes peuvent organiser l'entrée d'un acquéreur et les priorités de rachat. L'absence de cotation crée une difficulté de liquidité, pas une interdiction générale de vendre."
+      "A": "Proposition écartée : L'absence de cotation comme preuve d'interdiction de céder. Les statuts et pactes peuvent organiser l'entrée d'un acquéreur et les priorités de rachat. L'absence de cotation crée une difficulté de liquidité, pas une interdiction générale de vendre.",
+      "D": "Proposition écartée : La seule présence d'un compte courant bancaire. Les statuts et pactes peuvent organiser l'entrée d'un acquéreur et les priorités de rachat. L'absence de cotation crée une difficulté de liquidité, pas une interdiction générale de vendre."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1339,9 +1339,9 @@
       "S160"
     ],
     "pieges": {
-      "A": "Proposition écartée : « La représentation générale attachée à la tutelle. » La sauvegarde est une mesure de protection plus légère. Les actes peuvent faire l'objet de recours spécifiques et les pouvoirs d'un mandataire spécial doivent être vérifiés.",
-      "B": "Proposition écartée : « La gestion de tous les comptes par les enfants. » La sauvegarde est une mesure de protection plus légère. Les actes peuvent faire l'objet de recours spécifiques et les pouvoirs d'un mandataire spécial doivent être vérifiés.",
-      "C": "Proposition écartée : « La disparition de toute possibilité de contestation des actes. » La sauvegarde est une mesure de protection plus légère. Les actes peuvent faire l'objet de recours spécifiques et les pouvoirs d'un mandataire spécial doivent être vérifiés."
+      "A": "Proposition écartée : La représentation générale attachée à la tutelle. La sauvegarde est une mesure de protection plus légère. Les actes peuvent faire l'objet de recours spécifiques et les pouvoirs d'un mandataire spécial doivent être vérifiés.",
+      "B": "Proposition écartée : La gestion de tous les comptes par les enfants. La sauvegarde est une mesure de protection plus légère. Les actes peuvent faire l'objet de recours spécifiques et les pouvoirs d'un mandataire spécial doivent être vérifiés.",
+      "C": "Proposition écartée : La disparition de toute possibilité de contestation des actes. La sauvegarde est une mesure de protection plus légère. Les actes peuvent faire l'objet de recours spécifiques et les pouvoirs d'un mandataire spécial doivent être vérifiés."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1368,7 +1368,7 @@
       "S161"
     ],
     "pieges": {
-      "B": "Proposition écartée : « Vrai » Le tiers payant dispense d'avancer certaines sommes ; il ne fixe pas le niveau de remboursement. Des dépassements ou prestations non couvertes peuvent rester à charge."
+      "B": "Proposition écartée : Vrai Le tiers payant dispense d'avancer certaines sommes ; il ne fixe pas le niveau de remboursement. Des dépassements ou prestations non couvertes peuvent rester à charge."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1396,9 +1396,9 @@
       "S164"
     ],
     "pieges": {
-      "A": "Proposition écartée : « Le reçu fiscal constitue une créance de remboursement du don. » L'avantage fiscal éventuel réduit le coût du geste sous conditions. Il ne transforme pas la libéralité en investissement remboursable ; il faut préserver les besoins du donateur.",
-      "B": "Proposition écartée : « Le don garantit un revenu au donateur. » L'avantage fiscal éventuel réduit le coût du geste sous conditions. Il ne transforme pas la libéralité en investissement remboursable ; il faut préserver les besoins du donateur.",
-      "C": "Proposition écartée : « Un don est une avance récupérable à volonté. » L'avantage fiscal éventuel réduit le coût du geste sous conditions. Il ne transforme pas la libéralité en investissement remboursable ; il faut préserver les besoins du donateur."
+      "A": "Proposition écartée : Le reçu fiscal constitue une créance de remboursement du don. L'avantage fiscal éventuel réduit le coût du geste sous conditions. Il ne transforme pas la libéralité en investissement remboursable ; il faut préserver les besoins du donateur.",
+      "B": "Proposition écartée : Le don garantit un revenu au donateur. L'avantage fiscal éventuel réduit le coût du geste sous conditions. Il ne transforme pas la libéralité en investissement remboursable ; il faut préserver les besoins du donateur.",
+      "C": "Proposition écartée : Un don est une avance récupérable à volonté. L'avantage fiscal éventuel réduit le coût du geste sous conditions. Il ne transforme pas la libéralité en investissement remboursable ; il faut préserver les besoins du donateur."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1430,9 +1430,9 @@
       "S166"
     ],
     "pieges": {
-      "A": "Proposition écartée : « Une nue-propriété d'argent immédiatement disponible pour le nu-propriétaire. » Sur une chose consomptible, l'usage conduit à sa consommation. La créance de restitution doit être documentée et sa sécurité étudiée ; son traitement fiscal nécessite une analyse distincte.",
-      "B": "Proposition écartée : « Une faculté de consommer les fonds sans créance de restitution au terme. » Sur une chose consomptible, l'usage conduit à sa consommation. La créance de restitution doit être documentée et sa sécurité étudiée ; son traitement fiscal nécessite une analyse distincte.",
-      "C": "Proposition écartée : « Une obligation de conserver à l'identique les sommes sur un compte bloqué. » Sur une chose consomptible, l'usage conduit à sa consommation. La créance de restitution doit être documentée et sa sécurité étudiée ; son traitement fiscal nécessite une analyse distincte."
+      "A": "Proposition écartée : Une nue-propriété d'argent immédiatement disponible pour le nu-propriétaire. Sur une chose consomptible, l'usage conduit à sa consommation. La créance de restitution doit être documentée et sa sécurité étudiée ; son traitement fiscal nécessite une analyse distincte.",
+      "B": "Proposition écartée : Une faculté de consommer les fonds sans créance de restitution au terme. Sur une chose consomptible, l'usage conduit à sa consommation. La créance de restitution doit être documentée et sa sécurité étudiée ; son traitement fiscal nécessite une analyse distincte.",
+      "C": "Proposition écartée : Une obligation de conserver à l'identique les sommes sur un compte bloqué. Sur une chose consomptible, l'usage conduit à sa consommation. La créance de restitution doit être documentée et sa sécurité étudiée ; son traitement fiscal nécessite une analyse distincte."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1463,7 +1463,7 @@
       "S168"
     ],
     "pieges": {
-      "A": "Proposition écartée : « La seule économie successorale annoncée. » Une enveloppe transmissible reste un placement. L'intérêt patrimonial dépend des conditions concrètes, de la fiscalité propre à la situation et des besoins pendant la détention."
+      "A": "Proposition écartée : La seule économie successorale annoncée. Une enveloppe transmissible reste un placement. L'intérêt patrimonial dépend des conditions concrètes, de la fiscalité propre à la situation et des besoins pendant la détention."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",

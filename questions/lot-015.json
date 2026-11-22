@@ -4,21 +4,21 @@
     "sous_domaine": "Liquidation de l'impôt / Biens meubles",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Liquidation de l'impôt » et « Biens meubles », lesquelles sont exactes ?",
+    "enonce": "Liquidation de l'impôt et Biens meubles — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« Le prélèvement à la source constitue-t-il le calcul définitif de l'impôt sur le revenu  » : Non, l'impôt définitif est liquidé après la déclaration annuelle et peut donner lieu à solde ou remboursement.",
-      "B": "« Quels biens sont expressément exonérés du régime ordinaire des plus-values sur biens meubles, sauf qualification particulière d'objet d'art ou de collection  » : Les meubles meublants, les appareils ménagers et les automobiles.",
-      "C": "« Le prélèvement à la source constitue-t-il le calcul définitif de l'impôt sur le revenu  » : Oui, aucune déclaration annuelle n'est plus nécessaire.",
-      "D": "« Quels biens sont expressément exonérés du régime ordinaire des plus-values sur biens meubles, sauf qualification particulière d'objet d'art ou de collection  » : Toutes les œuvres d'art, quel que soit le régime choisi."
+      "A": "Prélèvement à la source et le calcul définitif de l'impôt sur le revenu : Non, l'impôt définitif est liquidé après la déclaration annuelle et peut donner lieu à solde ou remboursement.",
+      "B": "Biens expressément exonérés du régime ordinaire des plus-values sur biens meubles, sauf qualification particulière d'objet d'art ou de collection : Les meubles meublants, les appareils ménagers et les automobiles.",
+      "C": "Prélèvement à la source et le calcul définitif de l'impôt sur le revenu : Oui, aucune déclaration annuelle n'est plus nécessaire.",
+      "D": "Biens expressément exonérés du régime ordinaire des plus-values sur biens meubles, sauf qualification particulière d'objet d'art ou de collection : Toutes les œuvres d'art, quel que soit le régime choisi."
     },
     "bonnes_reponses": [
       "A",
       "B"
     ],
-    "explication": "Les règles à retenir sont : « Le prélèvement à la source constitue-t-il le calcul définitif de l'impôt sur le revenu  » : Non, l'impôt définitif est liquidé après la déclaration annuelle et peut donner lieu à solde ou remboursement. « Quels biens sont expressément exonérés du régime ordinaire des plus-values sur biens meubles, sauf qualification particulière d'objet d'art ou de collection  » : Les meubles meublants, les appareils ménagers et les automobiles.",
+    "explication": "Prélèvement à la source et le calcul définitif de l'impôt sur le revenu : Non, l'impôt définitif est liquidé après la déclaration annuelle et peut donner lieu à solde ou remboursement. Biens expressément exonérés du régime ordinaire des plus-values sur biens meubles, sauf qualification particulière d'objet d'art ou de collection : Les meubles meublants, les appareils ménagers et les automobiles.",
     "pieges": {
-      "C": "Cette association est inexacte. Pour « Le prélèvement à la source constitue-t-il le calcul définitif de l'impôt sur le revenu  », la règle exacte est : Non, l'impôt définitif est liquidé après la déclaration annuelle et peut donner lieu à solde ou remboursement.",
-      "D": "Cette association est inexacte. Pour « Quels biens sont expressément exonérés du régime ordinaire des plus-values sur biens meubles, sauf qualification particulière d'objet d'art ou de collection  », la règle exacte est : Les meubles meublants, les appareils ménagers et les automobiles."
+      "C": "Non, l'impôt définitif est liquidé après la déclaration annuelle et peut donner lieu à solde ou remboursement.",
+      "D": "Les meubles meublants, les appareils ménagers et les automobiles."
     },
     "sources": [
       "S122",
@@ -34,7 +34,7 @@
     "sous_domaine": "Niches fiscales",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « Les dons ouvrant droit à réduction d'impôt entrent-ils dans le plafonnement global de 10 000 euros  » : Non, les avantages poursuivant un objectif d'intérêt général sans contrepartie en sont exclus.",
+    "enonce": "Inclusion des dons ouvrant droit à réduction d'impôt dans le plafonnement global de 10 000 euros : Non, les avantages poursuivant un objectif d'intérêt général sans contrepartie en sont exclus.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -88,7 +88,7 @@
     "sous_domaine": "Polypensionné",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « Quel réflexe s'impose lorsqu'une carrière a relevé de plusieurs statuts professionnels  » : Identifier tous les régimes de base et complémentaires concernés et vérifier les droits dans chacun.",
+    "enonce": "Démarche à suivre lorsqu’une carrière a relevé de plusieurs statuts professionnels : Identifier tous les régimes de base et complémentaires concernés et vérifier les droits dans chacun.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -171,21 +171,21 @@
     "sous_domaine": "Donation / Donation",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Donation », lesquelles sont exactes ?",
+    "enonce": "Donation et Donation — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« l'abattement parent-enfant — son renouvellement » : Il ne s'applique qu'une fois dans la vie.",
-      "B": "« une donation — son caractère » : Il s'agit d'une transmission entre vifs qui dessaisit le donateur dans les conditions de l'acte.",
-      "C": "« l'abattement parent-enfant — son renouvellement » : Il se renouvelle en principe après le délai fiscal de rappel applicable.",
-      "D": "« une donation — son caractère » : Elle ne peut porter sur aucun bien immobilier."
+      "A": "L'abattement parent-enfant ne s'applique qu'une fois dans la vie.",
+      "B": "Une donation est une transmission entre vifs qui dessaisit le donateur dans les conditions de l'acte.",
+      "C": "L'abattement parent-enfant se renouvelle en principe après le délai fiscal de rappel applicable.",
+      "D": "Une donation ne peut porter sur aucun bien immobilier."
     },
     "bonnes_reponses": [
       "B",
       "C"
     ],
-    "explication": "Les règles à retenir sont : « une donation — son caractère » : Il s'agit d'une transmission entre vifs qui dessaisit le donateur dans les conditions de l'acte. « l'abattement parent-enfant — son renouvellement » : Il se renouvelle en principe après le délai fiscal de rappel applicable.",
+    "explication": "Une donation est une transmission entre vifs qui dessaisit le donateur dans les conditions de l'acte. L'abattement parent-enfant se renouvelle en principe après le délai fiscal de rappel applicable.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « l'abattement parent-enfant — son renouvellement », la règle exacte est : Il se renouvelle en principe après le délai fiscal de rappel applicable.",
-      "D": "Cette association est inexacte. Pour « une donation — son caractère », la règle exacte est : Il s'agit d'une transmission entre vifs qui dessaisit le donateur dans les conditions de l'acte."
+      "A": "Il se renouvelle en principe après le délai fiscal de rappel applicable.",
+      "D": "Il s'agit d'une transmission entre vifs qui dessaisit le donateur dans les conditions de l'acte."
     },
     "sources": [
       "S021"
@@ -200,7 +200,7 @@
     "sous_domaine": "Abattement handicap",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « Quel est le caractère de l'abattement de 159 325 euros applicable à certaines donations ou successions au profit d'une personne handicapée  » : Il peut se cumuler avec l'abattement lié au lien de parenté, sous les conditions du texte.",
+    "enonce": "Caractère de l'abattement de 159 325 euros applicable à certaines donations ou successions au profit d'une personne handicapée : Il peut se cumuler avec l'abattement lié au lien de parenté, sous les conditions du texte.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -225,21 +225,21 @@
     "sous_domaine": "Donation-partage / Déclaration du don",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Donation-partage » et « Déclaration du don », lesquelles sont exactes ?",
+    "enonce": "Donation-partage et Déclaration du don — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« Qui doit en principe déclarer un don manuel à l'administration fiscale  » : Le donataire, c'est-à-dire le bénéficiaire du don.",
-      "B": "« la donation-partage — sa finalité » : Elle interdit toute transmission aux enfants.",
-      "C": "« Qui doit en principe déclarer un don manuel à l'administration fiscale  » : Aucune déclaration n'est jamais requise.",
-      "D": "« la donation-partage — sa finalité » : Elle permet d'anticiper et d'organiser la répartition de biens entre bénéficiaires dans un acte de donation et de partage."
+      "A": "Personne tenue de déclarer un don manuel à l'administration fiscale : Le donataire, c'est-à-dire le bénéficiaire du don.",
+      "B": "La donation-partage interdit toute transmission aux enfants.",
+      "C": "Personne tenue de déclarer un don manuel à l'administration fiscale : Aucune déclaration n'est jamais requise.",
+      "D": "La donation-partage permet d'anticiper et d'organiser la répartition de biens entre bénéficiaires dans un acte de donation et de partage."
     },
     "bonnes_reponses": [
       "A",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « la donation-partage — sa finalité » : Elle permet d'anticiper et d'organiser la répartition de biens entre bénéficiaires dans un acte de donation et de partage. « Qui doit en principe déclarer un don manuel à l'administration fiscale  » : Le donataire, c'est-à-dire le bénéficiaire du don.",
+    "explication": "Personne tenue de déclarer un don manuel à l'administration fiscale : Le donataire, c'est-à-dire le bénéficiaire du don. La donation-partage permet d'anticiper et d'organiser la répartition de biens entre bénéficiaires dans un acte de donation et de partage.",
     "pieges": {
-      "B": "Cette association est inexacte. Pour « la donation-partage — sa finalité », la règle exacte est : Elle permet d'anticiper et d'organiser la répartition de biens entre bénéficiaires dans un acte de donation et de partage.",
-      "C": "Cette association est inexacte. Pour « Qui doit en principe déclarer un don manuel à l'administration fiscale  », la règle exacte est : Le donataire, c'est-à-dire le bénéficiaire du don."
+      "B": "Elle permet d'anticiper et d'organiser la répartition de biens entre bénéficiaires dans un acte de donation et de partage.",
+      "C": "Le donataire, c'est-à-dire le bénéficiaire du don."
     },
     "sources": [
       "S047",
@@ -342,21 +342,21 @@
     "sous_domaine": "Fiscalité des rachats / Fiscalité des rachats",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Fiscalité des rachats », lesquelles sont exactes ?",
+    "enonce": "Fiscalité des rachats et Fiscalité des rachats — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« un rachat d'assurance-vie — l'assiette imposable » : Aucune fraction n'est jamais imposable.",
-      "B": "« un contrat de plus de huit ans — l'abattement annuel » : L'abattement s'applique aux versements et non aux produits.",
-      "C": "« un rachat d'assurance-vie — l'assiette imposable » : Seule la quote-part de produits comprise dans le rachat est imposable, et non la totalité de la somme retirée.",
-      "D": "« un contrat de plus de huit ans — l'abattement annuel » : Un abattement annuel sur les produits retirés peut s'appliquer, selon la situation familiale."
+      "A": "Un rachat d'assurance-vie : Aucune fraction n'est jamais imposable.",
+      "B": "Un contrat de plus de huit ans : L'abattement s'applique aux versements et non aux produits.",
+      "C": "Un rachat d'assurance-vie : Seule la quote-part de produits comprise dans le rachat est imposable, et non la totalité de la somme retirée.",
+      "D": "Un contrat de plus de huit ans : Un abattement annuel sur les produits retirés peut s'appliquer, selon la situation familiale."
     },
     "bonnes_reponses": [
       "C",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « un rachat d'assurance-vie — l'assiette imposable » : Seule la quote-part de produits comprise dans le rachat est imposable, et non la totalité de la somme retirée. « un contrat de plus de huit ans — l'abattement annuel » : Un abattement annuel sur les produits retirés peut s'appliquer, selon la situation familiale.",
+    "explication": "Un rachat d'assurance-vie : Seule la quote-part de produits comprise dans le rachat est imposable, et non la totalité de la somme retirée. Un contrat de plus de huit ans : Un abattement annuel sur les produits retirés peut s'appliquer, selon la situation familiale.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « un rachat d'assurance-vie — l'assiette imposable », la règle exacte est : Seule la quote-part de produits comprise dans le rachat est imposable, et non la totalité de la somme retirée.",
-      "B": "Cette association est inexacte. Pour « un contrat de plus de huit ans — l'abattement annuel », la règle exacte est : Un abattement annuel sur les produits retirés peut s'appliquer, selon la situation familiale."
+      "A": "Seule la quote-part de produits comprise dans le rachat est imposable, et non la totalité de la somme retirée.",
+      "B": "Un abattement annuel sur les produits retirés peut s'appliquer, selon la situation familiale."
     },
     "sources": [
       "S023",
@@ -372,19 +372,19 @@
     "sous_domaine": "Fiscalité des rachats",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant un rachat d'assurance-vie et l'assiette imposable, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant un rachat d'assurance-vie (l'assiette imposable) ?",
     "choix": {
-      "A": "Seul le capital initial est imposable.",
+      "A": "Les seuls gains des supports vendus pour financer matériellement le retrait.",
       "B": "Aucune fraction n'est jamais imposable.",
-      "C": "Seule la quote-part de produits comprise dans le rachat est imposable, et non la totalité de la somme retirée.",
+      "C": "La part de gains comprise dans le rachat.",
       "D": "La totalité du rachat constitue toujours un revenu."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "Seule la quote-part de produits comprise dans le rachat est imposable, et non la totalité de la somme retirée. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Seule la quote-part de produits comprise dans le rachat est imposable, et non la totalité de la somme retirée.",
     "pieges": {
-      "A": "Cette réponse attribue à un rachat d'assurance-vie un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "A": "Seule la quote-part de produits comprise dans le rachat est imposable, et non la totalité de la somme retirée.",
       "B": "Cette réponse attribue à un rachat d'assurance-vie un effet ou une condition qui ne correspond pas à la règle exacte.",
       "D": "Cette réponse attribue à un rachat d'assurance-vie un effet ou une condition qui ne correspond pas à la règle exacte."
     },
@@ -430,21 +430,21 @@
     "sous_domaine": "DPE",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant le diagnostic de performance énergétique et sa fonction, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant le diagnostic de performance énergétique (sa fonction) ?",
     "choix": {
       "A": "Il remplace l'acte de propriété.",
       "B": "Il mesure uniquement la surface habitable.",
-      "C": "Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire.",
-      "D": "Il garantit la valeur de vente."
+      "C": "Les performances énergétique et climatique du logement.",
+      "D": "Le montant en euros de la prochaine facture de l’occupant, d’après ses consommations personnelles."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire.",
     "pieges": {
       "A": "Cette réponse attribue à le diagnostic de performance énergétique un effet ou une condition qui ne correspond pas à la règle exacte.",
       "B": "Cette réponse attribue à le diagnostic de performance énergétique un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "D": "Cette réponse attribue à le diagnostic de performance énergétique un effet ou une condition qui ne correspond pas à la règle exacte."
+      "D": "Il classe notamment la performance énergétique et climatique du logement selon la méthode réglementaire."
     },
     "sources": [
       "S011"
@@ -459,21 +459,21 @@
     "sous_domaine": "Décence énergétique",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant le calendrier métropolitain et les classes progressivement concernées, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant le calendrier métropolitain (les classes progressivement concernées) ?",
     "choix": {
       "A": "Toutes les classes sont interdites depuis 2020.",
       "B": "Seule la classe A est concernée.",
-      "C": "Aucun calendrier n'existe.",
-      "D": "Le calendrier vise les logements G depuis 2025, F à partir de 2028 et E à partir de 2034."
+      "C": "G en 2025, puis F et E simultanément au renouvellement des baux à partir de 2028.",
+      "D": "G en 2025, F en 2028 et E en 2034."
     },
     "bonnes_reponses": [
       "D"
     ],
-    "explication": "Le calendrier vise les logements G depuis 2025, F à partir de 2028 et E à partir de 2034. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Le calendrier vise les logements G depuis 2025, F à partir de 2028 et E à partir de 2034.",
     "pieges": {
       "A": "Cette réponse attribue à le calendrier métropolitain un effet ou une condition qui ne correspond pas à la règle exacte.",
       "B": "Cette réponse attribue à le calendrier métropolitain un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "C": "Cette réponse attribue à le calendrier métropolitain un effet ou une condition qui ne correspond pas à la règle exacte."
+      "C": "Le calendrier vise les logements G depuis 2025, F à partir de 2028 et E à partir de 2034."
     },
     "sources": [
       "S012"
@@ -488,7 +488,7 @@
     "sous_domaine": "Déficit foncier",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « Sur quelle durée la fraction du déficit foncier correspondant aux intérêts d'emprunt peut-elle en principe être reportée  » : Six mois sur les revenus mobiliers.",
+    "enonce": "Durée de report de la fraction du déficit foncier correspondant aux intérêts d'emprunt : Six mois sur les revenus mobiliers.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -513,21 +513,21 @@
     "sous_domaine": "Volatilité",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant la volatilité et sa signification, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant la volatilité (sa signification) ?",
     "choix": {
       "A": "Elle correspond au coupon certain.",
       "B": "Elle mesure uniquement les frais de tenue de compte.",
-      "C": "Elle mesure l'amplitude des variations d'un actif autour de son évolution moyenne sur une période.",
-      "D": "Elle garantit le capital."
+      "C": "La dispersion des variations de valeur.",
+      "D": "La perte maximale certaine sur la période correspondant à l’horizon de placement."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "Elle mesure l'amplitude des variations d'un actif autour de son évolution moyenne sur une période. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle mesure l'amplitude des variations d'un actif autour de son évolution moyenne sur une période.",
     "pieges": {
       "A": "Cette réponse attribue à la volatilité un effet ou une condition qui ne correspond pas à la règle exacte.",
       "B": "Cette réponse attribue à la volatilité un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "D": "Cette réponse attribue à la volatilité un effet ou une condition qui ne correspond pas à la règle exacte."
+      "D": "Elle mesure l'amplitude des variations d'un actif autour de son évolution moyenne sur une période."
     },
     "sources": [
       "S055"
@@ -542,20 +542,20 @@
     "sous_domaine": "Produits structurés",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant un produit structuré et la formule de remboursement, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant un produit structuré (la formule de remboursement) ?",
     "choix": {
       "A": "Elle garantit nécessairement un gain illimité.",
-      "B": "Elle dépend de conditions définies à l'avance et liées à un ou plusieurs sous-jacents.",
-      "C": "Elle est toujours égale au Livret A.",
+      "B": "Elle dépend de la formule et des sous-jacents.",
+      "C": "Elle dépend du dernier coupon annoncé même si les conditions de la formule ne sont plus remplies.",
       "D": "Elle est fixée après l'échéance sans règle préalable."
     },
     "bonnes_reponses": [
       "B"
     ],
-    "explication": "Elle dépend de conditions définies à l'avance et liées à un ou plusieurs sous-jacents. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle dépend de conditions définies à l'avance et liées à un ou plusieurs sous-jacents.",
     "pieges": {
       "A": "Cette réponse attribue à un produit structuré un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "C": "Cette réponse attribue à un produit structuré un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "C": "Elle dépend de conditions définies à l'avance et liées à un ou plusieurs sous-jacents.",
       "D": "Cette réponse attribue à un produit structuré un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -571,7 +571,7 @@
     "sous_domaine": "Garantie des dépôts",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « les titres financiers conservés en compte-titres — leur propriété » : Ils restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées.",
+    "enonce": "Les titres financiers conservés en compte-titres restent la propriété du client et relèvent d'un mécanisme distinct de la garantie des espèces déposées.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -596,19 +596,19 @@
     "sous_domaine": "Fragilité financière",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant l'offre spécifique clientèle fragile et sa finalité, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant l'offre spécifique clientèle fragile (sa finalité) ?",
     "choix": {
-      "A": "Elle garantit un découvert illimité.",
+      "A": "Une autorisation de découvert obligatoire destinée à financer les dépenses courantes du titulaire.",
       "B": "Elle supprime toute tarification bancaire.",
       "C": "Elle est réservée aux sociétés de gestion.",
-      "D": "Elle vise à fournir des services bancaires adaptés et à limiter certains frais pour les clients éligibles."
+      "D": "Des services adaptés et un plafonnement de certains frais."
     },
     "bonnes_reponses": [
       "D"
     ],
-    "explication": "Elle vise à fournir des services bancaires adaptés et à limiter certains frais pour les clients éligibles. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle vise à fournir des services bancaires adaptés et à limiter certains frais pour les clients éligibles.",
     "pieges": {
-      "A": "Cette réponse attribue à l'offre spécifique clientèle fragile un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "A": "Elle vise à fournir des services bancaires adaptés et à limiter certains frais pour les clients éligibles.",
       "B": "Cette réponse attribue à l'offre spécifique clientèle fragile un effet ou une condition qui ne correspond pas à la règle exacte.",
       "C": "Cette réponse attribue à l'offre spécifique clientèle fragile un effet ou une condition qui ne correspond pas à la règle exacte."
     },
@@ -625,21 +625,21 @@
     "sous_domaine": "PEA Jeunes / Compte-titres",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « PEA Jeunes » et « Compte-titres », lesquelles sont exactes ?",
+    "enonce": "PEA Jeunes et Compte-titres — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« Quel est le plafond de versements d'un PEA Jeunes  » : 61 200 euros.",
-      "B": "« les revenus et plus-values du compte-titres — leur fiscalité » : Ils sont traités comme des intérêts de Livret A.",
-      "C": "« Quel est le plafond de versements d'un PEA Jeunes  » : 20 000 euros.",
-      "D": "« les revenus et plus-values du compte-titres — leur fiscalité » : Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe."
+      "A": "Plafond de versements d'un PEA Jeunes : 61 200 euros.",
+      "B": "Les revenus et plus-values du compte-titres sont traités comme des intérêts de Livret A.",
+      "C": "Plafond de versements d'un PEA Jeunes : 20 000 euros.",
+      "D": "Les revenus et plus-values du compte-titres relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe."
     },
     "bonnes_reponses": [
       "C",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « Quel est le plafond de versements d'un PEA Jeunes  » : 20 000 euros. « les revenus et plus-values du compte-titres — leur fiscalité » : Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe.",
+    "explication": "Plafond de versements d'un PEA Jeunes : 20 000 euros. Les revenus et plus-values du compte-titres relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « Quel est le plafond de versements d'un PEA Jeunes  », la règle exacte est : 20 000 euros.",
-      "B": "Cette association est inexacte. Pour « les revenus et plus-values du compte-titres — leur fiscalité », la règle exacte est : Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe."
+      "A": "20 000 euros.",
+      "B": "Ils relèvent de la fiscalité des revenus mobiliers et plus-values, sans exonération générale liée à l'ancienneté de l'enveloppe."
     },
     "sources": [
       "S102",
@@ -655,20 +655,20 @@
     "sous_domaine": "Compte-titres",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant le compte-titres ordinaire et son univers d'investissement, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant le compte-titres ordinaire (son univers d'investissement) ?",
     "choix": {
       "A": "Il est limité aux seuls titres éligibles au PEA.",
-      "B": "Il garantit le capital.",
+      "B": "Seulement les titres admis dans un PEA, avec une limite de versement distincte.",
       "C": "Il est réservé aux mineurs émancipés.",
-      "D": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables."
+      "D": "Un large éventail de titres accessibles au titulaire."
     },
     "bonnes_reponses": [
       "D"
     ],
-    "explication": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables.",
     "pieges": {
       "A": "Cette réponse attribue à le compte-titres ordinaire un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "B": "Cette réponse attribue à le compte-titres ordinaire un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Il permet d'accéder à un univers large de titres, sous réserve de la commercialisation et des règles applicables.",
       "C": "Cette réponse attribue à le compte-titres ordinaire un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -684,20 +684,20 @@
     "sous_domaine": "Livret jeune",
     "difficulte": "intermediaire",
     "type_question": "unique",
-    "enonce": "Concernant le Livret jeune et l'âge du titulaire, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant le Livret jeune (l'âge du titulaire) ?",
     "choix": {
       "A": "Il n'est accessible qu'aux entreprises.",
-      "B": "Il est sans condition d'âge.",
-      "C": "Il est destiné aux personnes âgées de douze à vingt-cinq ans sous les conditions prévues.",
+      "B": "De 16 à 25 ans avec maintien possible jusqu’au premier emploi stable.",
+      "C": "De 12 à 25 ans, sous conditions.",
       "D": "Il est réservé aux plus de soixante-dix ans."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "Il est destiné aux personnes âgées de douze à vingt-cinq ans sous les conditions prévues. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Il est destiné aux personnes âgées de douze à vingt-cinq ans sous les conditions prévues.",
     "pieges": {
       "A": "Cette réponse attribue à le Livret jeune un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "B": "Cette réponse attribue à le Livret jeune un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Il est destiné aux personnes âgées de douze à vingt-cinq ans sous les conditions prévues.",
       "D": "Cette réponse attribue à le Livret jeune un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -742,21 +742,21 @@
     "sous_domaine": "Taux directeurs / Corrélation",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Taux directeurs » et « Corrélation », lesquelles sont exactes ?",
+    "enonce": "Taux directeurs et Corrélation — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« la corrélation entre deux actifs — son interprétation » : Elle garantit des performances identiques.",
-      "B": "« une hausse des taux directeurs — son effet général » : Elle tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire.",
-      "C": "« la corrélation entre deux actifs — son interprétation » : Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité.",
-      "D": "« une hausse des taux directeurs — son effet général » : Elle rend tous les crédits gratuits."
+      "A": "La corrélation entre deux actifs garantit des performances identiques.",
+      "B": "Une hausse des taux directeurs tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire.",
+      "C": "La corrélation entre deux actifs mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité.",
+      "D": "Une hausse des taux directeurs rend tous les crédits gratuits."
     },
     "bonnes_reponses": [
       "B",
       "C"
     ],
-    "explication": "Les règles à retenir sont : « une hausse des taux directeurs — son effet général » : Elle tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire. « la corrélation entre deux actifs — son interprétation » : Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité.",
+    "explication": "Une hausse des taux directeurs tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire. La corrélation entre deux actifs mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « la corrélation entre deux actifs — son interprétation », la règle exacte est : Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité.",
-      "D": "Cette association est inexacte. Pour « une hausse des taux directeurs — son effet général », la règle exacte est : Elle tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire."
+      "A": "Elle mesure la tendance de leurs variations à évoluer ensemble, sans démontrer nécessairement une causalité.",
+      "D": "Elle tend à renchérir le coût du crédit et à freiner la demande, avec des effets variables selon la transmission monétaire."
     },
     "sources": [
       "S081",
@@ -772,7 +772,7 @@
     "sous_domaine": "Arbitrage",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « un arbitrage conseillé sous MIF 2 — l'analyse coûts-avantages » : Il doit notamment faire l'objet d'une appréciation du rapport coûts-avantages pour le client selon les exigences applicables.",
+    "enonce": "Un arbitrage conseillé sous MIF 2 doit notamment faire l'objet d'une appréciation du rapport coûts-avantages pour le client selon les exigences applicables.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -797,20 +797,20 @@
     "sous_domaine": "Résidence fiscale",
     "difficulte": "avance",
     "type_question": "unique",
-    "enonce": "Concernant la résidence fiscale et sa détermination, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant la résidence fiscale (sa détermination) ?",
     "choix": {
       "A": "Elle dépend uniquement de la nationalité.",
-      "B": "Elle est choisie librement chaque mois.",
+      "B": "La nationalité figurant sur le passeport détermine à elle seule la résidence fiscale conventionnelle.",
       "C": "Elle correspond toujours au pays de naissance.",
-      "D": "Elle dépend des critères des droits internes et, en cas de conflit, des conventions fiscales applicables."
+      "D": "Les droits internes et, en cas de conflit, la convention applicable."
     },
     "bonnes_reponses": [
       "D"
     ],
-    "explication": "Elle dépend des critères des droits internes et, en cas de conflit, des conventions fiscales applicables. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Elle dépend des critères des droits internes et, en cas de conflit, des conventions fiscales applicables.",
     "pieges": {
       "A": "Cette réponse attribue à la résidence fiscale un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "B": "Cette réponse attribue à la résidence fiscale un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Elle dépend des critères des droits internes et, en cas de conflit, des conventions fiscales applicables.",
       "C": "Cette réponse attribue à la résidence fiscale un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -846,9 +846,9 @@
       "S086"
     ],
     "pieges": {
-      "A": "Proposition écartée : « Rendre tout investissement français interdit. » La mobilité exige une nouvelle analyse juridique, fiscale et de distribution. Les effets varient selon le produit et les États ; il n'existe pas de conséquence universelle.",
-      "C": "Proposition écartée : « Transférer automatiquement tous les contrats à l'étranger. » La mobilité exige une nouvelle analyse juridique, fiscale et de distribution. Les effets varient selon le produit et les États ; il n'existe pas de conséquence universelle.",
-      "D": "Proposition écartée : « Supprimer les clauses contractuelles existantes. » La mobilité exige une nouvelle analyse juridique, fiscale et de distribution. Les effets varient selon le produit et les États ; il n'existe pas de conséquence universelle."
+      "A": "Proposition écartée : Rendre tout investissement français interdit. La mobilité exige une nouvelle analyse juridique, fiscale et de distribution. Les effets varient selon le produit et les États ; il n'existe pas de conséquence universelle.",
+      "C": "Proposition écartée : Transférer automatiquement tous les contrats à l'étranger. La mobilité exige une nouvelle analyse juridique, fiscale et de distribution. Les effets varient selon le produit et les États ; il n'existe pas de conséquence universelle.",
+      "D": "Proposition écartée : Supprimer les clauses contractuelles existantes. La mobilité exige une nouvelle analyse juridique, fiscale et de distribution. Les effets varient selon le produit et les États ; il n'existe pas de conséquence universelle."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -859,20 +859,20 @@
     "sous_domaine": "Accessions",
     "difficulte": "expert",
     "type_question": "unique",
-    "enonce": "Concernant une construction financée par la communauté sur le terrain propre d'un époux et la propriété du bien, quelle proposition restitue exactement la règle applicable ?",
+    "enonce": "Quelle affirmation est exacte concernant une construction financée par la communauté sur le terrain propre d'un époux (la propriété du bien) ?",
     "choix": {
       "A": "La construction est toujours commune par moitié.",
-      "B": "Le terrain devient automatiquement commun.",
+      "B": "La maison devient commune si les revenus du couple ont financé la majorité des travaux.",
       "C": "Aucune créance entre masses ne peut exister.",
-      "D": "Par accession, la construction appartient en principe au propriétaire du terrain, avec une éventuelle récompense à la communauté."
+      "D": "Elle suit le terrain, sous réserve d’une éventuelle récompense."
     },
     "bonnes_reponses": [
       "D"
     ],
-    "explication": "Par accession, la construction appartient en principe au propriétaire du terrain, avec une éventuelle récompense à la communauté. La difficulté tient à la portée précise de la règle : les formulations absolues ou les confusions de régime doivent être écartées.",
+    "explication": "Par accession, la construction appartient en principe au propriétaire du terrain, avec une éventuelle récompense à la communauté.",
     "pieges": {
       "A": "Cette réponse attribue à une construction financée par la communauté sur le terrain propre d'un époux un effet ou une condition qui ne correspond pas à la règle exacte.",
-      "B": "Cette réponse attribue à une construction financée par la communauté sur le terrain propre d'un époux un effet ou une condition qui ne correspond pas à la règle exacte.",
+      "B": "Par accession, la construction appartient en principe au propriétaire du terrain, avec une éventuelle récompense à la communauté.",
       "C": "Cette réponse attribue à une construction financée par la communauté sur le terrain propre d'un époux un effet ou une condition qui ne correspond pas à la règle exacte."
     },
     "sources": [
@@ -888,21 +888,21 @@
     "sous_domaine": "Déontologie / Argumentation",
     "difficulte": "expert",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Déontologie » et « Argumentation », lesquelles sont exactes ?",
+    "enonce": "Déontologie et Argumentation — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« une recommandation patrimoniale — sa justification » : Elle peut reposer sur le rendement passé seul.",
-      "B": "« l'intérêt du client — sa place » : Il doit guider la recommandation dans le respect des règles professionnelles et de l'adéquation.",
-      "C": "« une recommandation patrimoniale — sa justification » : Elle doit relier les caractéristiques du produit aux besoins et contraintes identifiés, en exposant aussi les risques.",
-      "D": "« l'intérêt du client — sa place » : Il se confond avec l'intérêt de l'émetteur."
+      "A": "Une recommandation patrimoniale peut reposer sur le rendement passé seul.",
+      "B": "L'intérêt du client doit guider la recommandation dans le respect des règles professionnelles et de l'adéquation.",
+      "C": "Une recommandation patrimoniale doit relier les caractéristiques du produit aux besoins et contraintes identifiés, en exposant aussi les risques.",
+      "D": "L'intérêt du client se confond avec l'intérêt de l'émetteur."
     },
     "bonnes_reponses": [
       "B",
       "C"
     ],
-    "explication": "Les règles à retenir sont : « l'intérêt du client — sa place » : Il doit guider la recommandation dans le respect des règles professionnelles et de l'adéquation. « une recommandation patrimoniale — sa justification » : Elle doit relier les caractéristiques du produit aux besoins et contraintes identifiés, en exposant aussi les risques.",
+    "explication": "L'intérêt du client doit guider la recommandation dans le respect des règles professionnelles et de l'adéquation. Une recommandation patrimoniale doit relier les caractéristiques du produit aux besoins et contraintes identifiés, en exposant aussi les risques.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « une recommandation patrimoniale — sa justification », la règle exacte est : Elle doit relier les caractéristiques du produit aux besoins et contraintes identifiés, en exposant aussi les risques.",
-      "D": "Cette association est inexacte. Pour « l'intérêt du client — sa place », la règle exacte est : Il doit guider la recommandation dans le respect des règles professionnelles et de l'adéquation."
+      "A": "Elle doit relier les caractéristiques du produit aux besoins et contraintes identifiés, en exposant aussi les risques.",
+      "D": "Il doit guider la recommandation dans le respect des règles professionnelles et de l'adéquation."
     },
     "sources": [
       "S002"
@@ -917,7 +917,7 @@
     "sous_domaine": "Équivalence",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « l'équivalence des garanties — son appréciation » : Elle interdit toute délégation d'assurance.",
+    "enonce": "L'équivalence des garanties interdit toute délégation d'assurance.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -971,7 +971,7 @@
     "sous_domaine": "Indivision",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « la vente d'un bien indivis — la règle de décision » : Les actes de disposition les plus importants requièrent en principe l'unanimité, sous réserve des dérogations légales.",
+    "enonce": "Les actes de disposition les plus importants requièrent en principe l'unanimité, sous réserve des dérogations légales.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -996,21 +996,21 @@
     "sous_domaine": "Invalidité / Franchise",
     "difficulte": "avance",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « Invalidité » et « Franchise », lesquelles sont exactes ?",
+    "enonce": "Invalidité et Franchise — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« une franchise en prévoyance — son effet » : Elle correspond à une période ou un montant restant sans prise en charge avant le déclenchement prévu de la garantie.",
-      "B": "« l'invalidité — sa logique » : Elle désigne une interruption de quelques heures.",
-      "C": "« une franchise en prévoyance — son effet » : Elle est un taux directeur.",
-      "D": "« l'invalidité — sa logique » : Elle traduit une réduction durable de la capacité de travail ou de gain, appréciée selon le contrat et les règles applicables."
+      "A": "Une franchise en prévoyance correspond à une période ou un montant restant sans prise en charge avant le déclenchement prévu de la garantie.",
+      "B": "L'invalidité désigne une interruption de quelques heures.",
+      "C": "Une franchise en prévoyance est un taux directeur.",
+      "D": "L'invalidité traduit une réduction durable de la capacité de travail ou de gain, appréciée selon le contrat et les règles applicables."
     },
     "bonnes_reponses": [
       "A",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « l'invalidité — sa logique » : Elle traduit une réduction durable de la capacité de travail ou de gain, appréciée selon le contrat et les règles applicables. « une franchise en prévoyance — son effet » : Elle correspond à une période ou un montant restant sans prise en charge avant le déclenchement prévu de la garantie.",
+    "explication": "Une franchise en prévoyance correspond à une période ou un montant restant sans prise en charge avant le déclenchement prévu de la garantie. L'invalidité traduit une réduction durable de la capacité de travail ou de gain, appréciée selon le contrat et les règles applicables.",
     "pieges": {
-      "B": "Cette association est inexacte. Pour « l'invalidité — sa logique », la règle exacte est : Elle traduit une réduction durable de la capacité de travail ou de gain, appréciée selon le contrat et les règles applicables.",
-      "C": "Cette association est inexacte. Pour « une franchise en prévoyance — son effet », la règle exacte est : Elle correspond à une période ou un montant restant sans prise en charge avant le déclenchement prévu de la garantie."
+      "B": "Elle traduit une réduction durable de la capacité de travail ou de gain, appréciée selon le contrat et les règles applicables.",
+      "C": "Elle correspond à une période ou un montant restant sans prise en charge avant le déclenchement prévu de la garantie."
     },
     "sources": [
       "S028"
@@ -1028,8 +1028,8 @@
     "enonce": "Quelle affirmation est exacte sur le dispositif Pinel en 2026 ?",
     "choix": {
       "A": "Tous les avantages Pinel ont été annulés au 1er janvier 2025.",
-      "B": "Il est devenu un crédit d'impôt remboursable.",
-      "C": "Il est fermé aux nouveaux investissements depuis le 31 décembre 2024, mais les avantages acquis continuent sous réserve du respect des engagements.",
+      "B": "Les investissements achevés avant la fermeture perdent aussi leur avantage dès l’année suivante.",
+      "C": "Les engagements antérieurs peuvent continuer à produire leurs effets.",
       "D": "Il a été reconduit sans changement jusqu'en 2030."
     },
     "bonnes_reponses": [
@@ -1038,7 +1038,7 @@
     "explication": "La fin de souscription au dispositif n'efface pas les réductions attachées aux investissements antérieurement éligibles.",
     "pieges": {
       "A": "Les engagements antérieurs continuent à produire leurs effets.",
-      "B": "Sa nature reste celle d'une réduction d'impôt.",
+      "B": "La fin de souscription au dispositif n'efface pas les réductions attachées aux investissements antérieurement éligibles.",
       "D": "Le Pinel n'est plus ouvert aux nouvelles opérations."
     },
     "sources": [
@@ -1054,17 +1054,17 @@
     "sous_domaine": "Confidentialité — distinctions",
     "difficulte": "expert",
     "type_question": "unique",
-    "enonce": "Quel énoncé associe incorrectement la notion et la règle ?",
+    "enonce": "Confidentialité — distinctions — quelle affirmation est incorrecte ?",
     "choix": {
-      "A": "« le bénéficiaire effectif — sa notion » : Il s'agit de la personne physique qui contrôle en dernier ressort le client ou pour laquelle l'opération est réalisée.",
-      "B": "« l'identification du client — son moment » : Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée.",
-      "C": "« l'existence d'une déclaration de soupçon — l'information du client » : Elle doit être publiée sur internet.",
-      "D": "« une déclaration de soupçon à TRACFIN — la preuve d'une infraction » : Elle peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction."
+      "A": "Le bénéficiaire effectif s'agit de la personne physique qui contrôle en dernier ressort le client ou pour laquelle l'opération est réalisée.",
+      "B": "L'identification du client intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée.",
+      "C": "L'existence d'une déclaration de soupçon doit être publiée sur internet.",
+      "D": "Une déclaration de soupçon à TRACFIN peut être fondée sur un soupçon étayé sans exiger la preuve définitive d'une infraction."
     },
     "bonnes_reponses": [
       "C"
     ],
-    "explication": "L'association à écarter est inexacte. Pour « l'existence d'une déclaration de soupçon — l'information du client », la règle correcte est : Elle est confidentielle et ne doit pas être révélée au client ni aux personnes non autorisées.",
+    "explication": "Elle est confidentielle et ne doit pas être révélée au client ni aux personnes non autorisées.",
     "pieges": {
       "A": "Cette association est exacte : Il s'agit de la personne physique qui contrôle en dernier ressort le client ou pour laquelle l'opération est réalisée.",
       "B": "Cette association est exacte : Elle intervient avant l'entrée en relation selon les obligations applicables et doit être actualisée dans la durée.",
@@ -1084,21 +1084,21 @@
     "sous_domaine": "PEE / Abondement",
     "difficulte": "avance",
     "type_question": "multiple",
-    "enonce": "Parmi les affirmations suivantes portant sur « PEE » et « Abondement », lesquelles sont exactes ?",
+    "enonce": "PEE et Abondement — quelles affirmations sont exactes ?",
     "choix": {
-      "A": "« le plan d'épargne entreprise — la durée d'indisponibilité de principe » : Elles ne peuvent recevoir aucun abondement.",
-      "B": "« l'abondement de l'employeur — sa nature » : Il constitue un crédit remboursable à la banque.",
-      "C": "« le plan d'épargne entreprise — la durée d'indisponibilité de principe » : Les sommes sont en principe indisponibles pendant cinq ans, sauf cas de déblocage anticipé.",
-      "D": "« l'abondement de l'employeur — sa nature » : Il complète l'épargne du salarié dans les limites et conditions du dispositif."
+      "A": "Le plan d'épargne entreprise ne peuvent recevoir aucun abondement.",
+      "B": "L'abondement de l'employeur constitue un crédit remboursable à la banque.",
+      "C": "Le plan d'épargne entreprise : Les sommes sont en principe indisponibles pendant cinq ans, sauf cas de déblocage anticipé.",
+      "D": "L'abondement de l'employeur complète l'épargne du salarié dans les limites et conditions du dispositif."
     },
     "bonnes_reponses": [
       "C",
       "D"
     ],
-    "explication": "Les règles à retenir sont : « le plan d'épargne entreprise — la durée d'indisponibilité de principe » : Les sommes sont en principe indisponibles pendant cinq ans, sauf cas de déblocage anticipé. « l'abondement de l'employeur — sa nature » : Il complète l'épargne du salarié dans les limites et conditions du dispositif.",
+    "explication": "Le plan d'épargne entreprise : Les sommes sont en principe indisponibles pendant cinq ans, sauf cas de déblocage anticipé. L'abondement de l'employeur complète l'épargne du salarié dans les limites et conditions du dispositif.",
     "pieges": {
-      "A": "Cette association est inexacte. Pour « le plan d'épargne entreprise — la durée d'indisponibilité de principe », la règle exacte est : Les sommes sont en principe indisponibles pendant cinq ans, sauf cas de déblocage anticipé.",
-      "B": "Cette association est inexacte. Pour « l'abondement de l'employeur — sa nature », la règle exacte est : Il complète l'épargne du salarié dans les limites et conditions du dispositif."
+      "A": "Les sommes sont en principe indisponibles pendant cinq ans, sauf cas de déblocage anticipé.",
+      "B": "Il complète l'épargne du salarié dans les limites et conditions du dispositif."
     },
     "sources": [
       "S059"
@@ -1113,7 +1113,7 @@
     "sous_domaine": "Devoir de conseil",
     "difficulte": "expert",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « le devoir de conseil en assurance — sa traçabilité » : La situation du client peut être ignorée.",
+    "enonce": "Le devoir de conseil en assurance : La situation du client peut être ignorée.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -1138,7 +1138,7 @@
     "sous_domaine": "Information",
     "difficulte": "avance",
     "type_question": "vrai_faux",
-    "enonce": "Vrai ou faux — « la fiche précontractuelle — sa fonction » : Elle remplace toute analyse de solvabilité.",
+    "enonce": "La fiche précontractuelle remplace toute analyse de solvabilité.",
     "choix": {
       "A": "Vrai",
       "B": "Faux"
@@ -1182,9 +1182,9 @@
       "S068"
     ],
     "pieges": {
-      "A": "Proposition écartée : « Des sociétés de gestion différentes garantissent des expositions indépendantes. » L'exposition se mesure au niveau des actifs détenus, secteurs, devises et émetteurs. Plusieurs emballages peuvent masquer le même risque économique.",
-      "B": "Proposition écartée : « Le nombre de fonds mesure directement le nombre de risques indépendants. » L'exposition se mesure au niveau des actifs détenus, secteurs, devises et émetteurs. Plusieurs emballages peuvent masquer le même risque économique.",
-      "C": "Proposition écartée : « Un fonds diversifié ne peut contribuer à une concentration sectorielle globale. » L'exposition se mesure au niveau des actifs détenus, secteurs, devises et émetteurs. Plusieurs emballages peuvent masquer le même risque économique."
+      "A": "Proposition écartée : Des sociétés de gestion différentes garantissent des expositions indépendantes. L'exposition se mesure au niveau des actifs détenus, secteurs, devises et émetteurs. Plusieurs emballages peuvent masquer le même risque économique.",
+      "B": "Proposition écartée : Le nombre de fonds mesure directement le nombre de risques indépendants. L'exposition se mesure au niveau des actifs détenus, secteurs, devises et émetteurs. Plusieurs emballages peuvent masquer le même risque économique.",
+      "C": "Proposition écartée : Un fonds diversifié ne peut contribuer à une concentration sectorielle globale. L'exposition se mesure au niveau des actifs détenus, secteurs, devises et émetteurs. Plusieurs emballages peuvent masquer le même risque économique."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1213,7 +1213,7 @@
       "S155"
     ],
     "pieges": {
-      "B": "Proposition écartée : « Vrai » La conservation évite une cession au prix de marché intermédiaire, mais le remboursement final dépend encore de l'émetteur. Risque de prix et risque de défaut sont distincts."
+      "B": "Proposition écartée : Vrai La conservation évite une cession au prix de marché intermédiaire, mais le remboursement final dépend encore de l'émetteur. Risque de prix et risque de défaut sont distincts."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1241,9 +1241,9 @@
       "S068"
     ],
     "pieges": {
-      "A": "Proposition écartée : « La donation génère un prix de vente pour le donateur. » Il faut distinguer mutation gratuite, mutation onéreuse, ressources recherchées et objectifs familiaux. Un avantage applicable à l'une ne se transpose pas automatiquement à l'autre.",
-      "B": "Proposition écartée : « Les deux opérations relèvent du même fait générateur fiscal. » Il faut distinguer mutation gratuite, mutation onéreuse, ressources recherchées et objectifs familiaux. Un avantage applicable à l'une ne se transpose pas automatiquement à l'autre.",
-      "C": "Proposition écartée : « La cession n'a aucune conséquence successorale indirecte. » Il faut distinguer mutation gratuite, mutation onéreuse, ressources recherchées et objectifs familiaux. Un avantage applicable à l'une ne se transpose pas automatiquement à l'autre."
+      "A": "Proposition écartée : La donation génère un prix de vente pour le donateur. Il faut distinguer mutation gratuite, mutation onéreuse, ressources recherchées et objectifs familiaux. Un avantage applicable à l'une ne se transpose pas automatiquement à l'autre.",
+      "B": "Proposition écartée : Les deux opérations relèvent du même fait générateur fiscal. Il faut distinguer mutation gratuite, mutation onéreuse, ressources recherchées et objectifs familiaux. Un avantage applicable à l'une ne se transpose pas automatiquement à l'autre.",
+      "C": "Proposition écartée : La cession n'a aucune conséquence successorale indirecte. Il faut distinguer mutation gratuite, mutation onéreuse, ressources recherchées et objectifs familiaux. Un avantage applicable à l'une ne se transpose pas automatiquement à l'autre."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1272,9 +1272,9 @@
       "S160"
     ],
     "pieges": {
-      "A": "Proposition écartée : « La signature du majeur seul dès lors que le rachat est partiel. » L'article L132-4-1 prévoit l'assistance pour ces actes et pour la désignation ou substitution du bénéficiaire. La qualification de simple opération bancaire courante serait erronée.",
-      "C": "Proposition écartée : « La représentation par le curateur agissant seul comme dans une tutelle. » L'article L132-4-1 prévoit l'assistance pour ces actes et pour la désignation ou substitution du bénéficiaire. La qualification de simple opération bancaire courante serait erronée.",
-      "D": "Proposition écartée : « L'autorisation judiciaire préalable comme substitut de principe à toute assistance. » L'article L132-4-1 prévoit l'assistance pour ces actes et pour la désignation ou substitution du bénéficiaire. La qualification de simple opération bancaire courante serait erronée."
+      "A": "Proposition écartée : La signature du majeur seul dès lors que le rachat est partiel. L'article L132-4-1 prévoit l'assistance pour ces actes et pour la désignation ou substitution du bénéficiaire. La qualification de simple opération bancaire courante serait erronée.",
+      "C": "Proposition écartée : La représentation par le curateur agissant seul comme dans une tutelle. L'article L132-4-1 prévoit l'assistance pour ces actes et pour la désignation ou substitution du bénéficiaire. La qualification de simple opération bancaire courante serait erronée.",
+      "D": "Proposition écartée : L'autorisation judiciaire préalable comme substitut de principe à toute assistance. L'article L132-4-1 prévoit l'assistance pour ces actes et pour la désignation ou substitution du bénéficiaire. La qualification de simple opération bancaire courante serait erronée."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1305,7 +1305,7 @@
       "S161"
     ],
     "pieges": {
-      "A": "Proposition écartée : « La garantie d'hériter de toutes les primes versées. » La prestation dépend du contrat. Le coût peut évoluer et l'inflation éroder une rente insuffisamment revalorisée ; une assurance de risque n'est pas nécessairement une épargne transmissible."
+      "A": "Proposition écartée : La garantie d'hériter de toutes les primes versées. La prestation dépend du contrat. Le coût peut évoluer et l'inflation éroder une rente insuffisamment revalorisée ; une assurance de risque n'est pas nécessairement une épargne transmissible."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1333,9 +1333,9 @@
       "S164"
     ],
     "pieges": {
-      "A": "Proposition écartée : « La durée de détention supprime les frais. » La qualité du bien et la preuve de sa provenance sont essentielles. Ajouter frais d'expertise, stockage, assurance et vente pour apprécier la rentabilité possible.",
-      "C": "Proposition écartée : « Un certificat commercial garantit un prix futur. » La qualité du bien et la preuve de sa provenance sont essentielles. Ajouter frais d'expertise, stockage, assurance et vente pour apprécier la rentabilité possible.",
-      "D": "Proposition écartée : « La notoriété de l'œuvre remplace l'assurance. » La qualité du bien et la preuve de sa provenance sont essentielles. Ajouter frais d'expertise, stockage, assurance et vente pour apprécier la rentabilité possible."
+      "A": "Proposition écartée : La durée de détention supprime les frais. La qualité du bien et la preuve de sa provenance sont essentielles. Ajouter frais d'expertise, stockage, assurance et vente pour apprécier la rentabilité possible.",
+      "C": "Proposition écartée : Un certificat commercial garantit un prix futur. La qualité du bien et la preuve de sa provenance sont essentielles. Ajouter frais d'expertise, stockage, assurance et vente pour apprécier la rentabilité possible.",
+      "D": "Proposition écartée : La notoriété de l'œuvre remplace l'assurance. La qualité du bien et la preuve de sa provenance sont essentielles. Ajouter frais d'expertise, stockage, assurance et vente pour apprécier la rentabilité possible."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1362,7 +1362,7 @@
       "S070"
     ],
     "pieges": {
-      "B": "Proposition écartée : « Vrai » Annonce, adoption, promulgation et entrée en vigueur sont des étapes distinctes. Pour conseiller, vérifier le texte adopté, sa date et les mesures transitoires."
+      "B": "Proposition écartée : Vrai Annonce, adoption, promulgation et entrée en vigueur sont des étapes distinctes. Pour conseiller, vérifier le texte adopté, sa date et les mesures transitoires."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",
@@ -1391,9 +1391,9 @@
       "S168"
     ],
     "pieges": {
-      "A": "Proposition écartée : « Obtenir automatiquement l'exonération successorale de l'assurance-vie. » La possibilité de transmettre le contrat répond à une logique civile. Elle doit être rapprochée des coûts, droits de mutation, besoins de contrôle et objectifs familiaux.",
-      "B": "Proposition écartée : « Supprimer tous les droits de donation. » La possibilité de transmettre le contrat répond à une logique civile. Elle doit être rapprochée des coûts, droits de mutation, besoins de contrôle et objectifs familiaux.",
-      "C": "Proposition écartée : « Garantir une rente viagère sans option. » La possibilité de transmettre le contrat répond à une logique civile. Elle doit être rapprochée des coûts, droits de mutation, besoins de contrôle et objectifs familiaux."
+      "A": "Proposition écartée : Obtenir automatiquement l'exonération successorale de l'assurance-vie. La possibilité de transmettre le contrat répond à une logique civile. Elle doit être rapprochée des coûts, droits de mutation, besoins de contrôle et objectifs familiaux.",
+      "B": "Proposition écartée : Supprimer tous les droits de donation. La possibilité de transmettre le contrat répond à une logique civile. Elle doit être rapprochée des coûts, droits de mutation, besoins de contrôle et objectifs familiaux.",
+      "C": "Proposition écartée : Garantir une rente viagère sans option. La possibilité de transmettre le contrat répond à une logique civile. Elle doit être rapprochée des coûts, droits de mutation, besoins de contrôle et objectifs familiaux."
     },
     "origine": "entrainement_original",
     "statut": "verifie_sources_publiques",

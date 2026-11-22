@@ -12,7 +12,7 @@
     <link rel="manifest" href="manifest.webmanifest">
     <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="assets/icon-180.png">
-    <link rel="stylesheet" href="assets/styles.css?v=18-couverture-25-domaines">
+    <link rel="stylesheet" href="assets/styles.css?v=19-revision-editoriale">
     <title>QCM CGP France</title>
   </head>
   <body>
@@ -73,7 +73,7 @@
               <div class="feedback-title"><span id="feedbackIcon">✓</span><strong id="feedbackHeading">Bonne réponse</strong></div>
               <p id="feedbackText"></p>
               <details id="trapDetails"><summary>Comprendre les pièges</summary><div id="trapText"></div></details>
-              <a id="sourceLink" href="#" target="_blank" rel="noopener">Consulter la source officielle <span>↗</span></a>
+              <div id="sourceLinks"></div>
             </div>
           </article>
 
@@ -103,6 +103,7 @@
           <div class="review-list" id="reviewList"></div>
         </section>
 
+        <section class="screen themes-screen hidden" id="themesScreen"><h1>Thèmes</h1><div class="theme-list" id="themeList"></div></section>
         <section class="screen stats-screen hidden" id="statsScreen" aria-labelledby="statsTitle">
           <span class="eyebrow muted">Progression locale</span>
           <h1 id="statsTitle">Mes statistiques</h1>
@@ -114,6 +115,7 @@
 
       <nav class="bottom-nav" id="bottomNav" aria-label="Navigation principale">
         <a href="#home" class="active" data-screen="home"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m3 11 9-8 9 8v9H7v-6h10v6"/></svg><span>Accueil</span></a>
+        <a href="#themes" data-screen="themes"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 6h16M4 12h12M4 18h8"/></svg><span>Thèmes</span></a>
         <a href="#stats" data-screen="stats"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 20V10m7 10V4m7 16v-7"/></svg><span>Progrès</span></a>
       </nav>
     </div>
@@ -139,6 +141,6 @@
 
     <div class="toast" id="toast" role="status" aria-live="polite"></div>
     <noscript>Cette application nécessite JavaScript pour fonctionner.</noscript>
-    <script type="module" src="assets/app.js?v=18-couverture-25-domaines"></script>
+    <script type="module" src="assets/app.js?v=19-revision-editoriale"></script>
   </body>
 </html>
